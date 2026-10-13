@@ -1,0 +1,1020 @@
+Abelkonkurransen                                                       Oppgaver – algebra
+Runde 1 2005–2024                                                            Side 2 av 85
+
+
+Algebra
+
+Oppgave 1 2005/2006      (→ side 2 i løsningene)
+
+Førti prosent av et tall er 144. Tallet er
+  A 720       B 360           C 288     D 240           E 320
+
+Oppgave 3 2005/2006      (→ side 2 i løsningene)
+
+
+√93 er lik
+  A 3        B 9       C 18      D 27      E ingen av disse tallene
+
+Oppgave 5 2005/2006      (→ side 2 i løsningene)
+
+        𝑎                        𝑎+𝑏
+Hvis 𝑥 = , 𝑎 ≠ 𝑏 og 𝑏 ≠ 0, så er     lik
+        𝑏                        𝑎−𝑏
+        𝑥              𝑥 +1                         1              1
+  A                B             C 1      D 𝑥−              E 𝑥+
+      𝑥 +1             𝑥 −1                         𝑥              𝑥
+
+Oppgave 6 2005/2006      (→ side 2 i løsningene)
+
+Av 300 elever på en skole er 144 gutter. 45 % av førsteklassingene og 50 % av
+elevene på de andre klassetrinnene er gutter. Antall førsteklassinger er
+  A 100       B 95        C 110        D 80         E 120
+
+Oppgave 8 2005/2006      (→ side 2 i løsningene)
+
+Vi har tre positive tall. De tre mulige produktene av to av dem er 10, 15 og
+24. Det mellomste tallet er
+  A 2,5       B 3       C 4       D 4,2       E ingen av disse tallene
+
+Oppgave 10 2005/2006      (→ side 2 i løsningene)
+
+En formiddag i barnehagen var det fem ganger så mange barn ute som inne.
+Etter lunsj kom tre barn til ut, og det ble åtte ganger så mange barn ute som
+inne. Antall barn i barnehagen denne dagen var
+  A 6        B 18       C 36      D 54        E 72
+Abelkonkurransen                                                  Oppgaver – algebra
+Runde 1 2005–2024                                                       Side 3 av 85
+
+
+Oppgave 12 2005/2006       (→ side 2 i løsningene)
+
+Hans er med i en hamburgerspisekonkurranse. Første hamburger går ned på
+1 minutt. For å få ned den andre trenger han 2 minutter, for den tredje 4, og
+slik fortsetter tidene å dobles. Antall hamburgere han klarer å få ned på de 4
+timene konkurransen varer, er
+  A færre enn 8         B 8       C 9       D 10      E flere enn 10
+
+
+Oppgave 13 2005/2006       (→ side 2 i løsningene)
+
+𝐴 er et tresifret tall. Hvis vi fjerner det midterste sifferet i 𝐴, får vi det tosifrete
+tallet 𝐵. Hvis 𝐴 = 6 ⋅ 𝐵, så er summen av sifrene i 𝐴
+  A 3       B 9      C 12        D 18       E 21
+
+
+Oppgave 16 2005/2006       (→ side 2 i løsningene)
+
+Hvis 𝑎 og 𝑏 er to positive tall slik at (𝑎 + 𝑏)4 = 2(𝑎2 − 𝑏 2 )2 og 𝑎2 + 𝑏 2 = 30, så
+er 𝑎𝑏 lik
+  A 5       B 6      C 8       D 10        E 15
+
+
+Oppgave 17 2005/2006       (→ side 2 i løsningene)
+
+                                  4    4
+                      5      4    √ 5+√  4    5
+Det største av tallene , √2, √ 5,          og √ 5 er
+                      4              2
+                                        4    4
+      5                  4              √ 5+√  4       5
+  A         B √2       C √ 5       D                 E √ 5
+      4                                    2
+
+Oppgave 4 2006/2007      (→ side 3 i løsningene)
+
+                                            𝑎 2  𝑐 2        𝑎+𝑐
+La 𝑎, 𝑏, 𝑐 og 𝑑 være positive tall. Hvis     = og = , så er     lik
+                                            𝑏 5  𝑑 5        𝑏+𝑑
+  A 4/5       B 3/5        C 2/5        D 1/5        E umulig å avgjøre
+
+
+Oppgave 7 2006/2007      (→ side 3 i løsningene)
+
+Hvis 1/𝑥 = 𝑥 + 2, så er 1/𝑥 2 lik
+
+  A 𝑥2 + 5        B 2𝑥 + 5        C 𝑥 2 + 2𝑥 + 4      D 2𝑥 + 1        E 𝑥 +3
+Abelkonkurransen                                                         Oppgaver – algebra
+Runde 1 2005–2024                                                              Side 4 av 85
+
+
+Oppgave 10 2006/2007        (→ side 3 i løsningene)
+
+Lille Ola bruker 6 sekunder på å springe i fartsretningen på et rullefortau.
+Han bruker 24 sekunder på å springe det samme rullefortauet tilbake mot
+fartsretningen. Hvis han står stille på rullefortauet, bruker han
+  A 12 s        B 15 s        C 16 s        D 18 s        E 20 s
+
+
+Oppgave 17 2006/2007        (→ side 3 i løsningene)
+
+Anna er nå fem ganger så gammel som Berit var da Anna var fire ganger
+så gammel som Berit. Om seks år er Anna dobbelt så gammel som Berit.
+Summen av aldrene deres nå er
+  A 14        B 21        C 35        D 42        E 49
+
+
+Oppgave 19 2006/2007        (→ side 3 i løsningene)
+
+Ola skriver ned fire tall. Summen av hvert par av tallene er 2, 3, 4, 6, 7 og 8.
+Summen av kvadratene av de fire tallene er
+  A 29        B 35        C 141/4         D 39         E umulig å avgjøre
+
+
+Oppgave 1 2007/2008        (→ side 3 i løsningene)
+
+1997 ⋅ 2003 − 1993 ⋅ 2007 er lik
+  A 0        B 20        C 40       D 420         E 840
+
+
+Oppgave 4 2007/2008        (→ side 3 i løsningene)
+
+
+Hvis 𝑥 > 0, så er √√√𝑥 lik
+
+                                        D √𝑥 3         E √𝑥 7
+                                             8            8
+  A 𝑥√𝑥           3 𝑥
+                B √           8 𝑥
+                            C √
+
+
+Oppgave 5 2007/2008        (→ side 4 i løsningene)
+
+Hvilket av disse tallene er ikke et heltall? (11! = 1 ⋅ 2 ⋅ 3 ⋅ 4 ⋅ 5 ⋅ 6 ⋅ 7 ⋅ 8 ⋅ 9 ⋅ 10 ⋅ 11.)
+  A 11!/20          B 11!/21         C 11!/22         D 11!/23          E 11!/24
+Abelkonkurransen                                               Oppgaver – algebra
+Runde 1 2005–2024                                                    Side 5 av 85
+
+
+Oppgave 12 2007/2008      (→ side 4 i løsningene)
+
+Arne, Beate og Cecilie er på løpetrening, og de bestemmer seg for å se hvem
+som løper hundremeteren fortest. I mål er Cecilie 2 m foran Beate og 4 m
+foran Arne. De bestemmer seg for å løpe på nytt, men denne gangen starter
+Cecilie 4 m bak startstreken og Beate 2 m bak startstreken, mens Arne starter
+på startstreken. Anta at de løper med konstant fart, og at hver av dem løper
+like fort begge gangene. Hva blir rekkefølgen i mål?
+  A Arne – Beate – Cecilie   B Cecilie – Beate – Arne
+  C Alle tre kommer samtidig   D Beate og Cecilie kommer samtidig først
+  E Beate kommer først og Arne og Cecilie samtidig etter
+
+
+Oppgave 13 2007/2008      (→ side 4 i løsningene)
+
+Differansen mellom arealene av to sirkler er 𝜋, og summen av radiene i de to
+sirklene er 2. Radien i den største sirkelen er
+  A 9/8       B 5/4       C 11/8        D 6/4       E 13/8
+
+
+Oppgave 16 2007/2008      (→ side 4 i løsningene)
+
+𝑎1 = 1, 𝑎2 = 2 og 𝑎𝑛+1 = 𝑎𝑛 𝑎𝑛−1 når 𝑛 ≥ 2. Siste siffer i 𝑎2007 er
+  A 1      B 2      C 4       D 6       E 8
+
+
+Oppgave 17 2007/2008      (→ side 4 i løsningene)
+
+De positive tallene 𝑎, 𝑏, 𝑐 og 𝑑 er slik at 4𝑎 + 𝑏 = 4𝑐 + 𝑑 og 2𝑎 − 𝑏 = 4𝑐 − 𝑑. Det
+største av tallene er
+  A 𝑎      B 𝑏     C 𝑐       D 𝑑        E umulig å avgjøre
+
+
+Oppgave 1 2008/2009    (→ side 4 i løsningene)
+
+Per, Pål og Kari spiser pannekaker. Pål spiser halvparten så mange som Per,
+mens Kari spiser dobbelt så mange som Per. Til sammen spiser de 21 panne-
+kaker. Hvor mange pannekaker spiser Per og Pål til sammen?
+  A 8      B 9      C 10        D 12       E Oppgaven har ingen løsning.
+Abelkonkurransen                                                     Oppgaver – algebra
+Runde 1 2005–2024                                                          Side 6 av 85
+
+
+Oppgave 6 2008/2009     (→ side 4 i løsningene)
+
+Per starter 100 m bak Pål, og etter 50 sekunder er han 100 m foran Pål. Per
+sykler med farten 15 m/s. Hvor fort sykler Pål?
+  A 7 m/s        B 8 m/s          C 9 m/s            D 10 m/s      E 11 m/s
+
+Oppgave 7 2008/2009     (→ side 4 i løsningene)
+
+To bananer, tre pærer og fire epler koster til sammen 70 kroner. Tre bananer,
+én pære og seks epler koster 63 kroner. Hva må du betale for én banan og to
+epler?
+  A 13 kroner    B 14 kroner                  C 15 kroner       D 17 kroner
+  E Det kan ikke avgjøres.
+
+Oppgave 9 2008/2009     (→ side 4 i løsningene)
+
+Bedriften Singel og Pukk AS kuttet sine ansattes lønninger med 𝑝 %. Etter
+lengre tids streik økte de lønningene med 𝑝 % igjen. På første lønningsdag
+etter streiken oppdaget de ansatte at de hadde gått ned 4 % i lønn. Hvor stor
+var 𝑝?
+  A 8      B 12       C 16         D 20         E ingen av disse
+
+Oppgave 14 2008/2009        (→ side 5 i løsningene)
+
+𝑎, 𝑏, 𝑐 og 𝑑 er hele tall som er slik at 𝑎+𝑏+𝑐 < 48, 𝑏+𝑐 −𝑑 > 20 og 𝑎+𝑐 +𝑑 > 36.
+Hva er minste mulige verdi av 𝑐?
+  A 8      B 9        C 11        D 29         E Det finnes ingen minste verdi.
+
+Oppgave 17 2008/2009        (→ side 5 i løsningene)
+
+𝑥 og 𝑦 er positive heltall som er slik at 𝑥 2 + 𝑥𝑦 + 𝑥 + 𝑦 = 143. Hva er 𝑥 − 𝑦?
+  A 5      B 7        C 9       D 11          E 13
+
+Oppgave 3 2009/2010     (→ side 5 i løsningene)
+
+I en parkeringskjeller står det til sammen 100 biler og mopeder. Anna teller
+at de har 356 hjul. Hva er forholdet mellom antall biler og antall mopeder?
+      11         37                      39           13
+  A         B           C 3         D            E
+      4          13                      11           4
+Abelkonkurransen                                                 Oppgaver – algebra
+Runde 1 2005–2024                                                      Side 7 av 85
+
+
+Oppgave 5 2009/2010     (→ side 5 i løsningene)
+
+Det er 12 gutter og 18 jenter i et skoleorkester. Gjennomsnittsalderen for
+guttene er 10,5 år, mens gjennomsnittsalderen for alle barna i orkesteret er
+11 år. Hva er gjennomsnittsalderen for jentene i orkesteret?
+
+  A 11 19     B 11 16      C 11 14      D 11 13       E 11 12
+
+
+Oppgave 8 2009/2010     (→ side 5 i løsningene)
+
+Sigrid baker småkaker. På halvparten har hun sjokolade, på tredjedelen av
+resten har hun nøtter, og på fjerdedelen av dem som verken har sjokolade
+eller nøtter, har hun rosiner. På ni kaker har hun ingenting. Hvor mange
+småkaker baker Sigrid?
+  A 24      B 32        C 36         D 48      E 54
+
+
+Oppgave 13 2009/2010      (→ side 5 i løsningene)
+
+Hvor mange forskjellige tall er det blant tallene √63 , 23/2 ⋅ 33/2 , 21/2 ⋅ 31/3 ,
+            6 72?
+√8 ⋅ √27 og √
+  A 1       B 2     C 3        D 4       E 5
+
+
+Oppgave 19 2009/2010      (→ side 5 i løsningene)
+
+Et negativt tall 𝑥 er slik at 𝑥 2 + 𝑥 + 1/𝑥 + 1/𝑥 2 = 4. Hva er 𝑥 4 + 1/𝑥 4 ?
+  A 2       B 4     C 47        D 49        E Umulig å avgjøre
+
+
+Oppgave 1 2010/2011     (→ side 5 i løsningene)
+
+Hvilket av tallene er størst?
+  A 1/(3 ⋅ 2)       B 1/23       C 1/32        D 1/(3/2)        E (1/3)/2
+
+
+Oppgave 4 2010/2011     (→ side 5 i løsningene)
+
+Hva er 216 + 216 + 216 + 216 + 216 + 216 + 216 + 216 + 216 + 216 + 216 + 216 +
+216 + 216 + 216 + 216 (16 ledd)?
+
+  A 49      B 219       C 165         D 222         E 232
+Abelkonkurransen                                                  Oppgaver – algebra
+Runde 1 2005–2024                                                       Side 8 av 85
+
+
+Oppgave 7 2010/2011     (→ side 6 i løsningene)
+
+Astrid har som mål å løpe seks kilometer på 25 minutter. På de første fire
+kilometrene løper hun i gjennomsnitt i 15 km/h. Hvor fort må hun løpe de
+to siste kilometrene for å nå målet?
+  A 12 km/h          B 13 13 km/h       C 15 23 km/h         D 16 km/h
+  E 18 km/h
+
+
+Oppgave 10 2010/2011     (→ side 6 i løsningene)
+
+         𝑎2 + 𝑏 2 + 𝑐 2     𝑎      𝑏
+Hva er                  hvis = 2 og = 5?
+              𝑎𝑐            𝑏      𝑐
+  A 3,6      B 5,4      C 10,5       D 11,75        E 12,6
+
+
+Oppgave 20 2010/2011     (→ side 6 i løsningene)
+
+Anne, Bjørn, Celine, Dag og Erik var på sopptur. Anne og Bjørn plukket sam-
+menlagt like mange sopper som Celine og Dag til sammen. Bjørn og Dag
+plukket sammenlagt flere sopper enn Anne og Celine til sammen, som igjen
+plukket flere sopper sammenlagt enn Dag og Erik til sammen. Erik og Ce-
+line plukket sammenlagt flere sopper enn Dag og Anne til sammen. Hvem
+plukket flest sopper?
+  A Anne       B Bjørn        C Celine        D Dag          E Erik
+
+
+Oppgave 4 2011/2012     (→ side 6 i løsningene)
+
+I salgsavdelingen i en bedrift er det en leder og mange selgere. Hver dag i
+løpet av en arbeidsuke – mandag til fredag – skriver hver av selgerne en rap-
+port enten til lederen eller til en av de andre selgerne. En uke fikk halvparten
+av selgerne to rapporter hver, den andre halvparten fikk kun én rapport hver,
+mens lederen fikk 420 rapporter. Hvor mange selgere er det i avdelingen?
+  A 100      B 105       C 120        D 125        E 140
+
+
+Oppgave 8 2011/2012     (→ side 6 i løsningene)
+
+Et firesifret tall 𝑎 skrevet baklengs gir tallet 𝑏. Summen av 𝑎 og 𝑏 er 6985. Hva
+er summen av sifrene i 𝑎?
+  A 14      B 17       C 21       D 23       E 26
+Abelkonkurransen                                                      Oppgaver – algebra
+Runde 1 2005–2024                                                           Side 9 av 85
+
+
+Oppgave 11 2011/2012         (→ side 6 i løsningene)
+
+La 𝑥 = 0,126126126 , der streken betyr at sifrene 126 gjentas i det uendelige.
+I alle svaralternativene nedenfor må 𝑝 og 𝑞 være positive heltall. Da gjelder
+
+  A 𝑥 kan skrives på formen 𝑝/𝑞 med 𝑞 ≤ 100
+  B 𝑥 kan skrives på formen 𝑝/𝑞 med 𝑞 ≤ 300, men ikke med 𝑞 ≤ 100
+  C 𝑥 kan skrives på formen 𝑝/𝑞 med 𝑞 ≤ 1000, men ikke med 𝑞 ≤ 300
+  D 𝑥 kan skrives på formen 𝑝/𝑞, men ikke med 𝑞 ≤ 1000
+  E 𝑥 kan ikke skrives på formen 𝑝/𝑞
+
+
+Oppgave 14 2011/2012         (→ side 7 i løsningene)
+
+Hvilket av tallene er størst?
+
+      𝜋 +3            𝜋 +6                              2               𝜋2 + 9
+  A               B                C √3𝜋        D                 E
+        2               3                           1/𝜋 + 1/3          √ 2
+
+Oppgave 16 2011/2012         (→ side 7 i løsningene)
+
+Tre reelle tall 𝑎, 𝑏 og 𝑐 velges slik at 𝑎/𝑏, 𝑏/𝑐 og 𝑐/𝑎 alle er heltall. Hvor mange
+forskjellige ordnede talltripler (𝑎/𝑏, 𝑏/𝑐, 𝑐/𝑎) kan du lage på denne måten?
+(Her regnes for eksempel (1, 1, 2), (1, 2, 1) og (1, 2, 2) som tre forskjellige tall-
+tripler.)
+  A 1       B 2        C 4       D 6       E 8
+
+
+Oppgave 1 2012/2013      (→ side 7 i løsningene)
+
+Hva er 36 ⋅ 912 lik?
+  A 1218       B 915         C 1518        D 318       E Ingen av disse.
+
+
+Oppgave 5 2012/2013      (→ side 7 i løsningene)
+
+Lars er dobbelt så gammel som Kari, og Karis alder er en tredjedel av Stians
+alder. For fem år siden var Lars halvparten så gammel som Stian var. Hva er
+summen av de nåværende aldrene til Kari, Lars og Stian?
+  A 30 år      B 54 år           C 60 år       D 90 år      E 120 år
+Abelkonkurransen                                                   Oppgaver – algebra
+Runde 1 2005–2024                                                       Side 10 av 85
+
+
+Oppgave 9 2012/2013       (→ side 7 i løsningene)
+
+Hvilket tall er størst?
+  A 0,3      B √0,095         C 0,1/0,30         D 0,52       E 240/723
+
+
+Oppgave 11 2012/2013       (→ side 7 i løsningene)
+
+Hva er gjennomsnittet av alle positive tresifrede tall?
+  A 500       B 549,5        C 599        D 599,5         E 600
+
+
+Oppgave 15 2012/2013       (→ side 7 i løsningene)
+
+Dersom 𝑚 = 2 ⋅ 3 ⋅ 4 ⋅ 5 ⋅ ⋯ ⋅ 31 ⋅ 32, hva er da sant om 𝑚?
+
+  A 𝑚 < 240        B 240 < 𝑚 < 270           C 270 < 𝑚 < 2100
+  D 2100 < 𝑚 < 2130           E 2130 < 𝑚
+
+
+Oppgave 20 2012/2013       (→ side 8 i løsningene)
+
+Hvor mange reelle løsninger har ligningen 𝑥 + 𝑥 2 + ⋯ + 𝑥 2012 = 0?
+  A 1      B 2      C 1006          D 2011           E 2012
+
+
+Oppgave 2 2013/2014       (→ side 8 i løsningene)
+
+For to år siden var Petter tre ganger så gammel som Ulrik. Om to år er Ulrik
+bare halvparten så gammel som Petter. Hva er summen av aldrene til Ulrik
+og Petter nå?
+  A 18      B 20        C 22        D 24         E 26
+
+
+Oppgave 3 2013/2014       (→ side 8 i løsningene)
+
+Tre reelle tall 𝑥, 𝑦 og 𝑧 er slik at 3𝑥 + 𝑦 = 1, 3𝑦 + 𝑧 = 12 og 3𝑧 + 𝑥 = − 12 . Hva
+er verdien av 𝑥 + 𝑦 + 𝑧?
+
+  A 1      B 12     C 13        D 14       E 0
+Abelkonkurransen                                                       Oppgaver – algebra
+Runde 1 2005–2024                                                           Side 11 av 85
+
+
+Oppgave 6 2013/2014       (→ side 8 i løsningene)
+
+Hadia, Jens og Siv samler på biler. Du har fått vite at ingen av dem har fle-
+re enn fem biler, og at ingen utvalg av to av dem har flere enn sju biler til
+sammen. Hva er det høyeste antall biler alle tre kan ha til sammen?
+  A 8      B 9        C 10        D 11        E 12
+
+
+Oppgave 9 2013/2014       (→ side 8 i løsningene)
+
+                                       1 + √2
+Hvilket av alternativene er lik               ?
+                                       √2 − 1
+  A 1 + √2        B 3 + 2√2          C 3√2          D 2 + √2        E 1 + 23 √2
+
+
+Oppgave 12 2013/2014        (→ side 8 i løsningene)
+
+Hvilket tall er størst?
+                                                                      𝜋3
+  A 3,13 ⋅ 3,15       B 9,85        C √9,61𝜋          D 𝜋2      E
+                                                                     3,15
+
+Oppgave 17 2013/2014        (→ side 8 i løsningene)
+
+Hvor mange reelle løsninger har ligningen 2𝑥 6 + 3𝑥 4 − 2𝑥 2 = 0?
+  A 1      B 2        C 3       D 5       E 6
+
+
+Oppgave 1 2014/2015       (→ side 8 i løsningene)
+
+Hvilket av uttrykkene under er ikke likt 0,8?
+
+      4          1             0,016          8/3            0,08
+  A        B              C               D              E
+      5        1,25            0,020          20/6           0,64
+
+Oppgave 3 2014/2015       (→ side 8 i løsningene)
+
+Johanne har 18 røde blyanter. Det er 15% av alle blyantene hennes. I tillegg
+er 40% blå, og 45% er grønne. Hvor mange blå blyanter har hun?
+  A 40       B 45      C 46         D 48          E 50
+Abelkonkurransen                                                 Oppgaver – algebra
+Runde 1 2005–2024                                                     Side 12 av 85
+
+
+Oppgave 5 2014/2015    (→ side 9 i løsningene)
+
+Den unge studenten Kari er på vei sørover fra Trondheim, og kjører inn i et
+område med gjennomsnittlig fartsmåling. Der blir bilen hennes fotografert
+av to fotobokser plassert 10 km fra hverandre, og hvis gjennomsnittsfarten
+mellom disse to punktene er over 80 km/h, vil Kari bli bøtelagt. Uheldigvis er
+Kari litt uoppmerksom, og kjører de første 9 kilometerne med en gjennom-
+snittsfart på 90 km/h. Hva er den høyeste gjennomsnittsfarten Kari kan ha
+den siste kilometeren uten å få bot?
+  A 10 km/h      B 20 km/h            C 32 km/h           D 40 km/h
+  E ingen av disse
+
+
+Oppgave 8 2014/2015    (→ side 9 i løsningene)
+
+I en skoleklasse er det 20 elever. Hvis én ny gutt starter i klassen, blir det
+dobbelt så mange gutter som jenter i klassen. Hva er produktet av antall
+gutter og antall jenter i klassen?
+  A 75     B 84        C 91       D 96        E 100
+
+
+Oppgave 13 2014/2015      (→ side 9 i løsningene)
+
+Hva er 3𝑎𝑏 + 8𝑎−3𝑏 hvis 𝑎𝑏 = 2?
+  A 5      B 7      C 8       D 24        E 70
+
+
+Oppgave 16 2014/2015      (→ side 9 i løsningene)
+
+Vi har to kuber. Summen av volumene til de to kubene er 25. Summen av
+en sidelengde til den ene kuben og en sidelengde til den andre er 4. Hva er
+summen av de totale overflatearealene til de to kubene?
+  A 37,5     B 38         C 57      D 60         E 85,5
+
+
+Oppgave 1 2015/2016    (→ side 9 i løsningene)
+
+Anne og Beate har til sammen kr 120, Beate og Cecilie har til sammen kr 60
+og Anne og Cecilie har til sammen kr 70. Hvor mange kroner har de totalt?
+  A 120      B 125        C 130       D 180         E 190
+Abelkonkurransen                                                          Oppgaver – algebra
+Runde 1 2005–2024                                                              Side 13 av 85
+
+
+Oppgave 5 2015/2016      (→ side 9 i løsningene)
+
+         20164 − 20154
+Hva er                 lik?
+         20152 + 20162
+  A 2015       B 4031             C 4033      D 2 ⋅ (20162 − 20152 )           E 2015 ⋅ 2016
+
+Oppgave 9 2015/2016      (→ side 9 i løsningene)
+
+Anne og Berit er til sammen 60 år. Anne er tre ganger så gammel som Berit
+var da Anne var så gammel som Berit er nå. Hva er tverrsummen til Annes
+alder?
+  A 1      B 3         C 5        D 7        E 9
+
+Oppgave 13 2015/2016         (→ side 9 i løsningene)
+
+Hvilket av tallene er størst?
+  A 2014 ⋅ 2016         B 1971 ⋅ 2060          C 20002 + 152             D 41,52 ⋅ 48,52
+  E 20152
+
+Oppgave 20 2015/2016         (→ side 10 i løsningene)
+
+Tallet 𝑥 er gitt ved
+                      1       1       1          1
+                         =      2
+                                  +      2
+                                           +⋯+       .
+                      𝑥 2016        2017       40302
+Hvilket av disse heltallene ligger nærmest 𝑥?
+  A 2015       B 2016             C 3024      D 4029        E 4031
+
+Oppgave 1 2016/2017      (→ side 10 i løsningene)
+
+Hvilket tall er det minste?
+      10 + 𝜋                                           2
+  A               B 0,15           C √0,02         D            E 0,53
+       100                                             15
+Oppgave 10 2016/2017         (→ side 10 i løsningene)
+
+Hvilket av tallene må stå i midten dersom de ordnes i stigende rekkefølge?
+
+                              7            √11 + √13                 2
+  A 𝜋      B √12         C           D                      E
+                              2                2                  1 + 1
+                                                                 √11 √13
+Abelkonkurransen                                                 Oppgaver – algebra
+Runde 1 2005–2024                                                     Side 14 av 85
+
+
+Oppgave 13 2016/2017    (→ side 10 i løsningene)
+
+          1 1 1 1  1  1
+La 𝑛 =     + + + +   + . Hvilket tall er størst?
+          6 7 8 9 10 11
+      1         1
+  A         B          C 𝑛      D 𝑛2       E De er alle like store.
+      𝑛         𝑛2
+
+Oppgave 15 2016/2017    (→ side 10 i løsningene)
+
+
+Hva er verdien til √6 + √6 + √6 + ⋯?
+
+      8                      √6 + √12
+  A         B 2√2      C                   D 3       E √2 + √3
+      3                          2
+
+Oppgave 16 2016/2017    (→ side 10 i løsningene)
+
+Hva er verdien til produktet 𝑥(𝑥 − 1) ⋯ (𝑥 − 4031), dersom 𝑥 = 2015,5?
+
+              (4031!)2                 (4031!)2             (4031!)2
+  A 0       B                    C                    D
+            22016 ⋅ 2016!            22016 ⋅ 2015!        24032 ⋅ 2015!
+  E Ingen av disse.
+
+
+Oppgave 2 2017/2018    (→ side 11 i løsningene)
+
+Reiser man fra Norge til San Francisco, må man stille klokken 9 timer til-
+bake for å justere seg til lokal tid. Magnus’ reise fra San Francisco varer 21
+timer, og når han ankommer flyplassen i Trondheim, er klokken i Norge 11
+på morgenen. Hva var klokken i San Francisco ved avreise?
+  A 2 om morgenen     B 2 om ettermiddagen                C 5 om morgenen
+  D 5 om ettermiddagen    E 11 om kvelden
+
+
+Oppgave 5 2017/2018    (→ side 11 i løsningene)
+
+Anta at 𝑎 + 𝑏 = 2, 𝑏 + 𝑐 = 3, 𝑐 + 𝑑 = 4, 𝑑 + 𝑒 = 5 og 𝑎 + 𝑒 = 6. Hva er verdien
+av 𝑎 + 𝑏 + 𝑐 + 𝑑 + 𝑒?
+  A 10       B 12      C 15      D 20       E Umulig å bestemme
+Abelkonkurransen                                               Oppgaver – algebra
+Runde 1 2005–2024                                                   Side 15 av 85
+
+
+Oppgave 6 2017/2018    (→ side 11 i løsningene)
+
+Anta at 𝑎 = 𝑏 + 2, 𝑏 = 𝑐 + 3, 𝑐 = 𝑑 − 4, 𝑑 = 𝑒 + 5 og 𝑒 = 𝑎 − 6. Hva er verdien
+av 𝑎 + 𝑏 + 𝑐 + 𝑑 + 𝑒?
+  A 1      B 6       C 11      D 16       E Umulig å bestemme
+
+
+Oppgave 11 2017/2018     (→ side 11 i løsningene)
+
+Hvilket av disse tallene er størst?
+    6          4         3
+  A √ 6      B √ 4     C √ 3      D √2        E 1
+
+
+Oppgave 13 2017/2018     (→ side 11 i løsningene)
+
+Hvor mange følger av heltall 𝑎1 , 𝑎2 , …, 𝑎10 tilfredsstiller disse ulikhetene?
+
+          0 < 𝑎1 < 𝑎2 < 𝑎3 < 𝑎4 < 𝑎5 < 𝑎6 < 𝑎7 < 𝑎8 < 𝑎9 < 𝑎10 < 13
+
+  A 45      B 55       C 66      D 110        E 132
+
+
+Oppgave 15 2017/2018     (→ side 11 i løsningene)
+
+Mona løper flere ganger rundt en løpebane. En flue starter fra Monas skulder
+og flyr i motsatt retning rundt løpebanen helt frem til den treffer Mona. Da
+snur den retning og flyr rundt løpebanen frem til den treffer Mona igjen.
+Dette gjentar den til den har truffet Mona 10 ganger. Fluen flyr tre ganger så
+raskt som Mona løper. Hvor mange runder har Mona løpt når fluen treffer
+henne for tiende gang?
+
+  A 7/2       B 4      C 14/3       D 5        E 15/4
+
+
+Oppgave 17 2017/2018     (→ side 11 i løsningene)
+
+Du skriver en rekke tall på en (stor) tavle. Hvert tall i rekken er laget ved å ta
+det forrige tallet, stryke det siste sifferet, og så legge til 10. Det første tallet
+er 22017 . Hva er tall nummer 1000?
+  A 1      B 10       C 11      D 16       E 21017
+Abelkonkurransen                                                     Oppgaver – algebra
+Runde 1 2005–2024                                                         Side 16 av 85
+
+
+Oppgave 4 2018/2019        (→ side 11 i løsningene)
+
+          2 + √2
+Brøken           kan forenkles til
+          1 + √2
+      4          3
+  A          B           C √2        D 1 + √2          E ingen av disse
+      3          2
+
+Oppgave 5 2018/2019        (→ side 11 i løsningene)
+
+Ligningen 2𝑥+1 + 2𝑥−4 = 52 + 2𝑥−1 har løsningen:
+
+  A 𝑥 = 12           B 𝑥 =1         C 𝑥 =2      D 𝑥 =3          E 𝑥 =4
+
+Oppgave 10 2018/2019        (→ side 12 i løsningene)
+
+På en hylle foran deg står det en rekke glass. Du legger én ert i det første
+glasset. I det neste glasset legger du tre erter, så glass nummer to inneholder
+to flere erter enn det første glasset. I det tredje glasset legger du fire erter
+flere enn i glass nummer to, og i det fjerde glasset legger du åtte flere erter
+enn i glass nummer tre. Slik fortsetter du å doble forskjellen i antall erter fra
+ett glass til det neste. Antall erter du må legge i glass nummer 𝑛 er da lik
+
+  A 2𝑛 − 1           B 𝑛2 − 𝑛 + 1     C 3𝑛−1 − (𝑛 − 1)(𝑛 − 2)2𝑛−3         D 2𝑛−1 + 2𝑛−2
+  E 2𝑛 − 1
+
+Oppgave 16 2018/2019        (→ side 12 i løsningene)
+
+Hvor mange reelle tall 𝑥 mellom 1/5 og 5 er slik at både 𝑥 + 1/𝑥 og 𝑥 2 + 1/𝑥 2
+er heltall?
+  A 10       B 9         C 8        D 7      E 6
+
+Oppgave 19 2018/2019        (→ side 12 i løsningene)
+
+Konstantene 𝑎, 𝑏, 𝑐 og 𝑑 er alle ulike 0. To førstegradsfunksjoner 𝑓 og 𝑔 er gitt
+ved ligningene 𝑓 (𝑥) = 𝑎𝑥 + 𝑏 og 𝑔(𝑥) = 𝑐𝑥 + 𝑑. Dersom du får oppgitt at
+𝑓 (𝑑) = 𝑔(𝑏) = 0, hva kan du da si sikkert om 𝑓 og 𝑔?
+  A 𝑓 og 𝑔 er samme funksjon.
+  B Grafene til 𝑓 og 𝑔 er parallelle linjer.
+  C Grafene til 𝑓 og 𝑔 står vinkelrett på hverandre.
+  D Dersom man speiler grafen til 𝑓 om linjen 𝑦 = 𝑥 får man grafen til 𝑔.
+  E Ingen av de øvrige påstandene er nødvendigvis sanne.
+Abelkonkurransen                                                    Oppgaver – algebra
+Runde 1 2005–2024                                                        Side 17 av 85
+
+
+Oppgave 4 2019/2020       (→ side 12 i løsningene)
+
+Nils kjører 90 km. Den første halvdelen av strekningen kjører han i 45 km/h.
+Så kjører han de 45 gjenværende kilometerne i 90 km/h. Hva er gjennom-
+snittshastigheten hans?
+
+  A 60 km/h         B 45√2 km/h ≈ 63,6 km/h                 C 65 km/h
+  D 67,5 km/h         E 45 52 km/h ≈ 71,2 km/h
+                             √
+
+Oppgave 9 2019/2020       (→ side 12 i løsningene)
+
+Dersom 1 > 𝑎 > 𝑏 > 0, hvilket av disse tallene er størst?
+
+                           2𝑎             √𝑎
+  A 𝑎      B 𝑎𝑏       C              D                  E Umulig å avgjøre
+                          𝑎+𝑏            √𝑎 + 𝑏
+
+Oppgave 13 2019/2020       (→ side 12 i løsningene)
+
+Fem reelle tall 𝑎, 𝑏, 𝑐, 𝑑 og 𝑒 har gjennomsnitt 2 og produkt 1. Dessuten er
+                            1    1    1    1
+                               +    +    +     = 8.
+                           𝑎𝑏𝑐𝑑 𝑏𝑐𝑑𝑒 𝑐𝑑𝑒𝑎 𝑑𝑒𝑎𝑏
+Da er 𝑒𝑎𝑏𝑐 lik
+  A −6      B −1/6          C 0       D 1/2           E 2
+
+
+Oppgave 16 2019/2020       (→ side 12 i løsningene)
+
+To tall 𝑥 og 𝑦 er slik at 𝑥 2 + 2𝑦 2 − 2𝑥𝑦 = 26 og 𝑥 2 + 2𝑦 2 + 2𝑥𝑦 = 106. Hva er
+verdien av 𝑥 4 + 4𝑦 4 ?
+  A 2019         B 2564       C 2756        D 5512          E Umulig å avgjøre
+
+
+Oppgave 18 2019/2020       (→ side 13 i løsningene)
+
+Funksjonen 𝑓 gitt ved 𝑓 (𝑥) = 𝑥 2 + 𝑎𝑥 + 𝑏, der 𝑎 og 𝑏 er konstanter, er slik at
+𝑓 (2) = 2. Hvilken av følgende påstander er da nødvendigvis sann?
+
+  A 𝑓 (2) > 𝑓 (1)     B 2 ⋅ 𝑓 (1) = 𝑓 (2) + 𝑓 (0)           C 𝑓 (0) ≠ 0
+  D 𝑓 (𝑓 (1)) = 𝑓 (1)    E 𝑓 (1) > 0
+Abelkonkurransen                                                                Oppgaver – algebra
+Runde 1 2005–2024                                                                    Side 18 av 85
+
+
+Oppgave 1 2020/2021       (→ side 13 i løsningene)
+
+Hvilket tall er minst?
+      5         15            26             7              13
+  A         B            C              D               E
+      9         28            45            14              23
+
+Oppgave 2 2020/2021       (→ side 13 i løsningene)
+
+                                            100
+Hvilket tall er kvadratroten av 22 ?
+                                                                          100
+       50                          99             √100               √2
+  A 22          B 2100        C 22           D 22                E √2
+
+
+Oppgave 3 2020/2021       (→ side 13 i løsningene)
+
+Ett eple og én banan koster til sammen 11 kroner. Én appelsin og én banan
+koster til sammen 13 kroner. Ett eple og én appelsin koster til sammen 12
+kroner. Hvor mange kroner koster ett eple, én banan og én appelsin til sam-
+men?
+  A 12      B 14         C 16        D 17            E 18
+
+
+Oppgave 4 2020/2021       (→ side 13 i løsningene)
+
+Pia har vært på reise i Argentina, Bahamas og Chile, og kommer hjem med
+mange suvenirer. 70 % av dem er ikke fra Argentina. 82 % er ikke fra Chile.
+Hvor mange er fra Bahamas?
+  A 24 %        B 38 %         C 48 %             D 52 %          E Umulig å avgjøre
+
+
+Oppgave 15 2020/2021         (→ side 13 i løsningene)
+
+Hvilket av uttrykkene har ikke samme verdi som de andre?
+
+                                                  1 + √2                                √2 + 9
+  A (1 + √2)2        B √8 + √9              C                    D 3 + 2 √2         E
+                                                  √2 − 1                                2 − √2
+
+Oppgave 7 2021/2022       (→ side 13 i løsningene)
+
+Hvilket tall er størst?
+     3
+  A 2√ 10        B √17          C 92/3            D 4        E 𝜋
+Abelkonkurransen                                                         Oppgaver – algebra
+Runde 1 2005–2024                                                             Side 19 av 85
+
+
+Oppgave 9 2021/2022          (→ side 14 i løsningene)
+
+                1                              1
+Beregn             +
+              2020          1                      1
+                               +
+                          2019            1              1
+                                            +
+                                        2018 ⋱                1
+                                                   +
+                                                        1     1
+                                                          + 1
+                                                        3 2 +1
+
+      2018             2019             2020           2021           2022
+  A                B              C                D              E
+      2020             2020             2020           2020           2020
+
+Oppgave 10 2021/2022          (→ side 14 i løsningene)
+
+To reelle tall 𝑥 og 𝑦 er slik at 𝑥𝑦 ≠ 0 og 𝑥 < 𝑦. Hvilken av følgende påstander
+er da helt sikkert sann?
+                              1   1                                                 1 1
+  A 𝑥 + 0,1 ≤ 𝑦          B      <              C 𝑥2 < 𝑦2          D 𝑥3 < 𝑦3     E    >
+                              𝑥3 𝑦3                                                 𝑥 𝑦
+
+Oppgave 11 2021/2022          (→ side 14 i løsningene)
+
+Du har uendelig mange linjer … , ℓ−2 , ℓ−1 , ℓ0 , ℓ1 , ℓ2 , … i planet. Ligningen til
+linje ℓ𝑛 er gitt ved
+                                   𝑥
+                          𝑛4 𝑦 + 2       + 𝑛 = 0.
+                                𝑛 +1
+Hvor mange av disse linjene skjærer alle de andre linjene?
+  A 0        B 1        C 2       D 4          E Uendelig mange
+
+
+Oppgave 17 2021/2022          (→ side 14 i løsningene)
+
+De reelle tallene 𝑥, 𝑦 og 𝑧 er slik at 𝑥 + 𝑦 + 𝑧 = 4, 𝑥𝑦 + 𝑦𝑧 + 𝑥𝑧 = −9 og
+𝑥𝑦𝑧 = −12. Hva er
+                                 𝑥 2 + 𝑦 2 + 𝑧2
+                                                ?
+                                 𝑥 3 + 𝑦 3 + 𝑧3
+
+      1                             1                        7
+  A          B 2021           C −         D 3          E −
+      4                             2                        8
+Abelkonkurransen                                                   Oppgaver – algebra
+Runde 1 2005–2024                                                       Side 20 av 85
+
+
+Oppgave 2 2022/2023      (→ side 15 i løsningene)
+                          𝑎 𝑎𝑏 4
+                          √
+Hvilket uttrykk er lik          (når 𝑎 > 0 og 𝑏 > 0)?
+                         (√𝑎𝑏)3
+                                                      𝑏
+  A 1      B √𝑎       C √𝑏        D √𝑎 3 𝑏        E
+                                                      𝑎
+
+Oppgave 3 2022/2023      (→ side 15 i løsningene)
+
+                   3 100 avrundet til nærmeste heltall?
+Hva er verdien til √
+  A 3      B 4      C 5       D 6         E 7
+
+
+Oppgave 6 2022/2023      (→ side 15 i løsningene)
+
+Hvor mange heltall 𝑎 er slik at ligningene 𝑥 2 + 𝑦 2 = 1 og 𝑥 + 𝑦 = 𝑎 har minst
+én felles løsning med reelle tall 𝑥 og 𝑦?
+  A 0      B 1      C 2       D 3         E Uendelig mange
+
+
+Oppgave 8 2022/2023      (→ side 15 i løsningene)
+
+                   √6        √3
+                         −
+                 √3 − √2 2 − √3
+Hva er uttrykket                lik?
+                      √2 − 1
+  A 2      B 3      C √6        D 2√3           E 3√2
+
+
+Oppgave 9 2022/2023      (→ side 15 i løsningene)
+
+To reelle tall 𝑎 og 𝑏 er slik at 3𝑎 = 4𝑏 = 6. Hva er verdien til (𝑎 − 1)(2𝑏 − 1)?
+
+  A 1      B √6       C 2√3         D 6         E Ingen av disse
+
+
+Oppgave 2 2023/2024      (→ side 16 i løsningene)
+
+Peter prøver å finne reelle tall 𝑥 og 𝑦 slik at 𝑥 2 + 𝑦 2 = 5 og 𝑥𝑦 = 1. Hva kan
+sies med sikkerhet om slike tall?
+  A 𝑥 <𝑦     B 𝑥 =𝑦       C 𝑥 >𝑦
+  D Hverken utsagn A, B eller C er sikkert.
+  E Det finnes ingen slike reelle tall 𝑥, 𝑦.
+Abelkonkurransen                                                   Oppgaver – algebra
+Runde 1 2005–2024                                                       Side 21 av 85
+
+
+Oppgave 13 2023/2024       (→ side 16 i løsningene)
+
+Hvilket tall som har samme verdi som
+
+                            𝜋 + √𝜋 2 − 𝜋     𝜋 − √𝜋 2 − 𝜋
+                                         +                ?
+                          √      2         √      2
+
+  A 𝜋      B √𝜋       C √𝜋 2 − 𝜋          D 𝜋 − √𝜋           E √𝜋 + √𝜋
+
+Oppgave 15 2023/2024       (→ side 16 i løsningene)
+
+Hvilket tall er størst?
+                                        3   3              3               4
+  A √4 − √3         B √3 − √2         C √ 3−√ 2          D √ 2−1         E √ 2−1
+
+Oppgave 16 2023/2024       (→ side 16 i løsningene)
+
+Regn ut
+               (0! + 1!) ⋅ (1! + 2!) ⋅ (2! + 3!) ⋅ ⋯ ⋅ (2023! + 2024!)
+                                 0! ⋅ 1! ⋅ 2! ⋅ ⋯ ⋅ 2023!
+(Her er 𝑛! = 1 ⋅ 2 ⋅ ⋯ ⋅ 𝑛, og 0! = 1! = 1.)
+  A 2023!    B 2023! ⋅ 2023            C 2024!          D 2025!
+  E Ingen av disse.
+
+Oppgave 17 2023/2024       (→ side 17 i løsningene)
+
+Følgen 𝑎𝑛 er definert ved 𝑎1 = 23 og 𝑎𝑛 = 5𝑎𝑛−1 + 7 for 𝑛 = 2, 3, …. Hva er
+nest siste siffer i 𝑎2023 ?
+  A 1      B 2       C 4       D 6        E 9
+
+Oppgave 1 2024/2025       (→ side 17 i løsningene)
+
+                1+1
+Hvilket tall er 2 1 3 lik?
+                  6
+
+  A 1,2      B 2,4        C 4,0      D 4,8           E 5,0
+
+Oppgave 4 2024/2025       (→ side 17 i løsningene)
+
+Hva er kvadratroten av 216 ?
+  A 215      B 24         C 1024       D 512          E 256
+Abelkonkurransen                                                       Oppgaver – algebra
+Runde 1 2005–2024                                                           Side 22 av 85
+
+
+Oppgave 5 2024/2025       (→ side 17 i løsningene)
+
+Hvilket av tallene er størst?
+  A 1/√8         B 0,33       C 1/√10         D 0,250          E 1/3
+
+
+Oppgave 13 2024/2025       (→ side 17 i løsningene)
+
+Hvert av tallene 𝑎, 𝑏, 𝑐 og 𝑑 er enten 1 eller 0, og 𝑎 ≠ 𝑐 og 𝑏 ≠ 𝑑.
+Hva er (𝑎 + 𝑏)(𝑎 + 𝑐)(𝑏 + 𝑐)(𝑏 + 𝑑)(𝑐 + 𝑑) nødvendigvis lik?
+
+  A 0      B 1      C 𝑎2 + 𝑏 2        D 𝑐+𝑑            E 2𝑏𝑐
+
+
+Oppgave 17 2024/2025       (→ side 18 i løsningene)
+
+For reelle tall 𝑥 lar vi ⌊𝑥⌋ betegne det største heltallet mindre enn eller lik 𝑥.
+For eksempel er ⌊4⌋ = 4, ⌊𝜋⌋ = 3 og ⌊−1,9⌋ = −2.
+Hvilket alternativ er nødvendigvis sant for alle reelle tall 𝑥 og 𝑦?
+  A ⌊𝑥⌋ + ⌊𝑦⌋ = ⌊𝑥 + 𝑦⌋   B ⌊𝑥⌋ + ⌊𝑦⌋ < ⌊𝑥 + 𝑦⌋        C ⌊𝑥⌋ ⋅ ⌊𝑦⌋ = ⌊𝑥𝑦⌋
+  D ⌊𝑥⌋ ⋅ ⌊𝑦⌋ ≤ ⌊𝑥𝑦⌋  E Ingen av A, B, C eller D trenger være sanne.
+
+
+Oppgave 18 2024/2025       (→ side 18 i løsningene)
+
+Alle tosifrede positive heltall 10, 11, …, 99 står skrevet på en tavle. Jane visker
+ut hvert tall og skriver i stedet opp produktet av sifrene i tallet som sto der.
+Hva er summen av tallene som nå står på tavla?
+  A 2024       B 2025         C 4904        D 4905          E Ingen av disse.
+
+
+Oppgave 1 2025/2026       (→ side 18 i løsningene)
+
+Om ett år blir Marie dobbelt så gammel som hun var for tre år siden. Om hvor
+mange år blir hun tre ganger så gammel som hun er nå?
+  A 8      B 9      C 12         D 14        E 16
+
+
+Oppgave 4 2025/2026       (→ side 18 i løsningene)
+
+Hvis 10𝑎 + 6𝑏 = −4 og 21𝑏 + 9𝑐 = 5, så er 27𝑐 − 105𝑎 lik
+  A −37       B −27         C 7       D 17           E 57
+Abelkonkurransen                                                Oppgaver – algebra
+Runde 1 2005–2024                                                    Side 23 av 85
+
+
+Oppgave 7 2025/2026     (→ side 18 i løsningene)
+
+I en uendelig tallfølge 𝑝, 5, 𝑞, 𝑟, 3, … er hvert ledd lik summen av de to neste
+leddene i følgen. Hva er verdien av 𝑝 + 𝑞 + 𝑟 ?
+  A 3      B 5      C 8         D 14      E 18
+
+
+Oppgave 9 2025/2026     (→ side 18 i løsningene)
+
+Følgen 𝑎0 , 𝑎1 , 𝑎2 , … er slik at 𝑎0 = 0 og 𝑎𝑛 = 𝑛 − 𝑎𝑛−1 for alle 𝑛 ≥ 1.
+Hva er verdien av 𝑎2025 ?
+  A 2026       B 2025        C 1014       D 1013      E 1012
+
+
+Oppgave 13 2025/2026      (→ side 18 i løsningene)
+
+Nils og Henrik skal male et gjerde. Hvis Nils skulle gjort det alene ville han
+brukt én time, og hvis Henrik skulle gjort det alene ville han brukt én time
+og 15 minutter. Hvor lang tid bruker de hvis de arbeider samtidig, og starter
+fra hver sin ende?
+  A 26 minutter og 40 sekunder            B 33 minutter og 20 sekunder
+  C 33 minutter og 45 sekunder            D 37 minutter og 30 sekunder
+  E 2 timer og 15 minutter
+
+
+Oppgave 20 2025/2026      (→ side 19 i løsningene)
+
+Det er et faktum at 320 + 49 + 610 = 𝑝𝑞, der 𝑝 og 𝑞 er primtall.
+Hva er siste siffer i 𝑝 + 𝑞 ?
+  A 2      B 4      C 6         D 7     E 8
+

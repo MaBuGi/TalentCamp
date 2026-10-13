@@ -1,0 +1,912 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Abel Algebra Arcade</title>
+<meta name="description" content="Abelkonkurrencens runde 1, algebra 2005–2026: 120 opgaver på dansk, filtrér efter delemne og sværhed, løs dem trin for trin med manim-gennemgange.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=JetBrains+Mono:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+/* Layout: samme studiekabinet som FinMetrics Arcade. HUD øverst, filter + opgavekort til venstre (skuffe på telefon), én opgave ad gangen i hovedkolonnen, manim-klip som en mørk skærm. */
+:root {
+  --bg: #e1e2e7; --panel: #f4f5f8; --raised: #e9eaf0; --line: #c4c8da; --grid: #dde0ea;
+  --fg: #343b58; --fg-2: #4c5374; --muted: #5f6789;
+  --accent: #2e7de9; --accent-ink: #ffffff; --accent-soft: #d6e3fb;
+  --good: #3d7a3a; --good-soft: #dcebd6; --bad: #c4234f; --bad-soft: #f6dbe3; --warn: #8a5a12; --warn-soft: #f1e4cc;
+  --c1: #2e7de9; --c2: #b15c00; --c3: #9854f1;
+  --screen: #1a1b26; --screen-line: #414868;
+  --display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --serif: "Source Serif 4", "Iowan Old Style", Georgia, serif;
+  --mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #1a1b26; --panel: #1f2335; --raised: #24283b; --line: #3b4261; --grid: #2a2f45;
+  --fg: #c0caf5; --fg-2: #a9b1d6; --muted: #8a93bd;
+  --accent: #7aa2f7; --accent-ink: #1a1b26; --accent-soft: #2a3556;
+  --good: #9ece6a; --good-soft: #273626; --bad: #f7768e; --bad-soft: #3d2533; --warn: #e0af68; --warn-soft: #3a3122;
+  --c1: #5f8ef0; --c2: #d0782c; --c3: #b46ae0;
+  --screen: #1a1b26; --screen-line: #3b4261; color-scheme: dark;
+} }
+:root[data-theme="dark"] {
+  --bg: #1a1b26; --panel: #1f2335; --raised: #24283b; --line: #3b4261; --grid: #2a2f45;
+  --fg: #c0caf5; --fg-2: #a9b1d6; --muted: #8a93bd;
+  --accent: #7aa2f7; --accent-ink: #1a1b26; --accent-soft: #2a3556;
+  --good: #9ece6a; --good-soft: #273626; --bad: #f7768e; --bad-soft: #3d2533; --warn: #e0af68; --warn-soft: #3a3122;
+  --c1: #5f8ef0; --c2: #d0782c; --c3: #b46ae0;
+  --screen: #1a1b26; --screen-line: #3b4261; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font-family: var(--serif); font-size: 17px; line-height: 1.55; }
+button, input, textarea, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+a { color: var(--accent); }
+
+/* HUD */
+.hud { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: var(--bg); border-bottom: 1px solid var(--line); }
+.hud-row { display: flex; align-items: center; gap: 14px; padding-block: 10px; padding-inline: 16px; max-width: 1320px; margin: 0 auto; flex-wrap: wrap; }
+.brand { display: flex; align-items: baseline; gap: 10px; min-width: 0; margin-right: auto; flex-wrap: wrap; }
+.brand h1 { font-family: var(--display); font-weight: 800; font-size: 1.35rem; letter-spacing: -0.01em; margin: 0; line-height: 1.1; }
+.brand h1 span { color: var(--accent); }
+.brand small { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); letter-spacing: 0.02em; }
+.stat { font-family: var(--mono); font-size: 0.78rem; display: flex; align-items: center; gap: 8px; color: var(--fg-2); font-variant-numeric: tabular-nums; }
+.stat b { color: var(--fg); font-weight: 600; }
+.lvl { display: flex; flex-direction: column; gap: 4px; min-width: 190px; }
+.lvl-top { display: flex; justify-content: space-between; gap: 10px; font-family: var(--mono); font-size: 0.74rem; color: var(--fg-2); }
+.lvl-top b { color: var(--fg); font-weight: 600; }
+.bar { height: 6px; border-radius: 3px; background: var(--raised); overflow: hidden; }
+.bar > i { display: block; height: 100%; background: var(--accent); border-radius: 3px; transition: width .4s ease; }
+.streak { display: inline-flex; align-items: center; gap: 6px; padding: 3px 9px; border-radius: 999px; background: var(--raised); }
+.streak.hot { background: var(--warn-soft); color: var(--warn); }
+.chip { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); }
+.btn { border: 1px solid var(--line); background: var(--panel); border-radius: 8px; padding: 6px 12px; cursor: pointer; font-family: var(--mono); font-size: 0.8rem; }
+.btn:hover { border-color: var(--accent); }
+.btn-primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); font-weight: 600; }
+.btn-primary:hover { filter: brightness(1.08); }
+.btn-quiet { background: transparent; }
+.btn[disabled] { opacity: .5; cursor: default; }
+.btn[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); }
+.tape-wrap { max-width: 1320px; margin: 0 auto; padding-inline: 16px; padding-bottom: 6px; display: flex; align-items: center; gap: 10px; }
+.tape-wrap canvas { flex: 1; min-width: 0; height: 26px; display: block; }
+.tape-label { font-family: var(--mono); font-size: 0.68rem; color: var(--muted); white-space: nowrap; }
+.drawer-btn { display: none; }
+
+/* Shell */
+.shell { display: grid; grid-template-columns: 320px minmax(0, 1fr); gap: 28px; max-width: 1320px; margin: 0 auto; padding-inline: 16px; padding-block: 20px 60px; }
+.map { position: sticky; top: 112px; align-self: start; max-height: calc(100vh - 130px); overflow: auto; padding-right: 6px; }
+.map h2 { font-family: var(--mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 0; font-weight: 600; }
+.filters { display: grid; gap: 10px; padding-bottom: 12px; }
+.f-row { display: grid; gap: 6px; }
+.f-k { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); display: flex; justify-content: space-between; gap: 8px; }
+.f-k button { border: 0; background: none; padding: 0; font: inherit; color: var(--accent); cursor: pointer; text-transform: none; letter-spacing: 0; }
+.search { width: 100%; font-family: var(--mono); font-size: 0.82rem; padding: 7px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); }
+.tags { display: flex; flex-wrap: wrap; gap: 5px; }
+.tag { border: 1px solid var(--line); background: var(--panel); border-radius: 999px; padding: 2px 9px; font-family: var(--serif); font-size: 0.8rem; cursor: pointer; display: inline-flex; align-items: baseline; gap: 5px; line-height: 1.35; }
+.tag small { font-family: var(--mono); font-size: 0.68rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.tag[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.tag[aria-pressed="true"] small { color: var(--accent-ink); opacity: .8; }
+.seg { display: flex; flex-wrap: wrap; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg-btn { flex: 1; border: 0; background: var(--panel); padding: 4px 8px; font-family: var(--mono); font-size: 0.78rem; cursor: pointer; border-right: 1px solid var(--line); display: inline-flex; align-items: baseline; justify-content: center; gap: 5px; }
+.seg-btn:last-child { border-right: 0; }
+.seg-btn[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+.seg-btn small { font-size: 0.62rem; opacity: .75; font-variant-numeric: tabular-nums; }
+.range { display: flex; gap: 8px; align-items: center; font-family: var(--mono); font-size: 0.78rem; color: var(--muted); }
+.range select { flex: 1; min-width: 0; font-family: var(--mono); font-size: 0.78rem; padding: 5px 6px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); }
+.toggles { display: flex; flex-wrap: wrap; gap: 6px; }
+.count { font-family: var(--mono); font-size: 0.76rem; color: var(--fg-2); font-variant-numeric: tabular-nums; }
+.set { border-top: 1px solid var(--line); padding-block: 8px; }
+.set summary { list-style: none; cursor: pointer; display: grid; grid-template-columns: 1fr auto; gap: 10px; align-items: center; }
+.set summary::-webkit-details-marker { display: none; }
+.set-t { font-family: var(--display); font-weight: 700; font-size: 0.98rem; line-height: 1.25; }
+.set-p { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.set .bar { margin: 6px 0 4px; height: 4px; }
+.qrow { display: flex; align-items: flex-start; gap: 2px; }
+.qlink { flex: 1; min-width: 0; display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 2px 8px; align-items: baseline; text-align: left; background: none; border: 0; padding: 6px 8px; border-radius: 6px; cursor: pointer; font-family: var(--serif); font-size: 0.88rem; color: var(--fg-2); line-height: 1.35; }
+.qlink:hover { background: var(--raised); color: var(--fg); }
+.qlink[aria-current="true"] { background: var(--accent-soft); color: var(--fg); }
+.qlink .qid { font-family: var(--mono); font-size: 0.7rem; color: var(--muted); white-space: nowrap; }
+.qlink .qt { min-width: 0; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.qlink .qm { display: flex; flex-direction: column; align-items: flex-end; gap: 3px; }
+.qlink .film { font-family: var(--mono); font-size: 0.62rem; color: var(--c3); letter-spacing: .04em; }
+.star-btn { border: 0; background: none; cursor: pointer; padding: 6px 4px; font-size: 0.95rem; line-height: 1; color: var(--line); }
+.star-btn[aria-pressed="true"] { color: var(--warn); }
+.diff { display: inline-flex; gap: 2px; }
+.diff i { width: 6px; height: 6px; border-radius: 2px; background: var(--line); display: block; }
+.diff i.on { background: var(--c2); }
+.done-mark { font-family: var(--mono); font-size: 0.68rem; color: var(--good); }
+.stars { font-family: var(--mono); font-size: 0.72rem; letter-spacing: 1px; color: var(--line); white-space: nowrap; }
+.stars .on { color: var(--warn); }
+.empty-list { font-size: 0.92rem; color: var(--fg-2); padding: 10px 0; }
+
+/* Main column */
+.main { min-width: 0; max-width: 820px; }
+.crumbs { font-family: var(--mono); font-size: 0.76rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.badge { font-family: var(--mono); font-size: 0.7rem; padding: 2px 8px; border-radius: 999px; background: var(--raised); color: var(--fg-2); display: inline-flex; align-items: center; gap: 6px; }
+.badge.anim { background: var(--accent-soft); color: var(--fg); }
+.q-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.q-title { font-family: var(--display); font-weight: 700; font-size: clamp(1.6rem, 3.2vw, 2.2rem); letter-spacing: -0.015em; line-height: 1.1; margin: 10px 0 14px; text-wrap: balance; }
+.q-title span { color: var(--muted); font-weight: 500; }
+.q-text { font-size: 1.08rem; max-width: 68ch; }
+.mjx-container { max-width: 100%; overflow-x: auto; overflow-y: hidden; }
+.topics { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 0; }
+
+/* Steps */
+.steps-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin: 26px 0 10px; flex-wrap: wrap; }
+.steps-head h3 { font-family: var(--display); font-size: 1.05rem; margin: 0; font-weight: 700; }
+.dots { display: flex; gap: 5px; flex-wrap: wrap; }
+.dot { width: 22px; height: 6px; border-radius: 3px; background: var(--raised); }
+.dot.ok { background: var(--good); } .dot.miss { background: var(--warn); } .dot.shown { background: var(--muted); } .dot.cur { background: var(--accent); }
+.done-step { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 4px 10px; padding: 8px 0; border-top: 1px dashed var(--line); font-size: 0.95rem; }
+.mark { font-family: var(--mono); font-size: 0.72rem; padding: 2px 7px; border-radius: 999px; align-self: start; margin-top: 3px; white-space: nowrap; }
+.mark.ok { background: var(--good-soft); color: var(--good); } .mark.miss { background: var(--warn-soft); color: var(--warn); } .mark.shown { background: var(--raised); color: var(--muted); }
+.done-step .ans { color: var(--fg); } .done-step .pr { color: var(--fg-2); }
+.done-step details { grid-column: 2; font-size: 0.9rem; color: var(--fg-2); }
+.done-step summary { cursor: pointer; font-family: var(--mono); font-size: 0.72rem; color: var(--muted); }
+.step { border: 1px solid var(--line); background: var(--panel); border-radius: var(--r); padding: 16px 18px; margin-top: 10px; }
+.step.active { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.step-k { font-family: var(--mono); font-size: 0.72rem; color: var(--accent); letter-spacing: .04em; }
+.step-p { margin: 6px 0 12px; font-size: 1.02rem; }
+.opts { display: grid; gap: 8px; }
+.opts.abc { grid-template-columns: repeat(auto-fill, minmax(min(100%, 140px), 1fr)); }
+.opts.abc.long { grid-template-columns: minmax(0, 1fr); }
+.opt { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 10px; align-items: start; text-align: left; border: 1px solid var(--line); background: var(--bg); border-radius: 8px; padding: 10px 12px; cursor: pointer; font-family: var(--serif); font-size: 0.98rem; line-height: 1.45; min-width: 0; }
+.opt:hover:not([disabled]) { border-color: var(--accent); }
+.opt .kbd { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 0 5px; margin-top: 3px; }
+.opts.abc .opt .kbd { color: var(--c3); border-color: var(--c3); font-weight: 600; }
+.opt > span:last-child { min-width: 0; }
+.opt.wrong { border-color: var(--bad); background: var(--bad-soft); cursor: default; }
+.opt.right { border-color: var(--good); background: var(--good-soft); }
+.opt.dim { opacity: .55; }
+.num-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.num-row input { font-family: var(--mono); font-size: 0.95rem; padding: 7px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); width: min(240px, 100%); }
+.hintline { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); margin-top: 6px; }
+.fb { margin-top: 12px; padding: 10px 12px; border-radius: 8px; font-size: 0.95rem; }
+.fb.good { background: var(--good-soft); } .fb.bad { background: var(--bad-soft); } .fb.info { background: var(--raised); }
+.fb-k { font-family: var(--mono); font-size: 0.72rem; font-weight: 600; display: block; margin-bottom: 2px; }
+.fb.good .fb-k { color: var(--good); } .fb.bad .fb-k { color: var(--bad); } .fb.info .fb-k { color: var(--muted); }
+.step-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; align-items: center; }
+
+/* manim-skærm */
+.screen { margin-top: 12px; background: var(--screen); border: 1px solid var(--screen-line); border-radius: var(--r); overflow: hidden; }
+.screen video { display: block; width: 100%; aspect-ratio: 16 / 9; background: var(--screen); }
+.screen-cap { display: flex; justify-content: space-between; gap: 8px; padding: 6px 10px; font-family: var(--mono); font-size: 0.7rem; color: var(--muted); border-top: 1px solid var(--screen-line); flex-wrap: wrap; }
+.player { margin-top: 18px; }
+.chapters { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.chapters .btn { font-size: 0.74rem; display: inline-flex; gap: 6px; }
+.chapters .btn small { color: var(--muted); font-variant-numeric: tabular-nums; }
+
+/* Claude */
+.claude { margin-top: 12px; border-left: 3px solid var(--c3); padding: 4px 0 4px 12px; font-size: 0.95rem; }
+.claude-k { font-family: var(--mono); font-size: 0.72rem; color: var(--c3); display: block; margin-bottom: 4px; }
+.claude-out { white-space: pre-wrap; } .claude-out.fmt { white-space: normal; } .claude-out p { margin: 0 0 8px; }
+
+/* Finish */
+.finish { margin-top: 22px; border-radius: var(--r); background: var(--panel); border: 1px solid var(--line); padding: 18px 20px; }
+.finish h3 { font-family: var(--display); font-size: 1.25rem; margin: 0 0 4px; }
+.big-stars { font-size: 1.6rem; letter-spacing: 4px; color: var(--line); } .big-stars .on { color: var(--warn); }
+.sol { margin-top: 14px; max-width: 70ch; }
+.sol .k { font-family: var(--mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); display: block; margin-bottom: 2px; }
+.empty { color: var(--fg-2); max-width: 60ch; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+/* Udvalgte */
+.sel-list { display: grid; gap: 8px; margin: 14px 0; padding: 0; list-style: none; counter-reset: s; }
+.sel-item { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 10px; align-items: start; border: 1px solid var(--line); background: var(--panel); border-radius: 8px; padding: 10px 12px; counter-increment: s; }
+.sel-item::before { content: counter(s); font-family: var(--display); font-weight: 800; color: var(--accent); min-width: 2ch; }
+.sel-item .meta { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.sel-item .txt { font-size: 0.95rem; margin-top: 2px; }
+.sel-tools { display: flex; gap: 6px; }
+.sel-tools .btn { padding: 4px 8px; }
+.export { width: 100%; min-height: 180px; margin-top: 10px; padding: 10px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); font-family: var(--mono); font-size: 0.78rem; resize: vertical; }
+
+@media (max-width: 980px) {
+  .shell { grid-template-columns: minmax(0, 1fr); padding-block: 14px 60px; }
+  .map { position: fixed; inset: 0; top: 0; z-index: 40; background: var(--bg); max-height: none; padding: calc(env(safe-area-inset-top, 0px) + 16px) 16px calc(env(safe-area-inset-bottom, 0px) + 16px); }
+  .map[hidden] { display: none !important; }
+  .drawer-btn { display: inline-flex; }
+  .map-close { display: inline-flex !important; }
+  .lvl { min-width: 150px; }
+}
+@media (max-width: 640px) {
+  .brand small { display: none; }
+  .hud-row { gap: 10px; }
+  .tape-wrap { display: none; }
+}
+.map-close { display: none; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+
+<header class="hud">
+  <div class="hud-row">
+    <div class="brand"><h1>Abel <span>Arcade</span></h1><small id="brandSub">Algebra · runde 1 · 2005–2026</small></div>
+    <button class="btn drawer-btn" id="drawerBtn" type="button" aria-controls="map">Opgaver</button>
+    <div class="lvl" aria-live="polite"><div class="lvl-top"><span id="lvlName">Niv. 1 · Brøkbegynder</span><b id="xpTxt">0 XP</b></div><div class="bar"><i id="xpBar" style="width:0%"></i></div></div>
+    <span class="stat streak" id="streak">Stime <b>0</b></span>
+    <span class="stat">Løst <b id="solved">0/120</b></span>
+    <button class="btn" id="reviewBtn" type="button">Gentag <b id="revN">0</b></button>
+    <button class="btn" id="selBtn" type="button">Udvalgte <b id="selN">0</b></button>
+    <span class="chip" id="sync">Gemt i denne browser</span>
+  </div>
+  <div class="tape-wrap"><span class="tape-label">dine svar som følgen \(a_n = a_{n-1} \pm 1\)</span><canvas id="tape" aria-label="Dine svar: rigtige svar går op, forkerte går ned"></canvas></div>
+</header>
+
+<div class="shell">
+  <nav class="map" id="map" aria-label="Opgaver">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px"><h2>Find opgaver</h2><button class="btn map-close" id="mapClose" type="button">Luk</button></div>
+    <div class="filters">
+      <input class="search" id="fq" type="search" placeholder="Søg: tekst, år eller fx 2015/16" aria-label="Søg i opgaverne" autocomplete="off">
+      <div class="f-row"><div class="f-k"><span>Delemne</span><button type="button" id="fTopicsClear">alle</button></div><div class="tags" id="fTopics"></div></div>
+      <div class="f-row"><div class="f-k"><span>Sværhed · 1 = nr. 1–4, 5 = nr. 17–20</span><button type="button" id="fDiffClear">alle</button></div><div class="seg" id="fDiff"></div></div>
+      <div class="f-row"><div class="f-k"><span>Sæson</span></div>
+        <div class="range"><select id="fFrom" aria-label="Fra sæson"></select><span>til</span><select id="fTo" aria-label="Til sæson"></select></div></div>
+      <div class="toggles">
+        <button class="tag" type="button" id="fAnim" aria-pressed="false">Med animation</button>
+        <button class="tag" type="button" id="fOpen" aria-pressed="false">Skjul løste</button>
+        <button class="tag" type="button" id="fSel" aria-pressed="false">Kun udvalgte</button>
+      </div>
+      <div class="f-row"><div class="f-k"><span>Gruppér efter</span></div><div class="seg" id="fGroup"></div></div>
+      <div class="count" id="fCount" aria-live="polite"></div>
+    </div>
+    <div id="mapList"></div>
+  </nav>
+  <main class="main" id="main" aria-live="off"></main>
+</div>
+<div class="sr" id="live" aria-live="polite"></div>
+
+<script>
+window.MathJax = {
+  tex: { inlineMath: [['\\(', '\\)']], displayMath: [['\\[', '\\]']] },
+  svg: { fontCache: 'global' },
+  startup: { typeset: false, pageReady() { return MathJax.startup.defaultPageReady().then(() => { window.__mjReady = true; (window.__mjQueue || []).forEach(el => window.FMTypeset(el)); window.__mjQueue = []; }); } }
+};
+window.__mjQueue = [];
+let __mjChain = Promise.resolve();
+window.FMTypeset = function (el) {
+  if (!el) return;
+  if (!window.__mjReady) { window.__mjQueue.push(el); return; }
+  __mjChain = __mjChain.then(() => MathJax.typesetPromise([el])).catch(() => {});
+};
+window.FMClear = function (el) { try { if (window.__mjReady) MathJax.typesetClear([el]); } catch (e) { /* ignore */ } };
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-svg-full.min.js" async></script>
+<script src="content.js" charset="utf-8"></script>
+<script src="media/manifest.js" charset="utf-8"></script>
+<script>
+(function () {
+  const PROBS = window.ABEL || [], TOPICS = window.ABEL_TOPICS || [], GUIDE = window.ABEL_STEPS || {}, MEDIA = window.ABEL_MEDIA || {};
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const strip = h => String(h).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+  const LETTERS = 'ABCDE';
+  const TNAME = Object.fromEntries(TOPICS.map(t => [t.k, t.name]));
+
+  /* ---------- index ---------- */
+  const QIDX = new Map();
+  PROBS.forEach(p => {
+    const [y, nr] = p.id.split('-').map(Number);
+    p.year = y; p.nr = nr; p.season = `${y}/${String(y + 1).slice(2)}`;
+    p.diff = p.diff || Math.ceil(nr / 4);
+    p.anim = !!(MEDIA[p.id] && MEDIA[p.id].length);
+    p.steps = [...(GUIDE[p.id] || []), { k: 'abc' }];
+    p.search = (p.season + ' ' + p.year + '/' + (p.year + 1) + ' nr ' + nr + ' ' + strip(p.text).replace(/\\[a-z]+/gi, ' ').replace(/[{}\\()[\]^_]/g, ' ')).toLowerCase();
+    QIDX.set(p.id, p);
+  });
+  const ALL = PROBS.map(p => p.id);
+  const TOTAL = ALL.length;
+  const YEARS = [...new Set(PROBS.map(p => p.year))].sort((a, b) => a - b);
+
+  /* ---------- state ---------- */
+  const RANKS = ['Brøkbegynder', 'Parentesløser', 'Potensjonglør', 'Kvadratsætningskender', 'Faktoriseringsfan', 'Substitutionssnu', 'Teleskopist', 'Uligheds-ninja', 'Vieta-vismand', 'Abel-finalist'];
+  const fresh = () => ({ v: 1, xp: 0, streak: 0, best: 0, q: {}, review: [], sel: [], last: null, updatedAt: 0 });
+  let S = fresh();
+  const qs = id => (S.q[id] = S.q[id] || { r: {}, cur: 0, done: false, stars: 0 });
+  const ui = { view: 'q', qid: null, reveal: null, wrong: {}, numMsg: {}, ask: {}, hint: {}, revSolved: null, copied: '' };
+  const freshF = () => ({ topics: [], diffs: [], from: YEARS[0], to: YEARS[YEARS.length - 1], anim: false, open: false, sel: false, q: '', group: 'topic' });
+  let F = freshF();
+
+  /* ---------- persistence ---------- */
+  const LS = 'abel-algebra-v1', LSF = 'abel-algebra-filter-v1';
+  const store = { ref: null, timer: 0, writing: false, again: false };
+  function loadLocal(k) { try { const raw = localStorage.getItem(k); if (raw) return JSON.parse(raw); } catch (e) { /* storage blocked */ } return null; }
+  function saveLocal() { try { localStorage.setItem(LS, JSON.stringify(S)); } catch (e) { /* storage blocked */ } }
+  function saveFilter() { try { localStorage.setItem(LSF, JSON.stringify(F)); } catch (e) { /* storage blocked */ } }
+  function setSync(t) { $('#sync').textContent = t; }
+  function persist() {
+    S.updatedAt = Date.now(); saveLocal();
+    if (!store.ref) return;
+    clearTimeout(store.timer); store.timer = setTimeout(flush, 1200); setSync('Gemmer…');
+  }
+  async function flush() {
+    if (store.writing) { store.again = true; return; }
+    store.writing = true;
+    try { await store.ref.set(JSON.parse(JSON.stringify(S))); setSync('Gemt på din konto'); }
+    catch (e) { setSync('Gemt i denne browser'); if (e && (e.code === 'invalid_argument' || e.code === 'revoked' || e.code === 'not_granted')) store.ref = null; }
+    store.writing = false;
+    if (store.again) { store.again = false; flush(); }
+  }
+  async function connectDb() {
+    const use = window.claude && window.claude.use ? n => window.claude.use(n) : async () => null;
+    try {
+      const [db, user] = await Promise.all([use('db'), use('user')]);
+      if (!db || !user) return;
+      const uid = await user.id(); if (!uid) return;
+      const ref = db.doc('data/users/' + uid + '/progress');
+      const snap = await ref.get();
+      if (snap.exists) {
+        const remote = snap.data();
+        if (remote && (remote.updatedAt || 0) > (S.updatedAt || 0)) { S = Object.assign(fresh(), JSON.parse(JSON.stringify(remote))); saveLocal(); renderAll(true); }
+      }
+      store.ref = ref; setSync('Gemt på din konto');
+      if (!snap.exists || ((snap.data() || {}).updatedAt || 0) < (S.updatedAt || 0)) flush();
+    } catch (e) { setSync('Gemt i denne browser'); }
+  }
+
+  /* ---------- helpers ---------- */
+  function hash(str) { let h = 2166136261; for (let i = 0; i < str.length; i++) { h ^= str.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; }
+  function rng(seed) { let a = seed >>> 0; return () => { a |= 0; a = a + 0x6D2B79F5 | 0; let t = Math.imul(a ^ a >>> 15, 1 | a); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+  function order(n, key) { const r = rng(hash(key)), a = [...Array(n).keys()]; for (let i = n - 1; i > 0; i--) { const j = Math.floor(r() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+  const level = xp => Math.floor(Math.sqrt(xp / 50)) + 1;
+  const lvlStart = l => 50 * (l - 1) * (l - 1);
+  function parseNum(s) {
+    s = String(s).trim().replace(/−/g, '-').replace(/,/g, '.').replace(/\s+/g, '').toLowerCase();
+    if (!s) return NaN;
+    let i = 0;
+    const peek = () => s[i];
+    function num() { const m = s.slice(i).match(/^(\d+\.?\d*|\.\d+)(e[+-]?\d+)?/); if (!m) throw 0; i += m[0].length; return parseFloat(m[0]); }
+    function prim() {
+      if (peek() === '(') { i++; const v = expr(); if (peek() !== ')') throw 0; i++; return v; }
+      const fns = { sqrt: Math.sqrt, kvrod: Math.sqrt };
+      for (const k of Object.keys(fns)) if (s.startsWith(k + '(', i)) { i += k.length + 1; const v = expr(); if (peek() !== ')') throw 0; i++; return fns[k](v); }
+      if (s.startsWith('pi', i)) { i += 2; return Math.PI; }
+      if (s.startsWith('π', i)) { i += 1; return Math.PI; }
+      return num();
+    }
+    function pow() { let v = prim(); if (peek() === '^') { i++; v = Math.pow(v, unary()); } return v; }
+    function unary() { if (peek() === '-') { i++; return -unary(); } if (peek() === '+') { i++; return unary(); } return pow(); }
+    function term() { let v = unary(); while (peek() === '*' || peek() === '/') { const o = s[i++]; const w = unary(); v = o === '*' ? v * w : v / w; } return v; }
+    function expr() { let v = term(); while (peek() === '+' || peek() === '-') { const o = s[i++]; const w = term(); v = o === '+' ? v + w : v - w; } return v; }
+    try { const v = expr(); return i === s.length ? v : NaN; } catch (e) { return NaN; }
+  }
+  const close = (x, st) => Math.abs(x - st.a) <= (st.tol ?? Math.max(1e-6, 1e-4 * Math.abs(st.a)));
+  const fmtA = a => String(Number(Number(a).toPrecision(6))).replace('.', '{,}');
+  /* MathJax (SVG) bryder ikke lange inline-formler. Del dem ved relationstegn på yderste niveau,
+     så teksten kan ombryde mellem stykkerne: \(a = b = c\) -> \(a\) \(= b\) \(= c\). */
+  const REL = /^(=|\\lt\b|\\gt\b|\\le\b|\\ge\b|\\ne\b|\\approx\b|\\Rightarrow\b)/;
+  function wrapMath(html) {
+    return String(html).replace(/\\\(([\s\S]*?)\\\)/g, (m, body) => {
+      if (body.length < 36) return m;
+      const parts = []; let depth = 0, lr = 0, last = 0;
+      for (let i = 0; i < body.length; i++) {
+        const c = body[i];
+        const atTop = depth === 0 && lr === 0 && i > last + 2;
+        if (c === '\\') {
+          if (body.startsWith('\\left', i)) lr++; else if (body.startsWith('\\right', i)) lr--;
+          else if (atTop && REL.test(body.slice(i))) { parts.push(body.slice(last, i)); last = i; }
+          i++; continue;
+        }
+        if (c === '{') depth++; else if (c === '}') depth--;
+        else if (c === '=' && atTop) { parts.push(body.slice(last, i)); last = i; }
+      }
+      parts.push(body.slice(last));
+      return parts.length < 2 ? m : parts.map(p => `\\(${p.trim()}\\)`).join(' ');
+    });
+  }
+  function setHTML(el, html) { window.FMClear(el); el.innerHTML = wrapMath(html); window.FMTypeset(el); }
+  function say(t) { $('#live').textContent = t; }
+  const diffHTML = d => `<span class="diff" aria-label="Sværhed ${d} af 5">${[1, 2, 3, 4, 5].map(i => `<i class="${i <= d ? 'on' : ''}"></i>`).join('')}</span>`;
+  const starsHTML = (n, cls = 'stars') => `<span class="${cls}" aria-label="${n} af 3 stjerner">${[0, 1, 2].map(i => `<span class="${i < n ? 'on' : ''}">★</span>`).join('')}</span>`;
+  const isSel = id => S.sel.includes(id);
+
+  /* Kort uddrag af opgaveteksten til listen: hele matematik-stykker, ca. 70 tegn. */
+  function snippet(text, max = 70) {
+    const parts = String(text).replace(/\\\[[\s\S]*?\\\]/g, ' … ').split(/(\\\([\s\S]*?\\\))/);
+    let out = '', len = 0;
+    for (const part of parts) {
+      if (!part) continue;
+      const isMath = part.startsWith('\\(');
+      const w = isMath ? Math.min(part.length / 3, 14) : part.length;
+      if (len + w > max) { if (!isMath) out += esc(part.slice(0, Math.max(0, max - len))).replace(/\s+\S*$/, ''); out += ' …'; return out; }
+      out += isMath ? part : esc(part); len += w;
+    }
+    return out;
+  }
+
+  /* ---------- XP + følge-tape ---------- */
+  const tape = [];
+  function pushTape(ok) { const prev = tape.length ? tape[tape.length - 1] : 0; tape.push(prev + (ok ? 1 : -1)); if (tape.length > 160) tape.shift(); drawTape(); }
+  function drawTape() {
+    const cv = $('#tape'); if (!cv) return; const W = cv.clientWidth, H = cv.clientHeight; if (!W) return;
+    const dpr = devicePixelRatio || 1; cv.width = W * dpr; cv.height = H * dpr;
+    const g = cv.getContext('2d'); g.setTransform(dpr, 0, 0, dpr, 0, 0); g.clearRect(0, 0, W, H);
+    const cs = getComputedStyle(document.documentElement), tok = n => cs.getPropertyValue(n).trim();
+    if (tape.length < 2) { g.strokeStyle = tok('--line'); g.beginPath(); g.moveTo(0, H / 2 + .5); g.lineTo(W, H / 2 + .5); g.stroke(); return; }
+    const lo = Math.min(...tape), hi = Math.max(...tape), span = Math.max(4, hi - lo), n = 160, w = W / (n - 1);
+    const y = v => H - 3 - (v - lo) / span * (H - 6);
+    const x0 = W - (tape.length - 1) * w;
+    for (let i = 1; i < tape.length; i++) {
+      g.strokeStyle = tape[i] >= tape[i - 1] ? tok('--c1') : tok('--c2'); g.lineWidth = 1.6;
+      g.beginPath(); g.moveTo(x0 + (i - 1) * w, y(tape[i - 1])); g.lineTo(x0 + i * w, y(tape[i])); g.stroke();
+    }
+    g.fillStyle = tok('--c1'); g.beginPath(); g.arc(W - 2, y(tape[tape.length - 1]), 2.5, 0, 7); g.fill();
+  }
+  function award(n) {
+    const before = level(S.xp); S.xp += n;
+    if (level(S.xp) > before) say(`Nyt niveau: ${RANKS[Math.min(RANKS.length - 1, level(S.xp) - 1)]}`);
+    renderHud();
+    return n;
+  }
+  function renderHud() {
+    const L = level(S.xp), lo = lvlStart(L), hi = lvlStart(L + 1);
+    $('#lvlName').textContent = `Niv. ${L} · ${RANKS[Math.min(RANKS.length - 1, L - 1)]}`;
+    $('#xpTxt').textContent = `${S.xp} / ${hi} XP`;
+    $('#xpBar').style.width = `${Math.round(100 * (S.xp - lo) / (hi - lo))}%`;
+    const st = $('#streak'); st.innerHTML = `Stime <b>${S.streak}</b>${S.streak >= 3 ? ` ×${(1 + 0.1 * Math.min(S.streak, 10)).toFixed(1).replace('.', ',')}` : ''}`; st.classList.toggle('hot', S.streak >= 3);
+    $('#solved').textContent = `${ALL.filter(id => S.q[id] && S.q[id].done).length}/${TOTAL}`;
+    $('#revN').textContent = S.review.length;
+    $('#selN').textContent = S.sel.length;
+    $('#selBtn').setAttribute('aria-pressed', ui.view === 'sel');
+    $('#reviewBtn').setAttribute('aria-pressed', ui.view === 'review');
+  }
+
+  /* ---------- filter ---------- */
+  function matches(p, skip) {
+    if (skip !== 'topics' && F.topics.length && !p.topics.some(t => F.topics.includes(t))) return false;
+    if (skip !== 'diffs' && F.diffs.length && !F.diffs.includes(p.diff)) return false;
+    if (p.year < F.from || p.year > F.to) return false;
+    if (F.anim && !p.anim) return false;
+    if (F.open && S.q[p.id] && S.q[p.id].done) return false;
+    if (F.sel && !isSel(p.id)) return false;
+    if (F.q) { const words = F.q.toLowerCase().split(/\s+/).filter(Boolean); if (!words.every(w => p.search.includes(w))) return false; }
+    return true;
+  }
+  const filtered = () => PROBS.filter(p => matches(p));
+  function renderFilters() {
+    const tcount = k => PROBS.filter(p => matches(p, 'topics') && p.topics.includes(k)).length;
+    $('#fTopics').innerHTML = TOPICS.map(t => `<button class="tag" type="button" data-ftopic="${t.k}" aria-pressed="${F.topics.includes(t.k)}">${esc(t.name)} <small>${tcount(t.k)}</small></button>`).join('');
+    const dcount = d => PROBS.filter(p => matches(p, 'diffs') && p.diff === d).length;
+    const dlab = ['1–4', '5–8', '9–12', '13–16', '17–20'];
+    $('#fDiff').innerHTML = [1, 2, 3, 4, 5].map(d => `<button class="seg-btn" type="button" data-fdiff="${d}" aria-pressed="${F.diffs.includes(d)}" title="Sværhed ${d}: Abel-opgave nr. ${dlab[d - 1]}">${d}<small>${dcount(d)}</small></button>`).join('');
+    const opt = (y, cur) => `<option value="${y}" ${y === cur ? 'selected' : ''}>${y}/${String(y + 1).slice(2)}</option>`;
+    $('#fFrom').innerHTML = YEARS.map(y => opt(y, F.from)).join('');
+    $('#fTo').innerHTML = YEARS.map(y => opt(y, F.to)).join('');
+    $('#fAnim').setAttribute('aria-pressed', F.anim); $('#fOpen').setAttribute('aria-pressed', F.open); $('#fSel').setAttribute('aria-pressed', F.sel);
+    $('#fAnim').innerHTML = `Med animation <small>${PROBS.filter(p => p.anim).length}</small>`;
+    $('#fGroup').innerHTML = [['topic', 'Delemne'], ['season', 'Sæson'], ['diff', 'Sværhed']].map(([k, n]) => `<button class="seg-btn" type="button" data-fgroup="${k}" aria-pressed="${F.group === k}">${n}</button>`).join('');
+    if ($('#fq').value !== F.q) $('#fq').value = F.q;
+  }
+
+  /* ---------- map ---------- */
+  function rowHTML(p, cur) {
+    const st = S.q[p.id];
+    const status = st && st.done ? starsHTML(st.stars) : (st && st.cur ? `<span class="set-p">${st.cur}/${p.steps.length}</span>` : '');
+    return `<div class="qrow"><button class="qlink" type="button" data-q="${p.id}" aria-current="${p.id === cur}">
+      <span class="qid">${p.season} · ${p.nr}</span><span class="qt">${snippet(p.text)}</span>
+      <span class="qm">${diffHTML(p.diff)}${p.anim ? '<span class="film">manim</span>' : ''}${status}</span></button>
+      <button class="star-btn" type="button" data-star="${p.id}" aria-pressed="${isSel(p.id)}" aria-label="${isSel(p.id) ? 'Fjern fra' : 'Tilføj til'} udvalgte">★</button></div>`;
+  }
+  let mapSig = '';
+  function renderMap(force) {
+    const list = filtered(), cur = ui.view === 'q' ? ui.qid : null;
+    $('#fCount').textContent = `${list.length} af ${TOTAL} opgaver`;
+    const groups = new Map();
+    const add = (k, label, p) => { if (!groups.has(k)) groups.set(k, { label, items: [] }); groups.get(k).items.push(p); };
+    if (F.group === 'topic') {
+      const order = TOPICS.map(t => t.k);
+      list.slice().sort((a, b) => order.indexOf(a.topics[0]) - order.indexOf(b.topics[0]) || a.diff - b.diff || a.year - b.year || a.nr - b.nr)
+        .forEach(p => add(p.topics[0], TNAME[p.topics[0]], p));
+    } else if (F.group === 'season') {
+      list.slice().sort((a, b) => b.year - a.year || a.nr - b.nr).forEach(p => add(p.year, `${p.year}/${p.year + 1}`, p));
+    } else {
+      const dname = ['', '1 · nr. 1–4', '2 · nr. 5–8', '3 · nr. 9–12', '4 · nr. 13–16', '5 · nr. 17–20'];
+      list.slice().sort((a, b) => a.diff - b.diff || a.year - b.year || a.nr - b.nr).forEach(p => add(p.diff, 'Sværhed ' + dname[p.diff], p));
+    }
+    const sig = JSON.stringify([F, list.map(p => p.id), cur, S.sel, list.map(p => S.q[p.id] ? [S.q[p.id].done, S.q[p.id].stars, S.q[p.id].cur] : 0)]);
+    if (!force && sig === mapSig) return;
+    mapSig = sig;
+    const wasClosed = new Set([...document.querySelectorAll('#mapList details:not([open])')].map(d => d.dataset.g));
+    const html = [...groups.entries()].map(([k, g]) => {
+      const done = g.items.filter(p => S.q[p.id] && S.q[p.id].done).length;
+      const open = !wasClosed.has(String(k)) || g.items.some(p => p.id === cur);
+      return `<details class="set" data-g="${k}" ${open ? 'open' : ''}><summary><span class="set-t">${esc(g.label)}</span><span class="set-p">${done}/${g.items.length}</span></summary>
+        <div class="bar"><i style="width:${Math.round(100 * done / g.items.length)}%"></i></div>${g.items.map(p => rowHTML(p, cur)).join('')}</details>`;
+    }).join('');
+    setHTML($('#mapList'), html || '<p class="empty-list">Ingen opgaver passer til filtret. Fjern et delemne eller en sværhedsgrad.</p>');
+  }
+  function setFilter(mut) { mut(F); saveFilter(); renderFilters(); renderMap(); }
+
+  /* ---------- question view ---------- */
+  function openQ(id) {
+    if (!QIDX.has(id)) id = (filtered()[0] || PROBS[0]).id;
+    ui.view = 'q'; ui.qid = id; ui.reveal = null; S.last = id; saveLocal();
+    renderAll(true);
+    if (innerWidth <= 980) $('#map').hidden = true;
+    window.scrollTo({ top: 0 });
+    try { history.replaceState(null, '', '#' + id); } catch (e) { /* sandboxed */ }
+  }
+  function renderAll(remount) {
+    renderHud(); renderMap();
+    if (ui.view === 'review') return renderReview();
+    if (ui.view === 'sel') return renderSel();
+    if (remount || !$('#qroot') || $('#qroot').dataset.q !== ui.qid) renderQuestion(); else { renderSteps(); renderFinish(); }
+  }
+  function neighbours(id) { const ids = filtered().map(p => p.id); const i = ids.indexOf(id); return { prev: i > 0 ? ids[i - 1] : null, next: i >= 0 && i < ids.length - 1 ? ids[i + 1] : (i < 0 ? ids[0] : null) }; }
+  function renderQuestion() {
+    const p = QIDX.get(ui.qid), main = $('#main');
+    window.FMClear(main);
+    main.innerHTML = `<div id="qroot" data-q="${p.id}">
+      <div class="crumbs"><span>Algebra</span><span>›</span><span>${p.year}/${p.year + 1}</span><span>›</span><span>Opgave ${p.nr}</span>
+        <span class="badge">sværhed ${diffHTML(p.diff)} ${p.diff}/5</span>${p.anim ? `<span class="badge anim">manim-gennemgang · ${MEDIA[p.id].length} klip</span>` : ''}</div>
+      <div class="q-head"><h2 class="q-title">Opgave ${p.nr} <span>· ${p.season}</span></h2>
+        <button class="btn" type="button" data-star="${p.id}" aria-pressed="${isSel(p.id)}">${isSel(p.id) ? '★ Udvalgt' : '☆ Vælg til sæt'}</button></div>
+      <div class="q-text">${wrapMath(p.text)}</div>
+      <div class="topics">${p.topics.map(t => `<span class="badge">${esc(TNAME[t])}</span>`).join('')}</div>
+      <div id="steps"></div>
+      <div id="finish"></div>
+    </div>`;
+    window.FMTypeset(main);
+    renderSteps(); renderFinish();
+  }
+
+  function clipHTML(p, i, auto) {
+    const c = MEDIA[p.id] && MEDIA[p.id][i]; if (!c) return '';
+    return `<div class="screen"><video src="${c.src}" ${auto ? 'autoplay' : ''} muted playsinline controls preload="metadata"></video>
+      <div class="screen-cap"><span>Klip ${i + 1}/${MEDIA[p.id].length} · ${esc(c.label)}</span><span>${String(c.dur.toFixed(0))} s · manim</span></div></div>`;
+  }
+  function stepAnswerHTML(p, sp) {
+    if (sp.k === 'abc') return `<b>${p.ans}</b> ${p.opts[LETTERS.indexOf(p.ans)]}`;
+    return sp.k === 'mcq' ? sp.o[0] : `\\(${fmtA(sp.a)}\\)`;
+  }
+  function renderSteps() {
+    const p = QIDX.get(ui.qid), st = qs(p.id), host = $('#steps');
+    const n = p.steps.length;
+    const dots = p.steps.map((_, i) => `<span class="dot ${st.r[i] || ''} ${i === st.cur && !st.done ? 'cur' : ''}" title="Trin ${i + 1}"></span>`).join('');
+    let html = `<div class="steps-head"><h3>${n > 1 ? `Løs den i ${n} trin` : 'Vælg svaret'}</h3>${n > 1 ? `<div class="dots" aria-label="Fremskridt">${dots}</div>` : ''}</div>`;
+    p.steps.forEach((sp, i) => {
+      const justDone = ui.reveal && ui.reveal.qid === p.id && ui.reveal.i === i;
+      if (i < st.cur && !justDone) {
+        const r = st.r[i] || 'ok', lab = { ok: 'første forsøg', miss: 'efter en fejl', shown: 'vist' }[r];
+        html += `<div class="done-step"><span class="mark ${r}">${lab}</span><div><div class="pr">${sp.k === 'abc' ? 'Svar' : sp.p}</div><div class="ans">→ ${stepAnswerHTML(p, sp)}</div></div>${sp.why ? `<details><summary>hvorfor</summary>${sp.why}</details>` : ''}</div>`;
+      }
+    });
+    const i = ui.reveal && ui.reveal.qid === p.id ? ui.reveal.i : st.cur;
+    if (i < n && !(st.done && !ui.reveal)) html += stepCard(p, p.steps[i], i, 'q');
+    setHTML(host, html);
+    const inp = host.querySelector('input[data-num]'); if (inp && !ui.reveal) inp.focus({ preventScroll: true });
+  }
+
+  function stepCard(p, sp, i, mode, extra = {}) {
+    const key = `${p.id}#${i}${mode === 'review' ? '#r' : ''}`;
+    const solved = mode === 'q' ? !!(ui.reveal && ui.reveal.qid === p.id && ui.reveal.i === i) : !!extra.solved;
+    if (mode === 'q' && solved) extra = { shown: ui.reveal.shown, xp: ui.reveal.xp };
+    const wrong = ui.wrong[key] || new Set();
+    const n = p.steps.length;
+    const title = mode === 'review' ? `Gentag · ${p.season} opg. ${p.nr}, trin ${i + 1}` : sp.k === 'abc' ? (n > 1 ? `Trin ${i + 1} af ${n} · slutsvar` : 'Svar') : `Trin ${i + 1} af ${n}`;
+    const prompt = sp.k === 'abc' ? (n > 1 ? 'Nu kan du vælge svaret på opgaven.' : '') : sp.p;
+    let body = '';
+    if (sp.k === 'abc') {
+      const right = LETTERS.indexOf(p.ans);
+      const long = p.opts.some(o => strip(o).length > 34);
+      body = `<div class="opts abc ${long ? 'long' : ''}" role="group" aria-label="Svarmuligheder">${p.opts.map((o, oi) => {
+        const cls = solved ? (oi === right ? 'right' : 'dim') : wrong.has(oi) ? 'wrong' : '';
+        return `<button class="opt ${cls}" type="button" data-pick="${oi}" data-key="${key}" ${solved || wrong.has(oi) ? 'disabled' : ''}><span class="kbd">${LETTERS[oi]}</span><span>${o}</span></button>`;
+      }).join('')}</div>`;
+    } else if (sp.k === 'mcq') {
+      const ord = order(sp.o.length, key.replace('#r', ''));
+      body = `<div class="opts" role="group" aria-label="Svarmuligheder">${ord.map((oi, k) => {
+        const cls = solved ? (oi === 0 ? 'right' : 'dim') : wrong.has(oi) ? 'wrong' : '';
+        return `<button class="opt ${cls}" type="button" data-pick="${oi}" data-key="${key}" ${solved || wrong.has(oi) ? 'disabled' : ''}><span class="kbd">${k + 1}</span><span>${sp.o[oi]}</span></button>`;
+      }).join('')}</div>`;
+    } else {
+      body = solved ? `<div class="fb info"><span class="fb-k">Facit</span>\\(${fmtA(sp.a)}\\)</div>` : `<div class="num-row"><input data-num="${key}" id="in-${key.replace(/[^a-z0-9]/gi, '-')}" inputmode="decimal" autocomplete="off" aria-label="Dit svar"><button class="btn btn-primary" type="button" data-check="${key}">Tjek</button></div><div class="hintline">Tal eller udtryk: 3, -49, 0,5, 1/4, sqrt(2), 2^9</div>`;
+    }
+    const msg = ui.numMsg[key];
+    let fb = '';
+    if (solved) {
+      const lead = sp.k === 'abc' ? `${extra.shown ? 'Svaret er' : 'Rigtigt:'} ${p.ans}` : (extra.shown ? 'Svaret er vist' : 'Rigtigt');
+      fb = `<div class="fb good"><span class="fb-k">${lead}${extra.xp ? ` · +${extra.xp} XP` : ''}</span>${sp.k === 'abc' ? '' : (sp.why || '')}</div>`;
+      if (mode === 'q') fb += clipHTML(p, i, true);
+    } else if (msg) fb = `<div class="fb bad"><span class="fb-k">Ikke helt</span>${msg}</div>`;
+    else if (wrong.size && sp.k === 'abc') fb = `<div class="fb bad"><span class="fb-k">Ikke ${[...wrong].map(o => LETTERS[o]).join(' eller ')}</span>Prøv igen, eller tag et hint.</div>`;
+    const showHint = ui.hint[p.id] && p.hint && mode === 'q' && !solved;
+    if (showHint) fb += `<div class="fb info"><span class="fb-k">Hint</span>${p.hint}</div>`;
+    const isLast = i + 1 >= n;
+    const actions = solved
+      ? `<button class="btn btn-primary" type="button" data-next="${key}">${mode === 'q' && isLast ? 'Se løsningen' : 'Fortsæt'}</button>`
+      : `${p.hint && mode === 'q' && !ui.hint[p.id] ? `<button class="btn" type="button" data-hint="${p.id}">Vis hint</button>` : ''}<button class="btn btn-quiet" type="button" data-show="${key}">Vis svaret</button>`;
+    const ask = sampleReady ? `<button class="btn btn-quiet" type="button" data-ask="${key}">Spørg Claude</button>` : '';
+    const askOut = ui.ask[key] ? `<div class="claude"><span class="claude-k">Claude</span><div class="claude-out ${ui.ask[key].done ? 'fmt' : ''}" data-askout="${key}">${ui.ask[key].html}</div></div>` : '';
+    return `<div class="step active" data-stepkey="${key}"><span class="step-k">${title}</span>${prompt ? `<div class="step-p">${prompt}</div>` : ''}${body}${fb}<div class="step-actions">${actions}${ask}</div>${askOut}</div>`;
+  }
+
+  function playerHTML(p) {
+    const clips = MEDIA[p.id]; if (!clips) return '';
+    const total = clips.reduce((a, c) => a + c.dur, 0);
+    return `<div class="player" id="player" data-q="${p.id}" data-i="0"><span class="k" style="font-family:var(--mono);font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)">Hele gennemgangen · ${clips.length} klip · ${Math.round(total)} s</span>
+      <div class="screen"><video id="pv" src="${clips[0].src}" muted playsinline controls preload="metadata"></video>
+      <div class="screen-cap"><span id="pvCap">Klip 1/${clips.length} · ${esc(clips[0].label)}</span><span>afspiller klippene i rækkefølge</span></div></div>
+      <div class="chapters">${clips.map((c, i) => `<button class="btn" type="button" data-chap="${i}" aria-pressed="${i === 0}">${i + 1} · ${esc(c.label)} <small>${c.dur.toFixed(0)} s</small></button>`).join('')}</div></div>`;
+  }
+  function playChapter(i, autoplay) {
+    const box = $('#player'); if (!box) return; const clips = MEDIA[box.dataset.q]; if (!clips || !clips[i]) return;
+    box.dataset.i = i; const v = $('#pv'); v.src = clips[i].src;
+    $('#pvCap').textContent = `Klip ${i + 1}/${clips.length} · ${clips[i].label}`;
+    box.querySelectorAll('[data-chap]').forEach(b => b.setAttribute('aria-pressed', +b.dataset.chap === i));
+    if (autoplay) v.play().catch(() => {});
+  }
+  function renderFinish() {
+    const p = QIDX.get(ui.qid), st = qs(p.id), host = $('#finish');
+    if (!st.done || (ui.reveal && ui.reveal.qid === p.id)) { setHTML(host, ''); return; }
+    const { next } = neighbours(p.id);
+    setHTML(host, `<div class="finish">
+      <h3>Opgave ${p.nr} · ${p.season} er løst</h3>${starsHTML(st.stars, 'big-stars')}
+      <div class="sol"><span class="k">Svar ${p.ans} · officiel løsning (oversat)</span><div>${p.sol}</div></div>
+      ${playerHTML(p)}
+      <div class="step-actions" style="margin-top:16px">${next ? `<button class="btn btn-primary" type="button" data-open="${next}">Næste: ${QIDX.get(next).season} opg. ${QIDX.get(next).nr}</button>` : '<span>Det var den sidste opgave i filtret.</span>'}<button class="btn btn-quiet" type="button" data-replay="${p.id}">Løs den igen</button><button class="btn btn-quiet" type="button" data-star="${p.id}" aria-pressed="${isSel(p.id)}">${isSel(p.id) ? '★ Udvalgt' : '☆ Vælg til sæt'}</button></div>
+    </div>`);
+    const v = $('#pv');
+    if (v) v.addEventListener('ended', () => { const i = +$('#player').dataset.i; if (i + 1 < MEDIA[p.id].length) playChapter(i + 1, true); });
+  }
+
+  /* ---------- answering ---------- */
+  function locate(key) {
+    const [qid, i, tag] = key.split('#'); const p = QIDX.get(qid);
+    return { p, i: +i, sp: p.steps[+i], mode: tag === 'r' ? 'review' : 'q' };
+  }
+  function correct(key, shown) {
+    const { p, i, mode } = locate(key);
+    if (mode === 'review') {
+      const first = !(ui.wrong[key] && ui.wrong[key].size) && !ui.numMsg[key + '!'] && !shown;
+      ui.revSolved = { key, shown, xp: first ? award(5) : 0 };
+      const item = `${p.id}#${i}`;
+      S.review = S.review.filter(k => k !== item);
+      if (!first) S.review.push(item);
+      pushTape(first); persist(); renderHud(); renderReview(); return;
+    }
+    const st = qs(p.id), isNew = st.r[i] === undefined, first = isNew && !shown;
+    if (isNew) st.r[i] = shown ? 'shown' : 'ok';
+    let xp = 0;
+    if (first) { S.streak++; S.best = Math.max(S.best, S.streak); xp = award(Math.round(10 * (1 + 0.1 * Math.min(S.streak, 10)))); }
+    else if (!shown) xp = award(3);
+    if (shown) S.streak = 0;
+    if (!first && !S.review.includes(`${p.id}#${i}`)) S.review.push(`${p.id}#${i}`);
+    pushTape(first);
+    st.cur = Math.max(st.cur, i + 1);
+    if (st.cur >= p.steps.length && !st.done) {
+      st.done = true;
+      const okN = p.steps.filter((_, k) => st.r[k] === 'ok').length, ratio = okN / p.steps.length;
+      let stars = ratio === 1 ? 3 : ratio >= 0.6 ? 2 : 1;
+      if (st.hint) stars = Math.min(stars, 2);
+      st.stars = Math.max(st.best || 0, stars);
+      award(10 + 2 * p.diff + (st.stars === 3 ? 10 : 0));
+    }
+    ui.reveal = { qid: p.id, i, xp, shown };
+    say(shown ? 'Svaret er vist' : 'Rigtigt');
+    persist(); renderHud(); renderMap(); renderSteps();
+    $('#steps .step.active [data-next]')?.focus({ preventScroll: true });
+  }
+  function miss(key) {
+    const { p, i, mode } = locate(key);
+    if (mode === 'q') {
+      const st = qs(p.id);
+      if (st.r[i] === undefined) { st.r[i] = 'miss'; S.streak = 0; pushTape(false); if (!S.review.includes(`${p.id}#${i}`)) S.review.push(`${p.id}#${i}`); persist(); renderHud(); }
+    } else { ui.numMsg[key + '!'] = 1; pushTape(false); }
+    say('Ikke helt');
+  }
+  function pick(key, oi) {
+    const { p, sp, mode } = locate(key);
+    const right = sp.k === 'abc' ? LETTERS.indexOf(p.ans) : 0;
+    if (oi === right) return correct(key, false);
+    (ui.wrong[key] = ui.wrong[key] || new Set()).add(oi); miss(key);
+    rerender(mode);
+  }
+  function check(key) {
+    const { sp, mode } = locate(key);
+    const inp = document.querySelector(`[data-num="${CSS.escape(key)}"]`), x = parseNum(inp.value);
+    if (!Number.isFinite(x)) { ui.numMsg[key] = 'Det kan ikke læses som et tal. Prøv fx 3, -49, 0,5 eller 1/4.'; rerender(mode, inp.value); return; }
+    if (close(x, sp)) { delete ui.numMsg[key]; return correct(key, false); }
+    ui.numMsg[key] = `\\(${fmtA(x)}\\) er ikke rigtigt. Regn efter, eller tryk Vis svaret.`; miss(key);
+    rerender(mode, inp.value);
+  }
+  function rerender(mode, keepVal) {
+    if (mode === 'review') return renderReview(keepVal);
+    renderSteps();
+    if (keepVal !== undefined) { const inp = $('#steps input[data-num]'); if (inp) { inp.value = keepVal; inp.select(); } }
+  }
+  function nextStep(key) {
+    const { mode } = locate(key);
+    if (mode === 'review') { [key, key + '!'].forEach(k => { delete ui.numMsg[k]; }); delete ui.wrong[key]; delete ui.ask[key]; ui.revSolved = null; renderReview(); return; }
+    ui.reveal = null; renderSteps(); renderFinish();
+    const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (qs(ui.qid).done) $('#finish').scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' });
+    else $('#steps .step.active')?.scrollIntoView({ block: 'nearest' });
+  }
+
+  /* ---------- review ---------- */
+  function openReview() { ui.view = 'review'; ui.revSolved = null; renderAll(); window.scrollTo({ top: 0 }); if (innerWidth <= 980) $('#map').hidden = true; }
+  function renderReview(keepVal) {
+    const main = $('#main');
+    if (!S.review.length && !ui.revSolved) {
+      setHTML(main, `<h2 class="q-title">Gentag</h2><p class="empty">Intet at gentage. Trin, du svarer forkert på eller får vist, havner her, så du kan prøve dem igen uden resten af opgaven.</p>${S.last ? `<div class="step-actions"><button class="btn btn-primary" type="button" data-open="${S.last}">Tilbage til opgaven</button></div>` : ''}`);
+      return;
+    }
+    const k = ui.revSolved ? ui.revSolved.key.replace('#r', '') : S.review[0];
+    const [qid, i] = k.split('#'); const p = QIDX.get(qid), sp = p.steps[+i];
+    const solved = !!ui.revSolved;
+    setHTML(main, `<h2 class="q-title">Gentag</h2><p class="crumbs">${S.review.length} trin i køen. Svar rigtigt i første forsøg for at fjerne et trin.</p>
+      <div class="q-text" style="margin:12px 0"><span class="badge">${p.season} · opg. ${p.nr}</span> ${p.text}</div>
+      ${stepCard(p, sp, +i, 'review', { solved, shown: solved && ui.revSolved.shown, xp: solved && ui.revSolved.xp })}
+      <div class="step-actions"><button class="btn btn-quiet" type="button" data-open="${p.id}">Åbn hele opgaven</button>${S.review.length > 1 && !solved ? '<button class="btn btn-quiet" type="button" id="skipRev">Spring over</button>' : ''}</div>`);
+    if (keepVal !== undefined) { const inp = main.querySelector('input[data-num]'); if (inp) { inp.value = keepVal; inp.select(); } }
+  }
+
+  /* ---------- udvalgte + LaTeX ---------- */
+  function toggleSel(id) {
+    S.sel = isSel(id) ? S.sel.filter(x => x !== id) : [...S.sel, id];
+    persist(); renderHud(); renderMap(true);
+    document.querySelectorAll(`[data-star="${CSS.escape(id)}"]`).forEach(b => {
+      b.setAttribute('aria-pressed', isSel(id));
+      if (b.classList.contains('btn')) b.textContent = isSel(id) ? '★ Udvalgt' : '☆ Vælg til sæt';
+    });
+    if (ui.view === 'sel') renderSel();
+  }
+  function toLatex(s) {
+    return String(s).split(/(\\\([\s\S]*?\\\)|\\\[[\s\S]*?\\\])/).map(part => {
+      if (part.startsWith('\\(')) return '$' + part.slice(2, -2).replace(/\\lt\b/g, '<').replace(/\\gt\b/g, '>') + '$';
+      if (part.startsWith('\\[')) return part.replace(/\\lt\b/g, '<').replace(/\\gt\b/g, '>');
+      return part.replace(/(\d)\s?%/g, '$1\\,\\%').replace(/%/g, '\\%');
+    }).join('');
+  }
+  function exportTex(ids) {
+    return ids.map(id => {
+      const p = QIDX.get(id);
+      return `% Abel ${p.season}, opgave ${p.nr} · ${p.topics.map(t => TNAME[t]).join(', ')} · sværhed ${p.diff}/5\n\\begin{opg}\n\\label{opg:abel-${p.id}}\n${toLatex(p.text)}\n\n\\noindent${p.opts.map((o, i) => `\\textbf{${LETTERS[i]}} ${toLatex(o)}`).join('\\quad\n')}\n\\end{opg}\n\n\\vspace{5mm}\n`;
+    }).join('\n');
+  }
+  function exportKey(ids) { return `\\begin{multicols}{4}\n\\noindent\n${ids.map((id, k) => `Opgave ${k + 1}: ${QIDX.get(id).ans}\\\\`).join('\n')}\n\\end{multicols}\n`; }
+  function exportList(ids) { return ids.map((id, k) => { const p = QIDX.get(id); return `${k + 1}. Abel ${p.season} opg. ${p.nr} (svar ${p.ans}, ${TNAME[p.topics[0]]}, sværhed ${p.diff})`; }).join('\n'); }
+  function openSel() { ui.view = 'sel'; renderAll(); window.scrollTo({ top: 0 }); if (innerWidth <= 980) $('#map').hidden = true; }
+  function renderSel() {
+    const main = $('#main'), ids = S.sel.filter(id => QIDX.has(id));
+    if (!ids.length) {
+      setHTML(main, `<h2 class="q-title">Udvalgte opgaver</h2><p class="empty">Ingen opgaver er valgt endnu. Tryk på ★ ved en opgave i listen, eller på “Vælg til sæt” på en opgave, for at bygge et opgavesæt. Her kan du derefter ordne dem og kopiere dem som LaTeX.</p>`);
+      return;
+    }
+    const tex = exportTex(ids), key = exportKey(ids), list = exportList(ids);
+    setHTML(main, `<h2 class="q-title">Udvalgte opgaver <span>· ${ids.length}</span></h2>
+      <div class="step-actions"><button class="btn" type="button" id="selSortDiff">Sortér efter sværhed</button><button class="btn" type="button" id="selSortYear">Sortér efter år</button><button class="btn btn-quiet" type="button" id="selClear">Fjern alle</button></div>
+      <ol class="sel-list">${ids.map((id, k) => { const p = QIDX.get(id); return `<li class="sel-item"><div style="min-width:0"><div class="meta"><span>${p.season} · opg. ${p.nr}</span>${diffHTML(p.diff)}<span>svar ${p.ans}</span><span>${esc(TNAME[p.topics[0]])}</span></div><div class="txt">${p.text}</div></div>
+        <div class="sel-tools"><button class="btn" type="button" data-mv="${id}" data-d="-1" ${k === 0 ? 'disabled' : ''} aria-label="Flyt op">↑</button><button class="btn" type="button" data-mv="${id}" data-d="1" ${k === ids.length - 1 ? 'disabled' : ''} aria-label="Flyt ned">↓</button><button class="btn" type="button" data-open="${id}">Åbn</button><button class="btn btn-quiet" type="button" data-star="${id}" aria-label="Fjern">✕</button></div></li>`; }).join('')}</ol>
+      <div class="sol"><span class="k">Eksport</span>LaTeX i samme <code>opg</code>-stil som <code>abelkonkurransen_geometri.tex</code> (kræver <code>amsmath</code> og, for facit, <code>multicol</code>).</div>
+      <div class="step-actions"><button class="btn btn-primary" type="button" data-copy="tex">Kopiér opgaver som LaTeX</button><button class="btn" type="button" data-copy="key">Kopiér facit</button><button class="btn" type="button" data-copy="list">Kopiér som liste</button><span class="chip" id="copyMsg" aria-live="polite">${esc(ui.copied)}</span></div>
+      <textarea class="export" id="exportBox" readonly aria-label="LaTeX-eksport">${esc(tex)}</textarea>`);
+    main.dataset.tex = tex; main.dataset.key = key; main.dataset.list = list;
+  }
+  async function copy(kind) {
+    const main = $('#main'), txt = main.dataset[kind] || '', box = $('#exportBox');
+    box.value = txt;
+    const label = { tex: 'Opgaverne', key: 'Facit', list: 'Listen' }[kind];
+    try { await navigator.clipboard.writeText(txt); ui.copied = `${label} er kopieret.`; }
+    catch (e) { box.focus(); box.select(); ui.copied = `Kopiering blev afvist: teksten er markeret, tryk Ctrl+C / ⌘C.`; }
+    $('#copyMsg').textContent = ui.copied;
+  }
+
+  /* ---------- Claude ---------- */
+  let sample = null, sampleReady = false;
+  function formatClaude(text) { return esc(text).split(/\n{2,}/).map(p => `<p>${p.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/\n/g, '<br>')}</p>`).join(''); }
+  function ctxFor(p) {
+    return `Konkurrence: Abelkonkurrencen (norsk), runde 1, multiple choice A–E, for gymnasieelever. Opgaven er oversat til dansk og bruges til træning af danske Georg Mohr-deltagere.\nSæson ${p.year}/${p.year + 1}, opgave ${p.nr} (sværhed ${p.diff}/5). Delemne: ${p.topics.map(t => TNAME[t]).join(', ')}.\nOpgave: ${strip(p.text)}\nSvarmuligheder: ${p.opts.map((o, i) => LETTERS[i] + ') ' + strip(o)).join('  ')}\nRigtigt svar: ${p.ans}\nOfficiel løsning: ${strip(p.sol)}`;
+  }
+  async function askStep(key) {
+    if (!sample) return;
+    const { p, sp } = locate(key);
+    const right = sp.k === 'abc' ? LETTERS.indexOf(p.ans) : 0;
+    const opts = sp.k === 'abc' ? p.opts : sp.o || [];
+    const wrong = [...(ui.wrong[key] || [])].map(oi => strip(opts[oi] || ''));
+    const stepTxt = sp.k === 'abc' ? 'Eleven skal vælge det rigtige svar A–E.' : `Eleven arbejder på dette trin: ${strip(sp.p)}\n${sp.k === 'mcq' ? `Muligheder: ${sp.o.map(strip).join(' | ')}\nRigtig mulighed: ${strip(sp.o[0])}` : `Rigtigt tal: ${sp.a}`}\nKort forklaring: ${strip(sp.why || '')}`;
+    const prompt = `${ctxFor(p)}\n\n${stepTxt}\n${wrong.length ? `Eleven har fejlagtigt valgt: ${wrong.join(' | ')}` : 'Eleven har ikke svaret forkert endnu.'}\n\nForklar på dansk, med højst 150 ord, ${wrong.length ? 'hvad der er galt med det eleven valgte, og ' : ''}hvordan man kommer videre. Afslør ikke svarbogstavet, medmindre eleven allerede har svaret forkert to gange. Skriv matematik i LaTeX med \\( \\) inline og \\[ \\] for display. Almindelige afsnit, ingen overskrifter.`;
+    ui.ask[key] = { html: 'Tænker…', done: false };
+    rerenderAsk(key);
+    try {
+      const { text } = await sample(prompt, { onText: ({ text }) => { ui.ask[key].html = esc(text); const o = document.querySelector(`[data-askout="${CSS.escape(key)}"]`); if (o) o.textContent = text; } });
+      ui.ask[key] = { html: formatClaude(text), done: true };
+    } catch (e) {
+      ui.ask[key] = { html: e && e.text ? formatClaude(e.text) : askError(e), done: true };
+      if (e && ['not_granted', 'sampling_disabled', 'not_declared', 'capability_disabled'].includes(e.code)) sampleReady = false;
+    }
+    rerenderAsk(key);
+  }
+  function askError(e) { const c = e && e.code; if (c === 'rate_limited') return 'For mange forespørgsler lige nu. Prøv igen om et minut.'; if (c === 'not_granted' || c === 'sampling_disabled') return 'Claude er ikke tilgængelig på denne side for din konto.'; if (c === 'cancelled') return 'Stoppet.'; return 'Claude svarede ikke. Prøv igen.'; }
+  function rerenderAsk(key) {
+    const box = document.querySelector(`[data-stepkey="${CSS.escape(key)}"]`); if (!box) return;
+    let out = box.querySelector('.claude');
+    if (!out) { out = document.createElement('div'); out.className = 'claude'; out.innerHTML = '<span class="claude-k">Claude</span><div class="claude-out"></div>'; box.append(out); }
+    const o = out.querySelector('.claude-out'); o.setAttribute('data-askout', key); o.classList.toggle('fmt', ui.ask[key].done);
+    window.FMClear(o); o.innerHTML = ui.ask[key].html; if (ui.ask[key].done) window.FMTypeset(o);
+  }
+
+  /* ---------- events ---------- */
+  document.addEventListener('click', ev => {
+    const t = ev.target.closest('button'); if (!t) return;
+    if (t.dataset.q) return openQ(t.dataset.q);
+    if (t.dataset.open) return openQ(t.dataset.open);
+    if (t.dataset.star) return toggleSel(t.dataset.star);
+    if (t.dataset.pick !== undefined) return pick(t.dataset.key, +t.dataset.pick);
+    if (t.dataset.check) return check(t.dataset.check);
+    if (t.dataset.show) { const key = t.dataset.show, { mode } = locate(key); if (mode === 'review') ui.numMsg[key + '!'] = 1; delete ui.numMsg[key]; return correct(key, true); }
+    if (t.dataset.next) return nextStep(t.dataset.next);
+    if (t.dataset.hint) { ui.hint[t.dataset.hint] = true; qs(t.dataset.hint).hint = true; persist(); return renderSteps(); }
+    if (t.dataset.ask) return askStep(t.dataset.ask);
+    if (t.dataset.chap !== undefined) return playChapter(+t.dataset.chap, true);
+    if (t.dataset.replay) { const id = t.dataset.replay; S.q[id] = { r: {}, cur: 0, done: false, stars: 0, best: (S.q[id] || {}).stars || 0 }; Object.keys(ui.wrong).forEach(k => k.startsWith(id + '#') && delete ui.wrong[k]); Object.keys(ui.numMsg).forEach(k => k.startsWith(id + '#') && delete ui.numMsg[k]); delete ui.hint[id]; ui.reveal = null; persist(); return renderAll(true); }
+    if (t.dataset.ftopic) return setFilter(f => { f.topics = f.topics.includes(t.dataset.ftopic) ? f.topics.filter(x => x !== t.dataset.ftopic) : [...f.topics, t.dataset.ftopic]; });
+    if (t.dataset.fdiff) return setFilter(f => { const d = +t.dataset.fdiff; f.diffs = f.diffs.includes(d) ? f.diffs.filter(x => x !== d) : [...f.diffs, d].sort(); });
+    if (t.dataset.fgroup) return setFilter(f => { f.group = t.dataset.fgroup; });
+    if (t.dataset.mv) { const i = S.sel.indexOf(t.dataset.mv), j = i + +t.dataset.d; if (i >= 0 && j >= 0 && j < S.sel.length) { [S.sel[i], S.sel[j]] = [S.sel[j], S.sel[i]]; persist(); renderSel(); renderMap(true); } return; }
+    if (t.dataset.copy) return copy(t.dataset.copy);
+    switch (t.id) {
+      case 'fTopicsClear': return setFilter(f => { f.topics = []; });
+      case 'fDiffClear': return setFilter(f => { f.diffs = []; });
+      case 'fAnim': return setFilter(f => { f.anim = !f.anim; });
+      case 'fOpen': return setFilter(f => { f.open = !f.open; });
+      case 'fSel': return setFilter(f => { f.sel = !f.sel; });
+      case 'reviewBtn': return openReview();
+      case 'selBtn': return openSel();
+      case 'skipRev': S.review.push(S.review.shift()); persist(); return renderReview();
+      case 'selSortDiff': S.sel.sort((a, b) => QIDX.get(a).diff - QIDX.get(b).diff || QIDX.get(a).nr - QIDX.get(b).nr || a.localeCompare(b)); persist(); renderMap(true); return renderSel();
+      case 'selSortYear': S.sel.sort((a, b) => QIDX.get(a).year - QIDX.get(b).year || QIDX.get(a).nr - QIDX.get(b).nr); persist(); renderMap(true); return renderSel();
+      case 'selClear': S.sel = []; persist(); renderHud(); renderMap(true); return renderSel();
+      case 'drawerBtn': $('#map').hidden = false; return;
+      case 'mapClose': $('#map').hidden = true; return;
+    }
+  });
+  let qTimer = 0;
+  $('#fq').addEventListener('input', ev => { clearTimeout(qTimer); qTimer = setTimeout(() => setFilter(f => { f.q = ev.target.value.trim(); }), 180); });
+  $('#fFrom').addEventListener('change', ev => setFilter(f => { f.from = +ev.target.value; if (f.to < f.from) f.to = f.from; }));
+  $('#fTo').addEventListener('change', ev => setFilter(f => { f.to = +ev.target.value; if (f.from > f.to) f.from = f.to; }));
+  document.addEventListener('keydown', ev => {
+    if (ev.target.matches('textarea, select') || ev.metaKey || ev.ctrlKey || ev.altKey) return;
+    if (ev.target.matches('input:not([data-num])')) return;
+    const active = document.querySelector('.step.active[data-stepkey]');
+    if (active && ev.target.matches('input[data-num]')) { if (ev.key === 'Enter') { ev.preventDefault(); check(active.dataset.stepkey); } return; }
+    if (ui.view === 'q' && (ev.key === 'ArrowRight' || ev.key === 'ArrowLeft') && !ev.target.matches('video')) {
+      const nb = neighbours(ui.qid), to = ev.key === 'ArrowRight' ? nb.next : nb.prev; if (to) { ev.preventDefault(); openQ(to); } return;
+    }
+    if (!active) return;
+    const nxt = active.querySelector('[data-next]');
+    if (ev.key === 'Enter' && nxt && (document.activeElement === document.body || document.activeElement === nxt)) { ev.preventDefault(); return nextStep(active.dataset.stepkey); }
+    const abc = active.querySelector('.opts.abc');
+    let idx = -1;
+    if (/^[1-5]$/.test(ev.key)) idx = +ev.key - 1;
+    else if (abc && /^[a-e]$/i.test(ev.key)) idx = 'abcde'.indexOf(ev.key.toLowerCase());
+    if (idx >= 0) { const btn = active.querySelectorAll('.opt')[idx]; if (btn && !btn.disabled) { ev.preventDefault(); btn.click(); } }
+  });
+  window.addEventListener('resize', () => { drawTape(); if (innerWidth > 980) $('#map').hidden = false; });
+  new MutationObserver(drawTape).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+  try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', drawTape); } catch (e) { /* older browsers */ }
+
+  /* ---------- boot ---------- */
+  function start(data) {
+    const local = loadLocal(LS); if (local && local.v === 1) S = Object.assign(fresh(), local);
+    const lf = loadLocal(LSF); if (lf) F = Object.assign(freshF(), lf);
+    $('#brandSub').textContent = `Algebra · runde 1 · ${YEARS[0]}–${YEARS[YEARS.length - 1] + 1} · ${TOTAL} opgaver`;
+    if (innerWidth <= 980) $('#map').hidden = true;
+    renderFilters();
+    const fromHash = (location.hash || '').slice(1);
+    const target = (data && data.qid) || (QIDX.has(fromHash) ? fromHash : null) || S.last || (PROBS.find(p => p.anim) || PROBS[0]).id;
+    if (data && data.view === 'review') { ui.view = 'review'; renderAll(); }
+    else if (data && data.view === 'sel') { ui.view = 'sel'; renderAll(); }
+    else openQ(target);
+    window.FMTypeset(document.querySelector('.tape-label'));
+    drawTape();
+    connectDb();
+    (async () => {
+      try {
+        const use = window.claude && window.claude.use ? n => window.claude.use(n) : async () => null;
+        sample = await use('sample');
+        if (sample) { sampleReady = true; if (ui.view === 'q') renderSteps(); }
+      } catch (e) { sample = null; }
+    })();
+  }
+  if (window.claude && window.claude.hot && window.claude.hot.snapshot) { try { window.claude.hot.snapshot(() => ({ view: ui.view, qid: ui.qid })); } catch (e) { /* optional */ } }
+  window.claude && window.claude.hot && window.claude.hot.ready ? window.claude.hot.ready(start) : start((window.claude && window.claude.hot && window.claude.hot.data) || {});
+})();
+</script>

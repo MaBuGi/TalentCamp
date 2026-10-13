@@ -1,0 +1,932 @@
+    Abelkonkurransen                                                                          Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                      Side 44 av 85
+
+
+    Kombinatorikk og sannsynlighet
+
+(49) Oppgave 4 2005/2006. For hver av de tre forrettene er det fem muligheter for
+    hovedretten – til sammen 15 kombinasjoner. For hver av de 15 kombinasjo-
+    nene er det seks muligheter for desserten – til sammen 15 ⋅ 6 kombinasjoner.
+    .....................................................................E
+
+(49) Oppgave 15 2005/2006.   Hus nr. 1 kan males på 2 måter. For hver av disse mu-
+    lighetene kan hus nr. 2 males på 2 måter – til sammen 22 muligheter. For hver
+    av disse mulighetene kan hus nr. 3 males på 2 måter – til sammen 23 mulig-
+    heter. Fortsetter vi slik, ser vi at husene kan males på 29 måter. Halvparten
+    av disse, 28 = 256 måter, har færre røde enn blå hus. . . . . . . . . . . . . . . . . . . . . D
+
+(49) Oppgave 19 2005/2006.  La 𝑥 være sannsynligheten for at Arild vinner. Da er
+    1−𝑥 sannsynligheten for at Berit vinner. Hvis de spiller spillet mange ganger,
+    vinner Arild på første kast i 1/6 av tilfellene. I de 5/6 av tilfellene der det ikke
+    skjer, har Berit samme sannsynlighet for å vinne som det Arild har i utgangs-
+    punktet. Berits sannsynlighet for å vinne er altså 5/6 av Arilds sannsynlighet
+    for å vinne. Så 1 − 𝑥 = 56 𝑥, slik at 𝑥 = 6/11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(49) Oppgave 3 2006/2007.   De 8 bøkene på 3 kg må sendes i hver sin eske. Ingen
+    av de 3 bøkene på 2 kg kan legges i noen av de nevnte 8 eskene, og 2 esker
+    må til for å sende disse, slik at 10 esker trengs. Det er plass til de 2 bøkene på
+    1 kg for eksempel i eska med 1 bok på 2 kg. . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(49) Oppgave 6 2006/2007.   Første gutt kan plukkes ut på 8 måter. For hver av disse
+    mulighetene kan andre gutt plukkes ut på 7 måter. Da vi ikke skiller mellom
+    et utvalg av to gutter og et utvalg av de to samme der den første og den andre
+    utplukkete er byttet om, er antall utvalg av 2 gutter 8 ⋅ 7/2 = 28. For hver av
+    disse 28 mulighetene, har vi på samme måte 5 ⋅ 4/2 = 10 mulige utvalg av to
+    jenter – til sammen 28 ⋅ 10 = 280 mulige lag. . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(50) Oppgave 9 2006/2007.   Trekker vi den første likningen fra den andre, får vi
+    𝑏 + 2𝑐 = 12. Dette er mulig med positive heltallige 𝑏 og 𝑐 når 𝑐 er lik 1, 2, 3, 4
+    eller 5. Også 𝑎 blir positiv og heltallig i disse tilfellene. . . . . . . . . . . . . . . . . . . B
+
+(50) Oppgave 13 2006/2007.                Det er 20 kvadrater av med sidelengde 1, 12 kvadrater
+    med sidelengde 2, 6 kvadrater med sidelengde 3 og 2 kvadrater med sideleng-
+    de 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+    Abelkonkurransen                                                                            Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                        Side 45 av 85
+
+
+(50) Oppgave 15 2006/2007. Hvis vi har en rød, en blå og en grønn terning, er
+    det 6 muligheter for den røde, 6 muligheter for hver av disse for den blå, til
+    sammen 36 muligheter, og for hver av disse 6 muligheter for den grønne, til
+    sammen 36 ⋅ 6 = 216 like sannsynlige muligheter. Terningene kan gi 12 på
+    6 måter med verdiene 1 + 5 + 6, på 6 måter med 2 + 4 + 6, på 3 måter med
+    2 + 5 + 5, på 3 måter med 3 + 3 + 6, på 6 måter med 3 + 4 + 5 og på 1 måte
+    med 4 + 4 + 4 – til sammen 25 måter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(50) Oppgave 6 2007/2008.     Det er 9 muligheter (1–9) for første og 10 muligheter
+    (0–9) for andre siffer i et tosifret tall. Av disse 90 tallene er det 5 muligheter for
+    odde førstesiffer og 5 muligheter for odde andresiffer, altså 25 tall der begge
+    sifrene er odde. Antallet der minst ett siffer er jamt, er 90 − 25 = 65. . . . . . D
+
+(50) Oppgave 10 2007/2008.   Vi kan anta at 𝑥 < 𝑦 < 𝑧 < 𝑡. Da er 𝑥𝑦 < 𝑥𝑧 < 𝑥𝑡 <
+    𝑦𝑡 < 𝑧𝑡, så det er minst 5 forskjellige produkt. Men det er bare 5 forskjellige
+    produkt av to av tallene 1, 2, 3 og 6 (fordi 1 ⋅ 6 = 2 ⋅ 3). Så vi kan bare være
+    sikre på at det er 5 forskjellige produkt. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(50) Oppgave 15 2007/2008.   Det er én type terning som er helt svart, og én helt
+    hvit. Det er også bare én type terning med én svart side, og én med fem svarte
+    sider (én hvit side). Det er to typer terninger med to svarte sider – de svarte
+    sidene kan være naboer eller motsatt av hverandre. Av samme grunn er det
+    to typer terninger med fire svarte (to hvite) sider. Det er to typer terninger
+    med tre svarte sider – de tre sidene er alle naboer med hverandre, eller to av
+    de tre sidene er motsatt av hverandre. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(51) Oppgave 2 2008/2009.   Første bokstav kan velges på 4 måter. For hver av disse
+    måtene, kan vi velge andre bokstav på 2 måter (en av de to vokalene hvis
+    første bokstav var konsonant, og en av de to konsonantene hvis første bok-
+    stav var vokal) – til sammen kan de to første bokstavene velges på 8 måter.
+    For de to siste bokstavene har vi ikke noe valg. . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(51) Oppgave 13 2008/2009. Antall par (𝑥, 𝑦) av hele tall, der 𝑥 og 𝑦 er fra og med 1
+     til og med 20, er 202 . I 20 av disse er 𝑥 = 𝑦. Vi krever 𝑥 ≤ 𝑦, og må se bort fra
+     halvparten av de øvrige 202 − 20 parene. Antallet er 20 + (202 − 20)/2 = 210.
+    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .C
+
+(51) Oppgave 16 2008/2009.  Vi har de ti mulighetene 20, 10 + 10, 10 + 5 + 5,
+    10 + 5 + 1 + ⋯ + 1, 10 + 1 + ⋯ + 1, 5 + 5 + 5 + 5, 5 + 5 + 5 + 1 + ⋯ + 1,
+    5 + 5 + 1 + ⋯ + 1, 5 + 1 + ⋯ + 1 og 1 + ⋯ + 1. . . . . . . . . . . . . . . . . . . . . . . . . . . C
+    Abelkonkurransen                                                                   Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                               Side 46 av 85
+
+
+(51) Oppgave 19 2008/2009. Skriv de to tallene som 28 − 𝑥 og 28 + 𝑥. Vi krever
+     282 − 𝑥 2 = (28 − 𝑥)(28 + 𝑥) > 650, det vil si 𝑥 2 < 282 − 650 = 134. Fordi 112 =
+     121 < 134, mens 122 = 144 > 134, er ulikheten oppfylt når −11 ≤ 𝑥 ≤ 11. De
+    23 mulige verdiene av 𝑥 gir 23 forskjellige tallpar. . . . . . . . . . . . . . . . . . . . . . . D
+
+(51) Oppgave 20 2008/2009.    På figuren er tallet i punkt
+    (𝑥, 𝑦) i 4 × 2-rutenettet antall måter vi kan oppnå 1                           5        13         25        41
+    stillingen 𝑥 poeng til Kari og 𝑦 poeng til Per på.
+    Antall måter vi kan oppnå en stilling der Kari el- 1                            3         5          7         9
+    ler Per har 0 poeng på, er én (Kari har vunnet alle 1                           1         1          1         1
+    rundene eller Per har vunnet alle rundene). Hvis
+    vi starter med disse enerne, som er markert på ak-
+    sene, kan vi bygge ut tabellen ved å la tallet i (𝑥, 𝑦) være summen av tallene
+    i (𝑥 − 1, 𝑦 − 1) (siste runde var uavgjort), (𝑥 − 1, 𝑦) (Kari vant siste runde) og
+    (𝑥, 𝑦 − 1) (Per vant siste runde). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(51) Oppgave 1 2009/2010.  Det første huset kan males i én av 3 farger. For hver
+    av disse mulighetene er det 2 muligheter for neste hus – til sammen 6 mu-
+    ligheter. For hver av disse mulighetene er det 2 muligheter for neste hus –
+    til sammen 12 muligheter. For hver av disse mulighetene er det 2 muligheter
+    for neste hus – til sammen 24 muligheter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(52) Oppgave 6 2009/2010.   Det første sifferet kan velges på 2 måter. For hver av
+    disse mulighetene kan andre siffer velges på 10 måter og tredje siffer på 10
+    måter – til sammen 200 muligheter. Hvis summen av de tre første sifrene er
+    partall, velges 8 som siste siffer, ellers 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(52) Oppgave 16 2009/2010.       Hvis vi har nummerert kulene fra 1 til 10, er det 10
+    muligheter for valg av første uttrukne kule, for hver av disse er det 9 mulighe-
+    ter for valg av andre kule, og for hver av disse kombinasjonene 8 muligheter
+    for valg av tredje kule – til sammen 10 ⋅ 9 ⋅ 8 mulige utvalg, som alle er like
+    sannsynlige. La det være 𝑥 blå, 𝑦 røde og 𝑧 gule kuler blant de 10. Av utvalg
+    med én kule av hver farge fins det 𝑥 muligheter for den blå kula, 𝑦 for den
+    røde og 𝑧 for den gule – til sammen 𝑥𝑦𝑧 utvalg hvis vi ikke tar hensyn til
+    rekkefølgen de blir trukket i. Hvis vi tar hensyn til at det for hvert av disse
+    𝑥𝑦𝑧 utvalgene er 6 mulige rekkefølger kulene kan trekkes i, har vi at 6𝑥𝑦𝑧
+    av de 10 ⋅ 9 ⋅ 8 like sannsynlige utvalgene gir én kule av hver farge. Vi vet at
+    6𝑥𝑦𝑧/(10 ⋅ 9 ⋅ 8) = 3/10, altså 𝑥𝑦𝑧 = 36, der 𝑥 + 𝑦 + 𝑧 = 10. Fordi 𝑧 er størst
+    og 36 er delelig med 𝑧, er 𝑧 = 4, 6 eller 9. Bare 𝑧 = 4 gir noen mulighet for 𝑥
+    og 𝑦 (begge lik 3). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+    Abelkonkurransen                                                                        Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                    Side 47 av 85
+
+
+(52) Oppgave 18 2009/2010.               Vi tenker oss at de fortsetter å spille også etter at
+    førstemann har vunnet tre runder. Ole er førstemann til tre runder hvis og
+    bare hvis han vinner 2 eller flere av de neste 4 rundene. Det er 16 like sann-
+    synlige utfall av de neste 4 rundene. Ett gir 4 seire til Marte og 4 gir 3 seire
+    til Marte. De resterende 11 gir 2 eller flere seire til Ole, så sannsynligheten er
+    11/16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(52) Oppgave 2 2010/2011.   Hver av de 20 personene hilser på 18 personer, så hvis
+    vi tar for oss person for person og legger sammen antall håndtrykk, blir svaret
+    20 ⋅ 18. Da er hvert håndtrykk telt to ganger (en gang for hver person som
+    deltar i håndtrykket), så antallet er 20 ⋅ 18/2 = 180. . . . . . . . . . . . . . . . . . . . . . C
+
+(52) Oppgave 5 2010/2011.      Vi nummerer eplene fra 1 til 10, og antar at 1–6 er grøn-
+    ne. Vi tenker oss at Berit trekker ett eple om gangen. Det er 10 muligheter
+    for første eple. For hver av disse mulighetene er det 9 muligheter for andre
+    eple – til sammen 10 ⋅ 9 muligheter. For hver av disse 10 ⋅ 9 mulighetene er
+    det 8 muligheter for tredje eple – til sammen 10 ⋅ 9 ⋅ 8 mulige utvalg av 3 ep-
+    ler – alle like sannsynlige. Et tilsvarende resonnement viser at det er 6 ⋅ 5 ⋅ 4
+    mulige utvalg av 3 grønne epler, slik at sannsynligheten for at alle er grønne
+    er 6 ⋅ 5 ⋅ 4/(10 ⋅ 9 ⋅ 8) = 1/6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(53) Oppgave 13 2010/2011.    Det kan være 1, 2 eller 3 styremedlemmer i komiteen.
+    Disse kan velges på henholdsvis 3 måter, 3 måter eller 1 måte. De øvrige med-
+    lemmene kan velges på henholdsvis 7 ⋅ 6/2 = 21 måter (den ene kan velges
+    blant de 7 som ikke er styremedlemmer, den andre blant de 6 resterende, men
+    da har vi telt alle par to ganger – derfor deler vi med 2), 7 måter eller 1 måte
+    (nemlig ingen øvrige medlemmer). Til sammen kan komiteen settes sammen
+    på 3 ⋅ 21 + 3 ⋅ 7 + 1 = 85 måter. (Vi kan også tenke slik: Det er 10 ⋅ 9 ⋅ 8/6
+    mulige komiteer, der vi har delt med 6 fordi 6 ulike rekkefølger av valg av de
+    tre gir samme komité, og 7 ⋅ 6 ⋅ 5/6 mulige komiteer valgt blant de som ikke
+    er styremedlemmer. Differansen er 85.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(53) Oppgave 15 2010/2011.  Vi kan velge den felles siden på 16 måter. De to siste
+    hjørnene i firkanten kan velges blant 12 hjørner (vi kan ikke velge de to hjør-
+    nene i kanten vi allerede har valgt, eller de to nabohjørnene på hver side av
+    kanten). Dette kan gjøres på 12 ⋅ 11/2 = 66 måter (vi deler med 2 fordi to ord-
+    nede par av hjørner definerer samme kant). Men da har vi fått med 11 par av
+    hjørner der begge hjørnene hører til samme kant i 16-kanten. Så det totale an-
+    tall firkanter med nøyaktig én side felles med 16-kanten er 16⋅(66−11) = 880.
+     .....................................................................E
+    Abelkonkurransen                                                                             Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                         Side 48 av 85
+
+
+(53) Oppgave 16 2010/2011.   Bokstavene eimm kan oppta 4 av 10 plasser. Det er
+    10 muligheter for plassering av e. For hver av disse mulighetene er det 9
+    muligheter for i, til sammen 10 ⋅ 9 muligheter. Videre er det 8 og 7 muligheter
+    for m-ene, til sammen 10⋅9⋅8⋅7/2 = (10⋅7/2)⋅(9⋅8) = 35⋅72 muligheter (vi har
+    delt med 2 fordi to plasseringer av første og andre m gir samme ord). Resten
+    av bokstavene, aakktt, plasseres i denne rekkefølgen på de ledige plassene. C
+
+(53) Oppgave 2 2011/2012.                    Hver jente sitter ved siden av en annen jente, men det
+    kan ikke sitte tre jenter på rad. Hver gutt må sitte mellom to jenter, for hvis
+    to gutter sitter ved siden av hverandre, kan vi bare ha gutter rundt bordet.
+    Dermed sitter barna etter mønsteret to jenter, en gutt, to jenter, en gutt og så
+    videre, så det er dobbelt så mange jenter som gutter: ti jenter og fem gutter.
+     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .A
+
+(53) Oppgave 5 2011/2012.  Anta at Kari og Ida har 𝑛 venner felles i klassen. Da har
+    Kari 14 − 𝑛 venner som ikke er venner med Ida og Ida har 13 − 𝑛 venner som
+    ikke er venner med Kari. Det betyr at det må være minst 𝑛+(14−𝑛)+(13−𝑛) =
+    27 − 𝑛 elever i klassen. Dette betyr at 𝑛 ikke kan være mindre enn 7.
+    La Kari og Ida være venner og del de 18 andre elevene inn i 6 elever som
+    bare er venn med Kari, 5 som bare er venn med Ida og 7 som er venn med
+    begge. Da får Kari akkurat 14 venner, Ida akkurat 13 venner og de har 7 felles
+    venner. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(53) Oppgave 9 2011/2012. La Anne, Berit og Cecilie få henholdsvis 𝐴, 𝐵 og 𝐶
+    klinkekuler. Da må 𝐶 = 2𝐴, 𝐴 < 𝐵 < 𝐶 og 𝐴 + 𝐵 + 𝐶 = 2011. Det gir
+    𝐵 = 2011 − 𝐶 − 𝐴 = 2011 − 3𝐴. Ulikhetene kan dermed skrives som 𝐴 <
+    2011 − 3𝐴 < 2𝐴. Den første ulikheten gir 4𝐴 < 2011, eller 𝐴 < 502 34 . Den
+    andre gir 2011 < 5𝐴 eller 402 15 < 𝐴. Siden 𝐴 må være et heltall kan vi skrive
+    403 ≤ 𝐴 ≤ 502. Det er dermed 502 − 403 + 1 = 100 måter å gjøre det på. . . E
+
+(54) Oppgave 13 2011/2012.   Alle trekanter i figuren er rettvinklede og har hypote-
+    nus langs en av de skrå linjene. Ethvert valg av to punkter langs en av de skrå
+    linjene gir to trekanter med de to punktene i enden av hypotenusen, én over
+    og én under den skrå linjen. De skrå linjene har 2, 3, 4, 5, 4, 3 og 2 punkter.
+    Man kan velge ut to av 𝑛 punkter på 12 𝑛(𝑛 − 1) måter, så antall trekanter blir
+    2( 2⋅1  3⋅2   4⋅3   5⋅4  4⋅3    3⋅2 2⋅1
+        2 + 2 + 2 + 2 + 2 + 2 + 2 ) = 2(1 + 3 + 6 + 10 + 6 + 3 + 1) = 60. C
+    Abelkonkurransen                                                                   Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                               Side 49 av 85
+
+
+(54) Oppgave 18 2011/2012.     La oss si at det finnes 𝑎𝑛 gode ord av lengde 𝑛. Begge
+    ord av lengde 1 er gode, så 𝑎1 = 2. Av lengde 2 kan vi ha AA, AB eller BA, så
+    𝑎2 = 3. Vi får alle gode ord av lengde 𝑘 > 2 ved å starte med A og fortsette
+    med et godt ord av lengde 𝑘 − 1 eller starte med BA og fortsette med et godt
+    ord av lengde 𝑘 − 2. Det vil si 𝑎𝑘 = 𝑎𝑘−1 + 𝑎𝑘−2 . Dermed blir 𝑎3 = 𝑎2 + 𝑎1 = 5,
+    𝑎4 = 𝑎3 + 𝑎2 = 8, 𝑎5 = 𝑎4 +3 = 13, 𝑎6 = 𝑎5 + 𝑎4 = 21, 𝑎7 = 𝑎6 + 𝑎5 = 34 og
+    𝑎8 = 𝑎7 + 𝑎6 = 55. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(54) Oppgave 3 2012/2013.     Siste siffer er gitt når de to første sifrene er kjent. Når
+    første siffer er 𝑠 kan andre siffer være hva som helst mellom 0 og 𝑠, i alt 𝑠 + 1
+    muligheter. Legger vi sammen antall muligheter for første siffer lik 1, 2, 3, …,
+    9, får vi i alt 2 + 3 + 4 + ⋯ + 10 = 54 muligheter. . . . . . . . . . . . . . . . . . . . . . . . D
+
+(54) Oppgave 8 2012/2013.     I hvert terningkast er sannsynligheten for oddetall og
+    partall like stor, så vi kan løse dette ved enkel opptelling av mulighetene. Det
+    er i alt 23 = 8 mulige utfall av tre terningkast, når vi bare ser på pariteten av
+    hvert kast. Gitt at vi får ett oddetall og to partall, er det tre mulige valg for
+    hvilket terningkast som gir oddetall. Sannsynligheten er derfor 3/8. . . . . . B
+
+(54) Oppgave 14 2012/2013.  Med 𝑘 sorte sokker av i alt 𝑛 = 29+𝑘 sokker er sjansen
+    for å få to sorte sokker lik
+                                      𝑘 𝑘−1       𝑘(𝑘 − 1)     1
+                                       ⋅     =                = .
+                                      𝑛 𝑛 − 1 (29 + 𝑘)(28 + 𝑘) 30
+
+    Skriv dette om til 30𝑘(𝑘 − 1) = (29 + 𝑘)(28 + 𝑘). Opprydning leder til 29𝑘 2 −
+    87𝑘 = 28 ⋅ 29, som kan divideres med 29 og gi 𝑘 2 − 3𝑘 = 28. Eneste positive
+    løsning til denne ligningen er 𝑘 = 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+                        A er feil – for eksempel BRBRBRH. B er feil – for ek-
+(55) Oppgave 5 2013/2014.
+    sempel RRRHBBB. C er feil – for eksempel BRBRBRH. D er feil – for eksempel
+    BRBRBRH blir til BRBRBRB. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(55) Oppgave 10 2013/2014.    Vi kan lage 36 = 729 koder dersom vi ser bort fra
+    kravet om at alle sifrene skal brukes. Vi kan lage 26 = 64 koder med bare
+    sifrene 1 og 2, og tilsvarende om vi bruker bare 1 og 3 eller bare 2 og 3. Det
+    gir i alt 3 ⋅ 64 = 192 koder som bare bruker to siffer. Men da har vi tellet med
+    de tre kodene som bruker bare ett siffer to ganger hver, altså en gang for mye.
+    Så det er bare 192−3 = 189 koder som ikke bruker alle de tre sifrene. Dermed
+    er det i alt 729 − 189 = 540 koder som bruker alle sifrene. . . . . . . . . . . . . . . . C
+    Abelkonkurransen                                                  Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                              Side 50 av 85
+
+
+(55) Oppgave 15 2013/2014.      Vi fyller inn figuren
+    nedenfra, der tallet i hver rute er totalt antall veier
+    fra denne ruten til nederste rad. Det vil si at vi fyl-               56 41 56
+    ler inn nederste rad med ettall, og ellers skal hver
+    rute ha et tall lik summen av tallene til naboene                15 11 19 11 15
+    i raden under. Merk at trekanter med spissen ned                   3        3        3
+                                                                  4        5        5         4
+    har tre naboer i raden under, de med spissen opp              1        1        1         1
+    har fem, unntatt de på enden av hver rad, som har        1         1        1        1        1
+    fire – og den øverste, som har tre. Det totale an-
+    tallet veier fra øverste rute blir så summen av de tre tallene i raden under, det
+    vil si 56 + 41 + 56 = 153. (Noen vil sikkert finne det mer naturlig å fylle inn
+    figuren ovenfra, da med antall veier fra den svarte ruten til hver enkelt rute.
+    Så må man addere tallene i nederste rad til slutt.) . . . . . . . . . . . . . . . . . . . . . . . B
+
+(55) Oppgave 19 2013/2014.   Siden tre sider som møtes i ett hjørne alle er nabosider,
+    må Trine bruke minst tre farger på hver terning. Ingen farge kan brukes på
+    flere enn to sider, og de to sidene må i tilfelle være motstående.
+    Om hun bruker bare tre farger på en terning, må motstående sider alltid ha
+    samme farge. Dersom to terninger er malt med de samme tre fargene, er de
+    likt malt: For når vi ser på et hjørne, er det to mulige rekkefølger på fargene til
+    de tre sidene som møtes der, og valget av rekkefølge bestemmer fargeleggin-
+    gen. Går vi til et nabohjørne, står de samme tre fargene i motsatt rekkefølge,
+    så vi kan finne et hjørne i hver terning som har fargene i samme rekkefølge.
+    Da er også terningene likt malt. Men det er fire måter å velge ut hvilken farge
+    vi ikke skal bruke, så bare fire terninger kan males forskjellig fra hverandre
+    med tre farger hver.
+    Skal Trine bruke alle fire fargene på en terning, må hun bruke to farger to
+    ganger og to farger én gang hver. La oss si at farge I og II brukes to ganger
+    hver, mens farge III og IV brukes én gang hver. Så farge I brukes på to mot-
+    stående sider, og farge II også på to motstående sider, med farge III og IV på
+    hver sin av de siste motstående sidene. To terninger som er malt slik er malt
+    likt, for vi kan legge dem med siden som er malt IV opp og III ned, og så
+    rotere terningene om vertikalaksen til sidene med I og II vender samme vei.
+    Eneste valgmulighet i dette tilfellet er hvilke to farger som skal være I og II,
+    uten hensyn til rekkefølgen. Dette kan gjøres på 4 ⋅ 3/2 = 6 måter.
+    Trine kan altså male i alt 4 + 6 = 10 terninger forskjellig fra hverandre. . . A
+    Abelkonkurransen                                                                     Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                 Side 51 av 85
+
+
+(56) Oppgave 10 2014/2015.   Det må finnes minst 𝑁 = 20 brikker av hver farge
+    for at det ikke skal være mulig å trekke til sammen 81 brikker av de andre
+    fargene. Det høyeste mulige antallet brikker av én farge kan oppnås om det
+    ikke er fler enn 20 brikker av hver av de tre andre fargene, det vil si 60 brikker
+    til sammen. Så det er mulig å ha 𝑀 = 40 brikker av én farge. 𝑀 − 𝑁 = 20. C
+
+(56) Oppgave 12 2014/2015.  Skriv 𝑝 for sannsynligheten for at Anne vinner. Hvis
+    hun ikke vinner i første myntkast, så er rollene byttet om. Det betyr at Bente
+    i så fall vinner med sannsynlighet 𝑝, så Anne vinner med sannsynlighet 1−𝑝.
+    Anne kan altså vinne på én av to måter: Hun vinner i første myntkast, med
+    sannsynlighet 12 , eller hun vinner senere, med sannsynlighet 12 (1 − 𝑝). Derfor
+    er 𝑝 = 12 + 12 (1 − 𝑝) = 1 − 12 𝑝, slik at 𝑝 = 23 .
+    En variant av dette argumentet gir 𝑝 = 12 + 14 𝑝, fordi sannsynligheten for at
+    ingen har vunnet etter to myntkast er 14 , og i så fall starter spillet på ny, slik
+    at Anne igjen har sannsynlighet 𝑝 for å vinne.
+    Alternativt: Anne vinner på kombinasjonene K, MMK, MMMMK og så vi-
+    dere. Disse har til sammen sannsynlighet 12 + ( 12 )3 + ( 12 )5 + ⋯ = 23 . . . . . . . . B
+
+(56) Oppgave 15 2014/2015.    Siden 20 er et partall og 5 er odde, må Lars bruke
+    ingen, to eller fire brikker av høyde 5. Det første og siste alternativet gir bare
+    ett mulig tårn hver. For det midterste alternativet bruker han sju brikker: To
+    av høyde 5, og fem av høyde 2. Det er to valg blant de sju for brikkene av
+    høyde 5. Dette resulterer i 12 ⋅ 7 ⋅ 6 = 21 muligheter. Til sammen kan han
+    bygge tårnet på 23 forskjellige måter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(56) Oppgave 18 2014/2015.         Alle tillatte veier fra nedre venstre hjørne til diago-
+    nalen har lengde lik 5 sidekanter i de små kvadratene. For hver av de fem
+    sidekantene kan du fritt velge å gå til høyre eller opp, så det er i alt 25 = 32
+    mulige veier. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(56) Oppgave 20 2014/2015.  Siden Peter starter med 30 kuler i eskene totalt, og det
+    totale antallet minker med 3 i hvert trekk, må antall kuler i eskene alltid være
+    delelig med 3. Etter hvert trekk legger Peter minst 4 − 3 = 1 kule tilbake i en
+    eske, så det er ikke mulig å tømme alle eskene.
+    Men Peter kan avslutte spillet med tre kuler slik: Først tar han ti kuler fra
+    eske 10 og legger sju av dem i eske 7. Nå er eske 10 tom, og han rører den
+    ikke mer. Dersom eske 4 har 𝑚 kuler og eske 7 har 𝑛 kuler, skriver vi det som
+    (𝑚, 𝑛). Peter kan fullføre spillet slik: (10, 17) – (14, 10) – (18, 3) – (14, 4) –
+    (10, 5) – (6, 6) – (2, 7) – (6, 0) – (2, 1). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+     Abelkonkurransen                                                                            Løsninger – kombinatorikk
+     Runde 1 2005–2024                                                                                        Side 52 av 85
+
+
+(57) Oppgave 4 2015/2016. Sannsynligheten for at et hvilket som helst tall 𝑎𝑘 er
+     odde er 12 . Sannsynligheten for at 𝑎1 og 𝑎4 begge er odde, er derfor 14 . Så 𝑎1 𝑎4
+     er odde med sannsynlighet 14 , og et partall med sannsynlighet 34 . Det samme
+     gjelder 𝑎2 𝑎3 . Differansen er et partall hvis og bare hvis 𝑎1 𝑎4 og 𝑎2 𝑎3 har samme
+     paritet, og det skjer med sannsynlighet 14 ⋅ 14 + 34 ⋅ 34 = 10     5
+                                                                  16 = 8 . . . . . . . . . . . . . E
+
+(57) Oppgave 7 2015/2016.    Samme hva summen av de tre første er, vil to av seks
+     mulige utfall for den siste av dem føre til at summen av alle er delelig med 3.
+     (Enten 1 og 4, eller 2 og 5, eller 3 og 6.) Sannsynligheten for dette er 13 . . . . C
+
+(57) Oppgave 12 2015/2016.   Uansett hvilket kort du trekker fra den første kort-
+     stokken er det fire mulige kort i den andre som gir et par med det første.
+     Siden den andre kortstokken inneholder 56 kort, er sannsynligheten for at
+     det skjer 4/56 = 1/14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(57) Oppgave 16 2015/2016.          Dette kan gjøres på 2015⋅2014⋯2001               15!             måter. For heltall
+     𝑛 = 1, 2, …, 15 gjelder at dersom 2 går opp i 2000 + 𝑛, så går 2𝑘 også opp
+                                                          𝑘
+     i 𝑛, fordi 𝑘 < 4 og 24 går opp i 2000. Det følger at om vi forkorter brøken
+     2015⋅2014⋯2001 maksimalt, finnes det ikke igjen en faktor 2 i telleren, så brøken
+            15!
+     blir et oddetall. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(57) Oppgave 19 2015/2016.                     Hvis 𝐴𝑖 = {𝑚𝑖 , 𝑚𝑖 + 1, … , 𝑛𝑖 }, så må 𝐴𝑖+1 = {2𝑚𝑖 + 1, … ,
+     2𝑛𝑖 −1}: For det første vil 𝐴𝑖+1 inneholde alle tallene 𝑚𝑖 +(𝑚𝑖 +1), 𝑚𝑖 +(𝑚𝑖 +2),
+     …, 𝑚𝑖 +𝑛𝑖 , (𝑚𝑖 +1)+𝑛𝑖 , (𝑚𝑖 +2)+𝑛𝑖 , …, (𝑛𝑖 −1)+𝑛𝑖 . Og det er uten videre opplagt
+     at summen av to ulike tall 𝑥 og 𝑦 i 𝐴𝑖 må oppfylle 2𝑚𝑖 +1 ≤ 𝑥 +𝑦 ≤ 2𝑛𝑖 −1. Med
+     andre ord er 𝐴𝑖+1 = {𝑚𝑖+1 , … , 𝑛𝑖+1 } der 𝑚𝑖+1 = 2𝑚𝑖 + 1 og 𝑛𝑖+1 = 2𝑛𝑖 − 1. Disse
+     to ligningene kan skrives om til 𝑚𝑖+1 + 1 = 2(𝑚𝑖 + 1) og 𝑛𝑖+1 − 1 = 2(𝑛𝑖 − 1),
+     og det følger at 𝑚𝑖 + 1 = 2𝑖 (𝑚0 + 1) = 2𝑖+1 og 𝑛𝑖 − 1 = 2𝑖 (𝑛0 − 1) = 3 ⋅ 2𝑖 . Antall
+     forskjellige tall i 𝐴10 er 𝑛10 −𝑚10 +1 = (3⋅210 +1)−(211 −1)+1 = 210 +3 = 1027.
+     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .D
+
+(58) Oppgave 3 2016/2017.                    Rådhuset og skolen kan hver plasseres i en av fire by-
+     deler, uavhengig av hverandre. Det gir 4 ⋅ 4 = 16 muligheter. For hver av disse
+     er det tre mulige plasseringer av kinoen. I alt er det da 16 ⋅ 3 = 48 muligheter.
+     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .D
+    Abelkonkurransen                                                                           Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                       Side 53 av 85
+
+
+(58) Oppgave 5 2016/2017.                De mulige utfallene kan oppsumme-
+    res i 6 × 6-matrisen til høyre, der verdien av 𝑃 er gitt øverst
+    og verdien av 𝑄 til venstre. Det grå kvadratet i (2, 2) er enes-
+    te utfall som blir uavgjort, mens 𝑃 vinner i de lyse feltene
+    (17 i tallet) og taper i de mørke feltene (som det er 18 av).
+    Dermed er det like sannsynlig at 𝑃 taper som at 𝑃 ikke ta-
+    per. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(58) Oppgave 7 2016/2017.        Fargene og valørene er helt uavhengige, så Ahmed får
+    ingen informasjon om farger i et trekk der Sanne peker ut kort av en gitt
+    valør, eller omvendt. Siden det er mulig at alle 𝑛 farger finnes blant kortene,
+    må Sanne peke ut 𝑛 − 1 av dem for at Ahmed skal vite fargen på alle kortene.
+    På samme måte må Sanne peke ut 𝑚−1 valører. I alt må hun da gjøre (𝑚 − 1)+
+    (𝑛 − 1) trekk. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(58) Oppgave 12 2016/2017.             Mengden {1, 2, … , 2016} inneholder 2016 tall, og 1008
+    av dem er partall, så mengden har 22016 delmengder og 21008 delmengder som
+    bare består av partall. Dermed vil 22016 − 21008 av dem inneholde minst ett
+    oddetall. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(59) Oppgave 20 2016/2017. La 𝑁 = 6𝑅 + 5𝐵 + 4𝐻 når Nils har 𝑅 røde, 𝐵 blå og 𝐻
+    hvite steiner. Endringen i 𝑁 ved hvert av trekkene (1)–(5) er henholdsvis −3,
+    −6, −3, −3 og −6. Siden 𝑁 ≥ 0 og 𝑁 alltid avtar, kan ikke Nils holde på i det
+    uendelige. Opprinnelig er 𝑁 = 15 ⋅ 2015, og det følger at 𝑁 alltid er delelig
+    med 3. Når ingen trekk lenger er mulige, er 𝐵 < 2, for ellers kunne Nils gjøre
+    trekk (2). Dersom 𝐵 = 1 må 𝐻 = 0, ellers kunne han gjøre trekk (1). Men
+    𝐵 = 1 og 𝐻 = 0 gir 𝑁 = 6𝑅 + 5, som ikke er delelig med 3, så det er umulig.
+    Altså må 𝐵 = 0. Men så er 𝑁 = 4𝐻, og siden 𝐻 < 3 fordi (5) ellers er mulig,
+    må også 𝐻 = 0. Endelig må 𝑅 < 2, for ellers er (4) mulig. Men Nils kan ikke
+    ende med 𝑅 = 0, for han mottar minst én stein i hvert trekk. Altså må 𝑅 = 1.
+    (Vi kunne også valgt 𝑁 = 2𝐵 + 𝐻, men da kreves et separat argument for
+    at prosessen må slutte. For eksempel dette: At det totale antall steiner aldri
+    øker, og antall røde steiner minker når det totale antallet er uendret.) . . . . A
+    Abelkonkurransen                                                                            Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                        Side 54 av 85
+
+
+(59) Oppgave 4 2017/2018.Konfigurasjonen til venstre i figuren kan roteres 90°,
+    og det samme gjelder den i midten. Den til høyre kan roteres 90°, 180° eller
+    270°.
+
+
+
+
+    Dette er alle mulige måter å dekke figuren på med dominobrikker, og i alt
+    har vi da funnet 2 + 2 + 4 = 8 konfigurasjoner. . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(59) Oppgave 9 2017/2018.  Gustav har nå 13 bøker, og den innbyrdes rekkefølgen
+    av de ti grå bøkene er kjent. Eneste valgmulighet er hvilke av de 13 plassene
+    som skal fylles av de tre nye bøkene. Det er 13 mulige plasser for den røde,
+    deretter 12 mulige plasser for den gule, og til sist 11 mulige plasser for den
+    grønne boken. I alt 13 ⋅ 12 ⋅ 11 = 1716 muligheter.
+    Alternativt velger Gustav først hvilke tre plasser de nye bøkene skal plasseres
+    i, på en av (13
+                  3 ) måter, og så velger han rekkefølgen på de tre nye bøkene på
+    en av 3! måter. I alt 3! ⋅ (13
+                                3 ) muligheter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+
+(59) Oppgave 16 2017/2018.                    Det første tallet (10          5 ) er størst. Årsaken er at dette tallet
+    er antall måter å velge fem ut av ti objekter på. Alle de andre tallene teller
+    også antall måter å velge fem av ti på, men med en eller annen begrensning:
+    For eksempel er (32) ⋅ (73) antall utvalg der to av de tre første objektene velges,
+    mens tre av de gjenværende sju velges – altså fem av ti, men med tilleggskrav.
+    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .A
+
+(60) Oppgave 18 2017/2018.  Et terningkast av den gitte typen kan spesifiseres slik:
+    Først velges hvilket antall øyne som skal forekomme to ganger. Det kan gjø-
+    res på 6 måter. Plassér terningene i rekkefølge etter hvor mange øyne som
+    vises: For eksempel 1, 2, 3, 4, 4, 5, 6. Så tilordnes de sju fargene til disse ternin-
+    gene. Det kan gjøres på 7! måter. Men fordi to terninger viser samme antall
+    øyne, har vi nå telt dobbelt, så vi ender med 6 ⋅ 7!/2 = 3 ⋅ 7! muligheter.
+    Alternativt kan vi først velge ut hvilke to av terningene som skal ha samme
+    farge. Det kan gjøres på (72) = 21 måter. Så kan vi legge til side den ene
+    av de to, og farge de gjenværende terningene på en av 6! måter. I alt får vi
+    21 ⋅ 6! = 3 ⋅ 7! muligheter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+    Abelkonkurransen                                                                             Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                         Side 55 av 85
+
+
+(60) Oppgave 20 2017/2018.     Det finnes (163 ) = 560 tripler av distinkte punkter
+    blant de 16 gitte punktene, men vi kan bare danne 499 trekanter, så punktene
+    i 61 av disse triplene må ligge på linje. Vi vet at enhver linje som inneholder
+    minst tre av de 16 punktene må inneholde minst fire av dem. En slik linje
+    med 𝑝 punkter vil «bruke opp» (𝑝3) av de 61 triplene nevnt foran. Nå kan vi
+    tegne opp den relevante delen av Pascals trekant. Nedenfor er (𝑝3) fargelagt,
+    for 𝑝 = 4, 5, 6, 7, 8. For 𝑝 > 8 blir binomialkoeffisienten større enn 61, så det
+    kan ikke finnes linjer med så mange punkter.
+                                                                     1
+                                                                1         1
+                                                           1         2         1
+                                                       1        3         3         1
+                                                  1        4         6         4         1
+                                              1        5        10        10        5        1
+                                          1       6        15        20        15        6        1
+                                      1       7       21        35        35        21       7        1
+                           1        8 28 56 70 56 28 8                                              1
+    Dersom det finnes 𝑛𝑝 linjer med eksakt 𝑝 punkter, må 4𝑛4 + 10𝑛5 + 20𝑛6 +
+    35𝑛7 + 56𝑛8 = 61. Vi ser med en gang at 𝑛8 = 0. Videre må 𝑛7 være odde og
+    𝑛7 < 2, så 𝑛7 = 1, og derfor 4𝑛4 + 10𝑛5 + 20𝑛6 = 26. 𝑛6 = 1 gir ingen løsning, så
+    𝑛6 = 0. Dermed kan vi prøve oss frem og finne at 𝑛5 = 1 og 𝑛4 = 4 er eneste
+    mulighet. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(60) Oppgave 1 2018/2019.                 Svaret blir 4 ⋅ 5 ⋅ 5 = 100. . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(60) Oppgave 8 2018/2019.         Vi har 210 = 2 ⋅ 3 ⋅ 5 ⋅ 7. Vi kan klassifisere faktori-
+    seringene etter hvor mange av de fire primfaktorene forekommer i hver av
+    de tre faktorene. Fordelingen (4, 0, 0) går ikke, for da er to av faktorene lik
+    1, og dermed lik hverandre. (3, 1, 0) gir fire muligheter: én for hvert valg av
+    faktoren som står for seg selv. De andre mulighetene er (2, 1, 1) og (2, 2, 0).
+    (2, 1, 1) gir (42) = 6 muligheter: én for hvert valg av de to faktorene som står
+    sammen. Og (2, 2, 0) gir tre muligheter: én for hver av primfaktorene som
+    skal stå sammen med primfaktoren 2. I alt har vi 4 + 6 + 3 = 13 muligheter.
+    Den fullstendige listen er: (2 ⋅ 3 ⋅ 5) ⋅ 7 ⋅ 1, (2 ⋅ 3 ⋅ 7) ⋅ 5 ⋅ 1, (2 ⋅ 5 ⋅ 7) ⋅ 3 ⋅ 1, (3 ⋅ 5 ⋅ 7) ⋅ 2 ⋅ 1;
+    (2 ⋅ 3) ⋅ 5 ⋅ 7, (2 ⋅ 5) ⋅ 3 ⋅ 7, (2 ⋅ 7) ⋅ 3 ⋅ 5, (3 ⋅ 5) ⋅ 2 ⋅ 7, (3 ⋅ 7) ⋅ 2 ⋅ 5, (5 ⋅ 7) ⋅ 2 ⋅ 3;
+    (2 ⋅ 3) ⋅ (5 ⋅ 7) ⋅ 1, (2 ⋅ 5) ⋅ (3 ⋅ 7) ⋅ 1, (2 ⋅ 7) ⋅ (3 ⋅ 5) ⋅ 1. . . . . . . . . . . . . . . . . . . . . . . D
+
+(60) Oppgave 11 2018/2019. Vi kan sette sammen en gruppe på fem på (13                                        5) =
+                                         6
+    1287 måter. Men av disse er det (5) = 6 kombinasjoner med bare gutter, og
+    (75) = 21 kombinasjoner med bare jenter. Så gruppen kan settes sammen på
+    1287 − 6 − 21 = 1260 måter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                       Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                   Side 56 av 85
+
+
+(61) Oppgave 15 2018/2019.    Vi kan sette noen brik-
+    ker på tvers. Mellom disse brikkene kan vi ikke
+    annet enn sette brikker tre og tre i lengderet-
+    ningen over hverandre. Om vi har 𝑎 brikker på
+    tvers og 𝑏 slike blokker à tre brikker hver, må vi ha 𝑎 + 3𝑏 = 10. Disse kan så
+    plasseres på (𝑎+𝑏                                              4
+                    𝑏 ) måter. Vi har dermed for 𝑎 = 1, 𝑏 = 3: (3) = 4 muligheter;
+    for 𝑎 = 4, 𝑏 = 2: (62) = 15 muligheter; for 𝑎 = 7, 𝑏 = 1: (81) = 8 muligheter; og
+    for 𝑎 = 10, 𝑏 = 0: 1 mulighet; tilsammen 4 + 15 + 8 + 1 = 28 muligheter. . . A
+
+(61) Oppgave 20 2018/2019.   Start med å se på én
+    by, for eksempel hovedstaden, representert
+    ved den midterste prikken i figuren. Fra ho-
+    vedstaden er det direkterute til maksimalt tre
+    andre byer, og hver av disse tre byene har di-
+    rekterute til maksimalt to byer i tillegg til ho-
+    vedstaden. De heltrukne linjene i figuren vi-
+    ser direkterutene mellom disse ti byene. Det
+    kan altså ikke være flere enn ti storbyer i lan-
+    det. Om vi legger til direkteruter mellom de
+    seks ytterste byene som vist med de stiplede linjene i diagrammet, er betin-
+    gelsene oppfylt, så det er mulig at det er så mange som ti byer i landet. . . . C
+
+(61) Oppgave 1 2019/2020.   Det er 7 ⋅ 6 ⋅ 5 måter å velge de tre på når rekkefølgen
+    tas i betrakting. Dette må vi dele på antall måter å ordne de tre på: 3 ⋅ 2 ⋅ 1 = 6.
+    Da står vi tilbake med 7 ⋅ 5 = 35 muligheter. Fra disse må vi eliminere de
+    utvalgene der både Arne og Berit er med: Det er fem muligheter, siden vi nå
+    bare velger én blant de øvrige fem. Det er nå bare 35 − 5 = 30 muligheter
+    igjen.
+    Alternativ for den som kjenner til binomialkoeffisienter: Det er (73) = 35
+    mulige måter å velge tre av sju på. Her også må vi huske å trekke fra 5, med
+    resultat 30. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(61) Oppgave 5 2019/2020.   Mynt nummer 𝑘 (med 𝑘 = 1, 2, …, 7) har tallene 𝑘 og
+    𝑘 + 7 på de to sidene, så summen av de synlige sidene blir 1 + 2 + ⋯ + 7 + 7𝑚,
+    der 𝑚 er antall mynter med det største tallet opp. Mulighetene for 𝑚 er 0, 1,
+    …, 7, altså åtte muligheter i alt. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+    Abelkonkurransen                                                                      Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                  Side 57 av 85
+
+
+(61) Oppgave 12 2019/2020.  For at Bente skal få gaven med smykket, må hun og
+    Anne bli trukket ut. Det er 6 ⋅ 5 = 30 måter å velge ut to av seks på, når vi tar
+    hensyn til rekkefølgen. I to av disse mulighetene er det Anne og Bente som
+                                                    2 = 1.
+    blir trukket ut. Sannsynligheten for det er da 30    15
+    Alternativ løsning: Antall mulige utfall av loddtrekningen er gitt ved bino-
+    mialkoeffisienten (62) = 15, så sannsynligheten er 15
+                                                        1 . . . . . . . . . . . . . . . . . . . . .E
+
+
+(62) Oppgave 20 2019/2020.                 La 𝑔 være Gunnars tall, og 𝑘 være Karl Eriks tall.
+    G: Jeg er ikke sikker på hvem som har størst tall, jeg. Vet du? Av dette kan vi
+    slutte at 2 ≤ 𝑔 ≤ 8. For om 𝑔 = 1, må 𝑔 være minst, og om 𝑔 > 8, må 𝑔 være
+    størst.
+    KE: Ikke før du sa noe, men nå vet jeg! Fra første del lærer vi at også 2 ≤ 𝑘 ≤ 8.
+    Men da Karl Erik fant ut at 2 ≤ 𝑔 ≤ 8, visste han hvilket tall som var størst.
+    Altså er 𝑘 ≠ 4, for da ville mulighetene for at 𝑔 = 2 eller 𝑔 = 8 begge være
+    åpne. Om 𝑘 ∈ {2, 3} ville Karl Erik vite at 𝑘 er minst, og om 𝑘 ∈ {5, 6, 7, 8} ville
+    han vite at 𝑘 er størst, så alle disse er fortsatt muligheter.
+    G: Jeg er fortsatt usikker på hvem som har størst tall, jeg. Nå vet vi at 𝑔 = 4,
+    fra resonnementet over. Og da må 𝑘 = 2 eller 𝑘 = 8.
+    KE: Det er nå jeg som har det største tallet, da. Det avgjør saken: 𝑘 = 8, og
+    𝑔 + 𝑘 = 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(62) Oppgave 5 2020/2021.  Vi kan fargelegge rutene med unntak av øverste høyre
+    hjørne som vi vil. Det gir 28 = 256 muligheter. Da er fargen på det siste
+    hjørnet bestemt, så vi har ikke flere valgmuligheter. . . . . . . . . . . . . . . . . . . . . C
+
+(62) Oppgave 8 2020/2021.   Dersom Nina skriver −1 på enten 0, 1, 3 eller 4 sider,
+    blir tallet i midten henholdsvis 8, 2, −2 eller 0. (Det er bare ett tilfelle av
+    hver type.) Men dersom hun skriver −1 på to sider, kan hun gjøre det på to
+    måter. Om hun skriver −1 på motsatte sider, får hun −4 i midten, men om de
+    er nabosider, er resultatet 0. Blant de seks mulighetene forekommer bare én
+    verdi (0) to ganger, så vi står tilbake med fem mulige tall i midten.
+    Alternativ løsning: Om tallene på sidene er 𝑎, 𝑏, 𝑐, 𝑑 som                                                      𝑐
+    i figuren, blir tallet 𝑠 i midten av kvadratet 𝑠 = (𝑎 + 𝑐) +                                           𝑏𝑐              𝑐𝑑
+    (𝑏 + 𝑑) + (𝑎 + 𝑐)(𝑏 + 𝑑) = 𝑥 + 𝑦 + 𝑥𝑦 = (1 + 𝑥)(1 + 𝑦) − 1,
+    der 𝑥 = 𝑎 + 𝑐 og 𝑦 = 𝑏 + 𝑑. Men 1 + 𝑥 og 1 + 𝑦 kan velges                                         𝑑             𝑠            𝑏
+    uavhengig av hverandre, med mulige verdier −1, 1 og 3.
+    Produktet av to av disse må bli en av −3, −1, 1, 3 eller 9,                                            𝑑𝑎              𝑎𝑏
+    så 𝑠 må være en av −4, −2, 0, 2 eller 8. . . . . . . . . . . . . . . A                                          𝑎
+    Abelkonkurransen                                                                     Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                 Side 58 av 85
+
+
+(63) Oppgave 13 2020/2021.     Det finnes i alt (40                        40!
+                                                              6 ) = 6! 34! utvalg på seks kort blant
+    de 40. Av disse omfatter 40 − 5 = 35 utvalg alle de gylne kortene, så svaret
+    blir 35/ 6!40!    6! 35!
+                34! = 40! . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+
+(63) Oppgave 17 2020/2021.      Herman kan sette sammen 33 = 27 menyer helt uten
+    sviske. Med sviske inkludert kan han velge tidspunkt for grøt med sviske på
+    tre måter. For hver av disse har han så 32 muligheter for de to andre rettene,
+    altså 3 ⋅ 32 = 27 muligheter også her. Tilsammen har han 27 + 27 = 54 menyer
+    å velge mellom. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(63) Oppgave 19 2020/2021.          Vi kan velge ut tre av tallene 1, 2, …, 2022 på (2022                                      3 )
+    måter. Men vi kan også telle opp mulighetene slik: Om det midterste av tal-
+    lene er 𝑘, kan vi velge det minste på 𝑘 − 1 måter, og det største på 2022 − 𝑘
+    måter. Det gir (𝑘 − 1)(2022 − 𝑘) muligheter for hver 𝑘. Summen i oppgaven
+    er summen av disse tallene for 𝑘 = 2, 3, …,2021. (𝑘 = 1 og 𝑘 = 2022 gir ingen
+    muligheter.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(63) Oppgave 1 2021/2022.Szymon har 13 valg av forrett. For hvert av disse val-
+    gene, kan han velge en av 12 hovedretter. I alt 13 ⋅ 12 = 156 muligheter. . . . E
+
+(63) Oppgave 3 2021/2022.  Mulighetene med ett siffer er 0, 6 og 9. Med to siffer
+    kan vi få til 77, 14 og 41. Med tre siffer kan vi få til 111. Flere muligheter
+    finnes ikke. Summen av disse tallene er 258. . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(64) Oppgave 4 2021/2022. Vi multipliserer det første kjøpet med 3, og det andre
+    med 2: Ni epler, tolv bananer og seks pærer koster da 189 kroner, mens ti
+    epler, tolv bananer og seks pærer koster 194 kroner. Derfor koster ett eple
+    194 − 189 = 5 kroner, og vi kan få kjøpt 120/5 = 24 epler for 120 kroner. . C
+
+(64) Oppgave 5 2021/2022.        Det er 63 mulige utfall når du kaster tre terninger. For
+    at produktet skal bli et oddetall, må alle terningene gi oddetall. Det kan skje
+    på 33 måter. Sannsynligheten for å få oddetallsprodukt, er derfor 33 /63 =
+    ( 36 )3 = ( 12 )3 = 18 . Sannsynligheten for å få et partallsprodukt er så 1 − 18 = 78 .
+     .....................................................................E
+
+(64) Oppgave 12 2021/2022.    Marthe starter andre og tredje leseøkt på to forskjel-
+    lige sider fritt valgt fra de siste 49 av de 50 sidene som står igjen. Disse to
+    sidene kan hun velge på 49⋅482 = 1176 måter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+    Abelkonkurransen                                                         Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                     Side 59 av 85
+
+
+(64) Oppgave 16 2021/2022.   Johannes vinner hver runde med sannsynlighet 23 . Det
+    tar alltid minst to runder før noen vinner leken. Etter to runder er det bare
+    tre mulige utfall: (1) Johannes vinner begge rundene, og dermed leken. Det
+    skjer med sannsynlighet 23 ⋅ 23 = 49 . (2) Pål vinner begge rundene, og dermed
+    leken. Det skjer med sannsynlighet 13 ⋅ 13 = 19 . (3) De vinner en runde hver,
+    og ender med ett poeng hver. Det skjer med sannsynlighet 1 − 49 − 19 = 49 .
+    Da er det tilbake til utgangspunktet, med poengdifferanse null. Skriv 𝑝 for
+    sannsynligheten for at Johannes vinner. Da er 𝑝 = 49 + 49 𝑝 (dersom Johannes
+    vinner, vinner han etter to runder, eller det er uavgjort, og så vinner han det
+    videre spillet). Løsningen av ligningen er 𝑝 = 45 . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(65) Oppgave 18 2021/2022.     Du må ha tatt bort 3𝑗 terninger til venstre for den
+    første av de to terningene du har igjen til slutt, og 3𝑘 terninger mellom de
+    to, der 𝑗 og 𝑘 er heltall. (Du har da tatt vekk 48 − 3𝑗 − 3𝑘 = 3 ⋅ (16 − 𝑗 − 𝑘)
+    terninger til høyre for de to.) Det betyr at den første av de to terningene
+    hadde opprinnelig posisjon 3𝑗+1, mens den andre hadde opprinnelig posisjon
+    3𝑗 +1+3𝑘 +1 = 3(𝑗 +𝑘)+2. Da viste den første terningen 1 (hvis 𝑗 er et partall)
+    eller 4 (hvis 𝑗 er et oddetall), mens den andre viser 2 (hvis 𝑗 + 𝑘 er et partall)
+    eller 5 (hvis 𝑗 + 𝑘 er et oddetall). Alle disse kan forekomme i kombinasjon, så
+    mulige utfall er (1, 2), (1, 5), (4, 2) eller (4, 5). . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+    Abelkonkurransen                                                                             Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                         Side 60 av 85
+
+
+(65) Oppgave 19 2021/2022.  Figuren nedenfor illustrerer et nyttig faktum: Dersom
+    både de hvite og de svarte rutene danner sammenhengende områder, så kan
+    vi lage en vei gjennom alle rutene i hvert område som ikke går mellom en
+    rute i øverste og nederste rad, unntatt ytterst til venstre eller ytterst til høyre.
+    Det betyr at vi kan tenke oss rutene ordnet i en ring, som i figuren til høyre.
+
+
+
+
+    Dersom det er både svarte og hvite ruter og hver danner sammenhengende
+    regioner, kan vi spesifisere fargeleggingen entydig ved å spesifisere første
+    hvite rute, og første svarte rute, når vi følger ringen i en bestemt retning, for
+    eksempel med klokka. Vi har da 10 valg for første hvite rute, og deretter 9
+    valg for første svarte rute. Det gir 90 mulige fargelegginger som bruker begge
+    farger. Deretter må vi legge til 2 for de ensfargede fargeleggingene. Resultatet
+    blir 92 mulige fargelegginger.
+    Litt mer detaljert om hvorfor vi kan tenke slik: Anta at to ruter over hverand-
+    re, men ikke ytterst på enden, har samme farge, for eksempel svart. Da må
+    alle rutene til venstre for disse, eller alle rutene til høyre, også være svarte.
+    Det betyr at slike stabler med to likt fargede ruter oppå hverandre bare kan
+    opptre på venstre eller høyre ende, med en eller flere slike stabler ved siden
+    av hverandre. Mellom disse ensfargede stablene på hver side må vi alltid ha
+    svart øverst, hvitt nederst, eller alltid omvendt. (Bildet til høyre i oppgaven
+    illustrerer hvorfor.) Slik ser vi altså at bildene over er ganske representative.
+     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .D
+
+(65) Oppgave 5 2022/2023.                Det er i alt 12⋅11      2 = 66 mulige sokkepar Pål kan trekke
+    ut av skuffen. Av disse er det 3⋅2                           =    3 blå, 4⋅3                                  5⋅4
+                                                           2                       2 = 6 røde og 2 = 10 gule
+    sokkepar, i alt 19 ensfargede sokkepar. Så sjansen for et ensfarget sokkepar
+    er 19
+       66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(66) Oppgave 7 2022/2023.            Naborom har alltid motsatt paritet: Naboene til et odde-
+    tallsrom har partallsnummer, og omvendt. Siden rotta startet i et oddetalls-
+    rom og flytter seg et partalls antall ganger, må den nødvendigvis ende opp i
+    et oddetallsrom igjen, altså en av nodene 1, 3, eller 5. Alle disse er mulige. For
+    eksempel kan rotta gå frem og tilbake mellom rom 1 og 2, og altså alltid være
+    i node 1 etter et jevnt antall steg. Men den kan også gjøre det til og med steg
+    2020, og deretter gå til rom 4 og så til rom 3 eller 5. Så alle de tre mulighetene
+    er åpne. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                      Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                  Side 61 av 85
+
+
+(66) Oppgave 10 2022/2023.   Herman kan først velge to av seks plasser i tårnet for
+    de røde klossene. Det kan han gjøre på 6⋅5 2 = 15 måter. Så kan han velge to
+    av de fire gjenværende plassene for de blå klossene. Det kan han gjøre på
+    4⋅3 = 6 måter. I alt har han 15 ⋅ 6 = 90 muligheter. . . . . . . . . . . . . . . . . . . . . . . . E
+     2
+
+(66) Oppgave 14 2022/2023.     Det første av fire sifre kan velges på ni måter (det kan
+    ikke være null). Da kan det andre sifferet som finnes i tallet, velges fritt blant
+    de øvrige ni sifrene (inkludert null). Til slutt finnes det 23 = 8 måter å lage
+    de siste tre sifrene på med de to som nå er valgt, men en av de åtte måtene
+    (alle siffer lik det første) er ikke tillatt, så det er bare sju valg igjen. I alt har
+    vi 9 ⋅ 9 ⋅ 7 = 567 muligheter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(66) Oppgave 19 2022/2023.   Et rektangel i figuren bestemmes entydig ved å velge
+    to av de sju vertikale linjene og to av de horisontale linjene. Hvert av de to
+    valgene har 7⋅6                                    2
+                  2 = 21 muligheter, så det er i alt 21 rektangler.
+    La de to vertikale sidene i et rektangel ligge på vertikal linje nummer 𝑎 og 𝑏,
+    der 𝑎 og 𝑏 er heltall med 1 ≤ 𝑎 < 𝑏 ≤ 7.
+    For at rektangelet skal inneholde et skyggelagt kvadrat, må 𝑏 > 3 og 𝑎 < 5.
+    Det gir fire muligheter hver for 𝑎 og 𝑏, totalt 16 muligheter, men vi må fjerne
+    tilfellet 𝑎 = 𝑏 = 4, så det er bare 15 muligheter for (𝑎, 𝑏). På samme måte kan
+    de horisontale sidene velges på 15 måter, så 152 rektangler inneholder minst
+    ett skyggelagt kvadrat.
+    Antall rektangler som ikke gjør det, er da 212 − 152 = (21 − 15)(21 + 15) =
+    6 ⋅ 36 = 216. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(66) Oppgave 3 2023/2024.      Nils kan velge chili som nummer 1 eller 2, altså to mu-
+    ligheter. Han kan velge appelsin som nummer 4 eller 5, også det to mulig-
+    heter. Da gjenstår det tre sjokolader, og når han har bestemt den innbyr-
+    des rekkefølgen på de tre (3! = 6 muligheter), er alt bestemt. I alt blir det
+    2 ⋅ 2 ⋅ 6 = 24 mulige rekkefølger, siden de tre valgene kan gjøres uavhengig
+    av hverandre. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(67) Oppgave 5 2023/2024.     Etter at Nils tok ut to høyresko, er det igjen seks sko i
+    skapet, hvorav fire venstresko. Sannsynligheten for at den neste skoen han
+    tar, er en venstresko, er altså 46 = 23 . Gitt at det går bra, er det nå tre venstresko
+    blant de siste fem skoene, så sannsynligheten for at han får en venstresko til,
+    er 35 . Sannsynligheten for at han trekker to venstresko, og dermed ender opp
+    med to par, er 23 ⋅ 35 = 25 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+    Abelkonkurransen                                                                            Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                        Side 62 av 85
+
+
+(67) Oppgave 7 2023/2024.                    Helene må veksle mellom polsk og ukrainsk, så hun
+    har bare to måter å fordele språk på: Den ene starter med polsk, og den andre
+    starter med ukrainsk. For hvert av de to valgene kan hun velge rekkefølgen
+    på de polske bøkene på 5! = 120 ganger, og likeledes har hun 120 rekkefølger
+    for bøkene på ukrainsk. Det gir i alt 2 ⋅ 120 ⋅ 120 = 28800 mulige rekkefølger.
+    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .D
+
+(67) Oppgave 10 2023/2024.  Tvillingene til de 20 som spilte fotball alle dagene, må
+    ha gått tur alle dagene. Tar vi bort disse tvillingparene, står vi igjen med 120
+    elever (60 tvillingpar) som valgte en aktivitet en av dagene, og den andre
+    aktiviteten de to andre dagene. Det betyr at nøyaktig en tvilling i hvert av de
+    60 tvillingparene spilte fotball nøyaktig to av dagene. . . . . . . . . . . . . . . . . . . . E
+
+(67) Oppgave 19 2023/2024.   Arne kan velge ett av 25 − 3 = 22 mulige tidsintervall,
+    med start fra kl 00, 01, …, 21. Tilsvarende har Berit 25 − 4 = 21 mulige valg,
+    mens Camilla har 25 − 7 = 18 mulige valg. Det totale antallet mulige utfall er
+    22 ⋅ 21 ⋅ 18.
+    Vi må telle opp antall utfall som ikke leder til kollisjoner. Et eksempel viser
+    hvordan vi kan representere et slikt utfall: Se på strengen ∗∗B∗∗∗∗AC∗∗∗∗.
+    Den tolker vi slik: Fra midnatt er det to ledige timer (∗∗), så kommer Berits
+    fire timer, så fire ledige timer (∗∗∗∗), så Arne og Camilla rett etter hverandre
+    (3 + 7 = 10 timer), og til sist er det fire ledige timer til før midnatt. Enhver
+    streng med ti stjerner pluss de tre symbolene A, B og C én gang hver gir en
+    løsning. Det er i alt 13 ⋅ 12 ⋅ 11 måter å plassere de tre bokstavene på blant de
+    13 symbolene i en slik streng.
+    Den søkte sannsynligheten blir 13⋅12⋅11    13
+                                    22⋅21⋅18 = 63 . (Livet blir mye vanskeligere om
+    du ganger ut teller og nevner før du prøver å forenkle brøken.) . . . . . . . . . . D
+
+(68) Oppgave 3 2024/2025.  Hvis Nils trekker 25 sokker, risikerer han å ende opp
+    med 20 svarte og bare fem hvite sokker. Men trekker han 26 sokker, er han
+    sikker, for blant de 26 sokkene er det høyst 20 svarte, så det er minst seks
+    hvite. Og det er høyst 16 hvite, så det er minst ti svarte. . . . . . . . . . . . . . . . . . D
+
+(68) Oppgave 8 2024/2025.  Spør i stedet: Hvor mange lapper kan du maksimalt
+    trekke uten å ha tre som slutter på samme siffer? Svaret er 20 lapper: To som
+    ender på 0, to som ender på 1, og så videre. Med 21 lapper er du sikker. . . D
+    Abelkonkurransen                                          Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                      Side 63 av 85
+
+
+(68) Oppgave 15 2024/2025.    Om vi roterer sjakkbrettet 180 grader, kommer hvite
+    ruter der det var hvite ruter fra før. Siste rute, med tallet 64, havner der første
+    rute, med tallet 1, var. Summen av de to er 65. Det samme skjer med de neste
+    hvite rutene: 3 + 62 = 65, og så videre. Så to ganger summen er 32 ⋅ 65, og
+    summen vi søker, er 16 ⋅ 65 = 1040.
+    Alternativ løsning: Del inn sjakkbrettet i mindre kvadrater, der hvert kvadrat
+    er 2 × 2 ruter. I et slikt småkvadrat er summen av tallene i de to hvite rutene
+    lik summen av tallene i de to svarte rutene, så tallene i de hvite rutene har
+    samme sum som tallene i de svarte, og derfor halve summen av alle tallene
+    på brettet, altså 12 (1 + 2 + 3 + ⋯ + 64) = 12 ⋅ 64⋅65
+                                                       2 ) = 16 ⋅ 65 = 1040. . . . . . . . C
+
+(68) Oppgave 16 2024/2025.     La oss måle tid i timer fra midnatt, og vinkler med
+    klokka fra rett opp. Ved tidspunkt 𝑡 kan vi si at timeviseren står i vinkel 𝑡 ⋅ 30∘ ,
+    og minuttviseren i vinkel 𝑡 ⋅ 360∘ . (Vinkler større enn 360∘ kan reduseres til
+    noe mellom 0∘ og 360∘ ved å trekke fra et heltallig multiplum av 360∘ , men
+    her foretrekker vi å ikke gjøre det.) Vinkelen mellom de to viserne er så 𝑡 ⋅
+    360∘ − 𝑡 ⋅ 30∘ = 𝑡 ⋅ 330∘ , og viserne står vinkelrett på hverandre hver gang
+    𝑡 ⋅ 330∘ = 90∘ + 𝑛 ⋅ 180∘ for et heltall 𝑛. Det skjer så hver 180    6
+                                                                  330 = 11 time. I løpet
+    av 24 timer har det skjedd 24/ 11  6 = 44 ganger.
+
+    Alternativ løsning: I løpet av ett døgn går minuttviseren 24 hele runder, og
+    timeviseren to runder i samme retning. Det betyr at minuttviseren går 24 −
+    2 = 22 runder sett fra timeviserens synspunkt. Den står vinkelrett på time-
+    viseren to ganger per runde, i alt 44 ganger.
+    Mulig alternativ løsning: I hver time, fra og med helt klokkeslett til neste hele
+    klokkeslett, står urviserne vinkelrett på hverandre to ganger. (Dette er sant,
+    men er ikke fullt så opplagt som man skulle tro, ettersom det går litt over en
+    halvtime mellom hver gang dette skjer.) Det skulle bli 2 ⋅ 24 = 48 ganger i alt i
+    en 24-timers periode.. Men to ganger i hver 12-timers periode, nemlig klokka
+    tre og ni, skjer det på hel time. Så disse to (fire om vi tar hele døgnet) er tatt
+    med to ganger hver, så vi må trekke fra fire, og ender med 44 som svar. . . D
+
+(69) Oppgave 20 2024/2025.  Skriv 𝑅, 𝐺, 𝐵, 𝑆 for verdien av henholdsvis den røde,
+    grønne, blå, eller svarte terningen. Til hvert terningkast (𝑅, 𝐺, 𝐵, 𝑆) kan vi
+    tilordne et «motsatt» terningkast (𝑅′ , 𝐺 ′ , 𝐵′ , 𝑆 ′ ) = (5−𝑅, 21−𝐺, 13−𝐵, 13−𝑆).
+    Så er 𝑅 + 𝐺 < 𝐵 + 𝑆 hvis og bare hvis 𝑅′ + 𝐺 ′ > 𝐵′ + 𝑆 ′ . (Dette gjelder fordi
+    5+21 = 13+13.) Det er altså akkurat like mange terningkast med 𝑅+𝐺 < 𝐵+𝑆
+    som det er terningkast med 𝑅 + 𝐺 > 𝐵 + 𝑆.
+    La oss telle opp antall terningkast med 𝑅 + 𝐺 = 𝐵 + 𝑆 = 𝑛, for 𝑛 = 2, 3, …, 24:
+    Ettersom 𝑅′ + 𝐺 ′ = 26 − (𝑅 + 𝐺) og 𝐵′ + 𝑆 ′ = 26 − (𝐵 + 𝑆), er antallet det
+    Abelkonkurransen                                                                      Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                                                  Side 64 av 85
+
+
+    samme for 𝑛 = 24, 23, …, 14 som det er for 𝑛 = 2, 3, …, 12.
+    BS: For 𝑛 = 2, 3, …, 13 har vi 𝑛 − 1 muligheter for (𝐵, 𝑆) med 𝐵 + 𝑆 = 𝑛 (gitt
+    ved 𝐵 = 1, 2, …, 𝑛 − 1 og 𝑆 = 𝑛 − 𝐵).
+    RG: Likeledes, for 𝑛 = 2, 3 og 4 har vi 𝑛−1 muligheter for (𝑅, 𝐺) med 𝑅+𝐺 = 𝑛;
+    men for 𝑛 = 5, …, 13 har vi bare fire muligheter (gitt ved 𝑅 = 1, 2, 3, 4 og
+    𝐺 = 𝑛 − 𝑅).
+    For hver 𝑛 må vi gange sammen tallene vi kom frem til i avsnittene BS og RG:
+    Antall muligheter totalt for 𝑅 + 𝐺 = 𝐵 + 𝑆 < 13 er da 1 ⋅ 1 + 2 ⋅ 2 + 3 ⋅ 3 + 4 ⋅
+    (4 + 5 + ⋯ + 11) = 14 + 4 ⋅ 60 = 254.
+    Symmetrien mellom (𝑅, 𝐺, 𝐵, 𝑆) og (𝑅′ , 𝐺 ′ , 𝐵′ , 𝑆 ′ ) gir oss 2 ⋅ 254 = 508 mulig-
+    heter for 𝑅 + 𝐺 = 𝐵 + 𝑆 ≠ 13. Legger vi så til 4 ⋅ 12 = 48 muligheter for 𝑛 = 13,
+    har vi totalt 556 muligheter for 𝑅 + 𝐺 = 𝐵 + 𝑆.
+    Alt i alt er det 4 ⋅ 20 ⋅ 12 ⋅ 12 = 80 ⋅ 144 mulige utfall, og 80 ⋅ 144 − 556 av
+    disse har 𝑅 + 𝐺 ≠ 𝐵 + 𝑆. Av disse vil halvparten oppfylle 𝑅 + 𝐺 < 𝐵 + 𝑆, i alt
+    40 ⋅ 144 − 278 = 5482 utfall. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(69) Oppgave 3 2025/2026.    Hvis Anna velger den svarte buksen, kan hun velge
+    fritt blant de fire skjortene, og enten de hvite eller de røde skoene. Det gir
+    4 × 2 = 8 muligheter. Hvis hun velger den blå buksen i stedet, har hun bare
+    tre skjorter å velge i, men hun kan fritt velge blant de tre skoparene. Det blir
+    3 × 3 = 9 muligheter. Alt i alt har hun 9 + 8 = 17 mulige valg.
+    Alternativ løsning: Anna har 4 ⋅ 2 ⋅ 3 = 24 mulige antrekk. Men hun vil ikke
+    kombinere svart bukse og svarte sko, som utelukker fire av mulighetene (en
+    for hver skjorte). Hun vil heller ikke kombinere blå bukse med blå skjorte,
+    som utelukker tre muligheter til (en for hvert par sko). Tilsammen har hun
+    utelukket sju mulige antrekk. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(69) Oppgave 11 2025/2026.          Dersom første siffer er 𝑖, blir summen av de to andre
+    sifrene lik 20 − 𝑖. La 𝑓 (𝑗) være antall tosifrede tall slik at summen av sifrene er
+    𝑗. Svaret på oppgaven blir så 𝑓 (18) + 𝑓 (17) + ⋯ + 𝑓 (11). Mønsteret er tydelig
+    nok: 𝑓 (18) = 1 fordi 99 er eneste mulighet, 𝑓 (17) = 2 (89, 98), 𝑓 (16) = 3 (79,
+    88, 97) og så videre til 𝑓 (11) = 8. Vi står altså med 1 + 2 + ⋯ + 8 = 8⋅9                                          2 = 36
+    muligheter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+    Abelkonkurransen                                                   Løsninger – kombinatorikk
+    Runde 1 2005–2024                                                               Side 65 av 85
+
+
+(69) Oppgave 18 2025/2026.     Rutenettet i figuren har en rute for 1 7 25 63
+    hvert «veikryss» i veinettet i oppgaven. Tallet i hver rute an-
+                                                                                  1 5 13 25
+    gir antall tillatte veier til ruten fra nedre venstre hjørne. Vi
+    finner og fyller inn tallene oppover og mot høyre: Først alle 1 3 5 7
+    ett-tallene i første rad og kolonne. Deretter må hver rute inne- 1 1 1 1
+    holde summen av de tre tallene i ruten under, til venstre og
+    under til venstre, siden enhver lovlig vei må komme via en av de tre. Eksem-
+    pel fra figuren: 25 = 13+7+5. Slik fyller vi inn tallene 3, 5, 7 i den rekkefølgen,
+    deretter 13 og 25, og så til slutt 63 i den siste ruten. . . . . . . . . . . . . . . . . . . . . . B
+
+(69) Oppgave 19 2025/2026.  Her har vi valgt å illust-
+    rere fremgangsmåten med et mye mindre rute-
+    nett: 24 × 16. Det forenkler løsningen litt å dele
+    opp rutenettet i fire mindre rutenett, som i fi-
+    guren. Så trenger vi bare telle opp hvor man-
+    ge ruter som ligger på den ene diagonalen i et
+    12×8-rutenett (2431×1638 i oppgaven vi egentlig
+    skal løse), og så gange med fire.
+    Vi ser litt mer generelt på et 𝑎 × 𝑏-rutenett, som vi plasserer i første kvadrant
+    i et koordinatsystem med ett hjørne i (0, 0) og det motsatte hjørnet i (𝑎, 𝑏). Så
+    følger vi diagonalen oppover fra (0, 0) til (𝑎, 𝑏), og teller opp rutene vi krysser
+    på veien. Hver gang vi krysser en vertikal linje, kommer vi inn i en ny rute.
+    Det skjer 𝑎 −1 ganger. Likedan når vi krysser en horisontal linje, 𝑏 −1 ganger.
+    Teller vi også med ruten vi starter i, skulle det være 1+(𝑎−1)+(𝑏−1) = 𝑎+𝑏−1
+    ruter på diagonalen.
+    Men nå har vi kanskje talt opp for mange ruter! Problemet oppstår når dia-
+    gonalen krysser et gitterpunkt (𝑥, 𝑦), altså et punkt (𝑥, 𝑦) med 𝑥 og 𝑦 heltall,
+    0 < 𝑥 < 𝑎 og 0 < 𝑦 < 𝑏, og 𝑦/𝑥 = 𝑏/𝑎. Da har vi telt opp en rute for mye, så
+    vi må trekke fra antall slike punkt. (I figuren har vi slike punkt i (3, 2), (6, 4),
+    (9, 6).)
+    Gitterpunktene på diagonalen er gitt ved (𝑛𝑎/𝑑, 𝑛𝑏/𝑑), der 𝑑 er største felles
+    divisor for 𝑎 og 𝑏, og 𝑛 = 1, …, 𝑑 − 1. Alt i alt ligger dermed 𝑎 + 𝑏 − 1 − (𝑑 − 1) =
+    𝑎 + 𝑏 − 𝑑 ruter på diagonalen.
+    Vi må finne største felles divisor for 2431 og 1638. Vi ser umiddelbart at 1638
+    både er partall og delelig med 9, så vi dividerer, og finner at 1638/18 = 91 =
+    7 ⋅ 13. Med andre ord er 1638 = 2 ⋅ 32 ⋅ 7 ⋅ 13. På den annen side er 2431
+    (åpenbart) ikke delelig med 2 eller 3, heller ikke med 7, men 13 går opp i
+    2431, så største felles divisor for de to tallene må være 13. (De som kjenner
+    til Euklids algoritme, kunne brukt den i stedet.)
+Abelkonkurransen                                        Løsninger – kombinatorikk
+Runde 1 2005–2024                                                    Side 66 av 85
+
+
+I dette tilfellet får vi 𝑎 +𝑏 −𝑑 = 2431+1638−13 = 4056. Så må vi ikke glemme
+å gange med fire, og får 16224 ruter som ligger på en diagonal. . . . . . . . . . . A
+

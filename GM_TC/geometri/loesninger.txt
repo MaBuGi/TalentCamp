@@ -1,0 +1,1052 @@
+      Abelkonkurransen                                                                         Løsninger – geometri
+      Runde 1 2005–2024                                                                               Side 20 av 85
+
+
+      Geometri
+
+(24) Oppgave 2 2005/2006.  Summen av lengdene av de vannrette linjestykkene er
+      20. Det samme gjelder de loddrette linjestykkene. . . . . . . . . . . . . . . . . . . . . . . B
+
+(24) Oppgave 7 2005/2006.     La sidene ha lengder 𝑥 og 𝑦. Da er arealet 𝑥𝑦 = 14, og
+      ved Pytagoras’ setning er 𝑥 2 + 𝑦 2 = 36, slik at (𝑥 + 𝑦)2 = 𝑥 2 + 𝑦 2 + 2𝑥𝑦 =
+      36 + 2 ⋅ 14 = 64, og 𝑥 + 𝑦 = 8. Omkretsen er 2(𝑥 + 𝑦) = 2 ⋅ 8 = 16. . . . . . . . . C
+
+(24) Oppgave 9 2005/2006.     HGCF kan deles opp i tre                                    𝐷                 𝐹             𝐶
+      trekanter som er kongruente med trekanten HFD
+      (se til venstre). Firkanten EBGH er like stor som
+      firkanten HGCF , så arealet av halve rektangelet                                                 𝐻
+      ABCD er seks ganger arealet av trekanten HFD.                                                                       𝐺
+      Arealet av hele rektanglet er 12 ganger så stort. A
+                                                                                          𝐴                 𝐸             𝐵
+(24) Oppgave 11 2005/2006.           La 𝛼 og 𝛽 være størrelsen til                                         𝐷
+      henholdsvis vinkelen EDA og BDC. Da er vinklene
+      BAD og DBA henholdsvis 90∘ −𝛼 og 90∘ −𝛽 (trekantene                                                         𝛽       𝐶
+                                                                                                           𝛼 +𝛽
+                                                                                                       𝛼
+      ADE og DBC er likebeinte). Vinkelsummen i trekanten                                      𝐸
+      ABD er 180∘ , så vinkelen ADB er lik 𝛼 + 𝛽. Fordi vin-
+      kelen EDC er rett, er 90∘ = 𝛼 + (𝛼 + 𝛽) + 𝛽 = 2(𝛼 + 𝛽),                                      𝛼                  𝛽
+      og 𝛼 + 𝛽 = 45∘ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C                90∘ − 𝛽
+                                                                                               𝐴 90∘ − 𝛼                  𝐵
+
+(25) Oppgave 14 2005/2006.    Ved Pytagoras’ setning har CE lengde √2,52 − 22 =
+      1,5. Lengden av ED er dermed 0,5. Fordi trekantene BCE og EDF er formlike,
+      med FE svarende til EB og ED svarende til BC, har FE lengde 2,5⋅0,5/2 = 0,625.
+      .....................................................................B
+
+(25) Oppgave 18 2005/2006.     La 𝑟 være radius i halvsirkelen der hypotenusen er
+      diameter. Ved Pytagoras’ setning er (2𝑟)2 = 102 +72 = 149, slik at 𝑟 2 = 149/4,
+      og arealet av halvsirkelen er 12 𝜋𝑟 2 = 149𝜋/8. Trekanten har areal 12 ⋅10⋅7 = 35,
+      og arealet av det av halvsirkelen som ligger utenfor trekanten er 149𝜋/8−35.
+      Trekker vi dette fra arealet av de to halvsirklene der katetene er diametre, får
+      vi 49𝜋/8 + 100𝜋/8 − 149𝜋/8 + 35 = 35. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(25) Oppgave 2 2006/2007. Lengden av periferien er 𝜋 2 og lengden av diameteren
+     2𝜋. Til sammen 𝜋 2 + 2𝜋. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+    Abelkonkurransen                                                                                    Løsninger – geometri
+    Runde 1 2005–2024                                                                                          Side 21 av 85
+                                                                                                                             𝐶
+(25) Oppgave 5 2006/2007.                  De to trekantene ADE og BDE er                                            𝐸
+    kongruente, da begge er rettvinklete og katetene har par-
+    vis samme lengde. Vinklene BAE og ABE er like store og
+    AEB rett. Summen av dem er 180∘ , og vinkelen BAE er
+                                                                                                            𝐴            𝐷               𝐵
+    45∘ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(25) Oppgave 8 2006/2007.    Hvis sirkelen har diameter 𝑑, så har det
+    største kvadratet sidelengde 𝑑 og det minste sidelengde 𝑥 be-                                                                𝑑
+                                                                                                                         𝑥
+    stemt ved at 2𝑥 2 = 𝑑 2 (Pytagoras’ setning). Forholdet mellom
+    arealene er 𝑑 2 /𝑥 2 = 2𝑑 2 /2𝑥 2 = 2𝑑 2 /𝑑 2 = 2.                                                                       𝑥
+
+    Alternativ: Drei det minste kvadratet 45∘ om sentrum, og se på
+    arealet av de åtte trekantene på figuren. . . . . . . . . . . . . . . . . . . . C
+
+
+
+(26) Oppgave 11 2006/2007.    La kvadratsidene ha lengder 𝑥, 2𝑥,                                                2𝑦                   𝑦
+    𝑦 og 2𝑦, som vist på figuren. Ved å sammenlikne nedre og
+    øvre vannrette side i rektanglet, får vi 7𝑥 = 3𝑦, mens de
+    loddrette sidene har lengde 2𝑥 + 2𝑦. Forholdet mellom
+    vannrette og loddrette sider er 7𝑥/(2𝑥 + 2𝑦) = 7𝑥/(2𝑥 +
+    2 ⋅ 7𝑥/3) = 21/20. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A                                   2𝑥          𝑥
+
+(26) Oppgave 12 2006/2007.    Vi skal finne arealet av det mørkeste
+    området på figuren ved å trekke arealet av det hvite området      1
+    fra arealet av sirkelsektoren som består av det hvite og det
+    mørkeste området. Den markerte vinkelen er 60∘ , fordi den                                                  60 ∘
+                                                                        1  1
+    øvre hvite rettvinklete trekanten har en katet som er halvpar-      2  2
+    ten av hypotenusen. Dette er velkjent, men kan ses ved å sette
+    sammen trekanten med dens speiling langs den andre kate-
+    ten, slik at en likesidet trekant framkommer (stiplet). Arealet
+    av sirkelsektoren er 120𝜋/360 = 𝜋/3, mens arealet av den hvite trekanten er
+    1 ⋅ 2 1 − ( 1 )2 ⋅ 1 = 3/4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+    2    √      2      2  √
+
+(26) Oppgave 14 2006/2007.    Parallellforskyv BC
+    slik at 𝐶 kommer på 𝐷. Da dannes en trekant       𝐷          5          𝐶
+    med vinklene 30∘ , 60∘ og 90∘ og med hypo-
+    tenus av lengde 13 − 5 = 8. Den korteste           60∘
+    kateten, AD, har halvparten av lengden av                       30∘
+                                                                                                  𝐵
+    hypotenusen, ved et liknende resonnement 𝐴                 8
+    som i oppgave 12 (sett sammen trekanten med sin speiling langs den andre
+    kateten, slik at en likesidet trekant framkommer). . . . . . . . . . . . . . . . . . . . . . . E
+    Abelkonkurransen                                                                               Løsninger – geometri
+    Runde 1 2005–2024                                                                                     Side 22 av 85
+
+                                                                                                𝐴 𝑥𝐷
+(26) Oppgave 18 2006/2007.     Lengden av AC er √2, da
+    BC har lengde 4 og trekanten ABC har areal 2√2. √2 ℎ
+    La AD ha lengde 𝑥 og CD lengde ℎ. Trekantene                            𝐶                                    𝐵
+                                                                                              4
+    ABC og ACD er formlike, slik at 𝑥/ℎ = √2/4, og
+    dermed er ℎ2 = 8𝑥 2 . Etter Pytagoras’ setning er
+    2 = 𝑥 2 + ℎ2 = 9𝑥 2 , slik at 𝑥 = √2/3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(27) Oppgave 7 2007/2008. Vi skal addere lengdene av DE,                                         𝐷                𝐺       2      𝐶
+    EF , FG og GH . Ved Pytagoras’ setning har DE lengde
+                                                                                                                                 2
+    √22 + 42 = 2√5 og EF lengde √22 + 22 = 2√2. FG har
+    samme lengde som EF , og GH er halvparten så lang                                             4       𝐻                      𝐹
+    som DE (diagonalene AG og DE i rektanglet AEGD                                                                               2
+    skjærer hverandre i 𝐻). Den totale lengden er 2√5 +
+    2 ⋅ 2√2 + √5 = 3√5 + 4√2. . . . . . . . . . . . . . . . . . . . . . . . D                    𝐴            2   𝐸       2      𝐵
+
+(27) Oppgave 9 2007/2008.         Omkretsen av det store rektanglet består av halvparten
+    av omkretsene av de fire grå rektanglene, og har altså lengde (6 + 11 + 12 +
+    13)/2 = 21. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(27) Oppgave 11 2007/2008. Hvis Alf har høyde ℎ, lykta er plas-
+    sert 𝐻 høyere og Alf står i avstand 𝐴 fra lykta, så har                                               𝐻
+    skyggen lengde 𝑎 = (ℎ/𝐻 )𝐴 (formlike trekanter). Hvis
+    𝐴 tredobles, så tredobles også 𝑎. . . . . . . . . . . . . . . . . . . . . . D                                         ℎ
+                                                                                                                   𝐴             𝑎
+(27) Oppgave 14 2007/2008. Vinklene i trekanten                                                       𝐶
+     DEF er alle 60∘ . Vinkelen AED er dermed 180∘ −
+     64∘ − 60∘ = 56∘ . Summen av vinklene 𝐴, 𝐵 og
+    𝐶 er lik summen av vinklene 𝐴, EDA og AED                                                                         𝐹
+                                                                                                  64∘
+    (180∘ ), og vinklene 𝐵 og 𝐶 er like, slik at vinke-
+                                                                                            𝐸               ∘
+    len 𝐵 er (52∘ + 56∘ )/2 = 54∘ . Vinkelen BDF er                                                 60∘ 60 58∘
+    180∘ − 60∘ − 52∘ = 68∘ . Dermed er vinkelen BFD                                             56∘
+                                                                                                         60∘ ∘
+    180∘ − 54∘ − 68∘ = 58∘ . . . . . . . . . . . . . . . . . . . . . B                              52 ∘    68 54∘
+                                                                                      𝐴                   𝐷                      𝐵
+
+(27) Oppgave 20 2007/2008.     Oppdelingen av kvadratet danner en mengde vinkler
+    med toppunkter i punktene. Vinkelsummen er 4⋅90∘ +2007⋅360∘ . Vi kan også
+    finne vinkelsummen ved å summere vinkelsummen i alle de 𝑛 trekantene,
+    𝑛 ⋅ 180∘ . Så 180𝑛 = 4 ⋅ 90 + 2007 ⋅ 360, som gir 𝑛 = 2 + 2 ⋅ 2007 = 4016. . . . . . D
+    Abelkonkurransen                                                                                       Løsninger – geometri
+    Runde 1 2005–2024                                                                                             Side 23 av 85
+
+
+(28) Oppgave 3 2008/2009. Summen av omkretsene av de tre ytre trekantene er
+    lik summen av omkretsen av den store trekanten og omkretsen av den indre
+    trekanten. 16 + 24 + 27 − 24 = 43. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(28) Oppgave 5 2008/2009. Trekantens høyde møter midten av grunnlinja, slik at
+     høyden er √22 − 12 = √3, og trekantens areal er 2√3/2 = √3. Områdene som
+     fjernes, er tre seksdels sirkler, hver med areal 𝜋12 /6 = 𝜋/6. Totalt fjernes
+    3𝜋/6 = 𝜋/2, og arealet av det gjenværende området er √3 − 𝜋/2. . . . . . . . . A
+
+(28) Oppgave 8 2008/2009.                    La trekanten EBD ha grunnlinje 𝑔 og høyde ℎ. Trekan-
+    tene FDC og EBD er formlike, så det fins et tall 𝑘 (det lineære forholdstallet)
+    som er slik at trekanten FDC har grunnlinje 𝑘𝑔 og høyde 𝑘ℎ. Forholdet mel-
+    lom arealene av FDC og EBD er 4/9 = 𝑘𝑔 ⋅ 𝑘ℎ/(𝑔ℎ) = 𝑘 2 , slik at 𝑘 = 2/3.
+    Grunnlinja i trekanten AEF er like lang som grunnlinja i FDC, og høyden den
+    samme som høyden i EBD, og arealet er dermed 𝑘𝑔 ⋅ ℎ/2 = 𝑘 ⋅ 𝑔ℎ/2 = 𝑘 ⋅ 9 = 6.
+     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .C
+
+(28) Oppgave 10 2008/2009.             La 𝑥 være lengden av den
+    korteste kateten. Da har hypotenusen lengde 2𝑥,
+                                                                                                                    2𝑥
+    og den lengste kateten har lengde √(2𝑥)2 − 𝑥 2 = 𝑥 1                                                  1
+    √3𝑥 ved Pytagoras’ læresetning. Oppgaven sier
+                                                                                                       1
+    at det fins et punkt som er slik at de tre nor-
+    malene fra punktet til sidene alle har lengde                                                              √3𝑥
+    1. Dann tre trekanter ved å trekke linjestykker
+    mellom hvert hjørne i trekanten til dette punktet. De tre normalene er høy-
+    der i disse trekantene. Summen av arealene av disse tre småtrekantene er
+    √3𝑥/2+𝑥/2+2𝑥/2 = (√3+3)𝑥/2. Men summen av arealene er også lik area-
+    let av den opprinnelige trekanten, √3𝑥 ⋅ 𝑥/2. Så (√3 + 3)𝑥/2 = √3𝑥 2 /2, som
+    gir 𝑥 = 1 + √3. Arealet av den store trekanten er dermed (√3 + 3)(1 + √3)/2 =
+    3 + 2√3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(28) Oppgave 11 2008/2009. Ved Pytagoras’ setning
+     har AC lengde 132 − 122 = 5. La ℎ være lengden
+                   √                                                                              𝐶 𝑔
+                                                                                                      𝐷
+    av AD og 𝑔 lengden av CD. Trekantene ABC og
+    DAC er formlike, så 𝑔/5 = 5/13 og ℎ/5 = 12/13.                                                       ℎ
+    Arealet av trekanten ADC er 𝑔ℎ/2 = 1/2⋅5⋅5/13⋅
+    5 ⋅ 12/13 = 750/169. . . . . . . . . . . . . . . . . . . . . . . . . A                       𝐴                                         𝐵
+    Abelkonkurransen                                                                                    Løsninger – geometri
+    Runde 1 2005–2024                                                                                          Side 24 av 85
+
+
+(29) Oppgave 4 2009/2010.  Arealet av det ene hvite området er differansen mellom
+    arealet av et kvadrat med side 1 og en kvartsirkel med radius 1, altså 1 − 𝜋/4.
+    Arealet av det grå området er differansen mellom arealet av kvadratet og to
+    ganger arealet av et hvitt område, 1 − 2(1 − 𝜋/4) = 𝜋/2 − 1. . . . . . . . . . . . . . C
+
+(29) Oppgave 9 2009/2010. La 𝑂 være sentrum i sirkelen og                                                                               𝑂
+     𝐴′ og 𝐵′ fotpunktene for normalene fra 𝑂 til henholds-
+    vis grunnlinja i trekanten og kvadratet. La 𝐴 og 𝐵 være
+                                                                                                                       𝐴′
+    nedre venstre hjørne i henholdsvis trekanten og kvad- 𝐴
+    ratet. Da er OA og OB radier i sirkelen og har lengder 1.
+    Vinkelen AOA′ er 60∘ (en vinkel med toppunkt i 𝑂 og                                      𝐵                         𝐵′
+    vinkelbein som går gjennom to av trekantens hjørner er 120∘ ), og speiles
+    trekanten AA′ O om AA′ får vi en likesidet trekant, noe som viser at OA′
+    har lengde halvparten av OA, altså 12 . Vinkelen BOB′ er 45∘ (en vinkel med
+    toppunkt i 𝑂 og vinkelbein som går gjennom to nabohjørner i kvadratet er
+    90∘ ), så trekanten BB′ O er likebeint. Av Pytagoras’ læresetning følger det at to
+    ganger kvadratet av katetenes lengde er 12 = 1, slik at OB′ har lengde √2/2.
+    Avstanden mellom de to parallelle sidene er differansen mellom lengdene av
+    OB′ og OA′ , altså 12 (√2 − 1). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(29) Oppgave 12 2009/2010.    Kurva består av 6 halvsirkler og 3 kurver som er 5/6
+    av en sirkel (en trekant der hjørnene er sentrene i tre like store sirkler som alle
+    tangerer hverandre, er likesidet, og kantene går gjennom tangeringspunkte-
+    ne). Lengden er 6 ⋅ 12 ⋅ 2𝜋 + 3 ⋅ 56 ⋅ 2𝜋 = 11𝜋. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(29) Oppgave 14 2009/2010.                   Fordi summen                                        𝐶                    𝐵
+    av vinklene 𝐴 og 𝐷 er mindre enn 90 , er                      ∘
+                                                                                                           𝑂
+    begge disse vinklene spisse, og dermed
+    er 𝐴 entydig bestemt av lengden av AB 𝐷                                                                                             𝐴
+    og avstanden fra 𝐵 til AD, mens 𝐷 er en-
+    tydig bestemt av lengden av DC og avstanden fra 𝐶 til AD. Fordi AB og DC
+    er like lange og 𝐵 og 𝐶 har samme avstand til AD, er vinklene 𝐴 og 𝐷 like
+    store, 40∘ . Vinklene 𝐵 og 𝐶 er da 140∘ (supplementsvinklene er samsvarende
+    vinkler med henholdsvis 𝐴 og 𝐷). Trekantene ABC og DCB er likebeinte, slik
+    at de andre vinklene i disse to trekantene er 20∘ . Det følger at vinklene OAD
+    og ODA er 20∘ , slik at vinkelen AOD er 140∘ (vinkelsummen i trekanten er
+    180∘ ). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+    Abelkonkurransen                                                                                 Løsninger – geometri
+    Runde 1 2005–2024                                                                                       Side 25 av 85
+
+
+(29) Oppgave 17 2009/2010.  Del inn trekanten i tre trekanter,
+    hver med to hjørner fra den opprinnelige trekanten og
+    med sentrum i sirkelen som siste hjørne. Høydene til
+    sentrum av sirkelen i de små trekantene er alle 1, da ra-
+    dien til tangeringspunktet er vinkelrett på tangerings-
+    linja. La katetene ha lengde 𝑥 (trekanten er likebeint).
+    Da har hypotenusen lengde √2𝑥 ved Pytagoras’ lære-
+    setning. To ganger arealet av trekanten er lik summen
+    av to ganger arealene av småtrekantene, slik at 𝑥 2 = 𝑥 + 𝑥 + √2𝑥, og divi-
+    sjon med 𝑥 gir 𝑥 = 2 + √2. Arealet av kvadratet er (2𝑥)2 = (2(2 + √2))2 =
+    4(4 + 4√2 + 2) = 24 + 16√2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(30) Oppgave 3 2010/2011.           Hvis linjestykker trekkes fra sen-                                               2
+    trum til hvert hjørne, deles sekskantene inn i likesidede                                                                   1
+    trekanter med sidelengde 1. Linjestykket som går mel-
+    lom sentrene, og tre av sidene i trekantene, danner en
+    rettvinklet trekant med hypotenus av lengde 2 og katet
+    av lengde 1 (se figur). Pytagoras’ setning gir avstand √22 − 12 = √3 mellom
+    sentrene. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(30) Oppgave 8 2010/2011.   La 𝑆 og 𝑆 ′ være sentrene i sirk-
+                                                                            𝑆′
+    lene og 𝐴 og 𝐵 skjæringspunktene. Firkanten ASBS ′ er
+                                                                        1
+    en rombe med sidelengde 1, og fordi diagonalen SS ′ har
+    lengde √2 = √12 + 12 , følger det av Pytagoras’ setning 𝐴                 √2         𝐵
+    at romben er et kvadrat (diagonalen ville ha vært kortere           1
+    eller lengre hvis vinkelen 𝐴 ikke hadde vært rett). Sum-                 𝑆
+    men av arealene av kvartsirklene ASB og AS ′ B er sum-
+    men av arealet av hele kvadratet og arealet av området som ligger inni begge
+    sirklene (sistnevnte areal blir regnet med to ganger). Så arealet av området
+    som ligger inni begge sirklene, er differansen mellom summen av arealene
+    av kvartsirklene og arealet av kvadratet, 2 ⋅ 14 ⋅ 𝜋 ⋅ 12 − 12 = 𝜋2 − 1. . . . . . . . . B
+
+(30) Oppgave 9 2010/2011.   La de små rettvink-                                     𝑥             𝑥
+    lede, likebeinte trekantene som dannes, ha                               𝑥                            𝑥
+    kateter av lengde 𝑥. Ved Pytagoras’ set-                                             √2𝑥
+    ning har hypotenusen lengde √2𝑥. Sidene
+    i kvadratene deles inn i linjestykker som
+    består av to kateter og en hypotenus, slik at 1 = 2𝑥 + √2𝑥, som gir 𝑥 =
+    1/(2 + √2) = (2 − √2)/(4 − 2) = 1 − √2/2. Arealet av stjernen er arealet av et
+    enhetskvadrat pluss arealet av fire trekanter, 1 + 4 ⋅ 12 𝑥 2 = 1 + 2(1 − √2/2)2 =
+    1 + 2(1 − √2 + 12 ) = 4 − 2√2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+    Abelkonkurransen                                                                                  Løsninger – geometri
+    Runde 1 2005–2024                                                                                        Side 26 av 85
+
+                                                                                                         √2 𝑥/2
+(30) Oppgave 17 2010/2011.  Sentrum i sirklene, det
+    ene ytre hjørnet i kvadratet og midtpunktet på                            1                    𝑥
+    den ytre siden av kvadratet er hjørnene i en
+    rettvinklet trekant. Hvis siden i kvadratet har lengde 𝑥, har katetene lengder
+    1 + 𝑥 og 𝑥/2, mens hypotenusen har lengde √2. Pytagoras’ setning gir (1 +
+    𝑥)2 + 𝑥 2 /4 = 2, eller 5𝑥 2 + 8𝑥 − 4 = 0, som har positiv løsning 𝑥 = 2/5.
+    Arealet av kvadratet er 𝑥 2 = 4/25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(30) Oppgave 19 2010/2011.   Pyramiden består av en bakre tre-                                         𝐹        𝑆 𝐹′
+    kant, to sidetrekanter, en fremre trekant og en bunnflate.
+    Den bakre trekanten har grunnlinje og høyde 1, og areal
+    1/2. Side-trekantene har grunnlinje 1, og høyden er leng-
+    den av sidekanten i den bakre, likebeinte trekanten, √5/2
+    ved Pytagoras’ setning, slik at arealet av de to sidetrekan-
+    tene til sammen er √5/2. Den fremre trekanten har grunn-
+    linje 1 og høyde lik lengden av en diagonal i en sideflate i kuben, √2, slik at
+    arealet er √2/2. Den kvadratiske bunnflaten har areal 1. Summen av alle area-
+    lene er 12 (3 + √2 + √5). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(31) Oppgave 3 2011/2012. Siden ∠BAE = 60∘ , er ∠EAD = 30∘ . Trekanten DAE
+    er likebent, og dermed ∠ADE = ∠DEA = 12 (180∘ − 30∘ ) = 75∘ . Dermed er
+    ∠EDC = 90∘ − ∠ADE = 15∘ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(31) Oppgave 7 2011/2012.  Om radien i den minste sirkelen er 𝑟 så har den mel-
+    lomstore sirkelen radius √2𝑟. Diameteren i den største sirkelen er summen
+    av diameterne i de to mindre, så det samme må gjelde radiene. Den største
+    sirkelen har da radius (1 + √2)𝑟, så forholdet mellom arealet av den største og
+    den minste sirkelen er 𝜋((1 + √2)𝑟)2 /(𝜋𝑟 2 ) = (1 + √2)2 = 3 + 2√2. . . . . . . . E
+
+(31) Oppgave 12 2011/2012.  Start midt på den øverste linjen og følg linjen mot
+    venstre. Hver gang du kommer til en av de markerte vinklene, snur du 180∘ −𝑥
+    mot venstre, der 𝑥 er størrelsen på de markerte vinklene. Fortsett til du er
+    tilbake ved utgangspunktet. Da har du passert sju vinkler og dreid tre hele
+                                                                               ∘
+    omdreininger mot venstre: 7 ⋅ (180∘ − 𝑥) = 3 ⋅ 360∘ gir 𝑥 = 180∘ /7 = 25 57 . . E
+
+(31) Oppgave 17 2011/2012.               Omkretsen av planeten blir 2𝜋 ⋅ 2/𝜋 km = 4 km. For
+    enkelhets skyld kan vi tenke oss at huset til den lille prinsen ligger ved nord-
+    polen. Den første kilometeren tar ham til ekvator. Så følger han ekvator i tre
+    kilometer, og går strake veien hjem, altså enda en kilometer. Totalt blir det
+    5 km. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+    Abelkonkurransen                                                                                 Løsninger – geometri
+    Runde 1 2005–2024                                                                                       Side 27 av 85
+
+
+(32) Oppgave 19 2011/2012.        Den likesidede trekanten har høy-
+    de √3, så den får også areal lik √3. Sirkelradien blir 12 √3.
+    Den markerte sirkelsektoren er en tredel av sirkelen, si-
+    den den tilhørende periferivinkelen er 60∘ . Den har derfor
+    areal 13 𝜋( 12 √3)2 = 𝜋4 . I figuren finnes også fire kongruen-
+    te småtrekanter med vinkler 30∘ , 60∘ og 90∘ og hypotenus
+    1 3. De to katetene i hver av dem får lengder 1 3 og 3 .
+    2√                                                     4√    4
+    Så arealene av de fire småtrekantene er tilsammen 2 ⋅ 14 √3 ⋅ 34 = 38 √3. Vi får
+    arealet vi leter etter ved subtraksjon: √3 − 38 √3 − 𝜋4 = 58 √3 − 𝜋4 . . . . . . . . . . . A
+
+(32) Oppgave 2 2012/2013.            Skriv 𝑃, 𝑅 og 𝐿 for hjemmene til Per, Ragnar og Lars.
+    De gitte opplysningene kan skrives |𝑃𝑅| = 250 m og |𝑅𝐿| = 300 m. Lengden
+    av en side i en trekant er ikke større enn summen av de to andre lengdene,
+    så |𝑃𝐿| ≤ |𝑃𝑅| + |𝑅𝐿| = 550 m. Denne avstanden er mulig hvis de tre bor på
+    rett linje med Ragnar mellom de to andre. I tillegg er |𝑅𝐿| ≤ |𝑅𝑃| + |𝑃𝐿|, slik
+    at |𝑃𝐿| ≥ |𝑅𝐿| − |𝑅𝑃| = 50 m. Denne avstanden er også mulig om de bor på en
+    rett linje, denne gangen med Lars mellom de to andre. Alle andre avstander
+    mellom disse to yttergrensene kan oppnås ved å variere vinkelen PRL mellom
+    0∘ og 180∘ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(32) Oppgave 7 2012/2013.  Om 𝐷 er sentrum i sirke-
+    len, så har trekanten ADC vinkler 30∘ , 60∘ og                                                  𝐶
+    90∘ . Sidekantene i en slik trekant har propor-
+    sjoner 1 ∶ √3 ∶ 2. Fordi 𝐶𝐷 = 1, er 𝐴𝐶 = √3.                                                                        𝐷
+     .........................................B
+
+
+                                                        𝐴                 𝐵
+(32) Oppgave 10 2012/2013. I figuren slik den er gitt i oppgaven er småtrekantene
+    oppe til venstre og nede til høyre likebente, siden de har vinkler 45∘ , 45∘
+    og 90∘ . Dermed er hypotenusen i trekanten delt i tre like store deler, slik at
+    sidekanten i kvadratet er √2/3, og arealet er (√2/3)2 = 2/9. . . . . . . . . . . . . . A
+
+(33) Oppgave 13 2012/2013.     De to kvartsirklene må være like store. Skriv 𝑟 for
+    radien, målt i meter. 𝐴 og 𝐵 er endepunktene av hypotenusen i en rettvinklet
+    trekant med kateter 2𝑟 og 2𝑟 +20. Fra Pytagoras får vi (2𝑟)2 +(2𝑟 +20)2 = 10000.
+    Etter litt forenkling får vi 𝑟 2 + 10𝑟 = 1200. Her kan vi komplettere kvadratene
+    og få (𝑟 + 5)2 = 1225 = 352 . Siden 𝑟 er positiv, må 𝑟 = 30. Avstanden Karl Erik
+    sykler, er 𝜋𝑟 + 20 = 30𝜋 + 20 meter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                     Løsninger – geometri
+    Runde 1 2005–2024                                                                           Side 28 av 85
+
+
+(33) Oppgave 16 2012/2013.     Trekantene ABC, AFE og CGE er alle likeformet, og
+    lengden av hypotenusen i de tre står i forhold 1 ∶ 𝑦 ∶ 1 − 𝑦, hvor 𝑦 = 𝑥/(1 + 𝑥).
+    Dermed er forholdet mellom de tre arealene 1 ∶ 𝑦 2 ∶ (1 − 𝑦)2 . Trekanten ABC
+    har areal 12 , så AFE og CGE har areal 12 𝑦 2 og 12 (1 − 𝑦)2 . Summen av de to
+    arealene er 12 (𝑥 2 /(1 + 𝑥)2 + 1/(1 + 𝑥)2 ). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(33) Oppgave 18 2012/2013.   Høyden fra 𝐴 må
+                                                     𝐴                          𝐴′
+    være 3, fordi grunnlinjen BC har lengde 4
+    og arealet er 6. Sammen med kravet AB = 5                          5
+    gir dette to mulige plasseringer av 𝐴 på lin- 3      5
+                                                                                    3
+    jen parallell med BC og avstand 3. Den ene
+    kandidaten, 𝐴′ i figuren, er utelukket fordi 𝐶 ′       4     𝐵       4       C
+    CA > 3, og fordi en trekant med sider 3, 4 og
+    5 er rettvinklet. Dermed må plasseringen bli i 𝐴 som vist. CA blir hypotenus
+    i en trekant med kateter 4 + 4 = 8 og 3, så CA = √82 + 32 = √73. . . . . . . . . D
+
+(34) Oppgave 4 2013/2014.   Vi starter ytterst. Toppvinkelen i trekanten er 90∘ , si-
+    den den er periferivinkelen til en diameter. Dermed er de to andre vinklene
+    i trekanten 45∘ . Så de to småtrekantene i høyre og venstre side er likebente,
+    med kateter lik sidekanten i kvadratet, og dermed lik diameteren i den lille
+    sirkelen. Den store sirkelen har 3 ganger så stor diameter som den lille, og
+    dermed 9 ganger arealet. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(34) Oppgave 7 2013/2014. Alle banene har like lange langsider. De to halvsirklene
+    i hver bane danner en sirkel med radius 1 m større enn banen innenfor, så
+    omkretsen blir 2𝜋 m lengre. For bane fem er radien 4 m større enn for bane
+    én, så banen blir 8𝜋 m lengre. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(34) Oppgave 11 2013/2014.    La 𝑂 være sentrum i den gitte sir-                                    𝐶
+    kelen. Da er ∠OCA = ∠OBA = 90∘ , fordi 𝐴𝐵 og 𝐴𝐶 er
+    tangenter til sirkelen. Linjestykket 𝐴𝑂 deler ∠CAB i to like                                                  𝑂
+    deler, hver på 30∘ . Dermed er |𝐴𝑂| = 2|𝑂𝐶| = 2, og ved Py-
+    tagoras’ setning er |𝐴𝐶| = √|𝐴𝑂|2 − |𝑂𝐶|2 = √22 − 12 =                                     𝐴              𝐵
+    √3.
+    .....................................................................E
+    Abelkonkurransen                                                                             Løsninger – geometri
+    Runde 1 2005–2024                                                                                   Side 29 av 85
+
+
+(34) Oppgave 14 2013/2014. Om sidelengden i kuben er 𝑠, så er avstanden mellom
+    motstående hjørner på en sideflate 𝑠√2, ved Pytagoras’ teorem. Om vi skjærer
+    kuben med et plan som inneholder to motstående sidekanter, får vi derfor et
+    rektangel med sidekanter 𝑠 og 𝑠√2. En ny anvendelse av Pytagoras viser at
+    avstanden mellom to motstående hjørner i dette rektangelet er lik √𝑠 2 + 2𝑠 2 =
+    √3𝑠. Dette må være lik diameteren i kulen, altså lik 2. Derfor er 𝑠 = 2/√3. . B
+
+(35) Oppgave 18 2013/2014.    Alle de svarte og hvite trekantene i
+    figuren er kongruente. Om sidene har lengde 𝑎, 𝑏 og 𝑐 som                           𝑏              𝑎
+    i figuren, ser vi at sidekanten i kvadratet blir 𝑎 + 𝑏 + 𝑐, så 𝑎                             𝑐
+                                                                                         𝑐
+    𝑎 + 𝑏 + 𝑐 = 2. Trekantene har vinkler 30∘ , 60∘ og 90∘ , så
+    𝑏 = √3𝑎 og 𝑐 = 2𝑎. Derfor er 𝑎 + √3𝑎 + 2𝑎 = 2, så 𝑎 =
+    2/(3 + √3) = (1 − 1/√3). Det totale arealet av de fire svarte
+    trekantene er 4 ⋅ 12 𝑎𝑏 = 2√3𝑎2 = 8/√3 − 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(35) Oppgave 2 2014/2015. Arealet av det røde området er 2 ⋅ 6 ⋅ 6 + 2 ⋅ 6 ⋅ 12 = 63 ,
+    mens arealet av det blå området er 2 ⋅ 22 + 2 ⋅ 16 − 2 ⋅ 2 = 2 ⋅ 62 , så forholdet
+    mellom de to arealene er 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(35) Oppgave 4 2014/2015.       Avstanden fra 𝐴 til 𝐸 kan regnes ut ved å addere de
+    gitte avstandene med fortegn pluss eller minus på hver. Siden én avstand
+    er et oddetall og de andre er partall, må summen uansett være et oddetall.
+    Summen 3 − 6 + 8 − 4 = 1 viser at 1 er en mulig avstand, og den må være den
+    minste mulige. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(35) Oppgave 7 2014/2015.               Trekanten BAD er likebent,                                                  𝐷         𝐶
+    så ∠ABD = ∠BDA = 12 (180∘ − ∠BAD) = 12 (180∘ −
+    22∘ ) = 79∘ . Dermed er ∠DBC = ∠ABC − ∠ABD =
+    100∘ − 79∘ = 21∘ .                                                                    𝐴                                 𝐵
+     ............................................ A
+    Abelkonkurransen                                                                                      Løsninger – geometri
+    Runde 1 2005–2024                                                                                            Side 30 av 85
+
+
+(35) Oppgave 9 2014/2015.    De to rettvinklede røde
+    trekantene i figuren har hypotenus på en side
+                                                                                                                                     ℎ
+    av hvert sitt lille kvadrat, og kateter parallelle
+    med sidene i det store kvadratet. Om de roteres                                               ℎ       3                  4
+    90∘ i hver sin retning om nederste hjørne, vil                                                                 ℎ
+    de til sammen fylle ut den grønne trekanten.
+    Spesielt er de tre sidene merket ℎ like lange, og                                                                5
+    ℎ = 3⋅4      12
+           5 = 5 . Men ℎ er også høyden til hver
+    av de grå trekantene med grunnlinje 5, så det                                                         5                      5
+    totale arealet av disse to trekantene er ℎ⋅5 = 12.
+     ......................................... A
+
+(36) Oppgave 17 2014/2015.   De to sirk-
+    lene må ligge som vist i figuren.
+    Trekanten ABC har vinkler 30∘ ,
+    90∘ og 60∘ , så AC = 2𝑅, og der-
+    for AD = 𝑅. Det samme argumen-                                                                               𝐶
+    tet med den lille sirkelen leder til
+    AD = 3𝑟, så 𝑅 = 3𝑟. I oppgaven                                                             𝐷            𝑅
+    er enten 𝑅 = 5 eller 𝑟 = 5, så                                                                                       𝑅
+    den andre sirkelen har radius en-                                                         𝑟
+                                                                                       𝑟
+    ten 3 ⋅ 5 = 15 eller 5/3. . . . . . . . . D                       𝐴
+                                                                                                                     𝐵
+(36) Oppgave 2 2015/2016.                   Det skyggelagte området er satt sammen av fire halv-
+    sirkler og fire kvartsirkler, alle med radius 1. Arealet blir 4 ⋅ 12 ⋅ 𝜋 + 4 ⋅ 14 ⋅ 𝜋 = 3𝜋.
+    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .A
+
+(36) Oppgave 6 2015/2016.  Trekk diagonalene til den ind-
+    re sekskanten gjennom sentrum som vist. Nå er den
+    ytre sekskanten delt i 18 småtrekanter, hvorav 6 ut-
+    gjør den indre sekskanten. Tolv av småtrekantene
+    er likesidete og like store. Hver av de gjenværende
+    seks småtrekantene, langs sidene til den store seks-
+    kanten, har samme grunnlinje og høyde som de like-
+    sidete trekantene ved siden av. Derfor har alle små-
+    trekantene samme areal, og forholdet mellom seks-
+    kantenes arealer er 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                                  Løsninger – geometri
+    Runde 1 2005–2024                                                                                        Side 31 av 85
+
+
+(36) Oppgave 10 2015/2016.   Legg til punktet 𝐷 =                                                           𝐷
+    (4, 6), og noter at trekanten ADB er likebent
+    og rettvinklet. (𝐴𝐷 2 = 𝐵𝐷 2 = 42 + 22 = 20,                                       𝐴                                           𝐶
+    og 𝐴𝐵2 = 62 + 22 = 40. Bruk omvendingen av
+    Pytagoras.) Derfor er ∠ABD = 45∘ . Vinkelen                                                                  𝐵
+    ∠CBD er også rett, så ∠ABC = 45∘ + 90∘ =
+    135∘ .
+    (Alternativt kan denne løses med cosinussetningen eller bruk av skalarpro-
+    duktet.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(36) Oppgave 14 2015/2016.              I figuren fin-                    𝐶
+    nes fire likeformede trekanter ABC,                                          𝐺
+    FBE, GDC og AED, alle med side-
+    kanter i forhold 1 ∶ 2 ∶ √5. Om 𝑥                                                             𝐹
+    står for sidekanten i kvadratet, blir
+    𝐶𝐺 = 12 𝑥, 𝐺𝐹 = 𝑥 og 𝐹 𝐵 = 2𝑥, så                                 𝐷
+    𝐶𝐵 = √5 = 12 𝑥 + 𝑥 + 2𝑥 = 72 𝑥, og
+    derfor 𝑥 = 27 √5. Kvadratets areal blir                               𝐴                𝐸                                       𝐵
+    𝑥 2 = 20
+          49 . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(37) Oppgave 18 2015/2016.         Dersom 𝐷 er fotpunk- 𝐶
+    tet til normalen fra 𝐶 til forlengelsen av 𝐴𝐵, er
+    ∠DAC = 45∘ . Så trekanten DAC er likesidet. Py-                                                       𝐸
+    tagoras gir at AD = CD = 12 √2, og en ny an-
+    vendelse av Pytagoras, denne gang på trekanten
+                                                                         2          𝐷                 𝐴                         𝐵
+    DBC, gir 𝐵𝐶 2 = CD 2 + DB2 = 12 + ( 12 √2 + 1) =
+    2 + √2. (Alternativt kan man finne 𝐵𝐶 2 ved cosinussetningen.) Radien i sir-
+    kelen med sentrum i 𝐴 og som tangerer 𝐵𝐶 er 𝑟 = 𝐴𝐸, der 𝐸 er fotpunktet
+    til normalen fra 𝐴 til BC. 𝐸 er midtpunktet på BC, så 𝐵𝐸 2 = 12 + 14 √2. Pyta-
+    goras på trekanten ABE gir nå 𝑟 2 = 1 − ( 12 + 14 √2), og radien til sirkelen er
+    𝜋𝑟 2 = 𝜋( 12 − 14 √2). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(37) Oppgave 4 2016/2017.   Om radiene i de to sylindrene heter 𝑟1 og 𝑟2 , og høydene
+    heter ℎ1 og ℎ2 , så sier den første betingelsen at 𝑟12 ℎ1 = 𝑟22 ℎ2 . Vi kan tilfreds-
+    stille det andre kravet ved å sette ℎ1 = 𝑟2 = 1. I så fall må vi ha 𝑟12 = ℎ2 , der 𝑟1
+    kan velges fritt. Altså kan ℎ2 /𝑟1 = 𝑟1 ha hvilken som helst positiv verdi. . . E
+    Abelkonkurransen                                                                   Løsninger – geometri
+    Runde 1 2005–2024                                                                         Side 32 av 85
+
+
+(37) Oppgave 6 2016/2017.   Linjestykket fra et hjørne i en trekant til midtpunktet
+    på den motstående siden kalles en median til trekanten, og det er kjent at
+    de tre medianene møtes i ett punkt. Derfor inneholder ikke oppgaven nok
+    informasjon til å bestemme lengden av AB. Hvis du ikke kjenner denne set-
+    ningen, kan det være nok å se på de to valgene AB = 4 og AB = 5. Begge
+    de resulterende trekantene er likebente, og symmetrien i likebente trekanter
+    gjør det ekstra lett å se at medianene møtes i ett punkt. . . . . . . . . . . . . . . . . . E
+
+                        Summen av de horisontale linjene er 2AB = 2 ⋅ 30 = 60.
+(37) Oppgave 8 2016/2017.
+    Nå er AH = BC − DE + FG, så summen av de vertikale linjene er BC + DE +
+    FG + AH = BC + DE + FG + (BC − DE + FG) = 2BC + 2FG = 2 ⋅ 16 + 2 ⋅ 10 = 52.
+    Summen blir 60 + 52 = 112. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(37) Oppgave 14 2016/2017. Vinkelsummen i                                                                       𝐶
+     en trekant er 180∘ , så ∠𝐶 = 180∘ − 15∘ −                                                    𝐵′
+     135∘ = 30∘ . La 𝐵′ være fotpunktet av nor-                                      𝑃
+    malen fra 𝐵 på CA, og la 𝑃 være speilin-
+    gen av 𝐶 i 𝐵′ . Da er △PBC likebent. Spesi- 𝐴                             𝐵
+    elt er ∠BPC = ∠BCP = 30∘ , så ∠PBC =
+    180∘ − 2 ⋅ 30∘ = 120∘ , og ∠ABP = ∠ABC − ∠PBC = 135∘ − 120∘ = 15∘ = ∠BAP.
+    Dermed er også △APB likebent, og vi har AP = PB = BC = 1. △CB′ B har
+    vinkler 30∘ , 90∘ og 60∘ , så B′ C = PB′ = 12 √3, og 𝐴𝐶 = 1 + 2 ⋅ 12 √3. . . . . . . . . . B
+
+(38) Oppgave 17 2016/2017.  Vi tenker oss at Anna og Birger starter i origo med po-
+    sitiv retning langs 𝑦-aksen. De går en total distanse 𝐷 = 1+2+4+⋯+22015 =
+    22016 − 1. Birger går bare rett frem, og stopper i 𝑥 = 0, 𝑦 = 𝐷. Anna, der-
+    imot, går annenhver gang parallelt med 𝑦-aksen, og annenhver gang pa-
+    rallelt med 𝑥-aksen. Når vi tar hensyn til retningen, ender hun opp med
+    𝑦 = 1 − 4 + 24 − 26 + 28 − ⋯ + 22012 − 22014 = 1 − 4 + 42 − 43 + 44 −
+    ⋯ + 41006 − 41007 = (1 − (−4)1008 )/(1 − (−4)) = 15 (1 − 22016 ) = − 15 𝐷, og tilsvar-
+    ende 𝑥 = 2 − 8 + 25 − 27 + ⋯ + 22013 − 22015 = 2𝑦 = − 25 𝐷. Avstanden mellom
+    de to er da 𝑑 = √(− 25 𝐷)2 + ( 65 𝐷)2 = 15 𝐷√40, så 𝐷/𝑑 = 5/√40 = 14 √10. . . . . A
+    Abelkonkurransen                                                        Løsninger – geometri
+    Runde 1 2005–2024                                                              Side 33 av 85
+
+
+(38) Oppgave 19 2016/2017.     Legg et koordinatsystem slik at fluen starter i origo
+    og ender opp i (3, 3, 3). Kassen i sentrum har hjørner der alle tre koordinatene
+    er enten 1 eller 2. Sett fra fluens startpunkt er tre av kassens sider synlige, og
+    omrisset av den ser ut som en sekskant. Disse seks kantene er også synlige
+    fra destinasjonen, så korteste vei går fra origo i rett linje til et punkt på en
+    av dem, og deretter i rett linje til destinasjonen. På grunn av symmetrien
+    spiller det ingen rolle hvilken av de seks kantene fluen velger å fly til. La oss
+    velge kanten mellom (1, 1, 2) og (2, 1, 2), så fluen flyr fra (0, 0, 0) via (𝑥, 1, 2)
+    til (3, 3, 3), der 1 ≤ 𝑥 ≤ 2.
+                                                                (3, 3, 3)
+
+
+                                        (2, 1, 2)
+
+
+
+
+                                                    (1, 1, 2)
+
+
+                            (0, 0, 0)
+
+    Tenk deg nå at du forlenger sidekanten mellom (1, 1, 2) og (2, 1, 2), og bretter
+    et ark om denne linjen slik at (0, 0, 0) og (3, 3, 3) begge ligger på arket, på hver
+    sin side av bretten. Når du bretter arket ut igjen, får du en figur som den over.
+    De oransje linjene viser fluens rute om den flyr via ett av hjørnene i den indre
+    kassen. Den korteste veien er den rette linjen (rød i figuren), gjennom ( 32 , 1, 2).
+                                                    2
+    Lengden av denne ruten blir 𝐿 = 2√( 32 ) + 12 + 22 = 2√ 94 + 5 = 2√ 29
+                                                                         4 = √29.
+    .....................................................................B
+
+(38) Oppgave 3 2017/2018. Syklisten kjørte først 24 km rett fram, og deretter 1800⋅
+    10 m = 18 km i rett vinkel på den første strekningen. Pytagoras viser at av-
+    standen mellom start og ankomst er √242 + 182 = √900 km . . . . . . . . . . . . . C
+    Abelkonkurransen                                                                        Løsninger – geometri
+    Runde 1 2005–2024                                                                              Side 34 av 85
+
+
+(38) Oppgave 7 2017/2018.  Kall sentrum i sirkelen 𝑂, og                        𝐵                        𝐶
+    la 𝑀 være skjæringspunktet mellom diagonalene
+    𝐴𝐶 og 𝐵𝐷. Siden sirkelen tangerer diagonalene, er
+    ∠OAM = ∠OBM = 90∘ . Også ∠AMB er rett, så 𝑂                                                 𝑀
+    firkanten AMBO er et kvadrat med sidelengde √2.
+                                      2
+    Sirkelsektoren får areal 14 𝜋(√2) = 𝜋/2, og for å
+    finne arealet av det skyggelagte området, trekker                           𝐴                        𝐷
+    vi fra arealet av trekanten OAB, som er 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(39) Oppgave 10 2017/2018.     Det finnes i hvert fall en slik trekant: Legger vi det
+    tredje hjørnet i (10, 0), får vi en trekant med grunnlinje 10 og høyde 13, og
+    derfor areal 12 ⋅ 10 ⋅ 13 = 65. Men hver gang vi har en slik trekant, med det
+    tredje hjørnet i (𝑎, 𝑏), kan vi danne en ny trekant ved å forskyve dette hjørnet
+    parallelt med den motstående siden til (𝑎 + 5, 𝑏 + 13). Den får da samme areal
+    som den opprinnelige. Det kan gjentas så ofte man vil, så det finnes uendelig
+    mange slike trekanter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(39) Oppgave 12 2017/2018.   Alle åttekantens hjør-
+    ner ligger på en felles sirkel, med vinkelav-                                                      𝐶
+    stand 18 ⋅ 360° = 45° mellom hjørnene. Spesi-
+                                                                                   𝐷                                 𝐵
+    elt er ∠AOB = 45°, så for nabovinkelen blir
+    ∠AOF = 180° − 45° = 135°. Fordi trekanten
+    𝐴𝑂𝐹 er likebent, er ∠𝑂𝐴𝐹 og ∠𝑂𝐹 𝐴 like store,                                                      𝑂 45°
+    og siden vinkelsummen i trekanten er 180°,                                 𝐸                           °              𝐴
+                                                                                                       135
+    må hver av de to vinklene være 22,5° stor. (Det                                                            2   2,5°
+    finnes mange andre veier til målet, for eksem-                                                 °
+                                                                                            22,5
+    pel ved å utnytte at firkanten ABEF er et rek-                                  𝐹                                𝐻
+    tangel av symmetrigrunner, og at trekanten                                                         𝐺
+    AOB er likebent.)
+    Alternativt kan vi benytte at vinkelen AFB er en periferivinkel tilsvarende
+    sentralvinkelen AOB, og derfor halvparten så stor. . . . . . . . . . . . . . . . . . . . . . . B
+
+(39) Oppgave 2 2018/2019.             Arealet er 𝜋 ⋅ 12 = 𝜋 = 𝜏 /2. . . . . . . . . . . . . . . . . . . . . . . . B
+
+(39) Oppgave 3 2018/2019. Den lange staven har lengde 𝐿 = 𝐾√22 + 12 = 𝐾√5
+    (Pytagoras). På samme måte er diagonalen i det store rektangelet 𝐿√5 = 5𝐾,
+    så fem korte staver passer akkurat på diagonalen. . . . . . . . . . . . . . . . . . . . . . . B
+     Abelkonkurransen                                                                                Løsninger – geometri
+     Runde 1 2005–2024                                                                                      Side 35 av 85
+
+
+(40) Oppgave 6 2018/2019.    Trekanten til venstre er                           1 3
+     likesidet, så alle vinklene er 60∘ . Den stumpe                            2√
+
+     vinkelen i trekanten til høyre er derfor 180∘ −                                               1 3
+     60∘ = 120∘ . Vinkelhalveringslinjen til den vin-           1         1                        2√
+                                                                                       1
+     kelen er midtnormal til den ukjente siden, og                                     2
+
+     deler trekanten til høyre i to kongruente tre-                  1                         1
+                             ∘    ∘       ∘
+     kanter med vinkler 30 , 60 og 90 . Forholdet
+     mellom den lengste kateten og hypotenusen i en slik trekant er 12 √3, og den
+     ukjente siden har derfor lengde 2 ⋅ 12 √3 = √3. . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(40) Oppgave 9 2018/2019.               Katetene i den store trekanten har
+     lengde 12. Skriv 𝑎 og 𝑏 for sidene til rektangelet. De to ka-
+     tetene i den minste trekanten er like lange, og det følger at                                                𝑎
+     𝑎 + 𝑏 = 12. Rektangelet har areal 𝑎𝑏 = 72 − 40 = 32. Det følger                                                  𝑎
+     at 𝑎 og 𝑏 er løsningene til ligningen 𝑥 2 − 12𝑥 + 32 = 0, som                                                𝑏
+     er 4 og 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(40) Oppgave 12 2018/2019.      Rotasjonen gjør at det dan-
+     nes en likesidet trekant mellom kvadratene, så rota-
+     sjonsvinkelen er 60∘ . Dermed blir vinkelen mellom
+     de to nederste kvadratsidene 120∘ . Dette er akkurat
+     vinkelen mellom to sider i en regulær sekskant, så
+     de seks nederste kvadratsidene danner en regulær
+     sekskant etter rotasjonen, og det sjuende kvadratet
+     vil overlappe med det første. Dermed må vi fjerne
+     de siste fire kvadratene, og står tilbake med de seks
+     første. (I figuren er de siste fire rotasjonene bare på-
+     begynt. Om vi hadde fullført dem, ville de fire siste
+     kvadratene havnet direkte oppå de fire første.) . . . B
+
+(41) Oppgave 3 2019/2020.                    Hypotenusen i den fargelagte                            𝑟
+     trekanten har lengde √2𝑟. Linjestykket fra hjørnet til
+     sentrum i kvadratet har derfor lengde (√2+1)𝑟. Men                                                       𝑟
+     den har også lengde 12 √2, slik at avstanden mellom                                             𝑟            𝑟
+     sirkelsentrene blir
+                                     √2            √2 − 1
+                      2𝑟 =                       ⋅               = 2 − √2.
+                                (√2 + 1) √2 − 1
+      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .C
+
+(41) Oppgave 7 2019/2020. Om den minste sirkelen har radius 𝑟, så er 𝜋𝑟 2 +𝜋(2𝑟)2 =
+     25, altså 5𝜋𝑟 2 = 25, slik at 𝑟 = 5/𝜋. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+                                                           √
+     Abelkonkurransen                                                                                      Løsninger – geometri
+     Runde 1 2005–2024                                                                                            Side 36 av 85
+
+
+(41) Oppgave 10 2019/2020.     Arealet
+     til trekanten er halvparten av
+     arealet til det skyggelagte kvad-
+     ratet i figuren til venstre. Fi-
+     guren til høyre inneholder åtte
+     kongruente trekanter, og opp-
+     telling viser at arealet til det
+     skyggelagte kvadratet er halv-
+     parten av arealet til det ytterste
+     kvadratet. Arealet av trekanten blir 12 ⋅ 12 = 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(41) Oppgave 14 2019/2020.   Ved å flytte to sirkelsektorer, fyl-
+     ler vi akkurat en likesidet trekant der sidene har lengde
+     2. Da har trekanten høyde √3, så arealet er også √3. . . E
+
+
+
+
+(42) Oppgave 17 2019/2020. La oss si at trekanten ABC har sidekant 𝑠, høyde ℎ og
+     areal 𝑎 = 12 𝑠ℎ. Høyden er en katet i en rettvinklet trekant der hypotenusen er
+     𝑠 og den andre kateten er 𝑠/2, så ℎ2 = 𝑠 2 − (𝑠/2)2 = 34 𝑠 2 , og derfor ℎ = 12 √3𝑠.
+     Trekanten DEC er også likesidet, med areal 34 𝑎, og derfor sidekant 12 √3𝑠. En
+     av disse sidekantene er DE, og lengden er lik ℎ (se slutten av første avsnitt).
+     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .A
+
+(42) Oppgave 7 2020/2021.            Hver kvartsirkel har areal 𝜋4 , og den hvite trekanten i
+     hver av dem har areal 12 ⋅ 12 ⋅ 1 = 14 . Arealet av det skyggelagte området er
+     2( 𝜋4 − 14 ) = 𝜋2 − 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(42) Oppgave 9 2020/2021. Trekanten AMN er likeformet med ABC, med lengde-
+     forhold 12 . Foholdet mellom arealene er ( 12 )2 = 14 , og arealet av firkanten
+     BCNM blir 1 − 14 = 34 ganger arealet av ABC. . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+    Abelkonkurransen                                                                         Løsninger – geometri
+    Runde 1 2005–2024                                                                               Side 37 av 85
+
+
+(42) Oppgave 11 2020/2021.    Sidene BC og AD er pa-                                       𝐶          2          𝐵
+    rallelle. (En av mange måter å vise det på, er å
+    merke seg at trekantene BCD og CBA er kongru-                                    3                                 3
+    ente, fordi begge har sider med lengde 2 og 3 med
+    samme vinkel mellom. Men så har de to trekan-
+    tene samme høyde regnet fra siden BC.) Trekk                                        3                            3
+    normaler fra 𝐵 og 𝐶 på AD, med fotpunkt 𝑃 og 𝑄. 𝐷 2 𝑄 2 𝑃 2 𝐴
+    Så er ∠ABP = ∠DCQ = 120∘ − 90∘ = 30∘ . De to
+    trekantene BAP og CDQ har hjørnevinkler 30∘ , 60∘ og 90∘ , så de korte kate-
+    tene AP og DQ er halvparten så lange som hypotenusen, altså 32 . Videre er
+    |PQ| = |BC| = 2, siden de to er motsatte sider i et rektangel. Alt i alt blir
+    |AD| = 32 + 2 + 32 = 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(42) Oppgave 16 2020/2021.   Formelen (𝑉 = 13 𝐺ℎ) for volumet
+    av en kjegle gir at denne kjeglen har volum lik arealet av
+    åttekanten som er grunnflate i kjeglen. Skriv åttekanten
+    inn i et kvadrat som vist i figuren. Hver av de skyggelag-
+    te trekantene er rettvinklet og likebent, med hypotenus av
+    lengde 1, så katetene har lengde 12 √2. Dermed har kvadra-
+    tet areal (1 + √2)2 = 3 + 2√2. Hver av de fire trekantene
+    har areal 14 , til sammen 1 for alle fire (du kan også sette
+    dem sammen til et kvadrat med sidekant 1). Åttekanten har således areal
+    3 + 2√2 − 1 = 2 + 2√2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(43) Oppgave 20 2020/2021.    Figurene under viser, fra venstre mot høyre, hvordan
+    vi kan få plass til 25 Matteland-innbyggere i hvert av rommene C, D eller
+    E. Hver av de korte linjestykkene i figurene har lengde 1 m. Høyden i hver
+    småtrekant er 12 √3, så figuren i midten er akkurat 3√3×3 meter, mens figuren
+    til høyre er 92 × 2√3 meter, som er mindre i begge retninger enn 12 𝜋 2 × 2√𝜋.
+    Rom A er større enn rom C i begge retninger, så der er det godt med plass.
+
+
+
+
+    Hvis vi trekker en sirkel om hver innbygger med radius 12 m, skal sirklene
+    ikke overlappe. De kan stikke inntil en halvmeter utenfor rommet, så om alle
+    fikk plass i rom B, måtte 25 ⋅ 𝜋( 12 )2 < ( 52 √𝜋)2 (ekte ulikhet fordi sirklene ikke
+    fyller ut all plassen), så det går ikke. Rom B er det eneste, og derfor det største,
+    av de som ikke har plass. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                   Løsninger – geometri
+    Runde 1 2005–2024                                                                         Side 38 av 85
+
+
+(43) Oppgave 2 2021/2022.      Kall radien 𝑟. De to halvsirklene kan settes sammen til
+    en hel sirkel med areal 𝜋𝑟 2 . La oss kalle kateten i trekanten 𝑎. Hypotenusen
+    i trekanten har lengde 4𝑟, så Pytagoras gir oss 𝑎2 + 𝑎2 = (4𝑟)2 , og derfor
+    𝑎2 = 8𝑟 2 . Arealet av trekanten blir 12 𝑎2 = 4𝑟 2 , slik at hele figuren får areal
+    4𝑟 2 + 𝜋𝑟 2 = (4 + 𝜋)𝑟 2 . Men da er (4 + 𝜋)𝑟 2 = 1, og dermed 𝑟 = 1/√4 + 𝜋. . . B
+
+(43) Oppgave 6 2021/2022.Trekantene OCE og OCA er halvparten av henholdsvis
+    romben OCDE og OCBA, og hver av disse rombene er en tredjepart av hele
+    sekskanten, altså med areal 13 . Det blir da også arealet av firkanten ACEO. A
+
+(43) Oppgave 15 2021/2022.     Fordi trekan-                                       𝐶
+    ten er rettvinklet, er hypotenusen en
+    diameter i den store sirkelen, så den                                                      𝐷
+    har sidelengde 2. I figuren er 𝐸 sen-
+    trum i den store sirkelen, så EC har                                                  𝑟
+                                                                               𝑀
+    lengde 1. Linjestykkene MD og AC er
+                                                                                      𝑟
+    parallelle, fordi de har en felles normal
+    BC. Så trekanten MDC er rettvinklet 𝐴                                          𝐸                              𝐵
+    med vinkel 45∘ ved hypotenusen. Spe-
+    sielt har linjestykke MC lengde √2 ⋅ 𝑟. Lengden av EC blir således 1 = 𝑟 + √2 ⋅ 𝑟,
+    slik at 𝑟 = 1/(√2 + 1) = √2 − 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(44) Oppgave 20 2021/2022.     Stigningstallet til linjen BC er 57−11                     46
+                                                                         79−10 = 69 = 3 , og
+                                                                                                      2
+    ligningen til linjen kan skrives 2𝑥 − 3𝑦 = 2 ⋅ 10 − 3 ⋅ 11 = −13. Normalen
+    til denne linjen gjennom 𝐴 har ligningen 3𝑥 + 2𝑦 = 3 ⋅ (−17) + 2 ⋅ 45 = 39.
+    For å finne 𝑥-koordinaten til skjæringspunktet mellom de to linjene, ganger
+    vi den første ligningen med 2 og den andre med 3, legger dem sammen, og
+    får 13𝑥 = 3 ⋅ 39 − 2 ⋅ 13 = 7 ⋅ 13, altså 𝑥 = 7. Da må 𝑥-koordinaten til speilbildet
+    𝐷 være 𝑥 = 7 − (−17 − 7) = 31. Til slutt finner vi 𝑦-koordinaten til 𝐷 fra
+    3 ⋅ 31 + 2𝑦 = 39, så 𝑦 = 39−3⋅312    = − 54
+                                              2 = −27. . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(44) Oppgave 1 2022/2023.    Skriv 𝑂 for omkretsen av den store firkanten. Summen
+    av lengdene til alle linjestykkene i figuren er både lik summen av omkretsene
+    til de to firkantene, altså 𝑂 +38, og summen av omkretsene til alle trekantene,
+    altså 22 + 27 + 20 + 23 = 92. Så vi har 𝑂 + 38 = 92, og dermed 𝑂 = 54. . . . . A
+    Abelkonkurransen                                                                               Løsninger – geometri
+    Runde 1 2005–2024                                                                                     Side 39 av 85
+
+                                                                                                           𝑏
+(44) Oppgave 12 2022/2023.    Legg til en trekant lik den                                          𝑎
+    første på de tre andre sidene av kvadratet, som vist i                                                              𝑎
+                                                                                                           𝑐
+    figuren. Resultatet blir et større kvadrat (fordi sum-
+    men av de spisse vinklene i en rettvinklet trekant er                                  𝑏           𝑐        𝑐           𝑏
+    90∘ ) med areal 529 + 4 ⋅ 108 = 961. Det store kvad-
+    ratet har da sidekant 𝑎 + 𝑏 = √961 = 31, mens det                                                      𝑐
+                                                                                               𝑎
+    opprinnelige kvadratet har sidekant 𝑐 = √529 = 23.                                                              𝑎
+    Femkantens omkrets er 3𝑐 + 𝑎 + 𝑏 = 69 + 31 = 100.                                                      𝑏
+
+    Alternativ løsning: Pytagoras anvendt på trekanten gir oss 𝑎2 + 𝑏 2 = 𝑐 2 , mens
+    arealet er 12 𝑎𝑏 = 108. Dermed blir (𝑎 + 𝑏)2 = 𝑎2 + 𝑏 2 + 2𝑎𝑏 = 529 + 432 = 961 =
+    312 . Femkantens omkrets er som før 3𝑐 + 𝑎 + 𝑏 = 69 + 31 = 100. . . . . . . . . . D
+
+(44) Oppgave 15 2022/2023. Sirkelen med radius
+     1 har areal 𝐹 = 𝜋 ⋅ 12 = 𝜋. Halvsirkelen med                                                      2
+     radius 2 har areal 𝐹 + 𝐺 = 12 𝜋 ⋅ 22 = 2𝜋, så
+    𝐺 = 𝜋 også. Det gjenstår å finne arealet av                                 2√3
+    den store sirkelskalken 𝐹 + 𝐺 + 𝐻 (skygge-                          2
+                                                                                         4
+    lagt i figuren). Trekanten nede til høyre i
+    figuren blir en 30-60-90-trekant, med are-
+    al 2√3. Sirkelsektoren i figuren har åpningsvinkel 120∘ , så arealet av den er
+    1 𝜋 ⋅ 42 = 16 𝜋. Dermed blir arealet av sirkelskalken 𝐹 + 𝐺 + 𝐻 = 16 𝜋 − 4 3,
+    3            3                                                                    3            √
+                    10
+    slik at 𝐻 = 3 𝜋 − 4√3. Men vi er mer interessert i å sammenligne: Altså, er
+    𝐻 − 𝐺 = 73 𝜋 − 4√3 positiv eller negativ? Vi kvadrerer hvert av de to leddene:
+    ( 73 𝜋)2 = 49( 𝜋3 )2 > 49 og (4√3)2 = 48, så 𝐻 − 𝐺 > 0. . . . . . . . . . . . . . . . . . . . . . A
+
+(45) Oppgave 17 2022/2023.               Det skyggelagte arealet i
+    figuren er summen av arealet av trekanten pluss
+    arealet av to «sirkelskalker», minus arealet av én
+    «sirkelskalk». Netto blir det arealet av trekan-
+    ten pluss én «sirkelskalk». Men det er arealet av
+    en sirkelsektor med vinkel 60∘ , med andre ord 𝜋6
+    (ettersom radien er 1). Vi ganger med 3, og får
+    arealet 𝜋2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(45) Oppgave 18 2022/2023.   Det lille kvadratet har sidekant 1, og vi lar det store
+    kvadratet ha sidekant 𝑎. I figuren finner vi to likeformede rettvinklede tre-
+    kanter, med felles hjørne øverst til venstre. Den store har kateter 𝑎 + 1 og 𝑎.
+    Den lille har derfor kateter 1 og 𝑎/(𝑎 + 1). Den korteste kateten er grunn-
+    linje i den skyggelagte trekanten, med høyde 𝑎, så den trekanten har areal
+    1 𝑎 ⋅ 𝑎/(𝑎 + 1). Dette arealet skal være lik 1, slik at 𝑎 2 = 2(𝑎 + 1), det vil si
+    2
+    (𝑎 − 1)2 = 3, med positiv løsning 𝑎 = 1 + √3. Arealet av de største kvadratet
+    blir 𝑎2 = 2(𝑎 + 1) = 4 + 2√3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+    Abelkonkurransen                                                                               Løsninger – geometri
+    Runde 1 2005–2024                                                                                     Side 40 av 85
+
+
+(45) Oppgave 4 2023/2024.   Sett navn på hjørnene som vist i 𝐴
+    figuren, med AB = BC = 1. Høyden fra 𝐴 til grunn-
+    linjen BC er sin 𝑏, der 𝑏 er vinkelen i 𝐵. (Den skal gan-
+    ges med lengden av BC, som er lik 1.) Sinusfunksjo-
+    nen vokser fra 0∘ til 90∘ og avtar deretter frem til 180∘       10
+                                             ∘       ∘                 0∘
+    (og forbi), og den er symmetrisk om 90 : sin(90 − 𝑥) =
+    sin(90∘ + 𝑥). Størst høyde, og dermed størst areal, får vi     𝐵                        𝐶
+    når 𝑏 er nærmest 90∘ . Vi kan også se dette geometrisk: Punktet 𝐴 ligger i alle
+    fall på sirkelen med radius 1 og sentrum i 𝐵, og det er knapt overraskende at
+    høyden blir større jo nærmere ∠𝐴𝐵𝐶 er til en rett vinkel. . . . . . . . . . . . . . . . . D
+
+(45) Oppgave 8 2023/2024.           Del inn mangekanten (med 𝑛 hjør-
+    ner) i trekanter ved å trekke et linjestykke fra sentrum til
+    hvert hjørne. Vinkelen i sentrumshjørnet av trekanten er
+    360∘ /𝑛. Siden vinkelsummen i en trekant er 180∘ , er sum-
+    men av de to andre vinklene i trekanten lik 180∘ −360∘ /𝑛 =
+    𝑛−2 ⋅ 180∘ . Den summen er også lik vinkelen mellom nabo-
+      𝑛
+    sider i 𝑛-kanten. Nå setter vi inn 𝑛 = 3, 4, og så videre,
+                                                             ∘
+    med resultat 60∘ , 90∘ , 108∘ , 120∘ , 900                         ∘          ∘         ∘
+                                                         7 , 135 , 140 , 144 , og der stopper vi, si-
+    den vi fant en mulighet. Generelt, for å se om 𝑔 ∘ er en mulig vinkel, kan vi
+    løse ligningen 180 − 360/𝑛 = 𝑔 og få 𝑛 = 360/(180 − 𝑔). For eksempel er
+    360/(180 − 169) = 360/11 ikke et heltall, så ingen regulær mangekant har
+    vinkel 169∘ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(46) Oppgave 9 2023/2024.      Trekantene ABC, EBD og        𝐶
+    FDC er alle likeformede, siden de har felles vinkler.
+    Dersom lengdeforholdet CD ∶ CB er 𝑥, har trekan-
+                                                                          𝐷
+    tene EBD og FDC areal henholdsvis 𝑥 2 og (1 − 𝑥)2 𝐹
+    ganger arealet av ABC. Rektanglet DFAE utgjør
+    halvparten av arealet til ABC presis når de to små-
+    trekantene tilsammen utgjør halvparten, det vil si       𝐴          𝐸        𝐵
+    når 𝑥 2 + (1 − 𝑥)2 = 12 . Rydder vi i denne ligningen
+    får vi 2𝑥 2 − 2𝑥 + 12 = 0, det vil si 2(𝑥 − 12 )2 = 0, så 𝑥 = 12 . Pytagoras på
+    trekanten ABC gir CB = √62 + 42 = 2√13, slik at CD = 12 CB = √13. . . . . . . C
+    Abelkonkurransen                                                                              Løsninger – geometri
+    Runde 1 2005–2024                                                                                    Side 41 av 85
+
+
+(46) Oppgave 11 2023/2024.    Når vi tar bort det nest største kvadratet fra det størs-
+    te, står vi igjen med fire 30-60-90-trekanter. Vi kaller lengden av hypotenusen
+    i disse 𝑥. Katetene har da lengde 12 𝑥 og 12 √3𝑥. Vi må ha 12 𝑥 + 12 √3𝑥 = 1 (side-
+    kanten i det største kvadratet), så 𝑥 = 2/(1 + √3) = √3 − 1. Forholdet mellom
+    sidelengdene til to kvadrater etter hverandre er altså √3 − 1, så sidelengden
+    til det innerste kvadratet er (√3 − 1)3 = (√3)3 − 3(√3)2 + 3√3 − 1 = 6√3 − 10.
+     .....................................................................B
+
+(46) Oppgave 14 2023/2024.                La 𝐹 være fotpunktet til                                                             𝐷
+    normalen fra 𝐸 på BC. Fra de likeformede tre-
+                                                                               9              𝐴
+    kantene BFE og BCD får vi 𝑥/ℎ = 81                            90 = 10 , og
+    de likeformede trekantene CFE og CBA gir oss
+                                      9                                                                     𝐸
+    (81 − 𝑥)/ℎ = 81       72 = 8 . Skriv om den første lig-                               72
+                                                                                                                               90
+
+    ningen til 𝑥 = 10      9 ℎ og den andre til 𝑥 = 81 − 9 ℎ,
+                                                                                   8                            ℎ
+    og kombiner de to. Det gir 81 = ( 98 + 10                        9 )ℎ = 81 ℎ,
+                                                                                  40
+    så ℎ = 40, og trekanten BCE har areal 12 ⋅ 81 ⋅ 40 =                                      𝐵
+                                                                                                   𝑥
+                                                                                                                               𝐶
+                                                                                                            𝐹       81−𝑥
+    1620. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(46) Oppgave 18 2023/2024. Vi har ∠AOB = 360∘ /10 =                                                𝐶
+     36∘ . Og siden trekanten AOB er likebent, med
+     OA = OB, er ∠OAB = ∠OBA = 72∘ (husk
+     at vinkelsummen i en trekant er 180∘ ). Fordi 𝐴                                                                       𝐵
+    og 𝐶 ligger symmetrisk om OB, er det rett vin-
+    kel mellom AC og OB, så 𝐵′ ligger på linjestyk-                                                    𝐵′
+    ket OB, og ∠AB′B = ∠ABB′ = 72∘ . Men da er
+    ∠𝐵𝐴𝐵′ = 36∘ (vinkelsum nok en gang), og der-
+    med ∠OAB′ = ∠OAB−∠BAB′ = 72∘ −36∘ = 36∘ .                                                                                   𝐴
+                                                                                          𝑂
+    Det følger at trekantene AB′O og BAB′ begge er
+    likebente, så OB′ = AB′ = AB = 1.
+    Alternativ løsning: Etter å ha funnet (som i den første løsningen) at ∠AOC =
+    72∘ og ∠AB′C = 144∘ = 2 ⋅ ∠AOC, bruker vi sentralvinkelsetningen (egentlig
+    omvendingen av setningen om at en sentralvinkel er dobbelt så stor som en
+    tilhørende periferivinkel) for å se at 𝐵′ er sentrum i den omskrevne sirkelen
+    til trekanten OAC, så OB′ = AB′ = AB = 1. (Likheten AB′ = AB er en
+    umiddelbar konsekvens av speilingen.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+    Abelkonkurransen                                                                        Løsninger – geometri
+    Runde 1 2005–2024                                                                              Side 42 av 85
+
+
+(47) Oppgave 6 2024/2025.   La 𝑥 være halve lengden av
+    sidekantene i pyramiden. En likesidet trekant med
+    sidekant 2𝑥 har høyde √3𝑥. En slik høyde er hypo-
+    tenus i en rettvinklet trekant (se figuren) der en ka-
+    tet er 𝑥 og den andre kateten er høyden i pyrami-
+    den. Pytagoras gir nå 𝑥 2 + 102 = 3𝑥 2 , så 𝑥 2 = 50. Hver sideflate har areal
+    𝑥 ⋅ √3𝑥 = √3𝑥 2 = 50√3, mens grunnflaten har areal 4𝑥 2 = 200, så det totale
+    arealet blir 200(1 + √3). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(47) Oppgave 11 2024/2025. Om katetene har lengde 𝑎 og 𝑏, er 𝑎 2 + 𝑏 2 = 100 (Pyta-
+     goras), mens 12 𝑎𝑏 = 𝑎 + 𝑏 + 10. Om vi multipliserer den siste ligningen med 4
+     og legger til den første, får vi (𝑎+𝑏)2 = 4(𝑎+𝑏)+140, dermed (𝑎+𝑏−2)2 = 144,
+    slik at 𝑎 + 𝑏 = 2 ± 12. Her må vi velge den positive løsningen: 𝑎 + 𝑏 = 14. . C
+
+(47) Oppgave 12 2024/2025.  I lengdeforholdet 1 ∶                              𝐴
+    2 ∶ √3 kjenner vi igjen sidene i en 30–60–90-                                             𝐷
+    trekant, slik at ∠ABC = 60∘ , ∠BCA = 30∘
+    og ∠CAB = 90∘ . Så er ∠DBC = ∠ABD =
+    1 ∠ABC = 30∘ , slik at trekanten BCD er
+    2                                                                𝐵                                             𝐶
+    likebent: BD = CD, mens også BDA er en
+    30–60–90-trekant. Dermed er AD = 12 BD =
+    1 CD, så AD = 1 AC = 1 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+    2               3     3√
+
+(47) Oppgave 19 2024/2025.    De to kvartsirk-                                                   1
+    lene må være like store for å tangere                                𝐸
+    slik det vises i figuren, så hver av dem                   1 − √3𝑥
+                                                                                            𝑥
+    har radius 1. Takket være symmetrien                                 𝐶
+                                                                                     −  √3
+    kan vi nøye oss med å studere den ene                                         1
+                                                                                    𝑃
+    kvartsirkelen. La 𝑥 være halve sideleng-                                                                      1
+    den i trekanten ABC. Da er høyden lik
+    √3𝑥. Siden sirkelen har radius 1, blir da                                   √3𝑥      1−
+                                                                                            𝑥
+    BD = 1 − 𝑥 og CE = 1 − √3𝑥. Nå benyt-
+    ter vi at om vi har et punkt utenfor en 𝐴                                        𝑥        𝐵       1−𝑥            𝐷
+    sirkel og trekker de to sirkeltangentene
+    gjennom punktet, er de to tangeringspunktene like langt fra det gitte punk-
+    tet. Dermed er PB = BD = 1 − 𝑥 og PC = CE = 1 − √3𝑥. Nå har vi to mål
+    på sidekanten BC: 2𝑥 = (1 − 𝑥) + (1 − √3𝑥), som gir oss (3 + √3)𝑥 = 2.
+    Vi ganger med 16 (3 − √3) og får 𝑥 = 1 − 13 √3. Arealet av trekanten blir
+    √3𝑥 2 = √3( 43 − 23 √3) = 43 √3 − 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                                 Løsninger – geometri
+    Runde 1 2005–2024                                                                                       Side 43 av 85
+                                                                                                                   𝐴
+(47) Oppgave 6 2025/2026.              La 𝑂 være sentrum i den omskrevne                                                       𝐸
+    sirkelen. Siden ∠AOD = 25 ⋅ 360∘ = 144∘ er en sentralvin-                                              𝐵
+                                                                                                                       𝑂
+    kel, er den tilhørende periferivinkelen ∠ACD halvparten
+    så stor. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D       𝐶           𝐷
+
+(48) Oppgave 8 2025/2026.  Den ytre sirkelen har tre ganger så stort areal som den
+    indre sirkelen. Siden arealet er proporsjonalt med kvadratet av radien, er for-
+    holdet mellom radiene lik √3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(48) Oppgave 14 2025/2026.          Trekk linjestykket BC, og legg til                                             𝐴
+    den mørke halvsirkelen i figuren. Den resulterende figu-
+    ren er trekanten ABC med tillegg av to halvsirkler. Når
+    vi så tar ut den mørke halvsirkelen igjen, står vi tilbake
+    med et areal lik arealet av trekanten (√3) pluss én halv-
+    sirkel (𝜋/2). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A            𝐵               𝐶
+
+(48) Oppgave 15 2025/2026.       Vinkelsummen i en konveks femkant er 3⋅180∘ = 540∘
+    (se nedenfor). La vinklene være 𝑎, 𝑎 + 𝑏, …, 𝑎 + 4𝑏, med 𝑎 > 0 og 𝑏 ≥ 0. Da er
+    5𝑎 + 10𝑏 = 540∘ , forkortet 𝑎 + 2𝑏 = 108∘ . Så den vinkelen som er 53∘ , må være
+    enten 𝑎 eller 𝑎 + 𝑏. Men 𝑎 + 𝑏 = 53∘ gir 𝑏 = 108∘ − 53∘ = 55∘ , og dermed 𝑎 < 0,
+    så vi må i stedet ha 𝑎 = 53. Dermed blir 𝑏 = 27,5∘ , og den største vinkelen
+    blir 𝑎 + 4𝑏 = 163∘ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+    For å finne vinkelsummen i en konveks femkant, velg et punkt i det indre av fem-
+    kanten og trekk et linjestykke fra punktet til hvert hjørne. Det deler femkanten i fem
+    trekanter, total vinkelsum 5 ⋅ 180∘ . Trekk fra summen 360∘ av vinklene i det valgte
+    punktet.
+
+(48) Oppgave 17 2025/2026. Både trekanter og firkanter med gitt omkrets kan gjø-
+    res så «flate» som du vil, og dermed få så lite areal som du vil. Dermed kan
+    forholdet mellom arealene bli så stort eller så lite som du vil. . . . . . . . . . . . . E
+

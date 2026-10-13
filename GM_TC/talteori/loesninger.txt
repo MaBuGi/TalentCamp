@@ -1,0 +1,723 @@
+    Abelkonkurransen                                                                                Løsninger – tallteori
+    Runde 1 2005–2024                                                                                     Side 67 av 85
+
+
+    Tallteori
+
+(70) Oppgave 20 2005/2006.  For at 184𝑛 = 23 ⋅ 23 ⋅ 𝑛 skal være et kvadrattall, må
+    alle primfaktorene i produktet forekomme i partallspotens. Det minste tallet
+    𝑛 som sørger for dette, er 2 ⋅ 23 = 46, for da blir 184𝑛 = 24 ⋅ 232 . . . . . . . . . . . D
+
+(70) Oppgave 1 2006/2007.  Alle tallene er delelige med 5. Det eneste av tallene som
+    ikke er delelig med 3, er 230. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(70) Oppgave 16 2006/2007.     Siste siffer i produktet av to tall er lik siste siffer i
+    produktet av siste siffer i de to tallene. Siste siffer i 2007𝑛 vil følge mønsteret
+    1, 7, 9, 3, 1, 7, 9, 3, … når vi starter med 𝑛 = 0 og lar 𝑛 vokse med én om
+    gangen (hvert tall i denne følgen unntatt det første er siste siffer i produktet
+    av 7 og tallet foran). Når 𝑛 er delelig med 4, er 1 siste siffer i 2007𝑛 . Her er
+    eksponenten 𝑛 = 20062005 , som er delelig med 4, da 2006 er delelig med 2 og
+    dermed 2006𝑘 delelig med 4 for alle 𝑘 ≥ 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(70) Oppgave 20 2006/2007.      La de ukjente sifrene være 𝑎, 𝑏, 𝑐 og 𝑑 i rekkefølge fra
+    venstre til høyre. Fordi 92⋅39 < 92⋅40 = 3680 < 3906, er 𝑐 ≤ 2. Fordi produktet
+    slutter på 6, er 6 siste siffer i 2𝑏, så 𝑏 = 3 eller 𝑏 = 8. La 𝐴 = 10𝑎 +2 være første
+    tall på venstre side. Vi tar først for oss tilfellet 𝑐 = 1. Da er 50 = 1900/38 <
+    1906/38 ≤ 𝐴 ≤ 1996/33 < 2013/33 = 61, slik at 𝐴 = 52. 52 ⋅ 33 = 1716
+    passer ikke med høyre side, mens 52 ⋅ 38 = 1976 er en løsning. Vi tar så for
+    oss 𝑐 = 2. Da er 75 = 2850/38 < 2906/38 ≤ 𝐴 ≤ 2996/33 < 3003/33 = 91,
+    slik at 𝐴 = 82. Men verken 82 ⋅ 33 = 2706 eller 82 ⋅ 38 = 3116 passer med
+    høyre side. Så regnestykket var 52 ⋅ 38 = 1976. . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(70) Oppgave 2 2007/2008.         Fordi det blir 4 til overs når de deles i grupper på 5, er
+    det 4, 9, 14, 19, 24 eller 29 barn. Av disse mulighetene er det bare 19 som gir
+    3 til overs når barna deles i grupper på 4. Når de 19 deles i grupper på 6, blir
+    det 1 til overs. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(70) Oppgave 3 2007/2008.   Hvis Ola spiste et odde antall epler mandag og fredag,
+    spiste han et jamt antall tirsdag og torsdag og et odde antall onsdag, altså et
+    odde antall totalt. Så han spiste et jamt antall mandag og fredag. Spiste han
+    2 mandag og fredag, kom han ikke opp i 18 på ei uke, og spiste han 6 eller
+    flere mandag og fredag, spiste han flere enn 18. Så han spiste 4 epler mandag
+    og fredag, og dermed 3 eller 5 tirsdag. Spiste han 5 tirsdag, spiste han minst
+    20 (4–5–4–3–4), så han spiste 3 tirsdag (4–3–4–3–4). . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                                        Løsninger – tallteori
+    Runde 1 2005–2024                                                                                             Side 68 av 85
+
+
+(71) Oppgave 8 2007/2008.   Hvis Kari kjøpte 𝑏 porsjoner burritos, må det kaffen
+    kostet, 1000 − 172𝑏, være delelig med 20. Dermed må også 172𝑏 være delelig
+    med 20, som gjør at 𝑏 må være delelig med 5. Eneste mulighet er 𝑏 = 5 (𝑏 ≥ 10
+    gir totalpris større enn 1000). Kari kjøpte (1000 − 172 ⋅ 5)/20 = 7 kopper kaffe.
+    .....................................................................E
+
+(71) Oppgave 18 2007/2008. La 𝑎 være lengden av kateten og 𝑏 lengden av hypote-
+     nusen. Da er 36 = 272 = 𝑏 2 − 𝑎2 = (𝑏 − 𝑎)(𝑏 + 𝑎), som gir primtallsfaktorise-
+     ringen av (𝑏 −𝑎)(𝑏 +𝑎). Fordi 𝑏 −𝑎 < 𝑏 +𝑎, er (𝑏 −𝑎, 𝑏 +𝑎) lik (1, 36 ), (3, 35 ) eller
+     (32 , 34 ), som gir henholdsvis 364, 120 eller 36 for 𝑎 = (−(𝑏 − 𝑎) + (𝑏 + 𝑎))/2. C
+
+(71) Oppgave 19 2007/2008. 77 = 𝐵𝐴 + 𝐵2 + (𝐴 + 𝐵)𝐶 = 𝐵(𝐴 + 𝐵) + (𝐴 + 𝐵)𝐶 =
+    (𝐴 + 𝐵)(𝐵 + 𝐶). Fordi 77 er produktet av de to primtallene 7 og 11, må 𝐴 + 𝐵
+    og 𝐵 + 𝐶 være 7 og 11. Prisen for én appelsin, to bananer og én klementin er
+    𝐴 + 2𝐵 + 𝐶 = (𝐴 + 𝐵) + (𝐵 + 𝐶) = 7 + 11 = 18. . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(71) Oppgave 4 2008/2009.   Siste siffer i antall sukkertøy er 1 eller 6, fordi det blir
+    1 til overs når de deles på 5. Men antallet er delelig på 4, og da kan ikke siste
+    siffer være 1 (et oddetall er ikke delelig på et partall). Tallene under 60 med 6
+    som siste siffer og som er delelig på 4, er 16, 36 og 56. Av disse er det bare 16
+    som gir 1 til overs når vi deler på 3. Hvis 16 deles på 7, blir det 2 til overs. B
+
+(71) Oppgave 12 2008/2009. Antall nuller bakerst i tallet er største 𝑘 som er slik at
+     tallet er delelig på 10𝑘 , altså den minste av multiplisiteten (antall ganger et tall
+    forekommer som primfaktor) av 2 og multiplisiteten av 5 som primfaktorer
+    til tallet. Multiplisiteten av 5 er 12 (5 er primfaktor i de ti tallene 5, 10, …, 50,
+    og har multiplisitet 2 som primfaktor i 25 og i 50), mens multiplisiteten av 2
+    er større (det er 26 partall i produktet i oppgaven). . . . . . . . . . . . . . . . . . . . . . . E
+
+(72) Oppgave 15 2008/2009.                     De fire tallene er fire av tallene 1, 2, 4, 8, 251, 502, 1004
+    og 2008, som er de positive heltallene som går opp i 2008. Det største av de
+    fire tallene er høyst 251, for 502 sammen med de tre minste – 1, 2 og 4 – gir
+    et for stort produkt. Det største tallet kan ikke være 8 eller mindre, for da blir
+    produktet for lite. Så det største tallet er 251. De tre andre er tre tall blant 1,
+    2, 4 og 8 som har produkt 8, altså 1, 2 og 4. Summen er 1 + 2 + 4 + 251 = 258.
+     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .A
+
+(72) Oppgave 18 2008/2009. 12𝑛 + 100 = 3(4𝑛 + 1) + 97. Fordi 4𝑛 + 1 går opp i
+    12𝑛 + 100, går 4𝑛 + 1 også opp i 97. Men 97 er et primtall, så den eneste
+    muligheten når 𝑛 skal være et positivt heltall, er 4𝑛 + 1 = 97, altså 𝑛 = 24. A
+    Abelkonkurransen                                           Løsninger – tallteori
+    Runde 1 2005–2024                                                Side 69 av 85
+
+
+(72) Oppgave 2 2009/2010.   512 = 29 = 83 . Begge mulighetene gir 𝑥 + 𝑦 = 11. . . E
+      Abelkonkurransen                                                                               Løsninger – tallteori
+      Runde 1 2005–2024                                                                                    Side 70 av 85
+
+
+(72) Oppgave 7 2009/2010.          Fordi produktet har 9 som siste siffer og den andre
+      faktoren har 1 som andre siffer, er siste siffer i første faktor 9, 49 ⋅ 1 =
+      209. De eneste mulighetene for første siffer i andre faktor som gir et produkt
+      mellom 2000 og 3000, er 4, 5 eller 6, og det eneste av disse som stemmer
+      overens med produktet, er 4, som gir 49 ⋅ 41 = 2009. (Alternativt kan en tenke
+      seg multiplikasjonsstykket satt opp på vanlig måte, og innse at hvis 𝑥 er det
+      gjenværende ukjente sifferet på venstre side, så må 4 + 9𝑥 ha 0 som siste
+      siffer, alså må 9𝑥 ha 6 som siste siffer, og 𝑥 = 4.) Summen av de tre sifrene er
+      9 + 4 + 0 = 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(72) Oppgave 10 2009/2010. La de to tallene være 𝑥 og 𝑦. Da er 𝑥 2 + 𝑦 2 = (𝑥 + 𝑦)2 −
+     2𝑥𝑦 = 102 − 2 ⋅ 13 = 74. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(72) Oppgave 11 2009/2010.       Fra og med 1 til og med 33 er det 11 tall som er delelig
+      med 3 og 3 tall som er delelig med 11, men da har vi regnet ett tall (33) to
+      ganger, så det er bare 13 slike tall. Fra og med 34 til og med 66 er det 13 slike
+      tall til, siden 33 + 𝑛 er delelig med 3 eller 11 hvis og bare hvis 𝑛 er det. Det 26.
+      tallet i følgen er dermed 33 + 33 = 66. Det største tallet mindre enn 66 som
+      er delelig med 3 eller 11 er 63. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(73) Oppgave 15 2009/2010.         Siste siffer i 𝑎𝑛 er siste siffer i 2𝑠 + 1, der 𝑠 er siste siffer
+      i 𝑎𝑛−1 . Sistesifrene i 𝑎1 , 𝑎2 , … følger dermed mønsteret 1, 3, 7, 5, 1, 3, 7, 5, …
+      og gjentar seg i en periode på 4. Når 𝑛 gir rest 1 ved divisjon med 4, som 2009
+      gir, er 1 siste siffer i 𝑎𝑛 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(73) Oppgave 20 2009/2010.        La 𝑛 være antall dager siden nyttårsaften. Da er 𝑛 − 1
+      delelig med 11, så 𝑘 = (𝑛 − 1)/11 er et helt tall, og vi kan skrive 𝑛 = 11𝑘 + 1.
+      Videre er 𝑛 − 2 = 11𝑘 − 1 = 10𝑘 + 𝑘 − 1 delelig med 5, så 𝑘 − 1 er delelig med
+      5, og 𝑘 = 5𝑙 + 1 for et heltall 𝑙. Vi kan nå skrive 𝑛 = 11(5𝑙 + 1) + 1 = 55𝑙 + 12.
+      Og 𝑛 − 3 = 55𝑙 + 9 = 56𝑙 + 7 − (𝑙 − 2) er delelig med 7, så 𝑙 − 2 er delelig med
+      7, og 𝑙 = 7𝑚 + 2 for et heltall 𝑚. Nå kan vi skrive 𝑛 = 55(7𝑚 + 2) + 12. Bare
+      𝑚 = 0 gir et positivt heltall mindre enn eller lik 365, nemlig 𝑛 = 122, som er
+      antall dager siden nyttårsaften. I de fire første månedene er det 120 dager, så
+      datoen er 2. mai. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(73) Oppgave 6 2010/2011.         Anta at 𝑛2 + 9 = 𝑘 2 , der 𝑘 er et positivt heltall. Dette er
+      tilfelle nøyaktig når 9 = 𝑘 2 − 𝑛2 = (𝑘 − 𝑛)(𝑘 + 𝑛), altså når (𝑘 − 𝑛, 𝑘 + 𝑛) er
+      (1, 9), (3, 3) eller (9, 1), altså når 2𝑛 = (𝑘 + 𝑛) − (𝑘 − 𝑛) er 8, 0 eller −8, det vil
+      si når 𝑛 er lik 4, 0 eller −4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+    Abelkonkurransen                                                                           Løsninger – tallteori
+    Runde 1 2005–2024                                                                                Side 71 av 85
+
+
+(73) Oppgave 11 2010/2011.     Det er umulig å gi 1, 2, 4 og 7 kroner. Det er mulig å
+    gi 3, 5, 6, 8, 9 og 10 kroner – dermed også ethvert høyere beløp, for eksempel
+    ved å gi et antall trekronemynter i tillegg til 8, 9 eller 10 kroner. . . . . . . . . . B
+
+(73) Oppgave 12 2010/2011.  Hvis 𝑚2 = 329 − 𝑚𝑛, så er 𝑚(𝑚 + 𝑛) = 𝑚2 + 𝑚𝑛 =
+    329 = 7 ⋅ 47. Hvis 𝑚 og 𝑛 er heltall større enn 1, må 𝑚 = 7 og 𝑚 + 𝑛 = 47, så
+    𝑛 = 40, og 𝑚𝑛 = 7 ⋅ 40 = 280. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(73) Oppgave 14 2010/2011.        Hvis 𝑛(𝑛 − 1) er delelig med 2010 = 2 ⋅ 3 ⋅ 5 ⋅ 67, er 𝑛
+    eller 𝑛 − 1 delelig med 67, siden 67 er et primtall. De minste mulighetene for 𝑛
+    er derfor 𝑛 = 67, 68, 134 eller 135. Men på samme måte er 𝑛 eller 𝑛 − 1 delelig
+    med 5, så det utelukker de tre første mulighetene. Derimot er 135 ⋅ 134 =
+    (5 ⋅ 3 ⋅ 9) ⋅ (67 ⋅ 2) = 9 ⋅ 2010. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(74) Oppgave 18 2010/2011.    Hvis de deler med 2, 10 og 30, får de 1005, 201 og 67,
+    som har sum 1273. Hvis de deler med 3, 5 og 10, får de 670, 402 og 201, som
+    også har sum 1273. Summen av de tre tallene de deler med blir 42 i det første
+    tilfellet og 18 i det andre. Så ut fra opplysningene i oppgaven er det umulig å
+    avgjøre summen av tallene de deler med. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(74) Oppgave 1 2011/2012.   Alle heltall mindre enn 100 som er delelige på 3 er på
+    formen 3𝑘 der 𝑘 = 1, 2, … , 33. Av disse tallene er de hvor 𝑘 er et oddetall ikke
+    delelige på 2. Det gir totalt 17 muligheter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(74) Oppgave 6 2011/2012.     Om 𝑚, 𝑛 og 𝑝 er tre av de utvalgte tallene, så er 𝑚 + 𝑝 =
+    12𝑢 og 𝑛+𝑝 = 12𝑣 der 𝑢 og 𝑣 er heltall. Da er 𝑚−𝑛 = (𝑚+𝑝)−(𝑛+𝑝) = 12(𝑢−𝑣),
+    så 𝑚 = 𝑛 + 12(𝑢 − 𝑣), og derfor har 𝑚 og 𝑛 samme rest etter divisjon med 12.
+    Med andre ord vil alle de utvalgte tallene ha samme rest etter divisjon med
+    12, la oss si 𝑟. Summen av to av disse har formen (12𝑘 + 𝑟) + (12𝑘 ′ + 𝑟) =
+    12(𝑘 + 𝑘 ′ ) + 2𝑟, som er delelig med 12 hvis og bare hvis 𝑟 = 0 eller 𝑟 = 6 (siden
+    0 ≤ 𝑟 ≤ 11). Dersom Nils velger fler enn to tall kan han bare velge dem alle
+    blant tallene 12𝑘 for 𝑘 = 1, … , 16, eller alle blant 12𝑘 + 6 for 𝑘 = 0, … , 16. Det
+    maksimale antallet blir 17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(74) Oppgave 10 2011/2012.  Om vi skriver 20112012 = (2010 + 1)2012 og ganger ut
+    så vil alle leddene som inneholder 2010 i en potens 2 eller høyere ende på to
+    nuller, og dermed ikke bidra til de to siste sifrene i svaret. Kaster vi bort disse
+    leddene står vi igjen med 2012 ⋅ 20101 ⋅ 12011 + 20100 ⋅ 12012 = 2012 ⋅ 2010 + 1,
+    som ender med 21. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                        Løsninger – tallteori
+    Runde 1 2005–2024                                                                             Side 72 av 85
+
+
+(74) Oppgave 15 2011/2012. Vi har 10074 − 10054 = (10072 − 10052 ) ⋅ (10072 +
+     10052 ) = (1007 − 1005) ⋅ (1007 + 1005) ⋅ ((1006 + 1)2 + (1006 − 1)2 ) = 2 ⋅ 2012 ⋅
+     2 ⋅ (10062 + 1) = 2012 ⋅ (20122 + 4) = (2011 + 1) ⋅ ((2011 + 1)2 + 4). Når vi
+    ganger ut og kaster vekk heltallige multipler av 2011, står vi tilbake med 5. B
+
+(74) Oppgave 20 2011/2012.  Faktoren 2 opptrer mer enn 2 + 4 + 6 + ⋯ + 98 = 2450
+    ganger i produktet. Faktoren 5 opptrer én gang i hvert femte tall, pluss en
+    ekstra gang i 25, 50 og 75, så den forekommer i alt 5 + 10 + ⋯ + 95 + 25 + 50 +
+    75 = 1100 ganger i produktet. Siden det er færre femmere enn toere blant
+    faktorene, er svaret 1100. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(74) Oppgave 4 2012/2013.   Primtallsfaktoriseringen av 360 er 360 = 23 ⋅ 32 ⋅ 5. De
+    forskjellige primtallsfaktorene er 2, 3 og 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(75) Oppgave 6 2012/2013.  Primtallsfaktoriseringen av 784 er 784 = 24 ⋅ 72 . For at
+    𝑛 skal gå opp i 784, må 𝑛 = 2𝑖 ⋅ 7𝑗 med 0 ≤ 𝑖 ≤ 4 og 0 ≤ 𝑗 ≤ 2. Det gir 5
+    muligheter for 𝑖 og 3 muligheter for 𝑗, i alt 5 ⋅ 3 = 15 muligheter. . . . . . . . . . D
+
+(75) Oppgave 12 2012/2013.   Skriv tre påfølgende tall som 𝑛 −1, 𝑛 og 𝑛 +1. Summen
+    av disse tre er 3𝑛. Dette er et primtall bare når 𝑛 = 1, som gir primtallet 3. B
+
+(75) Oppgave 17 2012/2013.    Tallet 𝑛 kan ikke være 2000 eller større, for da vil andre
+    siffer være null, slik at også produktet af sifrene blir null, mens summen ikke
+    er det. Vi forsøker oss med et tall med sifre 1, 𝑎, 𝑏, 𝑐 i rekkefølge. De må
+    tilfredsstille ligningen 𝑎𝑏𝑐 = 1+𝑎+𝑏+𝑐. Med 𝑎 = 𝑏 = 𝑐 = 2 blir 𝑎𝑏𝑐 > 1+𝑎+𝑏+𝑐,
+    og hver gang vi øker en av variablene vil 𝑎𝑏𝑐 øke mer enn 1 + 𝑎 + 𝑏 + 𝑐, så
+    ulikheten bare øker. Derfor må minst ett til av sifrene være 1. La oss si 𝑐 = 1.
+    Da må 𝑎𝑏 = 2 + 𝑎 + 𝑏. Hvis 𝑎 = 𝑏 = 3 blir 𝑎𝑏 > 2 + 𝑎 + 𝑏, og et argument likt
+    det foran viser at minst en av 𝑎, 𝑏 – la oss si 𝑏 – høyst kan være lik 2. Setter vi
+    𝑏 = 1, må vi ha 𝑎 = 3 + 𝑎, som er umulig. Setter vi 𝑏 = 2, må vi ha 2𝑎 = 4 + 𝑎,
+    så 𝑎 = 4. Tallet 𝑛 er 1421, og summen av sifrene er 8. . . . . . . . . . . . . . . . . . . . . E
+
+(75) Oppgave 19 2012/2013.    Siste siffer i et produkt avhenger bare av siste siffer i
+    faktorene. Dette gjør det enkelt å regne ut siste siffer i 2𝑛 for alle 𝑛: For 𝑛 = 1,
+    2, … blir resultatet 2, 4, 8, 6, 2, 4, 8, 6, …der mønsteret 2, 4, 8, 6 gjentar seg
+    i det uendelige. Siste siffer i 20122012 er det samme som i 22012 , som er det
+    samme som i 24 , altså 6. Det samme skjer for 3𝑛 , med mønsteret 3, 9, 7, 1.
+    Siste siffer i 503503 er det samme som i 3503 , som er det samme som i 33 , altså
+    7. Produktet av tall med siste siffer 6 vil selv ha siste siffer 6, og det gjelder da
+    også 10061006 . Man finner siste siffer i en sum ut fra siste siffer i summandene
+    ved å addere sistesifrene og ta siste siffer i resultatet, så siste siffer i summen
+    det spørres etter er lik siste siffer i 1 + 4 + 6 + 7 + 6 + 6 = 30, det vil si 0. . A
+      Abelkonkurransen                                                                          Løsninger – tallteori
+      Runde 1 2005–2024                                                                               Side 73 av 85
+
+
+(75) Oppgave 1 2013/2014. Siden 2 er et primtall, vil bare potenser av 2 gå opp i
+     210 . Altså 1, 2, 22 , 23 , …, 210 – i alt 11 tall. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(75) Oppgave 8 2013/2014.       Som i titallsystemet tilegner vi vekter til hvert siffer. I
+      titallsystemet er vektene 1, 10, 102 , 103 og så videre, regnet fra høyre. I tretall-
+      systemet er vektene 1, 3, 32 = 9, 33 = 27 og så videre. Så 1021 i tretallsystemet
+      svarer til 1 ⋅ 27 + 0 ⋅ 9 + 2 ⋅ 3 + 1 = 34. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(75) Oppgave 13 2013/2014.  Produktet 1⋅2⋅3 ⋯ 10 inneholder faktoren 2⋅5⋅10 = 100,
+      så ethvert multiplum av dette må ende i to nuller. . . . . . . . . . . . . . . . . . . . . . . A
+
+(76) Oppgave 16 2013/2014.      Siste siffer i et produkt avhenger bare av siste siffer
+      i faktorene. Anta at 𝑎 og 𝑎2 har samme sistesiffer. Da vil 𝑎3 = 𝑎2 ⋅ 𝑎 også ha
+      dette sistesifferet. Det samme gjelder 𝑎4 = 𝑎3 ⋅ 𝑎, og så videre, så alle potenser
+      𝑎𝑛 med 𝑛 ≥ 1 har samme sistesiffer. Siden 22 = 4, 32 = 9 og 42 = 16 (sistesiffer
+      6 ≠ 4), mens 52 = 25, er 5 første tall med egenskapen vi søker. . . . . . . . . . . . B
+
+(76) Oppgave 20 2013/2014. Kvadrattallene mellom 2013 og 3602 er 452 = 2025,
+     462 , …, 602 = 3600, men vi skal bare telle de av dem som gir rest 4 etter
+      divisjon med 7. Et tall på formen 7𝑚 + 𝑛 med 𝑛 = 0, 1, …, 6 har kvadrat
+      (7𝑚 + 𝑛)2 = 7 ⋅ (7𝑚2 + 2𝑚𝑛) + 𝑛2 , så resten etter divisjon med 7 avhenger bare
+      av 𝑛. Ved å sjekke mulighetene ser vi at resten etter divisjon med 7 er 4 kun
+      når 𝑛 = 2 eller 𝑛 = 5. Blant tallene 45, 46, …, 60 er det fire som gir 2 eller 5
+      etter divisjon med 7, nemlig 47, 51, 54 og 58. . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(76) Oppgave 6 2014/2015.              625 = 30 ⋅ 54 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(76) Oppgave 11 2014/2015.    Faktorisering av de gitte tallene gir 𝐴 = 7 ⋅ 13, 𝐵 =
+      17 ⋅ 23, 𝐶 = 27 ⋅ 33 = 34 ⋅ 11, 𝐷 = 7 ⋅ 11 ⋅ 13 og 𝐸 = 9 ⋅ 11 ⋅ 19. Den største
+      primfaktoren (23) er det 𝐵 som har. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(76) Oppgave 14 2014/2015.     Merk at 2002/22 = 91 = 7 ⋅ 13. Skriv 𝑎 = 22𝑥 og
+      𝑏 = 22𝑦, så følger det at 𝑥𝑦 = 7 ⋅ 13. Siden 𝑎 har færre divisorer enn 𝑏 må
+      𝑦 ha begge primtallsfaktorene 7 og 13, så 𝑥 = 1 og 𝑦 = 91, og derfor er
+      𝑎 + 𝑏 = 22 ⋅ (𝑥 + 𝑦) = 2024. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                       Løsninger – tallteori
+    Runde 1 2005–2024                                                                            Side 74 av 85
+
+
+(76) Oppgave 19 2014/2015.    Hvis Emmy startet med tallet 𝑎 og hun fikk 𝑏 som
+    første svar, er 𝑏 ≤ √𝑎 < 𝑏 + 1, som er ekvivalent med 𝑏 2 ≤ 𝑎 < 𝑏 2 + 2𝑏 + 1.
+    Ettersom 𝑎 er et heltall er dette i sin tur ekvivalent med 𝑏 2 ≤ 𝑎 ≤ 𝑏 2 + 2𝑏. Hvis
+    Emmy får svaret 𝑐 etter neste utregning, er på samme måte 𝑐 2 ≤ 𝑏 ≤ 𝑐 2 + 2𝑐.
+    Det tredje svaret er 1, så 12 ≤ 𝑐 ≤ 12 + 2 ⋅ 1, altså 1 ≤ 𝑐 ≤ 3. Men det er gitt at
+    𝑐 ≠ 1, så 𝑐 er enten 2 eller 3. Det gir 22 ≤ 𝑏 ≤ 32 + 2 ⋅ 3, det vil si 4 ≤ 𝑏 ≤ 15,
+    som til slutt gir 42 ≤ 𝑎 ≤ 152 + 2 ⋅ 15, altså 16 ≤ 𝑎 ≤ 255. Begge ytterpunktene
+    er mulige her, og differansen mellom dem er 255 − 16 = 239. . . . . . . . . . . . . C
+
+(77) Oppgave 3 2015/2016.            47 ⋅ 24 = 214 ⋅ 24 = 218 = (23 )6 = 86 . . . . . . . . . . . . . . . . B
+
+(77) Oppgave 8 2015/2016. Skriv for enkelhets skyld alle tall fra 0 til 999 med tre
+    siffer, med ledende nuller for små tall.
+    De to første sifrene i et tresifret tall velges vilkårlig blant 0, 1, …, 8. Det kan
+    gjøres på 92 = 81 måter.
+    Av tallene som fremkommer ved at det siste sifferet velges fritt blant 0, 1, …,
+    8, er presist ett delbart med 9, siden disse er ni tall i rekkefølge. Så åtte av
+    dem er ikke delelig med 9, og vi ender opp med 81 ⋅ 8 = 648 tall som oppfyller
+    betingelsene i oppgaven. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(77) Oppgave 11 2015/2016.    Ethvert heltall 𝑛 ≥ 2 har i hvert fall divisorene 1 og 𝑛.
+    Dersom 𝑝 er en divisor forskjellig fra disse to, er også 𝑛/𝑝 en divisor. Hvis det
+    ikke finnes flere, er 𝑝 = 𝑛/𝑝, så 𝑛 = 𝑝 2 . Enhver divisor til 𝑝 er også en divisor
+    til 𝑛, så 𝑝 må være et primtall, ellers har 𝑛 flere divisorer. De fire mulighetene
+    er 𝑛 = 22 , 𝑛 = 32 , 𝑛 = 52 og 𝑛 = 72 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(77) Oppgave 15 2015/2016.  Ligningen 𝑚2 + 2015 = 𝑛2 kan skrives på formen (𝑛 −
+    𝑚)(𝑛 + 𝑚) = 5 ⋅ 13 ⋅ 31. Hver måte å skrive høyresiden som et produkt av to
+    faktorer gir en løsning, der 𝑛 − 𝑚 er den minste og 𝑛 + 𝑚 som den største av
+    de to faktorene. Dette gir alltid heltallige løsninger fordi begge faktorene må
+    være oddetall. Én faktor kan velges på 23 = 8 måter, siden den lages ved å
+    ta produktet av tallene i en delmengde av {5, 13, 31}. (Produktet av tallene i
+    den tomme mengden regnes lik 1.) Det gir 8/2 = 4 muligheter, siden hver
+    faktorisering involverer to forskjellige faktorer. . . . . . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                                       Løsninger – tallteori
+    Runde 1 2005–2024                                                                                            Side 75 av 85
+
+
+(77) Oppgave 17 2015/2016.    Det viser seg at 𝑛4 + 6𝑛3 + 11𝑛2 + 6𝑛 = 𝑛(𝑛 + 1)(𝑛 + 2) ⋅
+    ⋅ (𝑛 + 3). Dette er alltid delelig på 4, så vi trenger bare å sjekke om det er
+    delelig på 7 og på 25 (fordi 700 = 22 ⋅ 52 ⋅ 7 = 4 ⋅ 25 ⋅ 7). Høyst én av de fire
+    faktorene 𝑛, 𝑛 + 1, 𝑛 + 2 og 𝑛 + 3 kan være delelig med 5, så den faktoren må
+    da være delelig med 25. Om vi bare sjekker delelighet med 25 blir de første
+    kandidatene 𝑛 = 22, 23, 24, 25. Den første av disse som også gir delelighet
+    med 7 er 𝑛 = 25. Det gir 𝑛 + 3 = 28 = 4 ⋅ 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(77) Oppgave 2 2016/2017.                   Primtallsfaktorisering gir 300 = 22 ⋅ 3 ⋅ 52 , så de positive
+    divisorene til 300 er alle tall på formen 2𝑖 ⋅ 3𝑗 ⋅ 5𝑘 med 𝑖 ∈ {0, 1, 2}, 𝑗 ∈ {0, 1} og
+    𝑘 ∈ {0, 1, 2}. Det er 3 ⋅ 2 ⋅ 3 = 18 mulige kombinasjoner av disse eksponentene.
+    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .D
+
+(78) Oppgave 9 2016/2017.  2016 ⋅ 5100 = 32 ⋅ 63 ⋅ 5100 = 595 ⋅ 63 ⋅ 105 ender med
+    eksakt fem nuller, siden 595 ⋅ 63 ikke er delelig med 10. . . . . . . . . . . . . . . . . . . A
+
+(78) Oppgave 11 2016/2017.    𝑘 må være et partall, for ellers vil 15𝑘 ende på 5. La
+    oss si 𝑘 = 2𝑛, så 15𝑘 = 30𝑛. Da må også 3𝑛 bare inneholde sifrene 0 og 1.
+    Men tverrsummen i et slikt tall er antall enere, og siden tverrsummen av 3𝑛
+    er delelig med 3, er 3𝑛 = 111 minste mulighet. Dermed er 𝑘 = 2𝑛 = 2⋅37 = 74,
+    med tverrsum 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(78) Oppgave 18 2016/2017. Vi trenger to egenskaper ved funksjonen 𝑆. Den ene
+     er at 𝑆(10𝑛 ) = 𝑛 + 1, og den andre er at 𝑆 er voksende, det vil si at om 𝑚 ≤ 𝑛,
+     så er 𝑆(𝑚) ≤ 𝑆(𝑛). Da blir på den ene siden 𝑆(𝑆(20162017 )) ≥ 𝑆(𝑆(10002017 )) =
+    𝑆(3 ⋅ 2017 + 1) = 4, og på den andre siden 𝑆(𝑆(20162017 )) ≤ 𝑆(𝑆(100002017 )) =
+    𝑆(4 ⋅ 2017 + 1) = 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(78) Oppgave 1 2017/2018.                   Alle odde multipler av 5 har 5 som siste siffer. . . . . . C
+
+(78) Oppgave 8 2017/2018.              Fordi (2𝑛)4 = 16𝑛4 og 16 ikke går opp i 2018, kan ikke
+    𝑎 og 𝑏 begge være partall. Men da må begge være oddetall, fordi 2018 er et
+    partall. Vi regner ut at 14 = 1, 34 = 81, 54 = 625 og 74 > 2018. Så 𝑎 og 𝑏
+    må velges blant tallene 1, 3 og 5, men da kan vi åpenbart ikke få til summen
+    2018. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(78) Oppgave 14 2017/2018.  Primtallsfaktoriseringen av 1⋅2⋅3⋅4⋅5⋅6⋅7 er 24 ⋅32 ⋅5⋅7,
+    og 𝑛 går opp i dette presis dersom 𝑛 = 2𝑎 ⋅ 3𝑏 ⋅ 5𝑐 ⋅ 7𝑑 med 0 ≤ 𝑎 ≤ 4, 0 ≤ 𝑏 ≤ 2,
+    0 ≤ 𝑐 ≤ 1 og 0 ≤ 𝑑 ≤ 1. Det gir i alt 5 ⋅ 3 ⋅ 2 ⋅ 2 = 60 muligheter. . . . . . . . . . . . E
+    Abelkonkurransen                                                                                        Løsninger – tallteori
+    Runde 1 2005–2024                                                                                             Side 76 av 85
+
+
+(79) Oppgave 19 2017/2018.  Spørsmålet er hvor mange positive heltall som ikke
+    kan skrives på formen 5𝑎 + 7𝑏, med heltall 𝑎 ≥ 0 og 𝑏 ≥ 0. Men la oss spørre
+    hvilke heltall 𝑛 som kan skrives som 5𝑎 + 7𝑏: Her er en tabell som viser noen
+    tall på denne formen:
+
+                                                𝑏 5𝑎 + 7𝑏 for 𝑎 = 0, 1, 2, …
+                                                0 0, 5, 10, 15, 20, 25, …
+                                                1 7, 12, 17, 22, 27, …
+                                                2 14, 19, 24, …
+                                                3 21, 26, …
+                                                4 28, …
+
+    Fra de fem tallene 24–28 kan vi få til alle større tall ved å legge til multipler
+    av 5. De tallene vi ikke kan få til er da de tallene mellom 1 og 23 som mangler
+    i tabellen, nemlig de tolv tallene 1, 2, 3, 4, 6, 8, 9, 11, 13, 16, 18 og 23. . . . . . D
+
+(79) Oppgave 7 2018/2019.  2 ⋅ 3 ⋅ 5 ⋅ 7 − 1 = 209 = 11 ⋅ 19 er ikke et primtall. (Alle
+    de andre er primtall. Merk at 1002 − 992 = (100 − 99)(100 + 99) = 199.) . . . E
+
+(79) Oppgave 13 2018/2019.      Man kan ikke lage summen 20, siden tre mynter blir
+    for mye og to blir for lite. Men man kan lage 21 = 7 + 7 + 7, 22 = 7 + 7 + 8,
+    23 = 7 + 7 + 9, 24 = 7 + 8 + 9, 25 = 7 + 9 + 9, 26 = 8 + 9 + 9 og 27 = 9 + 9 + 9, og
+    alle større summer kan lages ved å legge et antall 7-kroninger til en av disse
+    sju summene. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(79) Oppgave 14 2018/2019.                     Poengsummen med 𝑟 rette og 𝑏 blanke besvarelser er
+    altså 𝑝 = 5𝑟 + 𝑏. Det er gitt at 𝑟 + 𝑏 ≤ 20, og 𝑟 ≥ 0, 𝑏 ≥ 0 selvsagt. Dersom
+    𝑏 ≥ 5 kan vi erstatte (𝑟, 𝑏) med (𝑟 + 1, 𝑏 − 5) og få samme poengsum. Derfor
+    trenger vi bare telle opp mulige poengsummer med 0 ≤ 𝑏 ≤ 4. Gitt en slik 𝑏
+    har vi 21 − 𝑏 muligheter for 𝑟 (𝑟 = 0, …, 20 − 𝑏), så i alt er det 21 + (21 − 1) +
+    (21 − 2) + (21 − 3) + (21 − 4) = 105 − (1 + 2 + 3 + 4) = 95 mulige poengsummer.
+     . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .C
+    Abelkonkurransen                                                                                       Løsninger – tallteori
+    Runde 1 2005–2024                                                                                            Side 77 av 85
+
+
+(79) Oppgave 17 2018/2019.      Skriv ⌊𝑥⌋ for det største heltall mindre enn eller lik
+    𝑥. Antall partallsfaktorer i 2018! er ⌊ 2018
+                                               2 ⌋ = 1009. Når disse toerfaktorene
+    er satt til side, vil tallene som opprinnelig var delelig med 4 fremdeles være
+    partall. Disse gir ⌊ 20184 ⌋ = 504 nye toerfaktorer. Vi fortsetter med å legge
+    til toerfaktorer for tallene delelig med 8, 16, osv. Antall slike faktorer er lik
+    forrige antall delt på 2 og rundet av nedover. Totalt antall toerfaktorer blir
+    derfor
+
+          2018     2018     2018     2018       2018
+      ⌊        ⌋+⌊      ⌋+⌊      ⌋+⌊      ⌋+⋯+⌊      ⌋
+            2        4        8       16        1024
+                              = 1009 + 504 + 252 + 126 + 63 + 31 + 15 + 7 + 3 + 1 = 2011
+    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .D
+
+(79) Oppgave 18 2018/2019.  Dersom 𝑛 er et oddetall, er 3𝑛 − 𝑛2 et partall. Eneste
+    partall som også er primtall er 2, og det får vi med 𝑛 = 1, men ikke med noen
+    større 𝑛, for om 𝑛 ≥ 2, så er 3𝑛 > 𝑛2 + 2. (Det kan vises ved induksjon: Det
+    er sant for 𝑛 = 2, og om det er sant for en gitt 𝑛, så er også 3𝑛+1 = 3 ⋅ 3𝑛 >
+    3(𝑛2 + 2) = (𝑛 + 1)2 + 2𝑛(𝑛 − 1) + 5 > (𝑛 + 1)2 + 2.)
+    På den annen side, om 𝑛 = 2𝑚, er 3𝑛 − 𝑛2 = 32𝑚 − (2𝑚)2 = (3𝑚 − 2𝑚)(3𝑚 + 2𝑚),
+    som sikkert ikke er et primtall om ikke 3𝑚 − 2𝑚 = 1, som vi får med 𝑚 = 1.
+    Det tilsvarer 𝑛 = 2, og 32 − 22 = 5 er et da også et primtall. For 𝑚 ≥ 2 kan
+    vi bruke ulikheten fra første del: 3𝑚 > 𝑚2 + 2 > 2𝑚 + 1, så 3𝑚 − 2𝑚 > 1, og
+    dermed får vi ikke flere primtall enn de to vi har funnet. . . . . . . . . . . . . . . . . B
+
+(80) Oppgave 2 2019/2020.    Vi ser etter de to siste sifrene i 2⋅3⋅5⋅7⋅11⋅13⋅17⋅19⋅23⋅29.
+    Siden 2⋅5 = 10 er med, er siste siffer null, og nest siste siffer blir lik siste siffer
+    i produktet av resten av faktorene, altså 3 ⋅ 7 ⋅ 11 ⋅ 13 ⋅ 17 ⋅ 19 ⋅ 23 ⋅ 29. Vi kan
+    kaste bort alle siffer unntatt det siste i hver faktor og dessuten i alle resultater
+    i mellomregningen, så vi betrakter i stedet 3⋅7⋅1⋅3⋅7⋅9⋅3⋅9 = 3⋅(3⋅3⋅7⋅7)⋅(9⋅9).
+    Produktene i hver parentes har siste siffer 1, så siste siffer i dette produktet
+    blir 3, og de to siste sifrene i det opprinnelige produktet blir så 30. . . . . . . . B
+
+(80) Oppgave 6 2019/2020.  Vi kan gjøre det med fem tall: 29⋅2⋅3 = 174, 23⋅7 = 161,
+    19 ⋅ 5 = 195, 17 ⋅ 11 = 187 og 13. Vi kan ikke gjøre det med færre tall, for
+    produktet av hvilke som helst to av de fem primtallene 13, 17, 19, 23 og 29 er
+    større enn 200 (det er nok å sjekke de to minste: 13 ⋅ 17 = 221). . . . . . . . . . . B
+    Abelkonkurransen                                                                                Løsninger – tallteori
+    Runde 1 2005–2024                                                                                     Side 78 av 85
+
+
+(80) Oppgave 8 2019/2020. Betingelsen 𝑎𝑏 2 ≤ 100 krever at 𝑏 2 ≤ 100, altså 𝑏 ≤ 10,
+     og 𝑎 ≤ 100/𝑏 2 . Skriv ⌊𝑥⌋ for største heltall mindre enn eller like 𝑥. Antall
+    muligheter i alt blir da
+
+     100     100         100
+    ⌊ 2 ⌋ + ⌊ 2 ⌋ + ⋯ + ⌊ 2 ⌋ = 100 + 25 + 11 + 6 + 4 + 2 + 2 + 1 + 1 + 1 = 153.
+      1       2          10
+      ....................................................................D
+
+(80) Oppgave 11 2019/2020.   Tverrsummen av 17643 er 21, slik at 17643 er delelig
+    med 3, men ikke med 9. Derfor er 17643 ikke et kvadrattall. (De øvrige tallene
+    er virkelig kvadrattall: 12321 = 1112 , 15129 = 1232 , 18225 = 1352 , 21904 =
+    1482 .)
+    Alternativt kan vi benytte at ingen kvadrattall ender med tallsifferet 3, siden
+    ingen av 02 , 12 , 22 , …, 92 gjør det, og 10𝑎 + 𝑏 = 100𝑎2 + 20𝑎𝑏 + 𝑏 2 .
+    Alternativt (for de mer kunnskapsrike – en variant av forrige alternativ) be-
+    nytter vi at 3 ikke er en kvadratisk rest modulo 5.
+    Alternativ: Fordi (2𝑛)2 = 4𝑛2 og (2𝑛 + 1)2 = 4(𝑛2 + 𝑛) + 1, er alle kvadrattall
+    enten delelig med 4, eller resten etter divisjon med 4 er 1. Men resten etter
+    divisjonen 17463/4 er 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(80) Oppgave 15 2019/2020.        De positive divisorene har formen 2𝑎 ⋅ 3𝑏 ⋅ 5𝑐 ⋅ 7𝑑 ⋅ 11𝑒
+    der eksponentene er heltall med 0 ≤ 𝑎 ≤ 5, 0 ≤ 𝑏 ≤ 4, 0 ≤ 𝑐 ≤ 3, 0 ≤ 𝑑 ≤ 2,
+    0 ≤ 𝑒 ≤ 1. Et slikt tall er kvadrattall hvis og bare hvis alle eksponentene er
+    partall. Det gir tre muligheter hver for 𝑎 og 𝑏 (0, 1 og 2), to hver for 𝑐 og 𝑑, og
+    én for 𝑒. I alt 3 ⋅ 3 ⋅ 2 ⋅ 2 = 36 muligheter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(80) Oppgave 19 2019/2020.          Et moteksempel til påstand A er 𝑟 = 𝑠 = √2. Et mot-
+    eksempel til påstand B og D er 𝑟 = √2, 𝑠 = −√2. Et moteksempel til påstand C
+               4
+    er 𝑟 = 𝑠 = √ 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+     Abelkonkurransen                                                                                     Løsninger – tallteori
+     Runde 1 2005–2024                                                                                          Side 79 av 85
+
+
+(80) Oppgave 6 2020/2021.  Hvis Nils har pantet 𝑥 store og 𝑦 små flasker, må 11𝑥 +
+     7𝑦 = 100. Så 100 − 11𝑥 må være delelig med 7. Du kan sjekke alle verdiene
+     𝑥 = 0, 1, …, 9 og se at bare 𝑥 = 4 passer. Det gir 𝑦 = (100 − 44)/7 = 8, så
+     𝑥 + 𝑦 = 12.
+     Du kan spare litt arbeid ved å legge merke til at 98 − 7𝑥 også er delelig med
+     7, slik at 7 må gå opp i 98 − 7𝑥 − (100 − 11𝑥) = 4𝑥 − 2. Multipliser med 2 og
+     trekk fra 7𝑥, og konkluder at 7 går opp i 𝑥 − 4, så 𝑥 er 4 pluss et multiplum av
+     7. Siden 𝑥 < 10 er 𝑥 = 4 eneste mulighet.
+     Til sist, om du er kjent med moduloregning, får du direkte 4𝑥 ≡ 2 mod 7 fra
+     11𝑥 + 7𝑦 = 100, som gir 𝑥 ≡ 4 mod 7, igjen med 𝑥 = 4 som eneste løsning
+     med 0 ≤ 𝑥 ≤ 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(81) Oppgave 10 2020/2021.    Dersom 𝑛 ender på 101 i totallsystemet, så vil 𝑛 − 5
+     ende på 000 i totallsystemet, fordi 5 skrives 101 i totallsystemet. Det vil si at
+     𝑛 − 5 er delelig med 8. Men 615 − 5 = 610 er ikke delelig med 8, mens 0, 328,
+     544 og 2016 alle er det. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(81) Oppgave 12 2020/2021.     Forskjellen mellom vanlig tid og Karl Erik-tid øker
+     med åtte timer hver time, så det tar en og en halv time for forskjellen å øke
+     med tolv timer. Det går altså en og en halv time mellom hver gang klokken
+     viser rett tid. I løpet av et døgn skjer det 24/ 32 = 16 ganger. (Hvis klokken
+     viste rett tid i det døgnet starter, vil den også vise rett i det døgnet tar slutt.
+     Da kunne det argumenteres for at svaret blir 17, men det blir litt feil, likevel.
+     For sikkerhets skyld har vi ikke regnet 17 blant svaralternativene.) . . . . . . . D
+
+(81) Oppgave 14 2020/2021.    Fordi 1001 = 91 ⋅ 11, er alle tall på den gitte formen
+     delelig på 11. Vi må ha 𝑎 ≠ 0 (ellers er ikke tallet sekssifret). Så 𝑎 kan velges
+     på en av ni måter, deretter kan 𝑏 også velges på en av ni måter, og 𝑐 kan velges
+     på en av åtte måter. I alt har vi 9 ⋅ 9 ⋅ 8 = 648 muligheter. . . . . . . . . . . . . . . . . D
+
+(81) Oppgave 18 2020/2021. Vi faktoriserer: 2020 = 22 ⋅ 505. Divisorene har form
+     2𝑎 ⋅ 𝑘 med 𝑎 ∈ {0, 1, 2} og 𝑘 en (nødvendigvis odde) divisor til 505. En slik
+     divisor er odde bare når 𝑎 = 0, og det skjer i 13 av tilfellene. . . . . . . . . . . . . . . B
+
+(81) Oppgave 8 2021/2022.                 Det endrer ikke noe om du skriver alle tallene med fire
+     siffer, med ledende nuller om det trengs. Altså 0001, 0002, 0003 og så videre.
+     Da skriver du opp alle tekststrenger med lengde 4, som inneholder ett av de
+     ni symbolene 0, 1, 2, 3, 5, 6, 7, 8, 9. Sifferet 1 forekommer i første posisjon i 93
+     av disse, og i andre posisjon i 93 , og tilsvarende i tredje og fjerde posisjon.
+     Tilsammen skriver du da 4 ⋅ 93 enere. Siste siffer i 93 er 9, så siste siffer i 4 ⋅ 93
+     er 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+    Abelkonkurransen                                                                          Løsninger – tallteori
+    Runde 1 2005–2024                                                                               Side 80 av 85
+
+
+(81) Oppgave 13 2021/2022.              4 ⋅ 3 ⋅ 3 = 36, og 4 + 3 + 3 = 10 < 11. . . . . . . . . . . . . . A
+
+(82) Oppgave 14 2021/2022.        Fordi siste siffer i produktet av to heltall bare avhen-
+    ger av siste siffer i hvert av tallene, kan vi bare starte med å regne ut potenser
+    av 2: Siste siffer i 21 , 22 , 23 og så videre blir 2, 4, 8, 6, 2, … og så gjentar det seg
+    slik at siste siffer er det samme hver fjerde gang utover. Fordi 2021 = 505⋅4+1,
+    får 22021 samme sistesiffer som 21 , altså 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+                                                                                                   𝑚       𝑚            𝑚
+(82) Oppgave 4 2022/2023.   Benytt primtallsfaktoriseringen: 𝑛 = 𝑝1 1 ⋅ 𝑝2 2 ⋅ ⋯ ⋅ 𝑝𝑘 𝑘
+    der 𝑝1 , 𝑝2 , …, 𝑝𝑘 er distinkte primtall. Produktet er et kvadrattall hvis og
+    bare hvis hver multiplisitet 𝑚𝑖 er et partall, og et kubikktall hvis og bare hvis
+    hver 𝑚𝑖 er delelig med 3. Vi er altså ute etter tall der 𝑚𝑖 er delelig med 6.
+    Siden 26 = 64 og 36 = 729, ser vi at ingen sjettepotenser av et produkt av
+    to forskjellige primtall er mindre enn 1000. Dermed står vi bare igjen med
+    potenser av ett primtall: 26 = 64 og 36 = 729. Man trenger knapt regne ut
+    212 = 4096 og 56 = 15625 for å se at disse tallene er større enn 1000, så det er
+    ikke flere muligheter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(82) Oppgave 11 2022/2023. Siden 53 = 125 > 100, må 𝑏, 𝑐 ∈ {1, 2, 3, 4}, og dermed
+     𝑏 3 , 𝑐 3 ∈ {1, 8, 27, 64}. Det skader ikke å anta at 𝑏 ≤ 𝑐, siden alt er uendret om
+    vi bytter om 𝑏 og 𝑐. Det gir da ti muligheter for summen 𝑏 3 + 𝑐 3 :
+
+                                 𝑏 3 + 𝑐 3 ∈ {2, 9, 28, 65, 16, 35, 72, 91, 128}.
+
+    Den siste kan vi se bort fra, og får (i samme rekkefølge)
+
+                             100 − (𝑏 3 + 𝑐 3 ) ∈ {98, 91, 72, 35, 84, 65, 28, 9}.
+
+    Av disse er bare ett kvadrattall, nemlig 9, som kom fra 𝑏 = 3, 𝑐 = 4 (med
+    𝑏 3 + 𝑐 3 = 91). Da må 𝑎 = 3, så 𝑎𝑏 + 𝑏𝑐 + 𝑐𝑎 = 9 + 12 + 12 = 33. . . . . . . . . . . . B
+
+(82) Oppgave 13 2022/2023.    Før Nils har strøket ut noen tall, har han skrevet opp
+    tallene 3𝑛 + 1 for 𝑛 = 0, 1, …, 133, i alt 134 tall. Tallene han så stryker ut, er
+    10, 25, 40 …, 400, altså alle tall på formen 15𝑘 + 10 for 𝑘 = 0, 1, …, 26, i alt 27
+    tall. Det står igjen 134 − 27 = 107 tall.
+    For å være helt sikre på hvilke tall Nils stryker, merk at 3𝑛 + 1 er delelig med
+    5 hvis og bare hvis 2(3𝑛 + 1) = 5𝑛 + (𝑛 + 2) er delelig med 5, det vil 𝑛 + 2
+    delelig med 5. Det gir 𝑛 = 5𝑘 + 3 for et heltall 𝑘, altså 3𝑛 + 1 = 15𝑘 + 10. . . E
+    Abelkonkurransen                                                        Løsninger – tallteori
+    Runde 1 2005–2024                                                             Side 81 av 85
+
+
+(82) Oppgave 16 2022/2023. Fordi 1024 = 210 , må hvert av de tre tallene være en
+     toerpotens: 2𝑘 for 𝑘 = 0, 1, …, 10. Alle primtall større enn 2 er odde, så det
+    minste av de tre tallene må være 1. Det betyr at de to gjenværende tallene
+    er 2𝑘 og 210−𝑘 for en 𝑘 ∈ { 1, 2, 3, 4 }. (Vi tar ikke med 𝑘 = 5 fordi alle tallene
+    skal være forskjellige.) Vi har følgende muligheter for 𝑘 og summen av de tre
+    tallene: 𝑘 = 1: Sum 1 + 2 + 512 = 515; 𝑘 = 2: sum 1 + 4 + 256 = 261; 𝑘 = 3:
+    sum 1 + 8 + 128 = 137; 𝑘 = 4: sum 1 + 16 + 64 = 81. Av disse summene er
+    bare 137 et primtall, så det største av de tre opprinnelige tallene er 128. . . . B
+
+(82) Oppgave 20 2022/2023.       Om Nils kjøpte henholdsvis 𝑥, 𝑦 og 𝑧 smørbrød av de
+    tre typene, så er
+                                    77𝑥 + 91𝑦 + 143𝑧 = 1993.
+    Konditoren må ha vært matematikkinteressert, siden hun valgte priser med
+    slike enkle primtallsfaktoriseringer: 77 = 7 ⋅ 11, 91 = 7 ⋅ 13 og 143 = 11 ⋅ 13.
+    Vi noterer oss at 7 ⋅ 11 ⋅ 13 = 1001, og skriver om ligningen til
+
+                                 77𝑥 + 91𝑦 + 143𝑧 + 9 = 2002.
+
+    Spesielt er venstresiden delelig med 7. Vi trekker fra 77𝑥 + 91𝑦 + 140𝑧 + 7, (et
+    heltallig multiplum av 7), og slutter at også 3𝑧 + 2 er delelig med 7. Gang med
+    5: 15𝑧 + 10 er delelig med 7. Trekk fra 14𝑧 + 7 og konkluder at 𝑧 + 3 er delelig
+    med 7. Det betyr at 𝑧 er ett av tallene 4, 11, 18, …. Åpenbart er 18 ⋅ 143 > 1993,
+    så 𝑧 = 4 eller 𝑧 = 11.
+    Nå gjennomfører vi samme argument for 𝑦 og 11 som vi gjorde for 𝑧 og 7,
+    og trekker 77𝑥 + 88𝑦 + 143𝑧 (multiplum av 11) fra venstresiden i ligningen,
+    og finner at 3𝑦 + 9 er delelig med 11. Vi ganger med 4, og får at 12𝑦 + 36 er
+    delelig med 11, trekker fra et passende multiplum av 11, og konkluderer at
+    𝑦 +3 delelig med 11. Så 𝑦 er ett av tallene 8, 19, 30, …. Igjen er bare de to første
+    aktuelle, siden 30 ⋅ 91 > 1993.
+    De to mulighetene for 𝑧 koster 143 ⋅ 4 = 572 og 143 ⋅ 11 = 1573, mens de to
+    mulighetene for 𝑦 koster 91 ⋅ 8 = 728 og 91 ⋅ 19 = 1729. For ikke å overskride
+    budsjettet, må vi velge det minste alternativet for begge, med sum 91𝑦 +
+    143𝑧 = 91 ⋅ 8 + 143 ⋅ 4 = 1300. (Det kunne vi nok sett med mindre regning,
+    bare litt tallfølelse og et par grove overslag.) Det gir 77𝑥 = 1993 − 1300 = 693,
+    så 𝑥 = 9. Dermed er 𝑥 + 𝑦 + 𝑧 = 9 + 8 + 4 = 21. . . . . . . . . . . . . . . . . . . . . . . . . D
+    Abelkonkurransen                                                                            Løsninger – tallteori
+    Runde 1 2005–2024                                                                                 Side 82 av 85
+
+
+(83) Oppgave 1 2023/2024.     Oppgaven løses raskt ved bare å telle divisorer i svar-
+    alternativene, men med litt mer teori kan det løses slik: Ethvert heltall 𝑛 > 1
+                                             𝑚          𝑚
+    kan faktoriseres entydig som 𝑝1 1 ⋯ 𝑃𝑘 𝑘 , der 𝑝1 < ⋯ < 𝑝𝑘 er primtall og hver
+                                                                                                           𝑛         𝑛
+    𝑚𝑖 er et positivt heltall. Divisorene til dette tallet har formen 𝑝11 ⋯ 𝑃𝑘 𝑘 der
+    0 ≤ 𝑛𝑖 ≤ 𝑚𝑖 for hver 𝑖. Det gir i alt (𝑚1 + 1) ⋯ (𝑚𝑘 + 1) muligheter, og altså så
+    mange divisorer. Et heltall med eksakt 6 divisorer må derfor enten ha formen
+    𝑝15 for et primtall 𝑝1 , eller 𝑝12 𝑝2 for distinkte primtall 𝑝1 , 𝑝2 . Minste kandidat
+    av den første typen er åpenbart 25 = 32, mens minste kandidat av den andre
+    typen er 22 ⋅ 3 = 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(83) Oppgave 6 2023/2024.      Siste siffer i produktet av to tall er entydig gitt ved siste
+    siffer i hvert av de to tallene. Siden 𝑘 8 er et partall som ikke er delelig på 5,
+    gjelder det samme for 𝑘, så siste siffer i 𝑘 er en av 2, 4, 6 eller 8. Kvadrerer vi
+    de fire tallene, ser vi at siste siffer i 𝑘 2 er 4 eller 6. Kvadrerer vi enda en gang,
+    ser vi at siste siffer i 𝑘 4 er 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(83) Oppgave 12 2023/2024.    Lisa kan lett lage tallene 1, 4, 6 og 9. Ved å legge til 5
+    et jevnt antall ganger, kan hun dermed lage alle tall som ender på ett av de
+    fire sifrene. Men det er de eneste tallene hun kan få til, for om hun ganger et
+    slikt tall med 4 eller legger til 5, får hun alltid et nytt tall som ender på et av
+    disse sifrene. Det er i alt 4 ⋅ 10 = 40 positive tall mindre enn 100 som ender
+    på ett av de fire sifrene. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(83) Oppgave 20 2023/2024. En banal mulighet er 𝑢 = 0: Da blir 𝑎𝑛 = 𝑣 for alle 𝑛,
+    så 𝑣 = 2023 er eneste mulighet.
+    En annen mulighet er 𝑢 = 1: Da blir 𝑎𝑛 = 𝑛𝑣, så 𝑣 = 1 er eneste mulighet som
+    gir 𝑎2023 = 2023.
+    Om vi setter 𝑎𝑛 = 𝑢 𝑛 𝑏𝑛 , trenger ikke 𝑏𝑛 være heltall, men vi får 𝑏𝑛+1 = 𝑏𝑛 +
+    𝑣/𝑢 𝑛+1 , og dermed 𝑏𝑛 = 𝑣(1/𝑢 𝑛 + 1/𝑢 𝑛−1 + ⋯ + 1/𝑢 2 ) + 𝑏1 . Merk at 𝑏1 = 𝑣/𝑢,
+    så det siste leddet føyer seg pent inn i rekken. Dermed har vi 𝑎𝑛 = 𝑣(1 + 𝑢 2 +
+    ⋯ + 𝑢 𝑛−1 ) = 𝑣(𝑢 𝑛 − 1)/(𝑢 − 1). Setter vi inn for 𝑛 = 2023 skal vi altså ha
+    2023(𝑢 − 1) = 𝑣(𝑢 2023 − 1).
+    Dette gir oss ingen informasjon for 𝑢 = 1, men det tilfellet har vi alt drøftet.
+    For 𝑢 = 0 får vi 𝑣 = 2023, som vi også alt har sett. Vi kan prøve 𝑢 = −1, som
+    også passer med 𝑣 = 2023. Men forsøker vi med andre heltall 𝑢, altså |𝑢| ≥ 2,
+    er det klart at høyresiden blir alt for stor i forhold til venstresiden. Spesifikt,
+    |𝑢 2023 − 1|/|𝑢 − 1| ≥ |𝑢|2022 /|2𝑢| > 22020 , eller tilsvarende estimater.
+    Alt i alt har vi altså bare løsningene (0, 2023), (1, 1) og (−1, 2023). . . . . . . . . C
+    Abelkonkurransen                                                  Løsninger – tallteori
+    Runde 1 2005–2024                                                       Side 83 av 85
+
+
+(83) Oppgave 2 2024/2025.Tverrsummen av de tre tallene er 1 + 2 + 3 + 4 = 10,
+    10 + 5 = 15, 15 + 6 = 21 og 21 + 7 = 28. Av disse er bare de to midterste
+    delelige med 3.
+    Tverrsummen er summen av sifrene i tallet. Ettersom 10 = 9+1, 100 = 99+1, 1000 =
+    999 + 1 og så videre, kan vi trekke 9 ganger tiersifferet, 99 ganger hundresifferet,
+    999 ganger tusensifferet og så videre fra tallet og stå igjen med tverrsummen. Og
+    da har vi trukket fra et multiplum av 3, så tallet er delelig med 3 hvis og bare hvis
+    tverrsummen er delelig med 3. (Testen virker også for delelighet med 9).
+
+    Alternativ løsning: Siden 123 = 3 ⋅ 41, kan vi trekke fra henholdsvis 1230,
+    12300, 123000, 1230000 (alle multipler av 3) før vi sjekker delelighet med 3,
+    og vi står igjen med 4, 45, 456 og 4567. Av disse er 4 ikke delelig med 3, men
+    45 er det, og derfor også 456 = 45 ⋅ 10 + 6, men ikke 4567 (for 4566 er). . . . C
+
+(84) Oppgave 7 2024/2025.  Skriv 𝑝, 𝑞 og 𝑟 (med 𝑝 < 𝑞 < 𝑟) for barnas aldre hen-
+    holdsvis for tre måneder siden, i dag, og om fem måneder. Ettersom tre barn
+    ikke har mer enn tre fødselsdager i løpet av åtte måneder, er 𝑟 − 𝑝 ≤ 3. Eneste
+    trippel av primtall som alle er blant fire påfølgende tall, er 𝑝 = 2, 𝑞 = 3 og
+    𝑟 = 5. Siden alle barna har fødselsdag i perioden fra for tre måneder siden
+    til fem måneder frem i tid, og 8 + 3 < 12, er summen av aldrene den samme
+    om åtte måneder som om fem måneder, altså 5. (To av barna var ett år for tre
+    måneder siden, mens det tredje barnet har hatt sin ettårsdag siden da. Og de
+    to andre har fødselsdager i løpet av de neste fem månedene.) . . . . . . . . . . . . A
+
+(84) Oppgave 9 2024/2025.     Vi kan enkelt faktorisere de tre første tallene: 1313 =
+    13⋅101, 1919 = 19⋅101, og 7357 = 7⋅1051. Her er både 7, 13, 19 og 101 primtall,
+    og 1051 er ikke delelig med 2, 3 eller 5, så minste primfaktor så langt er 7.
+    (1051 er også et primtall, men det trenger vi ikke for løsningen.) Tallene i D
+    og E er ikke delelige med hverken 2, 3, 5 eller 7: For 2 og 5 ser vi det av siste
+    siffer, for 3 ser vi det ved å ta tverrsummen. Videre er 7537 = 7 ⋅ 1001 + 530
+    ikke delelig med 7, siden 530 = 53 ⋅ 10 ikke er det. For 11131 er det kan hende
+    greiest å gjennomføre divisjonen med 7 og se at resten blir 1. . . . . . . . . . . . . C
+
+(84) Oppgave 10 2024/2025.  Fordi 12𝑛 + 131 = 4(3𝑛 + 2) + 123, er 12𝑛 + 131 delelig
+    med 3𝑛 + 2 hvis og bare hvis 123 er delelig med 3𝑛 + 2. Men 123 = 3 ⋅ 41 med
+    3 og 41 primtall, så de eneste heltallene som går opp i 123 er 1, 3, 41 og 123
+    selv. Av disse har bare 41 formen 3𝑛 + 2, og da med 𝑛 = 13. . . . . . . . . . . . . . . A
+    Abelkonkurransen                                                                                Løsninger – tallteori
+    Runde 1 2005–2024                                                                                     Side 84 av 85
+
+
+(84) Oppgave 14 2024/2025.          Hvis Ingrid kjøpte 𝑏 boller og 𝑚 muffinser, må 13𝑏 +
+    19𝑚 = 430. Skriv det heller som 13𝑠 + 6𝑚 = 430, der 𝑠 = 𝑏 + 𝑚 er tallet det
+    spørres etter. Siden 430 = 6 ⋅ 71 + 4, må derfor 𝑠 = 6𝑥 + 4 for et heltall 𝑥.
+    (Detaljert: 𝑠 = 6 ⋅ (71 − 𝑚 − 2𝑠) + 4.) Vi må ha 13𝑠 ≤ 430 = 13 ⋅ 33 + 1, altså
+    𝑠 ≤ 33. Likeledes er 19𝑠 ≥ 430 = 19⋅ 22 + 12, så 𝑠 > 22. Blant tallene på formen
+    𝑠 = 6𝑥 + 4, oppfyller kun 𝑠 = 28 begge ulikhetene. Vi kan sjekke svaret ved å
+    regne ut 430 − 13 ⋅ 28 = 66 = 6 ⋅ 11, så dette går opp. Ingrid kjøpte 11 muffinser
+    og 17 boller. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(84) Oppgave 2 2025/2026. Tallet 2025 er selv et kvadrattall: 2025 = 452 = (32 ⋅
+     5)2 = 34 ⋅52 . Et kvadrattall som går opp i 2025 må ha formen (3𝑖 ⋅5𝑗 )2 = 32𝑖 ⋅52𝑗 ,
+    med 0 ≤ 𝑖 ≤ 2 og 𝑗 = 0 eller 1. Det gir tre muligheter for 𝑖 og to for 𝑗, i alt
+    3 ⋅ 2 = 6. (Fullstendig liste: 12 , 32 , 92 , 52 , 152 , 452 .) . . . . . . . . . . . . . . . . . . . . . . . E
+
+(84) Oppgave 5 2025/2026. Med 𝑎 = 2 og 𝑏 = 0 ser vi umiddelbart at ingen av
+     alternativene A, B, C eller E holder. (I tilfelle du skulle tro at 𝑏 = 0 er et veldig
+    spesielt tilfelle, kan du prøve med 𝑏 = 12 i stedet.) Både 𝑎 og 𝑏 må være partall,
+    så D holder. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(85) Oppgave 10 2025/2026. Her er en liste over kvadrattall. Den inneholder alle
+     nabopar 𝑛2 , (𝑛 + 1)2 med ett av de gitte tallene mellom de to:
+                   𝑛       24 25 26 28 29 31        32   44   45
+                   𝑛2      576 625 676 784 841 961 1024 1936 2025
+    Om vi skriver 𝑎(𝑥) for avstanden fra 𝑥 til nærmeste kvadrattall, blir dermed
+    𝑎(600) = 24, 𝑎(650) = 25, 𝑎(810) = 26, 𝑎(999) = 25, 𝑎(2000) = 25. Av disse er
+    𝑎(810) størst. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+    Noen tall er lettere å kvadrere enn andre. Har du først kvadratet av et tall, er formelen
+    (𝑛 ± 1)2 = 𝑛2 ± 2𝑛 + 1 hendig for å kvadrere nabotallene.
+
+(85) Oppgave 12 2025/2026.    Siste siffer i kvadratet av et heltall avhenger bare av
+    siste siffer i tallet du kvadrerer. Blant tallene 1 til og med 100, forekommer
+    hvert av sistesifrene 0, 1, 2, …, 9 like mange (ti) ganger hver, og siste siffer i
+    kvadratene av disse er 0, 1, 4, 9, 6, 5, 6, 9, 4, 1. Sifferet 0 var ikke blant de det
+    spørres om, men blant de øvrige forekommer 5 bare én gang, mens hvert av
+    de andre forekommer to ganger hver. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(85) Oppgave 16 2025/2026.  Vi har (20𝑛 + 25)/(2𝑛 + 25) = 10 − 225/(2𝑛 + 25), så
+    det holder å finne antall divisorer av 225 på formen 2𝑛 + 25, altså oddetall
+    større enn 25. Divisorene til 225 = 32 ⋅ 52 har formen 3𝑖 ⋅ 5𝑗 med 0 ≤ 𝑖 ≤ 2 og
+    0 ≤ 𝑗 ≤ 2. Av disse er bare 3 ⋅ 52 , 32 ⋅ 5 og 32 ⋅ 52 (75, 45 og 225) større enn 25.
+Abelkonkurransen                                                         Løsninger – tallteori
+Runde 1 2005–2024                                                              Side 85 av 85
+
+
+Alternativ løsning: Hvis brøken 𝑞 er et heltall, det vil si 20𝑛 + 25 = (2𝑛 + 25)𝑞,
+må 𝑞 være et oddetall mindre enn 10. Skriv om ligningen til (20 − 2𝑞)𝑛 =
+25(𝑞 − 1) og sett inn tenkelige verdier for 𝑞: 𝑞 = 1 gir 𝑛 = 0, 𝑞 = 3 gir
+14𝑛 = 50, 𝑞 = 5 gir 10𝑛 = 100, 𝑞 = 7 gir 6𝑛 = 25 ⋅ 6, og 𝑞 = 9 gir 2𝑛 = 25 ⋅ 8.
+Vi ser at 𝑛 blir et positivt heltall bare for 𝑞 = 5, 7 og 9. . . . . . . . . . . . . . . . . . . C
+

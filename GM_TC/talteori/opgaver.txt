@@ -1,0 +1,681 @@
+Abelkonkurransen                                                        Oppgaver – tallteori
+Runde 1 2005–2024                                                            Side 70 av 85
+
+
+Tallteori
+
+Oppgave 20 2005/2006       (→ side 67 i løsningene)
+
+La 𝑛 være det minste positive hele tallet slik at √184 ⋅ 𝑛 er et helt tall. Det siste
+sifferet i 𝑛 er
+  A 1      B 3       C 4       D 6               E 9
+
+Oppgave 1 2006/2007     (→ side 67 i løsningene)
+
+Et tall er delelig med 3 og 5. Tallet er ikke
+  A 195       B 230        C 330                D 64200       E 51015
+
+Oppgave 16 2006/2007       (→ side 67 i løsningene)
+                                  2005
+Siste siffer i tallet 2007(2006          ) er
+
+  A 1      B 3       C 7       D 9               E ingen av disse tallene
+
+Oppgave 20 2006/2007       (→ side 67 i løsningene)
+
+På tavla står et regnestykke, 2 ⋅ 3 = 96, der de fire sifrene som er vist
+som firkanter, er visket ut. Summen av disse fire sifrene er
+  A 15       B 17      C 18              D 20          E 21
+
+Oppgave 2 2007/2008     (→ side 67 i løsningene)
+
+Det er færre enn 30 barn i klassen. Når de blir delt i grupper på fire, blir det
+tre til overs. Når de blir delt i grupper på fem, blir det fire til overs. Hvor
+mange barn ble til overs når de ble delt i grupper på seks?
+  A 1      B 2       C 3       D 4               E 5
+
+Oppgave 3 2007/2008     (→ side 67 i løsningene)
+
+Ola liker å spise epler på skolen. Hver dag spiser han enten ett eple mer eller
+ett eple mindre enn dagen før. Fra og med mandag til og med fredag spiste
+han 18 epler. Han spiste like mange epler på fredag som på mandag. Hvor
+mange epler spiste han på tirsdag?
+  A 2      B 3       C 4       D 5               E 6
+Abelkonkurransen                                               Oppgaver – tallteori
+Runde 1 2005–2024                                                   Side 71 av 85
+
+
+Oppgave 8 2007/2008    (→ side 68 i løsningene)
+
+Kari tok med noen kamerater på kafé og spanderte burritos på dem. Prisen
+var 172 kr pr. porsjon. De drakk gratis vann til, men noen av dem ville også
+ha én eller flere kopper kaffe, til 20 kr pr. kopp. Kari måtte betale nøyaktig
+1000 kr for mat og drikke. Hvor mange kopper kaffe kjøpte hun?
+  A 2      B 4      C 5       D 6       E 7
+
+
+Oppgave 18 2007/2008      (→ side 68 i løsningene)
+
+Hvor mange positive heltall 𝑎 fins det som er lengden av en katet i en rett-
+vinklet trekant der den andre kateten har lengde 27 og hypotenusen også har
+heltallig lengde?
+  A 1      B 2      C 3       D 4       E flere enn 4
+
+
+Oppgave 19 2007/2008      (→ side 68 i løsningene)
+
+En appelsin koster 𝐴 kr, en banan 𝐵 kr og en klementin 𝐶 kr. Alle prisene
+er positive heltall. Jon kjøper 𝐵 appelsiner, 𝐵 bananer og 𝐴 + 𝐵 klementiner.
+For dette betaler han 77 kr. Hva er prisen for én appelsin, to bananer og én
+klementin?
+  A 7      B 11       C 18       D 25       E 36
+
+
+Oppgave 4 2008/2009    (→ side 68 i løsningene)
+
+I en godteripose er det mindre enn 60 sukkertøy. Hvis Anne, Berit og Cecilie
+forsøker å dele innholdet i posen likt mellom seg, blir det ett sukkertøy til
+overs. Det samme skjer hvis Didrik og Erik også er med. Men det går opp
+hvis innholdet i posen deles bare på de tre jentene og Didrik. Hvor mange
+sukkertøy blir det til overs om vi deler likt på sju barn?
+  A 0      B 2      C 3       D 4       E 6
+
+
+Oppgave 12 2008/2009      (→ side 68 i løsningene)
+
+Hvor mange nuller er det bakerst i tallet 1 ⋅ 2 ⋅ 3 ⋅ 4 ⋯ ⋅ 51 ⋅ 52?
+  A 5      B 9      C 10       D 11        E 12
+Abelkonkurransen                                                Oppgaver – tallteori
+Runde 1 2005–2024                                                    Side 72 av 85
+
+
+Oppgave 15 2008/2009     (→ side 68 i løsningene)
+
+Produktet av fire forskjellige positive heltall er lik 2008. Hva er summen av
+de fire tallene?
+  A 258      B 265       C 262       D 266          E Det kan ikke avgjøres.
+
+
+Oppgave 18 2008/2009     (→ side 68 i løsningene)
+
+𝑛 er et positivt heltall som er slik at 4𝑛 + 1 går opp i 12𝑛 + 100. Hva er summen
+av sifrene i 𝑛?
+  A 6     B 8     C 12      D Det kan ikke avgjøres.
+  E Det finnes ingen slik 𝑛.
+
+
+Oppgave 2 2009/2010    (→ side 69 i løsningene)
+
+La 𝑥 og 𝑦 være positive heltall større enn 1 som er slik at 𝑥 𝑦 = 512. Hva er
+𝑥 + 𝑦?
+  A 7      B 8     C 9        D 10       E 11
+
+
+Oppgave 7 2009/2010    (→ side 70 i løsningene)
+
+På tavla står et regnestykke, 4 ⋅ 1 = 209, der de tre sifrene som er vist
+som firkanter, er visket ut. Hva er summen av disse tre sifrene?
+  A 12      B 13       C 14      D 15        E 16
+
+
+Oppgave 10 2009/2010     (→ side 70 i løsningene)
+
+To tall har sum 10 og produkt 13. Hva er summen av kvadratene av de to
+tallene?
+  A 58      B 68       C 74      D 82        E Umulig å avgjøre
+
+
+Oppgave 11 2009/2010     (→ side 70 i løsningene)
+
+Tallene som er delelig med 3 eller 11, er skrevet etter hverandre slik: 3, 6, 9,
+11, 12, 15, …. Hva er det 25. tallet?
+  A 60      B 63       C 66      D 69        E 72
+Abelkonkurransen                                                   Oppgaver – tallteori
+Runde 1 2005–2024                                                       Side 73 av 85
+
+
+Oppgave 15 2009/2010      (→ side 70 i løsningene)
+
+La 𝑎1 = 1 og 𝑎𝑛 = 9002𝑎𝑛−1 + 1 for alle heltall 𝑛 > 1. Hva er siste siffer i 𝑎2009 ?
+  A 1      B 2      C 3       D 5       E 7
+
+Oppgave 20 2009/2010      (→ side 70 i løsningene)
+
+Niels Henrik bestemte seg for å trene etter nyttår. Han skulle trene styrke
+hver femte dag, mykhet hver sjuende dag og kondisjon hver ellevte dag.
+Niels Henrik lar seg lett engasjere, og startet treningsprogrammet allerede på
+nyttårsaften, slik at de første treningsdagene ble 5. januar (styrke), 7. januar
+(mykhet) og 11. januar (kondisjon). En dag Niels Henrik våkner, er batteriet
+i den digitale klokka hans gått tomt, og han kan ikke komme på hvilken dato
+det er. Treningen har gått til hodet på ham, og det eneste han husker, er at
+han trente kondisjon dagen før, styrke for to dager siden og mykhet for tre
+dager siden. Det er ikke skuddår, og han har fulgt treningsopplegget mindre
+enn et år. Hvilken dato er det?
+  A 31. januar        B 15. mars        C 1. april      D 2. mai       E 31. juni
+
+Oppgave 6 2010/2011     (→ side 70 i løsningene)
+
+For hvor mange heltall 𝑛 er 𝑛2 + 9 et kvadrattall?
+  A 0      B 1      C 2       D 3       E 5
+
+Oppgave 11 2010/2011      (→ side 71 i løsningene)
+
+I et land finnes det bare trekronemynt og femkronemynt. For hvor mange
+positive heltall 𝑛 under 1000 er det umulig å gi 𝑛 kroner i mynt?
+  A 3      B 4      C 66       D 199        E 333
+
+Oppgave 12 2010/2011      (→ side 71 i løsningene)
+
+Hva er 𝑚𝑛 hvis 𝑚 og 𝑛 er heltall større enn 1 og 𝑚2 = 329 − 𝑚𝑛?
+  A 210       B 216       C 259       D 280          E 294
+
+Oppgave 14 2010/2011      (→ side 71 i løsningene)
+
+Hva er summen av sifrene i 𝑛 hvis 𝑛 er det minste positive heltallet som er
+slik at 𝑛(𝑛 − 1)/2010 er et positivt heltall?
+  A 3      B 4      C 8       D 9       E 13
+Abelkonkurransen                                             Oppgaver – tallteori
+Runde 1 2005–2024                                                 Side 74 av 85
+
+
+Oppgave 18 2010/2011     (→ side 71 i løsningene)
+
+Børge, Geir og Magnus deler 2010 med hvert sitt heltall, og de får heltall som
+svar. Summen av svarene blir 1273. Hva er summen av tallene de deler med?
+  A 10      B 16       C 18      D 42        E Umulig å avgjøre
+
+Oppgave 1 2011/2012    (→ side 71 i løsningene)
+
+Hvor mange heltall fra og med 1 til og med 100 er slik at hvis man deler dem
+med 3 får man et heltall, men hvis man deler dem med 2 får man ikke et
+heltall?
+  A 16      B 17       C 33      D 34        E 50
+
+Oppgave 6 2011/2012    (→ side 71 i løsningene)
+
+Nils har fått i oppgave å velge ut noen av tallene fra og med 1 til og med 200,
+slik at summen av hvilke som helst to av dem er delelig med 12. Hvor mange
+tall kan han maksimalt velge?
+  A 16      B 17       C 18      D 33        E 34
+
+Oppgave 10 2011/2012     (→ side 71 i løsningene)
+
+Hva er de to siste sifrene i 20112012 ?
+  A 11      B 21       C 41      D 51        E 01
+
+Oppgave 15 2011/2012     (→ side 72 i løsningene)
+
+Hva blir resten dersom en deler 10074 − 10054 på 2011?
+  A 2      B 5     C 11       D 21        E 1006
+
+Oppgave 20 2011/2012     (→ side 72 i løsningene)
+
+Hvor mange nuller er det på slutten av 11 ⋅ 22 ⋅ 33 ⋯ 9898 ⋅ 9999 ?
+  A 450      B 500       C 600       D 950          E 1100
+
+Oppgave 4 2012/2013    (→ side 72 i løsningene)
+
+Hvor mange forskjellige primtallsfaktorer har 360?
+  A 2      B 3     C 4        D 5      E 6
+Abelkonkurransen                                             Oppgaver – tallteori
+Runde 1 2005–2024                                                 Side 75 av 85
+
+
+Oppgave 6 2012/2013    (→ side 72 i løsningene)
+
+Hvor mange positive heltall 𝑛 er slik at 784/𝑛 er et heltall?
+  A 7      B 8     C 14       D 15        E 20
+
+Oppgave 12 2012/2013     (→ side 72 i løsningene)
+
+Summen av tre påfølgende heltall er et primtall 𝑝. Hva er 𝑝?
+  A 2      B 3     C 11       D 13        E Umulig å avgjøre.
+
+Oppgave 17 2012/2013     (→ side 72 i løsningene)
+
+Hva er summen av sifrene i det største heltallet 𝑛 ≤ 2013 som er slik at
+summen av sifrene i 𝑛 er lik produktet av sifrene i 𝑛?
+  A 2      B 3     C 4        D 6      E 8
+
+Oppgave 19 2012/2013     (→ side 72 i løsningene)
+
+Hva er siste siffer i tallet 11 + 22 + 44 + 503503 + 10061006 + 20122012 ?
+  A 0      B 2     C 4        D 6      E 8
+
+Oppgave 1 2013/2014    (→ side 73 i løsningene)
+
+Hvor mange positive heltall går opp i 210 ?
+  A 2      B 9     C 10       D 11        E 512
+
+Oppgave 8 2013/2014    (→ side 73 i løsningene)
+
+Alle tall kan skrives i tretallsystemet, på tilsvarende måte som titallsystemet,
+med ett eller flere etterfølgende siffer. Forskjellen er at i tretallsystemet kan
+bare sifrene 0, 1 og 2 benyttes. Tallene vi skriver i titallsystemet som 1, 2, 3,
+4, 5 og så videre, skrives i tretallsystemet som 1, 2, 10, 11, 12 og så videre.
+Hvilket tall i titallsystemet svarer til tallet 1021 i tretallsystemet?
+  A 16      B 31       C 34      D 40        E 51
+
+Oppgave 13 2013/2014     (→ side 73 i løsningene)
+
+Hva er summen av de to siste sifrene i det minste tallet som er delelig på både
+1 + 2 + 3 + ⋯ + 10 og 1 ⋅ 2 ⋅ 3 ⋯ 10?
+  A 0      B 1     C 2        D 5      E 9
+Abelkonkurransen                                                 Oppgaver – tallteori
+Runde 1 2005–2024                                                     Side 76 av 85
+
+
+Oppgave 16 2013/2014      (→ side 73 i løsningene)
+
+Hva er det minste heltallet 𝑛 større enn 1 som er slik at siste siffer i 𝑎𝑛 er det
+samme som siste siffer i 𝑎, for alle mulige positive heltall 𝑎?
+  A 4      B 5      C 9       D 10        E Det finnes ikke noe slikt tall 𝑛.
+
+
+Oppgave 20 2013/2014      (→ side 73 i løsningene)
+
+Hvor mange kvadrattall er det blant tallene 2013, 2020, 2027, …, 3595, 3602?
+  A 0      B 1      C 2       D 3       E 4
+
+
+Oppgave 6 2014/2015    (→ side 73 i løsningene)
+
+Hvilket av alternativene under kan skrives på formen 3𝑥 ⋅ 5𝑦 , der 𝑥 og 𝑦 er
+heltall?
+  A 30      B 336      C 453         D 585           E 625
+
+
+Oppgave 11 2014/2015      (→ side 73 i løsningene)
+
+Hvilket av disse tallene har den største primfaktoren?
+  A 91      B 391      C 891         D 1001          E 1881
+
+
+Oppgave 14 2014/2015      (→ side 73 i løsningene)
+
+Den største felles divisoren til to tall 𝑎 og 𝑏 er 22. Det minste felles multi-
+plumet til 𝑎 og 𝑏 er 2002. Dersom 𝑎 har færre divisorer enn 𝑏, hva er 𝑎 + 𝑏?
+  A 506      B 2024        C 2222        D 4048         E 4400
+
+
+Oppgave 19 2014/2015      (→ side 74 i løsningene)
+
+Emmy leker med en kalkulator. Hun taster inn et heltall og tar kvadratro-
+ten av tallet. Så gjentar hun prosessen med heltallsdelen av svaret. Etter at
+hun har gjort dette tre ganger, er heltallsdelen for første gang lik 1. Hva er
+differansen mellom det største og det minste tallet Emmy kan ha startet med?
+  A 229      B 231        C 239       D 241          E 254
+Abelkonkurransen                                              Oppgaver – tallteori
+Runde 1 2005–2024                                                  Side 77 av 85
+
+
+Oppgave 3 2015/2016    (→ side 74 i løsningene)
+
+Hvilket av alternativene er 47 ⋅ 24 lik?
+  A 83      B 86       C 811       D 814       E 828
+
+
+Oppgave 8 2015/2016    (→ side 74 i løsningene)
+
+Hvor mange av heltallene 0, 1, 2, …, 999 er det som verken er delelig på 9 eller
+inneholder tallsifferet 9?
+  A 486      B 487        C 512       D 648          E 649
+
+
+Oppgave 11 2015/2016      (→ side 74 i løsningene)
+
+En divisor til et heltall 𝑁 er et heltall som går opp i 𝑁. Både 1 og 𝑁 regnes blant
+divisorene til 𝑁. Antall positive heltall mindre enn 100 som har nøyaktig tre
+positive divisorer er
+  A 2      B 3      C 4        D 5      E 6
+
+
+Oppgave 15 2015/2016      (→ side 74 i løsningene)
+
+Hvor mange positive heltall 𝑚 er slik at 𝑚2 + 2015 er et kvadrattall?
+  A 2      B 4      C 6        D 8      E 10
+
+
+Oppgave 17 2015/2016      (→ side 75 i løsningene)
+
+Hva er tverrsummen til det minste positive heltallet 𝑛 som er slik at 700 går
+opp i 𝑛4 + 6𝑛3 + 11𝑛2 + 6𝑛?
+  A 5      B 7      C 8        D 10       E 12
+
+
+Oppgave 2 2016/2017    (→ side 75 i løsningene)
+
+Hvor mange positive divisorer har tallet 300? (En divisor til et heltall 𝑁 er et
+heltall som går opp i 𝑁. Både 1 og 𝑁 regnes blant divisorene til 𝑁.)
+  A 9      B 12       C 16       D 18       E 24
+Abelkonkurransen                                                   Oppgaver – tallteori
+Runde 1 2005–2024                                                       Side 78 av 85
+
+
+Oppgave 9 2016/2017     (→ side 75 i løsningene)
+
+Hvis vi skriver 2016 ⋅ 5100 i titallsystemet, hvor mange nuller på rad er det på
+slutten av tallet?
+  A 5      B 10       C 15         D 50       E 100
+
+
+Oppgave 11 2016/2017        (→ side 75 i løsningene)
+
+Hva er tverrsummen til det minste positive tallet 𝑘 som er slik at 15𝑘 ikke
+inneholder andre sifre enn 0 og 1?
+  A 3      B 6        C 7       D 10        E 11
+
+
+Oppgave 18 2016/2017        (→ side 75 i løsningene)
+
+La 𝑆(𝑛) betegne antall sifre i tallet 𝑛. Hva er verdien til 𝑆(𝑆(20162017 ))?
+  A 1      B 2        C 3       D 4       E 5
+
+
+Oppgave 1 2017/2018     (→ side 75 i løsningene)
+
+Hva er det siste sifferet i produktet av alle odde primtall mindre enn 100?
+  A 1      B 3        C 5       D 7       E 9
+
+
+Oppgave 8 2017/2018     (→ side 75 i løsningene)
+
+Ligningen 𝑎4 + 𝑏 4 = 2018 har hvor mange heltallige løsninger med 0 ≤ 𝑎 ≤ 𝑏?
+  A 0      B 1        C 2       D 3       E 4
+
+
+Oppgave 14 2017/2018        (→ side 75 i løsningene)
+
+Hvor mange positive heltall 𝑛 er slik at
+                                   1⋅2⋅3⋅4⋅5⋅6⋅7
+                                         𝑛
+også er et heltall?
+  A 30      B 32       C 64         D 84        E Ingen av disse
+Abelkonkurransen                                                   Oppgaver – tallteori
+Runde 1 2005–2024                                                       Side 79 av 85
+
+
+Oppgave 19 2017/2018        (→ side 76 i løsningene)
+
+Et treningsapparat kan justeres ved å legge på lodd. Loddene finnes bare i to
+størrelser: 5 kg og 7 kg. Hvor mange heltall 𝑛 ≥ 1 finnes det som er slik at
+man ikke kan få til 𝑛 kg ved å kombinere slike lodd?
+  A 9        B 10      C 11        D 12       E 13
+
+Oppgave 7 2018/2019      (→ side 76 i løsningene)
+
+Hvilket av følgende tall er ikke et primtall?
+
+  A 24 + 1         B 28 + 1      C 1002 − 992          D 2⋅3⋅5⋅7+1      E 2⋅3⋅5⋅7−1
+
+Oppgave 13 2018/2019        (→ side 76 i løsningene)
+
+I landet Finansia bruker man tre typer mynter. Disse har verdi 7 kr, 8 kr og
+9 kr. Selv om man har tilgang til et ubegrenset antall mynter, er det noen
+summer man ikke kan lage, f.eks. 11 kr. Hva er den største heltallige summen
+man ikke kan lage ved å legge sammen slike mynter?
+  A 13 kr       B 19 kr         C 20 kr       D 25 kr      E større enn 25 kr
+
+Oppgave 14 2018/2019        (→ side 76 i løsningene)
+
+I første runde i Abelkonkurransen er det tjue oppgaver. For hver oppgave får
+man fem poeng dersom man besvarer den riktig, ett poeng dersom man ikke
+besvarer den, og null poeng for å svare feil. På Lurholmen VGS deltar alle
+elevene i Abelkonkurransen, og ingen av elevene får samme poengsum. Hva
+er det største antallet elever som kan gå på Lurholmen VGS?
+  A 80       B 94        C 95       D 97        E 100
+
+Oppgave 17 2018/2019        (→ side 77 i løsningene)
+
+Hvor mange ganger forekommer faktoren 2 i primtallsfaktoriseringen til tal-
+let 2018! = 1 ⋅ 2 ⋅ ⋯ ⋅ 2018?
+  A 2000       B 2004          C 2007       D 2011        E 2018
+
+Oppgave 18 2018/2019        (→ side 77 i løsningene)
+
+For hvor mange heltall 𝑛 ≥ 1 er uttrykket 3𝑛 − 𝑛2 et primtall?
+  A 1        B 2      C 3       D 4       E flere enn 4
+Abelkonkurransen                                                Oppgaver – tallteori
+Runde 1 2005–2024                                                    Side 80 av 85
+
+
+Oppgave 2 2019/2020    (→ side 77 i løsningene)
+
+Hva er de to siste sifrene i produktet av alle primtallene mellom 1 og 30?
+  A 10      B 30       C 50       D 70        E 90
+
+Oppgave 6 2019/2020    (→ side 77 i løsningene)
+
+Hva er det minste antall heltall fra 1 til 200 man må velge ut for at ethvert
+primtall mellom 1 og 30 skal gå opp i et av de valgte tallene?
+  A 4      B 5      C 6       D 7       E 8
+
+Oppgave 8 2019/2020    (→ side 78 i løsningene)
+
+Hvor mange par av positive heltall 𝑎, 𝑏 finnes med 𝑎𝑏 2 ≤ 100?
+  A 52      B 53       C 152        D 153         E Ingen av disse
+
+Oppgave 11 2019/2020      (→ side 78 i løsningene)
+
+Hvilket av disse tallene er ikke et kvadrattall?
+  A 12321        B 15129       C 17463         D 18225      E 21904
+
+Oppgave 15 2019/2020      (→ side 78 i løsningene)
+
+Hvor mange av heltallene som går opp i 25 ⋅ 34 ⋅ 53 ⋅ 72 ⋅ 11 er kvadrattall?
+  A 6      B 8      C 12       D 36        E 72
+
+Oppgave 19 2019/2020      (→ side 78 i løsningene)
+
+Dersom 𝑟 og 𝑠 er irrasjonale tall, kan vi slå fast at
+  A 𝑟 + 𝑠 er et rasjonalt tall  B 𝑟 + 𝑠 er et irrasjonalt tall
+  C 𝑟 ⋅ 𝑠 er et rasjonalt tall D 𝑟 ⋅ 𝑠 er et irrasjonalt tall
+  E Ut fra opplysningene kan vi ikke være sikre på noen av disse
+
+Oppgave 6 2020/2021    (→ side 79 i løsningene)
+
+Nils panter flasker. Han får 11 kroner for hver av de store flaskene, og 7 kroner
+for hver av de små flaskene. Til sammen får han 100 kroner. Hvor mange
+flasker pantet han totalt?
+  A 10      B 11       C 12       D 13        E Umulig å avgjøre
+Abelkonkurransen                                                   Oppgaver – tallteori
+Runde 1 2005–2024                                                       Side 81 av 85
+
+
+Oppgave 10 2020/2021       (→ side 79 i løsningene)
+
+Hvilket av tallene (skrevet i titallsystemet) ender ikke på de tre sifrene 101,
+om vi skriver det i totallsystemet (det vil si som et binært tall)?
+  A 5      B 333       C 549          D 615          E 2021
+
+Oppgave 12 2020/2021       (→ side 79 i løsningene)
+
+Karl Erik sliter med å holde styr på tiden, for viserne på klokken hans går
+ikke bare feil vei, men også 7 ganger for fort, slik at dersom klokken viser
+ni nå, vil den vise halv seks om en halvtime. Bortsett fra at klokken går bak-
+lengs og altfor fort, er den en helt vanlig, gammeldags klokke med time- og
+minuttviser. Hvor mange ganger i døgnet viser klokken hans riktig klokke-
+slett?
+  A 3      B 6     C 12          D 16        E 18
+
+Oppgave 14 2020/2021       (→ side 79 i løsningene)
+
+Bestem antall sekssifrede tall på formen 𝑎𝑏𝑐𝑎𝑏𝑐 (der 𝑎, 𝑏 og 𝑐 er tre forskjellige
+sifre) som er delelige på 11.
+  A 72      B 89       C 504          D 648          E 729
+
+Oppgave 18 2020/2021       (→ side 79 i løsningene)
+
+Hvor stor andel av divisorene til 2020 er oddetall?
+      1        1          1           1           1
+  A        B          C          D           E
+      2        3          4           8          16
+Oppgave 8 2021/2022       (→ side 79 i løsningene)
+
+Dersom du skriver ned alle heltallene fra og med 1 til og med 9999, men
+hopper over alle tall som inneholder sifferet 4, må du skrive sifferet 1 i alt 𝑘
+ganger. Da er siste sifferet i 𝑘 lik
+  A 0      B 2     C 4          D 6        E 8
+
+Oppgave 13 2021/2022       (→ side 80 i løsningene)
+
+Produktet av tre positive heltall er 36. Hva er minste mulige verdi for summen
+av de tre tallene?
+  A Mindre enn 11             B 11        C 12        D 13    E Større enn 13
+Abelkonkurransen                                               Oppgaver – tallteori
+Runde 1 2005–2024                                                   Side 82 av 85
+
+
+Oppgave 14 2021/2022       (→ side 80 i løsningene)
+
+Hva er det siste sifferet i 22021 ?
+  A 0      B 2       C 4       D 6       E 8
+
+
+Oppgave 4 2022/2023     (→ side 80 i løsningene)
+
+Hvor mange tall 𝑛 med 1 < 𝑛 < 1000 er både kvadratet av et heltall og tredje
+potens av et heltall?
+  A 0      B 1       C 2       D 3       E Flere enn 3
+
+
+Oppgave 11 2022/2023       (→ side 80 i løsningene)
+
+Tre positive heltall 𝑎, 𝑏 og 𝑐 er slik at 𝑎2 + 𝑏 3 + 𝑐 3 = 100. Hva er 𝑎𝑏 + 𝑏𝑐 + 𝑐𝑎?
+  A 24       B 33      C 40        D 47        E 56
+
+
+Oppgave 13 2022/2023       (→ side 80 i løsningene)
+
+Nils skriver opp tallene 1, 4, 7, 10, …, 397, 400 på en tavle. Så stryker han ut
+alle som er delelige på 5. Hvor mange tall står igjen på tavlen?
+  A 53       B 54      C 94        D 103        E 107
+
+
+Oppgave 16 2022/2023       (→ side 81 i løsningene)
+
+Summen av tre forskjellige positive heltall er et primtall, og produktet er lik
+1024. Hva er det største av de tre tallene?
+  A 64       B 128      C 192         D 256           E 512
+
+
+Oppgave 20 2022/2023       (→ side 81 i løsningene)
+
+Nils kjøpte tre typer smørbrød til klassen, ett til hver elev. Han betalte 1993 kr,
+og vi vet at prisen på de tre typene smørbrød er henholdsvis 77 kr, 91 kr og
+143 kr. Hvor mange elever er det i klassen?
+  A 18       B 19      C 20        D 21        E 22
+Abelkonkurransen                                                    Oppgaver – tallteori
+Runde 1 2005–2024                                                        Side 83 av 85
+
+
+Oppgave 1 2023/2024      (→ side 82 i løsningene)
+
+Hva er det minste positive heltallet med eksakt seks (positive) divisorer, in-
+kludert 1 og tallet selv? For eksempel har 75 seks divisorer: 1, 3, 5, 15, 25 og
+75.
+  A 6       B 12       C 18        D 24       E 32
+
+
+Oppgave 6 2023/2024      (→ side 82 i løsningene)
+
+Et positivt heltall 𝑘 er slik at siste siffer i 𝑘 8 er 6. Hva er siste siffer i 𝑘 4 ?
+  A 2       B 4       C 6       D 8       E Ikke entydig bestemt.
+
+
+Oppgave 12 2023/2024        (→ side 82 i løsningene)
+
+Lisa skriver ned tallet 1 på et ark. Hun kan velge å ikke gjøre noe mer, eller
+hun kan velge å enten gange tallet med 4 eller å legge til 5 før hun stryker
+over tallet på arket og skriver ned det nye tallet i stedet. Dette kan hun gjenta
+så lenge hun vil, men hun stopper alltid før tallet blir større enn 100. Hvor
+mange ulike tall (inkludert 1) kan hun ende opp med?
+  A 40       B 41       C 42        D 43        E 44
+
+
+Oppgave 20 2023/2024        (→ side 82 i løsningene)
+
+Jon skriver ned to heltall 𝑢 og 𝑣 på et ark. Så setter han 𝑎0 = 0, og regner ut
+𝑎𝑛 = 𝑢𝑎𝑛−1 + 𝑣 for 𝑛 = 1, 2, 3, …, 2023. Til slutt ender han med 𝑎2023 = 2023.
+Hvor mange mulige par (𝑢, 𝑣) kunne Jon ha startet med?
+  A 1       B 2       C 3       D 4       E Uendelig mange.
+
+
+Oppgave 2 2024/2025      (→ side 83 i løsningene)
+
+Hvor mange av de fire tallene 1234, 12345, 123456 og 1234567 er delelige
+med 3?
+  A 0       B 1       C 2       D 3       E 4
+Abelkonkurransen                                                   Oppgaver – tallteori
+Runde 1 2005–2024                                                       Side 84 av 85
+
+
+Oppgave 7 2024/2025    (→ side 83 i løsningene)
+
+Kari har tre barn. Summen av barnas aldre er et primtall. For tre måneder
+siden var summen et annet primtall, og om fem måneder vil summen bli et
+nytt primtall. Med alderen til et barn mener vi antall hele år som er gått siden
+fødselen.
+Hva vil summen være om åtte måneder?
+  A 5      B 6     C 11       D 12        E 13
+
+
+Oppgave 9 2024/2025    (→ side 83 i løsningene)
+
+Hvilket av disse tallene har den minste primtallsfaktoren?
+  A 1313      B 1919        C 7357       D 7537          E 11131
+
+
+Oppgave 10 2024/2025     (→ side 83 i løsningene)
+
+Et positivt heltall 𝑛 er slik at 12𝑛 + 131 er delelig med 3𝑛 + 2.
+Hva er summen av sifrene i 𝑛?
+  A 4      B 5     C 8        D 11       E 23
+
+
+Oppgave 14 2024/2025     (→ side 84 i løsningene)
+
+Ingrid kjøpte boller og muffinser for 430 kroner. En bolle kostet 13 kroner, og
+en muffins kostet 19 kroner.
+Hvor mange bakevarer kjøpte hun til sammen?
+  A 24      B 25       C 26      D 27        E 28
+
+
+Oppgave 2 2025/2026    (→ side 84 i løsningene)
+
+Hvor mange kvadrattall går opp i 2025 et helt antall ganger?
+  A 2      B 3     C 4        D 5      E 6
+
+
+Oppgave 5 2025/2026    (→ side 84 i løsningene)
+
+Hvis 𝑎 er et partall og 𝑏 er delelig med 6, hvilket av de følgende tallene er med
+sikkerhet delelig med 4?
+
+  A 𝑎+𝑏        B 𝑎−𝑏        C 𝑎𝑏 − 𝑎        D 𝑎𝑏 + 𝑏 2      E 𝑎 − 𝑏2
+Abelkonkurransen                                              Oppgaver – tallteori
+Runde 1 2005–2024                                                  Side 85 av 85
+
+
+Oppgave 10 2025/2026     (→ side 84 i løsningene)
+
+Hvilket av de følgende tallene ligger lengst unna det nærmeste kvadrattallet?
+  A 600      B 650       C 810       D 999          E 2000
+
+
+Oppgave 12 2025/2026     (→ side 84 i løsningene)
+
+Sunniva skriver ned kvadratet til hvert tall fra og med 1 til og med 100. Der-
+etter teller hun opp hvor mange ganger hvert av sifrene forekommer som
+siste siffer blant tallene hun har skrevet ned. Hvilket av sifrene 1, 4, 5, 6 og 9
+forekommer færrest ganger?
+  A 1      B 4     C 5       D 6       E 9
+
+
+Oppgave 16 2025/2026     (→ side 84 i løsningene)
+
+                                        20𝑛 + 25
+Hvor mange heltall 𝑛 ≥ 1 er slik at              også er et heltall?
+                                        2𝑛 + 25
+  A 1      B 2     C 3       D 4       E Hverken 1, 2, 3 eller 4
+

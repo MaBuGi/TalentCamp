@@ -1,0 +1,1114 @@
+Abelkonkurransen                                                Oppgaver – geometri
+Runde 1 2005–2024                                                     Side 24 av 85
+
+
+Geometri
+
+Oppgave 2 2005/2006     (→ side 20 i løsningene)
+
+Vi har klipt i stykker et 10 × 10-kvadrat slik figuren til
+høyre antyder. Alle vinklene på figuren er rette. Om-
+kretsen av denne figuren er
+                                                                10
+  A 100    B 40      C 60          D 36
+  E umulig å avgjøre
+                                                                             10
+Oppgave 7 2005/2006     (→ side 20 i løsningene)
+
+I et rektangel er diagonalen 6 og arealet 14. Omkretsen er
+  A 10      B 14       C 16      D 18        E 20
+
+
+Oppgave 9 2005/2006     (→ side 20 i løsningene)
+                                                            𝐷            𝐹        𝐶
+ABCD er et rektangel. La 𝐸 og 𝐹 være midtpunktet
+på henholdsvis AB og CD. La 𝐺 være et punkt på
+BC. Linjestykket DG skjærer EF i 𝐻. Hvis arealet av                  𝐻
+firkanten HGCF er lik arealet av firkanten EBGH ,                                 𝐺
+så er forholdet mellom arealet av trekanten HFD og
+arealet av rektanglet ABCD                                  𝐴            𝐸        𝐵
+
+  A 1/12       B 1/10       C 1/8        D 1/6         E 3/16
+
+
+Oppgave 11 2005/2006     (→ side 20 i løsningene)                     𝐷
+Figuren viser en femkant ABCDE der vinklene EAB,                                  𝐶
+ABC og CDE er rette. Lengdene av BC og CD er like,
+og lengdene av DE og AE er like. Vinkelen ADB er                𝐸
+
+  A 30∘      B 42∘      C 45∘       D 48∘           E 51∘
+
+                                                                𝐴                 𝐵
+Abelkonkurransen                                                    Oppgaver – geometri
+Runde 1 2005–2024                                                         Side 25 av 85
+
+
+Oppgave 14 2005/2006    (→ side 20 i løsningene)
+                                                                𝐷       𝐸                  𝐶
+ABCD er et kvadrat med side 2. 𝐸 og 𝐹 er punkter på
+henholdsvis CD og DA slik at vinkelen BEF er rett               𝐹
+og BE har lengde 2,5. Lengden av FE er
+                                                                                 2,5       2
+  A 0,75     B 0,625       C 5/6
+  D √2/2      E √5/2
+                                                                𝐴           2              𝐵
+
+
+Oppgave 18 2005/2006    (→ side 20 i løsningene)
+                                                                        𝐶
+Sidene i en rettvinklet trekant ABC er diametre i
+de tre halvsirklene på figuren. Hvis AC har leng-
+                                                                    7       10
+de 7 og CB har lengde 10 og AB er hypotenusen,
+så er arealet av det fargede området                        𝐴                          𝐵
+  A 15𝜋      B 16,125𝜋       C 32,25𝜋 − 35           D 35       E 70
+
+
+Oppgave 2 2006/2007    (→ side 20 i løsningene)
+
+Omkretsen av en halvsirkel med radius 𝜋 er
+  A 𝜋2      B 𝜋2 + 𝜋      C 𝜋 3 /2 + 2𝜋       D 𝜋 3 /2      E 𝜋 2 + 2𝜋
+
+
+Oppgave 5 2006/2007    (→ side 21 i løsningene)
+
+La 𝐷 være midtpunktet av sida AB i en trekant ABC. Hvis det fins et punkt
+𝐸 på sida AC som er slik at ED står vinkelrett på AB og BE står vinkelrett på
+AC, så er vinkelen BAC lik
+  A 60∘     B 45∘      C 30∘       D 15∘           E umulig å avgjøre
+
+
+Oppgave 8 2006/2007    (→ side 21 i løsningene)
+
+Forholdet mellom arealet av det største og arealet av det minste
+kvadratet på figuren er
+
+  A √2      B 3/2      C 2       D 2√2        E 4
+Abelkonkurransen                                                        Oppgaver – geometri
+Runde 1 2005–2024                                                             Side 26 av 85
+
+
+Oppgave 11 2006/2007     (→ side 21 i løsningene)
+
+Et rektangel er delt opp i kvadrater som på figuren til
+høyre. Den korteste sida av rektanglet har lengde 20. Den
+lengste sida har lengde
+
+  A 21      B 22       C 22 12       D 23 13       E 24
+
+
+Oppgave 12 2006/2007     (→ side 21 i løsningene)
+
+En korde og en diameter i en sirkel skjærer hverandre
+vinkelrett midtveis mellom sirkelens sentrum og periferi.
+Diameteren har lengde 2. Arealet av den minste delen
+korden deler sirkelen i, er                                                            1     1
+                                                                                       2     2
+
+        3              𝜋 √3              𝜋 √3                   𝜋 √3
+  A 𝜋 − √3         B    −            C     −                D    −
+        2              4 10              3   4                  4 12
+    𝜋 √3
+  E   −
+    3     2
+
+Oppgave 14 2006/2007     (→ side 21 i løsningene)
+
+I et trapes ABCD er sidene AB og CD parallelle.                     𝐷     5        𝐶
+AB har lengde 13, og CD har lengde 5. Vinkelen
+BAD er 60∘ , og vinkelen ABC er 30∘ . Lengden                       60∘
+                                                                                       30∘
+av AD er                                                        𝐴             13                 𝐵
+  A 2,5     B 3        C 3,2        D 3,8         E 4
+
+
+Oppgave 18 2006/2007     (→ side 22 i løsningene)
+                                                                    𝐴     𝐷
+Arealet av trekanten ABC er 2√2. Vinkelen 𝐶 er rett,
+og BC har lengde 4. La 𝐷 være fotpunktet for høy-
+den fra AB til 𝐶. Lengden av AD er                                  𝐶              4             𝐵
+       1           1           √2             2             2√2
+  A           B           C              D              E
+      2√3         √3           3             √3              3
+Abelkonkurransen                                                    Oppgaver – geometri
+Runde 1 2005–2024                                                         Side 27 av 85
+
+
+Oppgave 7 2007/2008    (→ side 22 i løsningene)
+
+I kvadratet ABCD er 𝐸 midtpunktet på AB, 𝐹 midtpunktet på BC og 𝐺 midt-
+punktet på CD. 𝐻 er midtpunktet på DE. Lengden av sidene i kvadratet er 4.
+Lengden av DEFGH er
+
+  A 8√2      B 2√5 + 6√2        C 6√5 + 8√2           D 3√5 + 4√2             E 6√5 + 4√2
+
+
+Oppgave 9 2007/2008    (→ side 22 i løsningene)
+
+Et rektangel er delt opp i fem mindre rektangler, som på figuren
+til høyre. Omkretsene av de fire fargede rektanglene er 6, 11, 12
+og 13. Omkretsen av det store rektangelet er
+  A 21      B 23       C 25     D 44        E 46
+
+
+Oppgave 11 2007/2008    (→ side 22 i løsningene)
+
+Alf står tre steg fra en lyktestolpe og kaster en 1,5 m lang skygge. Lykta er
+plassert på toppen av den loddrette stolpen. Alf flytter seg seks steg lenger
+unna. Da blir skyggen
+  A 1,5 m      B 3m        C 4m         D 4,5 m            E 6m
+
+
+Oppgave 14 2007/2008    (→ side 22 i løsningene)                     𝐶
+
+I den likebeinte trekanten ABC er sidene AB og
+AC like lange. Punktet 𝐷 ligger på sida AB, 𝐸
+på AC og 𝐹 på CB. Trekanten DEF er likesidet,                       64∘         𝐹
+vinkelen EDA er 52∘ og vinkelen FEC er 64∘ .                   𝐸
+Vinkelen BFD er
+  A 40∘     B 58∘       C 60∘      D 64∘           E 76∘            52∘
+                                                           𝐴              𝐷            𝐵
+Oppgave 20 2007/2008    (→ side 22 i løsningene)
+
+Et kvadrat er delt opp i trekanter (som ikke overlapper hverandre). Alle hjør-
+nene i trekantene farges røde. De fire hjørnene i kvadratet og 2007 punkter
+inne i kvadratet blir røde. Ingen linje går gjennom tre av de røde punktene.
+Hvor mange trekanter er kvadratet delt opp i?
+  A 2008      B 2010       C 3012        D 4016            E 4020
+Abelkonkurransen                                                          Oppgaver – geometri
+Runde 1 2005–2024                                                               Side 28 av 85
+
+
+Oppgave 3 2008/2009          (→ side 23 i løsningene)
+
+Tallene på figuren viser omkretsen av hver av de fire
+                                                                                        27
+småtrekantene. Hva er omkretsen av den store trekan-
+ten?                                                                                    24
+                                                                              16             24
+  A 43          B 59        C 55          D 67       E 91
+
+
+Oppgave 5 2008/2009          (→ side 23 i løsningene)
+
+Fra en likesidet trekant med sidekant 2 fjernes alle punkter med
+avstand mindre enn 1 til ett av hjørnene, slik at vi står igjen med
+det fargede området. Hva er arealet av dette området?
+            𝜋                                                                   𝜋
+  A √3 −             B √3 − 𝜋             C 3 − √𝜋         D 3−𝜋         E 2−
+            2                                                                   2
+
+Oppgave 8 2008/2009          (→ side 23 i løsningene)
+                                                                         𝐶
+Vinklene BAC, BED og DFC på figuren er rette. Area-
+let av trekanten EBD er 9, og arealet av trekanten FDC                              𝐷
+                                                                         𝐹
+er 4. Hva er arealet av trekanten AEF ?
+                                          13
+  A 3       B 5            C 6        D            E 7                   𝐴          𝐸             𝐵
+                                          2
+
+Oppgave 10 2008/2009             (→ side 23 i løsningene)
+
+I en rettvinklet trekant finnes det et punkt som har avstand lik 1 til alle sidene.
+Den lengste siden er dobbelt så lang som den korteste siden. Hva er arealet
+av trekanten?
+                           3 + √5
+  A 3 + 2 √3           B                    C 1 + √3        D 2 + 2 √5        E 1 + 3 √3
+                              2
+
+Oppgave 11 2008/2009             (→ side 23 i løsningene)          𝐶
+                                                                          𝐷
+På figuren er vinklene CAB og ADC rette, leng-
+den av AB er 12 og lengden av BC er 13. Hva er
+arealet av trekanten ADC?                                          𝐴                              𝐵
+      750            850              750           1920          75
+  A              B                C            D              E
+      169            169              144           169           6
+Abelkonkurransen                                                        Oppgaver – geometri
+Runde 1 2005–2024                                                             Side 29 av 85
+
+
+Oppgave 4 2009/2010     (→ side 24 i løsningene)
+
+To sirkler har radius 1 og sentrum i to motstående hjørner
+i et kvadrat med sidelengde 1. Hva er arealet av området
+som ligger inni begge sirklene (det fargede området på fi-
+guren)?
+      𝜋                      𝜋                1             1
+  A        B 𝜋 −1        C     −1         D             E
+      2                      2                2             𝜋
+
+Oppgave 9 2009/2010     (→ side 24 i løsningene)
+
+En likesidet trekant og et kvadrat er innskrevet i en sir-
+kel med radius 1 slik at en av sidene i kvadratet og en av
+sidene i trekanten er parallelle. Hva er avstanden mellom
+disse parallelle sidene?
+
+      1        √2 − 1            √3 − 1            √2               1
+  A        B                 C                D                 E
+      6          2                 3                6               4
+
+Oppgave 12 2009/2010     (→ side 24 i løsningene)
+
+Ti sirkler med radius 1 danner en figur som vist på
+tegningen. Hva er omkretsen av figuren (lengden av
+den svarte kurva)?
+  A 8𝜋      B 9𝜋        C 10𝜋       D 11𝜋          E 12𝜋
+
+Oppgave 14 2009/2010     (→ side 24 i løsningene)
+
+I en firkant ABCD er sidene AD og BC parallelle. Sidene AB, BC og CD er
+like lange, og summen av vinklene BAD og ADC er 80∘ . Diagonalene AC og
+BD skjærer hverandre i punktet 𝑂. Hvor stor er vinkelen AOD?
+  A 100∘       B 120∘      C 130∘         D 140∘            E 150∘
+
+Oppgave 17 2009/2010     (→ side 25 i løsningene)
+
+En trekant ligger inni et kvadrat som vist på figuren. Trekan-
+ten er rettvinklet, og toppunktet er sentrum i kvadratet. En
+sirkel med radius 1 er innskrevet i trekanten. Hva er arealet
+av kvadratet?
+
+  A 6 + √2 + 4√2 + √2            B 16 + 8√3        C 24 + 16√2            D 36     E 15√5
+Abelkonkurransen                                                       Oppgaver – geometri
+Runde 1 2005–2024                                                            Side 30 av 85
+
+
+Oppgave 3 2010/2011        (→ side 25 i løsningene)
+
+To regulære sekskanter med sidelengde 1 deler en side.
+Hva er avstanden mellom sentrene i sekskantene?
+      √2                                 √10
+  A             B 1      C √2        D               E √3
+       2                                  2
+Oppgave 8 2010/2011        (→ side 25 i løsningene)
+
+Avstanden mellom sentrene i to sirkler med radius 1 er √2. Hva
+er arealet av området som ligger inni begge sirklene?
+
+      𝜋 1             𝜋              2𝜋                 𝜋 √2           2𝜋 √2
+  A    −         B      −1       C      −1       D       −         E      −
+      4 2             2               3                 2 2             3   2
+Oppgave 9 2010/2011        (→ side 25 i løsningene)
+
+En åttetakket stjerne er laget ved å legge to kvadrater med
+sidelengde 1 oppå hverandre. De to kvadratene har felles
+sentrum og er rotert 45∘ i forhold til hverandre. Hva er area-
+let av stjernen?
+
+  A 4 − 2 √2          B 34 √2      C 1,25       D 7 − 4 √2         E 13 − 8√2
+
+Oppgave 17 2010/2011         (→ side 26 i løsningene)
+
+To sirkler med radier 1 og √2 har sentrum i samme punkt.
+Hva er arealet av et kvadrat som ligger mellom sirklene
+slik at den ene siden av kvadratet tangerer den innerste
+sirkelen og hjørnene på den motsatte siden ligger på den
+ytterste sirkelen?
+
+      1           4                             12 − 8√2           4√2 − 5
+  A         B            C 3 − 2 √2         D                  E
+      5          25                                 5                 2
+Oppgave 19 2010/2011         (→ side 26 i løsningene)
+                                                                             𝐹    𝑆
+La 𝑆 være midtpunktet mellom to nabohjørner 𝐹 og 𝐹 ′ i                                𝐹′
+toppflaten til en kube med sidelengde 1. Trekk linjer mel-
+lom 𝑆 og hver av de fire hjørnene i bunnflaten. Hva er over-
+flatearealet av den skeive pyramiden som dannes?
+
+  A 3       B 12 (3 + √2 + √5)           C 1 + √2 + 12 √5
+  D 12 (3 + 2√2 + √5)           E 1 + 2√2 + 12 √5
+Abelkonkurransen                                                Oppgaver – geometri
+Runde 1 2005–2024                                                     Side 31 av 85
+
+
+Oppgave 3 2011/2012     (→ side 26 i løsningene)
+
+ABCD er et kvadrat, og ABE er en likesidet trekant slik at 𝐸 ligger inne i
+ABCD. Hvor stor er vinkelen CDE?
+  A 10∘      B 12∘      C 15∘       D 18∘           E 20∘
+
+
+Oppgave 7 2011/2012     (→ side 26 i løsningene)
+
+Sentrene i de tre sirklene i figuren ligger på en rett linje. Den
+mellomstore sirkelen har dobbelt så stort areal som den mins-
+te. Hvor stort er forholdet mellom arealet av den største og
+den minste sirkelen?
+  A 4      B 5       C 2 + 2 √2      D 3 + 2 √3         E 3 + 2 √2
+
+
+Oppgave 12 2011/2012     (→ side 26 i løsningene)
+
+
+
+
+I figuren er alle de markerte vinklene like store.
+Hvor store er disse vinklene, avrundet til nær-
+meste hele antall grader?
+  A 22∘      B 23∘      C 24∘       D 25∘           E 26∘
+
+
+Oppgave 17 2011/2012     (→ side 26 i løsningene)
+
+Den lille prinsen bor på en kulerund planet med radius 2/𝜋 km. En dag går
+han en tur. Han begynner ved huset sitt og går 1 km rett frem. Deretter vender
+han 90∘ mot høyre og går ytterligere 3 km rett frem. Herfra går han korteste
+vei hjem til huset sitt. Hvor langt går den lille prinsen totalt på denne turen?
+
+  A 4 km     B (4 + √2) km           C (4 + √10) km         D 5 km
+  E Ingen av disse
+Abelkonkurransen                                                Oppgaver – geometri
+Runde 1 2005–2024                                                     Side 32 av 85
+
+
+Oppgave 19 2011/2012       (→ side 27 i løsningene)
+
+Den likesidede trekanten i figuren har sidelengde 2. Sir-
+kelen i figuren går gjennom et hjørne og tangerer mot-
+stående sidekant på midten. Hva blir arealet av området
+innenfor trekanten, men utenfor sirkelen?
+
+                                                                                3𝜋
+  A 58 √3 − 𝜋4      B 58 √3 − 𝜋3        C 34 √3 − 𝜋3   D √3 − 𝜋2     E 34 √3 − √8
+
+
+Oppgave 2 2012/2013       (→ side 27 i løsningene)
+
+Per, Ragnar og Lars bor i samme nabolag. De har funnet ut at det er 250 m i
+luftlinje fra Per til Ragnar, og 300 m fra Ragnar til Lars. Hva er det beste man
+kan si om avstanden fra Per til Lars basert på disse opplysningene?
+  A Avstanden er akkurat 550 m.
+  B Avstanden kan være alt mellom 0 m og 550 m.
+  C Avstanden kan være alt mellom 50 m og 550 m.
+  D Avstanden kan være alt mellom 250 m og 300 m.
+  E Avstanden kan være hva som helst.
+
+
+
+Oppgave 7 2012/2013       (→ side 27 i løsningene)
+
+ABC er en likesidet trekant. En sirkel med radius 1 tangerer linjen AB i punk-
+tet 𝐵 og linjen 𝐴𝐶 i punktet 𝐶. Hva er sidelengden i ABC?
+
+      √3                           √3          2√3
+  A      +1        B √3       C            D           E 2
+       2                           2            3
+
+Oppgave 10 2012/2013       (→ side 27 i løsningene)
+
+Et kvadrat plasseres inne i en likebent rettvinklet trekant
+med kateter av lengde 1, slik som vist på tegningen. Hva
+er arealet av kvadratet?
+  A 2/9          B 2/10      C √3/9         D 3/10     E √2/5
+Abelkonkurransen                                                    Oppgaver – geometri
+Runde 1 2005–2024                                                         Side 33 av 85
+
+
+Oppgave 13 2012/2013     (→ side 27 i løsningene)
+                                                              A
+Karl Erik skal sykle hjem fra skolen i dag. Han
+sykler fra A til B slik som vist på figuren. Først
+sykler han på en sykkelsti som er formet som en
+kvartsirkel, deretter sykler han over en bro som
+er 20 m lang før han sykler videre på resten av
+sykkelstien, som også er formet som en kvartsir-
+kel. Han sykler like langt før som han gjør etter
+broen. Dersom luftavstanden fra A til B er 100 m,                                   B
+hvor mange meter sykler Karl Erik?
+  A 40𝜋 + 20      B 30𝜋 + 20          C 210         D 60𝜋 + 20          E 40𝜋
+
+
+Oppgave 16 2012/2013     (→ side 28 i løsningene)                          𝐺        𝐶
+                                                    𝐷
+Arealet til rektangelet ABCD er 1. Anta
+at 𝐸 ligger på diagonalen AC, og at lin-                                        𝐸
+jen gjennom 𝐸 parallell med AD og BC
+møter AB i 𝐹 og CD i 𝐺. La 𝑥 = AE/EC.
+Hvor stor er da summen av arealene til
+AFE og ECG?                                    𝐴                           𝐹        𝐵
+
+     1 + 𝑥2        2(1 + 𝑥 2 )     2(1 + 𝑥)2                       (1 + 𝑥)2
+  A              B              C                         D
+    2(1 + 𝑥)2       (1 + 𝑥)2        1 + 𝑥2                        2(1 + 𝑥 2 )
+  E Umulig å bestemme fra 𝑥 alene.
+
+
+Oppgave 18 2012/2013     (→ side 28 i løsningene)
+
+I en trekant ABC er AB = 5, BC = 4 og CA > 3. Arealet til trekanten er 6.
+Hva er sidelengden CA?
+
+                 √1901           √2012                        3√197
+  A √77      B               C                D √73       E
+                   5               5                            5
+Abelkonkurransen                                                Oppgaver – geometri
+Runde 1 2005–2024                                                     Side 34 av 85
+
+
+Oppgave 4 2013/2014    (→ side 28 i løsningene)
+
+På figuren er en halvsirkel innskrevet i et kvad-
+rat som er innskrevet i en likebent trekant som
+er innskrevet i en halvsirkel. Hva er forhol-
+det mellom arealet av den store halvsirkelen og
+arealet av den lille halvsirkelen?
+  A 9    B 6√2     C 5√3       D 10
+  E Det avhenger av radien til den lille halvsirkelen.
+
+
+Oppgave 7 2013/2014    (→ side 28 i løsningene)
+
+En runde på den innerste løpebanen av en
+friidrettsbane (bane én) består av to lang-                     100 m
+sider på 100 m hver og to halvsirkler på
+                                                      100 m                100 m
+100 m hver. Hvis vi antar at bredden av
+hver bane er 1 m, hvor mye lengre er en                         100 m
+runde i bane fem?
+  A 8m       B (4𝜋 + 8) m        C 4𝜋 m           D 8𝜋 m      E 10𝜋 m
+
+
+Oppgave 11 2013/2014    (→ side 28 i løsningene)
+
+𝐴𝐵𝐶 er en likesidet trekant. En sirkel med radius 1 tangerer linjen 𝐴𝐵 i punk-
+tet 𝐵 og linjen 𝐴𝐶 i punktet 𝐶. Hva er sidelengdene i 𝐴𝐵𝐶?
+                 2         4
+  A √2      B          C         D 1       E √3
+                √3         3
+
+Oppgave 14 2013/2014    (→ side 29 i løsningene)
+
+Hva er sidelengden i den største kuben som får plass inne i en sfære (kule)
+med radius 1?
+                 2         4
+  A √2      B          C         D 1       E √3
+                √3         3
+Abelkonkurransen                                                     Oppgaver – geometri
+Runde 1 2005–2024                                                          Side 35 av 85
+
+
+Oppgave 18 2013/2014         (→ side 29 i løsningene)
+
+Figuren viser et svart kvadrat dekket av et hvitt kvadrat
+med samme sentrum, men rotert 30 grader. Begge kvadra-
+tene har sidelengde 2. Hva er det totale arealet av de svarte
+områdene som er synlige?
+
+       8               8√3              16                16√3
+  A      −4        B              C        −8         D            E 3√3 − 4
+      √3                25              √3                 25
+
+Oppgave 2 2014/2015         (→ side 29 i løsningene)
+                                                          6
+Det norske flagget har dimensjoner som
+vist på bildet. Hva er forholdet mellom                   1
+                                                          2
+arealet av det røde området og arealet av                 1
+det blå korset?
+                                                          6
+              54             7           18
+  A 3     B             C           D               E 4
+              17             2           5
+                                                               6   1 2 1       12
+Oppgave 4 2014/2015         (→ side 29 i løsningene)
+
+Punktene 𝐴, 𝐵, 𝐶, 𝐷 og 𝐸 ligger på linje med innbyrdes avstander AB = 3,
+BC = 6, CD = 8 og DE = 4. Hva er minste mulige verdi for 𝐴𝐸?
+  A 0     B 1          C 2       D 3          E 5
+
+
+Oppgave 7 2014/2015         (→ side 29 i løsningene)
+
+I en trekant ABC er ∠𝐴 = 22∘ og ∠𝐵 = 100∘ . Punktet 𝐷 på 𝐴𝐶 er slik at
+AD = AB. Hva er ∠DBC?
+  A 21∘       B 22∘         C 22,5∘           D 24∘        E 28∘
+
+
+Oppgave 9 2014/2015         (→ side 30 i løsningene)
+
+Trekanten i midten av figuren har sidelengder 3, 4 og 5.
+Et kvadrat er tegnet utvendig på hver av sidene. Hva er
+summen av arealene til de to skyggelagte trekantene?
+  A 12     B 15         C 18          D 24          E 25
+Abelkonkurransen                                                          Oppgaver – geometri
+Runde 1 2005–2024                                                               Side 36 av 85
+
+
+Oppgave 17 2014/2015          (→ side 30 i løsningene)
+
+To sirkler tangerer hverandre og begge vinkelbena i en vinkel på 60∘ . Den
+ene sirkelen har radius 5 cm. Hvilken av lengdene under kan være lik radien
+til den andre sirkelen?
+  A 1,7 cm        B 2 cm            C (11,5 + 2√3) cm           D 15 cm        E 17,5 cm
+
+
+Oppgave 2 2015/2016       (→ side 30 i løsningene)
+
+Hva er arealet av det skyggelagte området i figu-
+ren?
+  A 3𝜋       B 5𝜋         C 6𝜋         D 9𝜋         E 12𝜋
+
+
+                                                                      1         2      1
+Oppgave 6 2015/2016       (→ side 30 i løsningene)
+
+I figuren er det to regulære sekskanter. Hva er forholdet
+mellom arealet til den største og den minste sekskanten?
+
+  A 2      B 3        C 2√3           D 4         E Ingen av disse
+
+
+Oppgave 10 2015/2016          (→ side 31 i løsningene)
+
+Tre punkter 𝐴, 𝐵 og 𝐶 i planet har koordinater henholdsvis (0, 4), (6, 2) og
+(10, 4). Da er ∠𝐴𝐵𝐶 lik
+  A 105∘         B 120∘         C 135∘           D 145∘        E Ingen av disse
+
+
+Oppgave 14 2015/2016          (→ side 31 i løsningene)
+
+Den store trekanten i figuren er en rettvinklet tre-
+kant med kateter av lengde 1 og 2. Hva er arealet til
+det innskrevne kvadratet?
+      5           2            34           20            7
+  A          B            C            D            E
+      13          5            81           49            16
+Abelkonkurransen                                                         Oppgaver – geometri
+Runde 1 2005–2024                                                              Side 37 av 85
+
+
+Oppgave 18 2015/2016        (→ side 31 i løsningene)
+
+I trekanten ABC er 𝐴𝐵 = 𝐴𝐶 = 1 og ∠CAB = 135∘ . Sirkelen 𝑆 har sentrum i
+𝐴 og tangerer 𝐵𝐶. Hva er arealet av 𝑆?
+
+      3             √2            2 − √2              1 + √3              √35
+  A      𝜋     B       𝜋      C          𝜋       D           𝜋       E        𝜋
+      20            8                4                  16                 40
+
+Oppgave 4 2016/2017        (→ side 31 i løsningene)
+
+To sylindre har samme volum. Dersom høyden til den første er lik radien til
+den andre, hva er forholdet mellom høyden til den andre og radien til den
+første?
+                                        1
+  A 1        B √3      C 2         D         E Umulig å avgjøre.
+                                        2
+
+Oppgave 6 2016/2017        (→ side 32 i løsningene)
+
+I en trekant ABC er AC = 4, BC = 5 og 1 < AB < 9. La 𝐷, 𝐸 og 𝐹 være
+midtpunktene på BC, CA og AB. AD og BE skjærer hverandre i 𝐺. Det viser
+seg at 𝐺 også ligger på CF . Hvor lang er AB?
+  A 2        B 3      C 4         D 5       E Umulig å avgjøre.
+
+
+Oppgave 8 2016/2017        (→ side 32 i løsningene)
+                                                            𝐻        𝐺
+Figuren til høyre viser mangekanten ABCDEFGH ,
+men ikke nødvendigvis med korrekte propor-                                    𝐷          𝐶
+sjoner. Alle vinkler er rette. Du får oppgitt at
+FG = 10, AB = 30 og BC = 16. Hva er omkret-                      𝐹                𝐸
+sen til figuren?
+  A 92   B 100      C 106               D 112               𝐴                            𝐵
+  E Umulig å avgjøre.
+
+
+
+Oppgave 14 2016/2017        (→ side 32 i løsningene)
+
+I trekanten ABC er ∠𝐴 = 15∘ , ∠𝐵 = 135∘ og BC = 1. Hvor lang er AC?
+
+  A 1 + √2         B 1 + √3        C 2 + 12 √2         D 4 − 23 √3         E Ingen av disse
+Abelkonkurransen                                                Oppgaver – geometri
+Runde 1 2005–2024                                                     Side 38 av 85
+
+
+Oppgave 17 2016/2017     (→ side 32 i løsningene)
+
+Anna og Birger går en tur med samme konstante fart. De starter i samme
+retning fra samme sted. Birger går rett frem hele tiden. Anna, derimot, tar
+ett skritt før hun snur 90 grader til høyre, deretter tar hun to skritt før hun
+snur 90 grader til høyre igjen, for så å ta fire skritt før hun neste gang snur
+90 grader til høyre. Slik fortsetter hun å doble antall skritt mellom hver gang
+hun snur til høyre. Når Anna skal til å snu for 2016. gang, stopper begge
+to. Hvor stort er forholdet mellom avstanden Birger har gått og avstanden
+mellom Anna og Birger da de stoppet?
+
+      √10         √10
+  A           B            C √5        D √6         E √5 + 1
+       4           2
+
+Oppgave 19 2016/2017     (→ side 33 i løsningene)
+
+Et terrarium har form som en kube med sidelengde 3. I det eksakte sentret
+av terrariet henger en kubeformet kasse med sidelengde 1, og med sidene
+parallelle med terrariets sider. Tenk deg at en flue skal fly fra ett hjørne i
+terrariet til det diagonalt motsatte hjørnet. Hva er den korteste strekningen
+fluen kan fly, når den må utenom den indre kassen?
+
+  A 3√3       B √29       C 5       D 3 + √6         E 1 + √2 + 2 √3
+
+
+Oppgave 3 2017/2018     (→ side 33 i løsningene)
+
+En syklist kjører i én time rett frem med en fart på 24 kilometer per time,
+svinger deretter 90° til venstre, og kjører en halv time til rett frem med en
+fart på 10 meter per sekund. Hva er luftavstanden mellom startpunktet og
+ankomststedet?
+  A √601 km       B √676 km       C √900 km         D √1440 km      E √1872 km
+
+
+Oppgave 7 2017/2018     (→ side 34 i løsningene)
+
+Kvadratet ABCD har sidelengde 2. En sirkel tangerer diagonalen AC i 𝐴 og
+diagonalen BD i 𝐵. Hvor stort er arealet til området der kvadratet og sirkel-
+flaten overlapper?
+
+  A 𝜋/2 − 1       B 𝜋 −1         C 𝜋 −2        D 2𝜋 − 2        E 2𝜋 − 4
+Abelkonkurransen                                                  Oppgaver – geometri
+Runde 1 2005–2024                                                       Side 39 av 85
+
+
+Oppgave 10 2017/2018      (→ side 34 i løsningene)
+
+En trekant har hjørner i punktene (0, 0) og (5, 13). Det tredje hjørnet har også
+heltallige koordinater. Hvor mange mulige steder kan man plassere det tredje
+hjørnet, slik at trekantens areal blir 65?
+  A 0     B 1       C 2       D 4         E Ingen av disse
+
+
+Oppgave 12 2017/2018      (→ side 34 i løsningene)
+
+Hvor stor er vinkelen AFB i en regulær åttekant ABCDEFGH ? At åttekanten
+er regulær, betyr at alle sidene er like lange, og alle vinklene mellom nabosi-
+der er like store.
+  A 20°       B 22,5°      C 25°         D 27,5°     E 30°
+
+
+Oppgave 2 2018/2019     (→ side 34 i løsningene)
+
+Dersom 𝜏 = 2𝜋, hvilket av disse uttrykkene er lik arealet av en sirkel med
+radius 1?
+              𝜏                     𝜏2
+  A 𝜏     B         C 𝜏2       D            E 2𝜏
+              2                     4
+
+Oppgave 3 2018/2019     (→ side 34 i løsningene)
+
+Et byggesett inneholder korte (𝐾) og lange (𝐿) staver
+og en måte å feste dem inntil hverandre. Først lager
+du et rektangel der den ene siden består av én kort          𝐿            𝐾
+stav og den andre siden består av to korte staver. Du
+legger merke til at den lange staven akkurat passer         𝐾      𝐾
+langs diagonalen. Deretter lager du et rektangel der den ene siden består av
+én lang stav og den andre siden består av to lange staver. Hvor mange korte
+staver får du nå plass til langs diagonalen?
+  A 4     B 5       C 6       D 7         E ikke et helt antall
+Abelkonkurransen                                                Oppgaver – geometri
+Runde 1 2005–2024                                                     Side 40 av 85
+
+
+Oppgave 6 2018/2019    (→ side 35 i løsningene)
+
+Hva er verdien av 𝑥 i figuren?
+
+                                                   𝑥
+                                 1       1
+
+                                     1                 1
+
+  A 1      B √2       C √3       D 2           E √5
+
+
+Oppgave 9 2018/2019    (→ side 35 i løsningene)
+
+En rettvinklet, likebent trekant har areal 72. Et rektangel er
+innskrevet med to sider langs trekantens kateter og et hjørne
+på hypotenusen. De to små trekantene har til sammen areal
+40. Hva er lengden til den korteste av sidene i rektangelet?
+  A 3      B 4     C 5       D 6             E ingen av disse
+
+
+Oppgave 12 2018/2019     (→ side 35 i løsningene)
+
+Ti kvadrater med sidelengde 1 ligger etter hverandre, hektet sammen i sine
+nedre nabohjørner. Vi roterer kvadratene slik at de øvre nabohjørnene får
+avstand 1 fra hverandre.
+
+
+           1
+
+
+
+
+Før vi har rotert alle kvadratene, har vi kommet helt rundt slik av det neste
+kvadratet vil overlappe det første. Vi fjerner dette kvadratet og alle etter det.
+Hvor mange kvadrater står vi da igjen med?
+  A 5      B 6     C 7       D 8             E 9
+Abelkonkurransen                                                  Oppgaver – geometri
+Runde 1 2005–2024                                                       Side 41 av 85
+
+
+Oppgave 3 2019/2020     (→ side 35 i løsningene)
+
+Sidekantene i kvadratet har lengde 1. Hvor stor er avstan-
+den mellom sirkelsentrene?
+  A 12     B √2 − 1         C 2 − √2      D 12 √2
+  E 1 − 12 √2
+
+
+Oppgave 7 2019/2020     (→ side 35 i løsningene)
+
+To sirkler har til sammen samme areal som et kvadrat med sidelengder 5.
+Den ene sirkelen har dobbelt så stor radius som den andre. Hva er radien i
+den minste sirkelen?
+       5            5       25          5                 𝜋
+  A             B       C          D                E
+      √𝜋            𝜋       4𝜋         √3𝜋              √ 10
+
+Oppgave 10 2019/2020     (→ side 36 i løsningene)
+
+Kvadratet i figuren har sidekanter med lengde 1. Tre-
+kanten har to hjørner på midtpunktene til to av kvad-
+ratsidene, og det tredje hjørnet ligger midt på linje-
+stykket mellom midtpunktene til de to andre sidene i
+kvadratet. Hva er arealet til trekanten?
+  A 14     B 18 √3      C 16 √2      D 12 (√3 − 1)         E 38
+
+
+Oppgave 14 2019/2020     (→ side 36 i løsningene)
+
+I en halvsirkel med radius 1 er halvsirkelbuen delt
+i tre like store deler. Den midterste delen, stiplet i
+figuren, tas vekk og erstattes med to speilbilder av
+seg selv som vist. Hvor stort er arealet av den resul-
+terende figuren?
+
+  A 2      B 𝜋/2        C √3/2         D 2/√3           E √3
+Abelkonkurransen                                                          Oppgaver – geometri
+Runde 1 2005–2024                                                               Side 42 av 85
+
+
+Oppgave 17 2019/2020           (→ side 36 i løsningene)
+
+I en likesidet trekant ABC ligger punktet 𝐷 på siden AC og punktet 𝐸 på siden
+BC slik at linjestykket DE er parallelt med AB og slik at arealet av firkanten
+ABED er en fjerdedel av arealet av trekanten ABC. Hva er forholdet mellom
+høyden i trekanten ABC og lengden av linjestykket DE?
+
+                 2√3              √5             2
+  A 1     B                   C             D             E √2
+                  3                2            √3
+
+Oppgave 7 2020/2021           (→ side 36 i løsningene)
+
+To kvartsirkler med radius 1 er plassert inntil hver-
+andre slik figuren viser. Hvor stort er arealet av det
+skyggelagte området?
+      𝜋 −1               3𝜋 − 1             𝜋            𝜋 −1           𝜋 +1
+  A                  B                  C            D            E
+        4                  2                2              2              4
+
+
+Oppgave 9 2020/2021           (→ side 36 i løsningene)
+
+I en trekant ABC er 𝑀 og 𝑁 midtpunktene på henholdsvis linjestykkene AB
+og 𝐴𝐶. Hvor stort er forholdet mellom arealet til firkanten BCNM og trekan-
+ten ABC?
+      1          2            √2            3            3
+  A          B            C             D            E
+      2          3            2             4            5
+
+Oppgave 11 2020/2021           (→ side 37 i løsningene)
+
+I firkant ABCD er ∠ABC = ∠BCD = 120∘ , |AB| = |CD| = 3 og |BC| = 2. Hvor
+lang er AD?
+
+  A 5     B 6             C √23         D √26            E 2√7
+
+
+Oppgave 16 2020/2021           (→ side 37 i løsningene)
+
+En regulær åttekant med sidelengde 1 er grunnflaten til en åttekantet pyra-
+mide med høyde 3. Hvor stort er volumet til pyramiden?
+
+  A 2 + 2 √2             B 4√2         C 1 + 2 √3         D 1 + 52 √2      E 1 + √2
+Abelkonkurransen                                               Oppgaver – geometri
+Runde 1 2005–2024                                                    Side 43 av 85
+
+
+Oppgave 20 2020/2021    (→ side 37 i løsningene)
+
+Innbyggerne i Matteland er alle punktformede. Når de møtes innendørs, må
+de alle holde minst én meters avstand til hverandre. En gruppe på 25 inn-
+byggere vil gjerne møtes for å diskutere singulær kohomologi. De kan velge
+mellom fem rektangulære rom, med mål (i meter) gitt nedenfor. I ett eller
+flere av disse rommene er det ikke plass til at alle møtes uten å bryte énme-
+tersregelen. Hvilket av disse har størst areal?
+
+  A 5×5      B ( 52 √𝜋−1)×( 52 √𝜋−1)        C 4×4       D 3√3×3       E 12 𝜋 2 ×2√𝜋
+
+
+Oppgave 2 2021/2022    (→ side 38 i løsningene)
+
+Et hjerte med areal 1 består av en rettvinklet, likebent tre-
+kant og to like store halvsirkler arrangert som i figuren. Hva
+er radien til de to halvsirklene?
+     1               1              1
+  A            B               C
+    4+𝜋            √4 + 𝜋          2+𝜋
+      1
+  D                E 4+𝜋
+    √2 + 𝜋
+
+Oppgave 6 2021/2022    (→ side 38 i løsningene)
+                                                           𝐸              𝐷
+Den regulære sekskanten ABCDEF har areal
+1 og sentrum i 𝑂. Hva er arealet av firkanten
+ACEO?
+                                                    𝐹             𝑂              𝐶
+    1       √2       √3 − 1
+  A      B         C                  D √2
+    3        6         2
+  E Ingen av disse
+                                                          𝐴               𝐵
+
+Oppgave 15 2021/2022    (→ side 38 i løsningene)
+
+En likebent og rettvinklet trekant er innskrevet i en
+sirkel med radius 1. En mindre sirkel er innskrevet i
+trekanten. Hva er radien til den minste sirkelen?
+       1          √2       1
+  A            B         C            D √2 − 1
+    √3 − 1        4        2
+  E Ikke entydig bestemt
+Abelkonkurransen                                            Oppgaver – geometri
+Runde 1 2005–2024                                                 Side 44 av 85
+
+
+Oppgave 20 2021/2022    (→ side 38 i løsningene)
+
+La 𝐴 = (−17, 45), 𝐵 = (10, 11) og 𝐶 = (79, 57). Hva er koordinatene til punktet
+som er speilbildet til 𝐴 om linjen 𝐵𝐶?
+
+  A (106, 23)      B (29, −24)       C (30, −25)     D (31, −27)    E (31, 27)
+
+
+Oppgave 1 2022/2023    (→ side 38 i løsningene)
+
+En firkant er delt inn i fire trekanter og en                         20
+                                                       23
+mindre firkant som vist i figuren. Tallene i fi-               38
+guren angir omkretsen til hver av de mindre
+delene. Hva er omkretsen til den store firkan-         22              27
+ten?
+  A 54      B 56       C 73      D 80       E 92
+
+
+Oppgave 12 2022/2023    (→ side 39 i løsningene)
+
+Figuren viser et kvadrat og en rettvinklet trekant som til-
+sammen utgjør en irregulær femkant. Arealet til kvadra-
+tet er 529, mens trekanten har areal 108. Hva er omkretsen
+til femkanten?
+  A 92      B 96       C 98      D 100       E 102
+
+
+Oppgave 15 2022/2023    (→ side 39 i løsningene)
+
+En sirkel med radius 1 tangerer en linje 𝑚 i                𝑄
+et punkt 𝑃. To sirkelbuer, med radius hen-
+holdsvis 2 og 4, har endepunkter på 𝑚, og        𝐻 𝐺        𝐹   𝐺 𝐻
+tangerer sirkelen i punktet 𝑄 som ligger                                   𝑚
+diametralt motsatt 𝑃 på sirkelen. Arealet                   𝑃
+til sirkelen er 𝐹, mens det blå og det beige området i figuren har areal hen-
+holdsvis 𝐺 og 𝐻. Hvilken påstand er sann?
+  A 𝐹 = 𝐺 < 𝐻          B 𝐹 = 𝐺 = 𝐻            C 𝐹 = 𝐺 > 𝐻       D 𝐹 > 𝐺 > 𝐻
+  E 𝐹 <𝐺<𝐻
+Abelkonkurransen                                              Oppgaver – geometri
+Runde 1 2005–2024                                                   Side 45 av 85
+
+
+Oppgave 17 2022/2023    (→ side 39 i løsningene)
+
+Tre sirkler har alle radius 1. Sentrum i hver av
+dem ligger på et skjæringspunkt mellom de to
+andre sirklene. Hva er arealet av området som lig-
+ger innenfor to sirkler, men ikke innenfor alle tre?
+
+    𝜋 √3         𝜋 √3                 3𝜋 3√3
+  A    +       B   +              C      −
+    3    4       6   2                 4   8
+    2𝜋       𝜋
+  D        E
+     3       2
+
+
+Oppgave 18 2022/2023    (→ side 39 i løsningene)
+
+Både det minste kvadratet og den skyggelagte trekanten
+har areal 1. Hva er arealet til det største kvadratet?
+  A 2 + 2 √5     B 6 − √3        C 3 + 3√2
+  D 5√2 − 2      E 4 + 2√3
+
+
+Oppgave 4 2023/2024    (→ side 40 i løsningene)
+
+Henrik lager fem likebente trekanter, alle med to sider av lengde 1. Vinkelen
+mellom de to like sidene er som gitt nedenfor. Hvilken trekant har størst
+areal?
+  A 30∘      B 60∘     C 75∘       D 100∘          E 105∘
+
+
+Oppgave 8 2023/2024    (→ side 40 i løsningene)
+
+Alle sidene i en regulær mangekant er like lange, og alle
+vinklene mellom nabosider er like store. (Figuren viser en
+regulær sjukant.) Hvilken av disse kan være en vinkel i en
+regulær mangekant?
+  A 81∘      B 100∘      C 121∘       D 144∘         E 169∘
+Abelkonkurransen                                                      Oppgaver – geometri
+Runde 1 2005–2024                                                           Side 46 av 85
+
+
+Oppgave 9 2023/2024    (→ side 40 i løsningene)
+                                                                  𝐶
+Trekanten ABC er rettvinklet med sidelengder
+AB = 6 og AC = 4. Nils vil plassere et punkt 𝐷 på
+hypotenusen BC og tegne opp rektangelet DFAE
+                                                                                           𝐷
+med hjørnene 𝐸 og 𝐹 på katetene til trekanten som             𝐹
+vist i figuren. Hvis han plasserer 𝐷 på hypotenu-
+sen slik at rektangelet DFAE utgjør halvparten av                 𝐴                    𝐸       𝐵
+arealet til trekanten ABC, hvor lang må CD være?
+
+                                                      2√3
+  A 2      B 3      C √13         D 2√2          E
+                                                       3
+
+Oppgave 11 2023/2024       (→ side 41 i løsningene)
+                                                             𝐷                                 𝐶
+Kvadratet ABCD har sidelengde 1, og inneholder
+tre kvadrater inni hverandre. Hvert kvadrat er ro-
+tert 30∘ i forhold til kvadratet utenfor, og har hjør-
+                                                                         𝑂         𝑁
+ner på sidene til kvadratet utenfor. Hva er side-
+lengden til det innerste kvadratet MNOP?                                               30∘
+                                                                         𝑃     𝑀
+                                                                                       30∘
+    2                            √3 1
+  A        B 6√3 − 10          C    −
+    5                             2   2                                      30∘
+    √2                                                       𝐴                                 𝐵
+  D            E 8√2 − 11
+     4
+
+Oppgave 14 2023/2024       (→ side 41 i løsningene)
+
+Firkanten ABCD har rette vinkler i hjørnene 𝐵 og 𝐶, og sidekanter AB = 72,
+BC = 81 og CD = 90. Diagonalene skjærer hverandre i 𝐸. Hvor stort er arealet
+til trekanten BCE?
+  A 405        B 810       C 1215        D 1620         E 1780
+
+
+Oppgave 18 2023/2024       (→ side 41 i løsningene)
+
+I den regulære tikanten ABCDEFGHIJ med sidelengde 1 er 𝑂 sentrum, og 𝐵′
+er speilingen av 𝐵 over linjestykket AC. Da er avstanden fra 𝑂 til 𝐵′ lik
+
+               √3          1 + √2           √5
+  A 1      B           C                D              E Ingen av disse.
+                2             2             2
+Abelkonkurransen                                                Oppgaver – geometri
+Runde 1 2005–2024                                                     Side 47 av 85
+
+
+Oppgave 6 2024/2025       (→ side 42 i løsningene)
+
+En pyramide er satt sammen av en kvadratisk grunn-
+flate og fire likesidede trekanter. Høyden av pyrami-
+den er 10.
+Hvor stort er overflatearealet av pyramiden (inklu-
+sive grunnflaten)?
+
+  A 100(3 + √3)          B 200(1 + √3)          C 400√2
+  D 600        E 1200(√2 − 1)
+
+Oppgave 11 2024/2025       (→ side 42 i løsningene)
+
+Hypotenusen i en rettvinklet trekant har lengde 10, og arealet til trekanten
+er lik omkretsen.
+Hva er summen av lengdene til katetene?
+
+  A 12     B 10√2           C 14       D 16          E 24
+
+Oppgave 12 2024/2025       (→ side 42 i løsningene)
+
+Trekanten ABC har sidelengder AB = 1, BC = 2 og AC = √3. Punktet 𝐷
+ligger på AC slik at vinklene ABD og DBC er like store.
+Hvor lang er AD?
+
+      3         4                      √3            3√3
+  A        B            C √2       D            E
+      2         3                       3             4
+
+Oppgave 19 2024/2025       (→ side 42 i løsningene)
+
+Et linjestykke med lengde 2 og to kvartsirk-
+ler tangerer hverandre parvis og omskriver en
+likesidet trekant, som i figuren.
+Hvor stort er arealet til trekanten?
+
+      √3 − 1            4                  √3           𝜋 −2          𝜋
+  A                 B     √3 − 2       C            D          E 2−
+        2               3                  4              6           2
+
+Oppgave 6 2025/2026       (→ side 43 i løsningene)
+
+Trekk linjestykker fra hjørne 𝐶 til henholdsvis 𝐴 og 𝐷 i en regulær femkant
+ABCDE. Hvor stor er vinkelen mellom de to linjestykkene?
+  A 18∘        B 36∘       C 54∘       D 72∘          E 90∘
+Abelkonkurransen                                                  Oppgaver – geometri
+Runde 1 2005–2024                                                       Side 48 av 85
+
+
+Oppgave 8 2025/2026      (→ side 43 i løsningene)
+
+En sirkel ligger innenfor en annen sirkel, og en rett linje
+deler området mellom de to sirklene i to deler som hver
+har samme areal som den indre sirkelen.
+Hva er forholdet mellom radien til den ytre og radien til
+den indre sirkelen?
+               𝜋                        3
+  A 3      B           C √3      D            E Umulig å avgjøre
+               2                       √𝜋
+
+Oppgave 14 2025/2026      (→ side 43 i løsningene)
+                                                                               𝐴
+Hvert par av punktene 𝐴, 𝐵 og 𝐶 i figuren er forbundet
+med en halvsirkel med diameter 2.
+Hvor stort er arealet av det skyggelagte området?
+                                                                        𝐵             𝐶
+           𝜋           √3 + 4𝜋           1 + 2𝜋          √3 + 𝜋             √3 + 2𝜋
+  A √3 +           B                 C               D              E
+           2              4                 2              2                   4
+
+Oppgave 15 2025/2026      (→ side 43 i løsningene)
+
+Vinklene i en konveks femkant danner en aritmetisk følge. En av vinklene er
+lik 53∘ . Hvor stor er den største vinkelen i femkanten?
+  A 127∘       B 160∘         C 163∘        D 179∘       E Umulig å avgjøre
+
+
+Oppgave 17 2025/2026      (→ side 43 i løsningene)
+
+En trekant og en firkant har lik omkrets. Hvis 𝑅 er arealet til trekanten divi-
+dert med arealet til firkanten, hvilket av alternativene er nødvendigvis sant?
+
+  A 𝑅 < 34    B 34 ≤ 𝑅 < 1     C 𝑅=1                 D 1<𝑅
+  E Ingen av de andre alternativene
+

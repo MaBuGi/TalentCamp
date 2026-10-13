@@ -1,0 +1,788 @@
+   Abelkonkurransen                                                                                    Løsninger – algebra
+   Runde 1 2005–2024                                                                                          Side 2 av 85
+
+
+   Algebra
+
+(2) Oppgave 1 2005/2006.             Én prosent av tallet er 144/40 = 3,6, så hundre prosent
+   er 360. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+                                                              3       3
+(2) Oppgave 3 2005/2006.                 √93 = (√9) = 3 = 27. . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+                                                𝑎+𝑏   𝑎 +1
+                                          𝑎+𝑏    𝑏            𝑥 +1
+(2) Oppgave 5 2005/2006.                      =     = 𝑎𝑏    =      . ....................B
+                                          𝑎−𝑏   𝑎−𝑏
+                                                       𝑏 −1   𝑥 −1
+                                                          𝑏
+
+(2) Oppgave 6 2005/2006.   La 𝑥 være antall førsteklassinger. Da er 0,45𝑥 +0,5(300−
+   𝑥) = 144, 𝑥 = 120. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(2) Oppgave 8 2005/2006. Kall tallene 𝑥, 𝑦 og 𝑧, der 𝑥 < 𝑦 < 𝑧. Da er 𝑥𝑦 = 10,
+   𝑥𝑧 = 15 og 𝑦𝑧 = 24. Så 𝑦 2 = (𝑥𝑦)(𝑦𝑧)/(𝑥𝑧) = 10 ⋅ 24/15 = 16, slik at 𝑦 = 4. C
+
+(2) Oppgave 10 2005/2006.        Anta at 5𝑥 barn var ute og 𝑥 inne før lunsj. Etter lunsj
+   var det 5𝑥 + 3 barn ute og 𝑥 − 3 inne. Opplysningene fra oppgaven gir at
+   5𝑥 + 3 = 8(𝑥 − 3), slik at 𝑥 = 9. Tilsammen var det 𝑥 + 5𝑥 = 54 barn i
+   barnehagen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(3) Oppgave 12 2005/2006.For å få ned 7 hamburgere, bruker han 1 + 2 + 4 +
+   8 + 16 + 32 + 64 = 127 minutter, som han greier innen de 240 minuttene
+   konkurransen varer. For å få ned 8 hamburgere, ville han imidlertid ha brukt
+   127 + 128 = 255 minutter. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(3) Oppgave 13 2005/2006.    La 𝐴 = 100𝑥 + 10𝑦 + 𝑧, der 𝑥, 𝑦 og 𝑧 er hele tall,
+   1 ≤ 𝑥 ≤ 9, 0 ≤ 𝑦 ≤ 9, 0 ≤ 𝑧 ≤ 9. Da er 100𝑥 + 10𝑦 + 𝑧 = 6(10𝑥 + 𝑧), slik at
+   40𝑥 + 10𝑦 − 5𝑧 = 0, det vil si 8𝑥 + 2𝑦 = 𝑧. Fordi 𝑧 ≤ 9, er 𝑥 = 1, og fordi 𝑥 = 1
+   og 𝑧 ≤ 9, er 𝑦 = 0, slik at 𝑧 = 8. Summen av sifrene er 9. . . . . . . . . . . . . . . . . . B
+
+(3) Oppgave 16 2005/2006.    2(𝑎2 − 𝑏 2 )2 = 2((𝑎 − 𝑏)(𝑎 + 𝑏))2 = 2(𝑎 − 𝑏)2 (𝑎 + 𝑏)2 ,
+   så fra opplysning gitt i oppgaven er (𝑎 + 𝑏)4 = 2(𝑎 − 𝑏)2 (𝑎 + 𝑏)2 , slik at
+   (𝑎 + 𝑏)2 = 2(𝑎 − 𝑏)2 , som gir 𝑎2 + 2𝑎𝑏 + 𝑏 2 = 2𝑎2 − 4𝑎𝑏 + 2𝑏 2 , altså 𝑎2 + 𝑏 2 = 6𝑎𝑏.
+   Fordi 𝑎2 + 𝑏 2 = 30, er 𝑎𝑏 = 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(3) Oppgave 17 2005/2006. 5/4 < √2 fordi (5/4)2 = 25/16 < 2 = (√2)2 , og
+   √ 2 < 4 5 fordi ( 2)4 = 4 < 5 = ( 4 5)4 . Videre er 5 5 opplagt mindre enn 4 5,
+         √       √                √                √                           √
+                      4    4                                    4
+   og gjennomsnittet (√5 + √4)/2 av disse to er også mindre enn √5. . . . . . . . C
+   Abelkonkurransen                                                                                        Løsninger – algebra
+   Runde 1 2005–2024                                                                                              Side 3 av 85
+
+
+(3) Oppgave 4 2006/2007.                   Likningene gir 𝑎 = 25 𝑏 og 𝑐 = 25 𝑑, der 𝑏 og 𝑑 er positive
+                                                           2 𝑏+ 2 𝑑        2 (𝑏+𝑑)
+                               𝑎+𝑐 = 5 5 = 5
+   tall, slik at 𝑏 + 𝑑 ≠ 0. Så 𝑏+𝑑                 2
+                                      𝑏+𝑑    𝑏+𝑑 = 5 . . . . . . . . . . . . . . . . . . . . . . . C
+
+
+(3) Oppgave 7 2006/2007.  1/𝑥 = 𝑥 + 2 gir 1/𝑥 2 = 1 + 2/𝑥 = 1 + 2 ⋅ 1/𝑥 =
+   1 + 2(𝑥 + 2) = 2𝑥 + 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(4) Oppgave 10 2006/2007.   La 𝑠 være lengden av rullefortauet, 𝑣 Olas fart og 𝑣0
+   rullefortauets fart (målt i sekunder pr. lengdeenhet). Da er 𝑠 = 6(𝑣 + 𝑣0 ) og
+   𝑠 = 24(𝑣 − 𝑣0 ). Fire ganger første likning minus andre likning gir 3𝑠 = 48𝑣0 ,
+   slik at Ola når han står stille bruker 𝑠/𝑣0 = 48/3 = 16 sekunder. . . . . . . . . . C
+
+(4) Oppgave 17 2006/2007.                    La 𝑏 være Berits alder da Anna var 4𝑏 år. Annas alder
+   er nå 5𝑏 år, og Berit er også blitt 𝑏 år eldre, slik at hun er 2𝑏 år. Om 6 år er
+   Anna 5𝑏 +6 år og Berit 2𝑏 +6 år, og 5𝑏 +6 = 2(2𝑏 +6) gir 𝑏 = 6, og 5𝑏 +2𝑏 = 42.
+   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .D
+
+(4) Oppgave 19 2006/2007. La de fire tallene være 𝑎, 𝑏, 𝑐 og 𝑑. Da er 178 = 22 +32 +
+    42 + 62 + 72 + 82 = (𝑎 + 𝑏)2 + (𝑎 + 𝑐)2 + (𝑎 + 𝑑)2 + (𝑏 + 𝑐)2 + (𝑏 + 𝑑)2 + (𝑐 + 𝑑)2 =
+    3(𝑎2 + 𝑏 2 + 𝑐 2 + 𝑑 2 ) + 2(𝑎𝑏 + 𝑎𝑐 + 𝑎𝑑 + 𝑏𝑐 + 𝑏𝑑 + 𝑐𝑑) = 2(𝑎2 + 𝑏 2 + 𝑐 2 + 𝑑 2 ) +
+    (𝑎 + 𝑏 + 𝑐 + 𝑑)2 = 2(𝑎2 + 𝑏 2 + 𝑐 2 + 𝑑 2 ) + 100. Den siste likheten følger av at vi
+   i summen 2 + 3 + 4 + 6 + 7 + 8 = 30 teller hvert av de fire tallene 3 ganger,
+   slik at 𝑎 + 𝑏 + 𝑐 + 𝑑 = 30/3 = 10. (Eventuelt kan vi innse at 𝑎 + 𝑏 + 𝑐 + 𝑑 er
+   summen av de to minste og de to største tallene, altså 2 + 8 = 10.) Dermed er
+   𝑎2 + 𝑏 2 + 𝑐 2 + 𝑑 2 = (178 − 100)/2 = 39.
+   Alternativ: La de fire tallene være 𝑎, 𝑏, 𝑐 og 𝑑, der 𝑎 ≤ 𝑏 ≤ 𝑐 ≤ 𝑑. Da er 𝑎 + 𝑏 = 2
+   og 𝑎 + 𝑐 = 3, og 𝑏 + 𝑐 = 4 (da er 𝑎 + 𝑑 = 6) eller 𝑏 + 𝑐 = 6 (da er 𝑎 + 𝑑 = 4).
+   Summen av de to første likningene er 2𝑎 + 𝑏 + 𝑐 = 5, og kombinert med hver
+   av alternativene for 𝑏 + 𝑐, gir dette 2𝑎 + 4 = 5 eller 2𝑎 + 6 = 5, slik at 𝑎 = 1/2
+   eller 𝑎 = −1/2. Dette gir henholdsvis 𝑏 = 3/2 og 𝑐 = 5/2, eller 𝑏 = 5/2 og
+   𝑐 = 7/2. På samme måte er 𝑐 + 𝑑 = 8 og 𝑏 + 𝑑 = 7, som gir 2𝑑 + 𝑏 + 𝑐 = 15.
+   I tilfellet 𝑏 + 𝑐 = 4 gir dette 𝑑 = 11/2, og i tilfellet 𝑏 + 𝑐 = 6 gir dette 𝑑 = 9/2.
+   I begge tilfellene er 𝑎2 + 𝑏 2 + 𝑐 2 + 𝑑 2 = 39. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(4) Oppgave 1 2007/2008.   1997 ⋅ 2003 − 1993 ⋅ 2007 = (2000 − 3)(2000 + 3) −
+   (2000 − 7) ⋅ (2000 + 7) = 20002 − 32 − 20002 + 72 = 40. . . . . . . . . . . . . . . . . . . C
+
+                                                                      1   1
+                                                               ⋅ ⋅1   2   2         1 1 1
+                                                                        1/8 = 8 𝑥. . . . . . . . . . . C
+(4) Oppgave 4 2007/2008.                   √√√𝑥 = ((𝑥 ) ) = 𝑥 2 2 2 = 𝑥
+                                                                  2           √
+   Abelkonkurransen                                                                                   Løsninger – algebra
+   Runde 1 2005–2024                                                                                         Side 4 av 85
+
+
+(4) Oppgave 5 2007/2008.  Ved å faktorisere nevnerne 20 = 4⋅5, 21 = 3⋅7, 22 = 2⋅11
+   og 24 = 4 ⋅ 6, ser vi at teller er delelig på disse. Nevneren 23, derimot, er et
+   primtall som ikke forekommer som primfaktor i teller. . . . . . . . . . . . . . . . . . . D
+
+(5) Oppgave 12 2007/2008.   Når Cecilie har løpt 100 m, har Arne løpt 96 m og
+   Beate 98 m. De er altså alle 4 m fra målstreken. Cecilie løper de siste 4 metrene
+   fortest, Beate nest fortest og Arne saktest. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(5) Oppgave 13 2007/2008.                 La 𝑅 være radien i den største og 𝑟 radien i den minste
+   sirkelen. Da er 𝜋 = 𝜋𝑅2 − 𝜋𝑟 2 , slik at 1 = 𝑅2 − 𝑟 2 = (𝑅 + 𝑟)(𝑅 − 𝑟). Innsetting
+   av 𝑅 + 𝑟 = 2 gir 1 = 2(𝑅 − 𝑟), og innsetting av 𝑟 = 2 − 𝑅 gir 1 = 2(𝑅 − 2 + 𝑅),
+   og 𝑅 = 5/4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(5) Oppgave 16 2007/2008.         Siste siffer i 𝑎𝑛+1 er siste siffer av produktet av siste
+   siffer i 𝑎𝑛 og siste siffer i 𝑎𝑛−1 . Sistesifrene i 𝑎1 , 𝑎2 , … følger dermed mønsteret
+   1, 2, 2, 4, 8, 2, 6, 2, 2, 4, 8, 2, 6, …, og sifrene gjentar seg i en periode på 6. Fordi
+   2007 = 6 ⋅ 334 + 3, har 𝑎2007 samme sistesiffer som 𝑎3 , altså 2. . . . . . . . . . . . . B
+
+(5) Oppgave 17 2007/2008.  Adderer vi likningene, får vi 6𝑎 = 8𝑐, så 𝑎 > 𝑐. Subtra-
+   herer vi den andre likningen fra den første, får vi 2𝑎 + 2𝑏 = 2𝑑, altså 𝑎 + 𝑏 = 𝑑.
+   Så 𝑑 > 𝑎 > 𝑐 og 𝑑 > 𝑏. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(5) Oppgave 1 2008/2009. Hvis Per spiser 𝑥 pannekaker, spiser Pål 2𝑥 og Kari 4𝑥
+   pannekaker – til sammen 7𝑥 = 21, og 𝑥 = 3. Så Per spiser 3 pannekaker og
+   Pål 6 – til sammen 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(6) Oppgave 6 2008/2009. Per sykler 15 m/s ⋅ 50 s = 750 m på de 50 sekundene.
+   Pål sykler 200 m kortere, så han sykler 550 m/50 s = 11 m/s. . . . . . . . . . . . . E
+
+(6) Oppgave 7 2008/2009.La én banan og to epler koste 𝑥 kr, og la én pære koste
+   𝑝 kr. Opplysningene i oppgaven gir at 2𝑥 + 3𝑝 = 70 og 3𝑥 + 𝑝 = 63. Så
+   7𝑥 = 3(3𝑥 + 𝑝) − (2𝑥 + 3𝑝) = 3 ⋅ 63 − 70, og 𝑥 = 3 ⋅ 9 − 10 = 17. . . . . . . . . . . D
+
+(6) Oppgave 9 2008/2009.            La 𝐿 være den opprinnelige lønnen og 𝑃 = 𝑝/100. Da
+   blir lønnen etter lønnskuttet (1 − 𝑃)𝐿, og etter lønnsøkningen (1 + 𝑃)(1 − 𝑃)𝐿,
+   som skal være lik 0,96𝐿. Altså er (1 − 𝑃 2 )𝐿 = 0,96𝐿, 𝑃 2 = 0,04, 𝑃 = 0,2 og
+   𝑝 = 20. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+   Abelkonkurransen                                                                                         Løsninger – algebra
+   Runde 1 2005–2024                                                                                               Side 5 av 85
+
+
+(6) Oppgave 14 2008/2009.                     Fordi 𝑎, 𝑏, 𝑐 og 𝑑 er heltall, gjelder 𝑎 + 𝑏 + 𝑐 ≤ 47,
+   𝑏 + 𝑐 − 𝑑 ≥ 21 og 𝑎 + 𝑐 + 𝑑 ≥ 37. Da er 𝑎 + 𝑏 + 2𝑐 = (𝑏 + 𝑐 − 𝑑) + (𝑎 + 𝑐 + 𝑑) ≥
+   21 + 37 = 58, og 𝑐 = (𝑎 + 𝑏 + 2𝑐) − (𝑎 + 𝑏 + 𝑐) ≥ 58 − 47 = 11. Så 𝑐 ≥ 11. Og 11
+   er en mulig verdi for 𝑐 – ulikhetene er oppfylt hvis (𝑎, 𝑏, 𝑐, 𝑑) = (26, 10, 11, 0).
+   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .C
+
+(6) Oppgave 17 2008/2009. (𝑥 + 1)(𝑥 + 𝑦) = 𝑥 2 + 𝑥𝑦 + 𝑥 + 𝑦 = 143 = 11 ⋅ 13, så
+   𝑥 + 1 = 11 og 𝑥 + 𝑦 = 13, altså 𝑥 = 10 og 𝑦 = 3. . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(6) Oppgave 3 2009/2010. Antall hjul ville ha vært 200 hvis alle kjøretøyene var
+   mopeder. Vi har 356 − 200 = 156 ekstra par hjul, altså er det 156/2 = 78 biler.
+   Forholdet mellom antall biler og antall mopeder er 78/(100 − 78) = 39/11. D
+
+(7) Oppgave 5 2009/2010.  Summen av guttenes alder er 12⋅10,5 = 126 og summen
+   av alle barnas alder 30 ⋅ 11 = 330. Summen av jentenes alder er dermed 330 −
+   126 = 204, som gir et gjennomsnitt på 204/18 = 11 13 . . . . . . . . . . . . . . . . . . . . D
+
+(7) Oppgave 8 2009/2010.  9 kaker er tre fjerdedeler av dem som verken har sjo-
+   kolade eller nøtter, så 12 har verken sjokolade eller nøtter. Disse 12 er to
+   tredjedeler av dem som ikke har sjokolade, så 18 har ikke sjokolade. Dette er
+   halvparten av alle, så hun baker 36 kaker. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(7) Oppgave 13 2009/2010. Første tall er √63 = ((2⋅3)3 )1/2 = (2⋅3)3/2 = 23/2 ⋅33/2 ,
+    neste tall er 23/2 ⋅ 33/2 , så 21/2 ⋅ 31/3 , så √8 ⋅ √27 = (23 )1/2 ⋅ (33 )1/2 = 23/2 ⋅ 33/2 ,
+    og til slutt 6 72 = (23 ⋅ 32 )1/6 = 21/2 ⋅ 31/3 . Det er to forskjellige tall (det ene
+              √
+   er mindre enn det andre, da begge eksponentene er mindre). . . . . . . . . . . . . B
+
+(7) Oppgave 19 2009/2010.    Ved første kvadratsetning er 𝑥 2 + 1/𝑥 2 = (𝑥 + 1/𝑥)2 −
+   2, og likningen fra oppgaven kan skrives (𝑥 + 1/𝑥)2 + (𝑥 + 1/𝑥) − 6 = 0.
+   Denne andregradslikingen gir 𝑥 + 1/𝑥 = −3 (fordi 𝑥 er negativ, kan ikke
+   𝑥 +1/𝑥 være lik den andre løsningen, 2). Første kvadratsetning gir 𝑥 4 +1/𝑥 4 =
+   (𝑥 2 + 1/𝑥 2 )2 − 2 = ((𝑥 + 1/𝑥)2 − 2)2 − 2 = ((−3)2 − 2)2 − 2 = 47. . . . . . . . . C
+
+(7) Oppgave 1 2010/2011.                    Alle tallene er mindre enn 1/2, unntatt 1/(3/2) = 2/3.
+    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .D
+
+(7) Oppgave 4 2010/2011.                   16 ⋅ 216 = 16 ⋅ (24 )4 = 16 ⋅ 164 = 165 . . . . . . . . . . . . . . . . C
+   Abelkonkurransen                                                                                   Løsninger – algebra
+   Runde 1 2005–2024                                                                                         Side 6 av 85
+
+
+(8) Oppgave 7 2010/2011.           På de første 4 kilometrene bruker Astrid 15                                 4 h = 16 h =
+                                                                                                                           60
+   16 min. Hun må da bruke 25 min − 16 min = 9 min = 60                                              9 h = 3 h på de
+                                                                                                                    20
+   siste 2 kilometrene – altså holde en gjennomsnittsfart på 2/( 20                                              3 ) km/h =
+
+   13 13 km/h. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(8) Oppgave 10 2010/2011. Vi har 𝑎/𝑐 = (𝑎/𝑏)(𝑏/𝑐) = 2 ⋅ 5 = 10. Dermed får vi
+    (𝑎2 + 𝑏 2 + 𝑐 2 )/(𝑎𝑐) = 𝑎/𝑐 + 𝑏 2 /(𝑎𝑐) + 𝑐/𝑎 = 𝑎/𝑐 + (𝑏/𝑐)/(𝑎/𝑏) + 1/(𝑎/𝑐) =
+   10 + 5/2 + 1/10 = 12,6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(8) Oppgave 20 2010/2011.           La 𝑎, 𝑏, 𝑐, 𝑑 og 𝑒 være antall sopper henholdsvis Anne,
+   Bjørn, Celine, Dag og Erik plukker. Da sier opplysningene i oppgaven at 𝑎 +
+   𝑏 = 𝑐 + 𝑑, 𝑏 + 𝑑 > 𝑎 + 𝑐, 𝑎 + 𝑐 > 𝑑 + 𝑒 og 𝑒 + 𝑐 > 𝑑 + 𝑎. Likningen og første
+   ulikhet kan skrives som 𝑑 − 𝑎 = 𝑏 − 𝑐 > −(𝑑 − 𝑎), og dermed er 𝑑 − 𝑎 > 0
+   (hvis 𝑥 > −𝑥, er 𝑥 > 0), slik at 𝑏 > 𝑐 og 𝑑 > 𝑎. Ved å sette sammen første og
+   andre ulikhet, får vi også 𝑏 > 𝑒. Så 𝑏 eller 𝑑 er størst (eller 𝑏 og 𝑑 er like store).
+   Addisjon av likningen og siste ulikhet, sammen med 𝑏 > 𝑒, gir 2𝑏 > 𝑏 +𝑒 > 2𝑑,
+   slik at 𝑏 > 𝑑. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(8) Oppgave 4 2011/2012.    Det er 𝑥 selgere som i løpet av uka har skrevet 5𝑥 rap-
+   porter. På den annen side har selgerne og lederen mottatt i alt 32 𝑥 + 420 rap-
+   porter, slik at 5𝑥 = 32 𝑥 + 420. Dermed er 𝑥 = 120. . . . . . . . . . . . . . . . . . . . . . . . C
+
+(8) Oppgave 8 2011/2012.                Vi setter opp regnestykket der 𝑥0 , 𝑥1 , 𝑥2 og 𝑥3 er sifrene
+   i 𝑎:
+                                                       𝑥3 𝑥2 𝑥1 𝑥0
+                                                     + 𝑥0 𝑥1 𝑥2 𝑥3
+                                                     = 6 9 8 5
+   Fra første kolonne ser vi at 𝑥0 + 𝑥3 er 5 eller 6, mens siste kolonne gir at
+   summen er 5 eller 15, så 𝑥0 + 𝑥3 = 5. Det være mente fra både andre og tredje
+   kolonne, så 𝑥2 + 𝑥1 = 18. Altså er 𝑥0 + 𝑥1 + 𝑥2 + 𝑥3 = 18 + 5 = 23. . . . . . . . . D
+
+(9) Oppgave 11 2011/2012.Vi ser at 1000𝑥 − 𝑥 = 126. Altså 𝑥 = 126                                     14
+                                                                                          999 = 111 . Denne
+   brøken kan vi ikke forkorte mer, så 𝑥 kan ikke skrives på formen 𝑥 = 𝑝/𝑞
+   med 𝑞 mindre enn 111. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+    Abelkonkurransen                                                                          Løsninger – algebra
+    Runde 1 2005–2024                                                                                Side 7 av 85
+
+
+(9) Oppgave 14 2011/2012.   Vi finner 𝐸 2 − 𝐴2 = (𝜋 − 3)2 /4 > 0, så 𝐸 > 𝐴 siden
+    begge er positive. Videre er 𝐴 − 𝐵 = (𝜋 − 3)/6 > 0, så 𝐴 > 𝐵. Og så er
+    𝐴2 − 𝐶 2 = (𝜋 − 3)2 /4 > 0, så 𝐴 > 𝐶. Endelig er 1/𝐷 2 − 1/𝐶 2 = 14 ( 𝜋1 − 13 )2 > 0,
+    så 𝐶 > 𝐷. (Ulikhetene 𝐷 < 𝐶 < 𝐴 < 𝐸 er spesialtilfeller av kjente ulikheter
+    mellom harmonisk, geometrisk, aritmetisk og kvadratisk middelverdi – her
+    mellom tallene 𝜋 og 3.) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(9) Oppgave 16 2011/2012.    Fordi (𝑎/𝑏) ⋅ (𝑏/𝑐) ⋅ (𝑐/𝑎) = 1, må (𝑎/𝑏, 𝑏/𝑐, 𝑐/𝑎) være
+    ett av de fire triplene (1, 1, 1), (1, −1, −1), (−1, 1, −1), (−1, −1, 1). Alle de fire
+    mulighetene oppstår ved å velge 𝑎 = 1, 𝑏 = ±1 og 𝑐 = ±1. . . . . . . . . . . . . . . . C
+
+(9) Oppgave 1 2012/2013.              36 ⋅ 912 = (32 )3 ⋅ 912 = 93 ⋅ 912 = 93+12 = 915 . . . . . . . . B
+
+(9) Oppgave 5 2012/2013.  Skriv 𝐿, 𝐾 og 𝑆 for alderen til Lars, Kari og Stian i år.
+    De gitte opplysningene kan skrives 𝐿 = 2𝐾, 𝑆 = 3𝐾 og 𝑆 − 5 = 2(𝐿 − 5) =
+    2𝐿 − 10. Om vi setter inn 𝐿 og 𝑆 fra de to første opplysningene i den tredje
+    får vi 3𝐾 − 5 = 4𝐾 − 10, som har løsning 𝐾 = 5. Summen av aldrene er
+    𝐾 + 2𝐾 + 3𝐾 = 6𝐾 = 30 år. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(10) Oppgave 9 2012/2013.   Blant 𝐴 = 0,3, 𝐶 = 0,333 … og 𝐷 = 0,25 er 𝐶 = 1/3
+    størst. I tillegg er 𝐸 = 240/723 < 240/720 = 1/3 = 𝐶, og til slutt er 𝐶 2 =
+    1/9 = 0,111 … > 𝐵2 , så 𝐶 > 𝐵. 𝐶 er altså størst. . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(10) Oppgave 11 2012/2013.  De positive tresifrede tallene er 100, 101, …, 999. Mid-
+    delverdien av 100 og 999 er 12 (100 + 999) = 549,5, Det samme gjelder middel-
+    verdien av 101 og 998, middelverdien av 102 og 997 og så videre. Så middel-
+    verdien av alle tallene er 549,5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(10) Oppgave 15 2012/2013.              På den ene siden er
+                                                    8 ganger      16 ganger
+                                ⏞⏞⏞⏞⏞⏞⏞⏞⏞
+                  𝑚>2⋅2⋅4⋅4⋅4⋅4⋅8⋅⋯         ⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞
+                                      ⋅ 8 ⋅ 16 ⋅ ⋯ ⋅ 16 ⋅32
+                      = 22 ⋅ 44 ⋅ 88 ⋅ 1616 ⋅ 32 = 22+2⋅4+3⋅8+4⋅16+5 = 2103 > 2100 ,
+
+    og på den andre siden er
+                                                         8 ganger        16 ganger
+                 𝑚 < 2 ⋅ 4 ⋅ 4 ⋅ 8 ⋅ 8 ⋅ 8 ⋅ 8 ⋅ ⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞
+                                                 16 ⋅ ⋯ ⋅ 16 ⋅ ⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞
+                                                               32 ⋅ ⋯ ⋅ 32
+                     = 2 ⋅ 42 ⋅ 84 ⋅ 168 ⋅ 3216 = 21+2⋅2+3⋅4+4⋅8+5⋅16 = 2129 < 2130 .
+
+     ....................................................................D
+      Abelkonkurransen                                                                                Løsninger – algebra
+      Runde 1 2005–2024                                                                                      Side 8 av 85
+
+
+(10) Oppgave 20 2012/2013. Én løsning er 𝑥 = 0. Andre løsninger må oppfylle
+     1 + 𝑥 + 𝑥 2 + 𝑥 3 + ⋯ + 𝑥 2010 + 𝑥 2011 = 0. Etter at to og to ledd slås sammen blir
+     dette (1 + 𝑥) + (1 + 𝑥)𝑥 2 + (1 + 𝑥)𝑥 4 + ⋯ + (1 + 𝑥)𝑥 2010 = 0. Dette viser at også
+      𝑥 = −1 er en løsning. For å sjekke om det finnes enda flere løsninger kan vi
+      dividere med 1 + 𝑥, og få 1 + 𝑥 2 + 𝑥 4 + ⋯ + 𝑥 2010 = 0. Men denne ligningen
+      har ingen reelle løsninger, fordi alle leddene er positive. . . . . . . . . . . . . . . . . . B
+
+(10) Oppgave 2 2013/2014.   La 𝑃 og 𝑈 være alderen til Petter og Ulrik nå. Opplys-
+      ningene gir 𝑃 − 2 = 3(𝑈 − 2) = 3𝑈 − 6 og 𝑃 + 2 = 2(𝑈 + 2) = 2𝑈 + 4, som vi
+      kan skrive om til 𝑃 = 3𝑈 − 4 og 𝑃 = 2𝑈 + 2. Dermed er 3𝑈 − 4 = 2𝑈 + 2, med
+      løsning 𝑈 = 6. Så 𝑃 = 2 ⋅ 6 + 2 = 14, og 𝑈 + 𝑃 = 20. . . . . . . . . . . . . . . . . . . . . . B
+
+(10) Oppgave 3 2013/2014. Summen av de tre ligningene er 4(𝑥 + 𝑦 + 𝑧) = 1, så
+     𝑥 + 𝑦 + 𝑧 = 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(11) Oppgave 6 2013/2014.      Hvis en av de tre har fem biler, kan hver av de to andre
+      ha høyst to biler hver, slik at de alle har ni biler til sammen. Med fordelingen
+      4, 3, 3 kan de ha ti biler til sammen. De kan ikke ha flere enn ti biler, for hvis
+      ingen har flere enn fire biler og totalen er minst elleve, må minst to av dem
+      ha fire biler, men da vil de to ha flere enn sju biler til sammen. Så det høyeste
+      antallet biler de tre kan ha er ti. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+                                           1 + √2 1 + √2 √2 + 1   (1 + √2)2    3 + 2√2
+(11) Oppgave 9 2013/2014.                        =      ⋅       =            =         .B
+                                                                      2
+                                           √2 − 1 √2 − 1 √2 + 1 (√2) − 1   2      1
+
+(11) Oppgave 12 2013/2014. 𝜋 2 er størst: Først er alltid (𝑎 − 𝑏)(𝑎 + 𝑏) = 𝑎 2 − 𝑏 2 < 𝑎 2 ,
+     så 3,13 ⋅ 3,15 < 3,142 < 𝜋 2 . Videre er 𝜋 2 > 3,142 > 9,85, og √9,61𝜋 = 3,1 ⋅ 𝜋 <
+     𝜋 2 . Til slutt er 3,15 > 𝜋, så 𝜋 3 /3,15 < 𝜋 3 /𝜋 = 𝜋 2 . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(11) Oppgave 17 2013/2014. Én løsning er 𝑥 = 0. Dersom 𝑥 ≠ 0 kan vi dividere med
+     𝑥 2 og få 2𝑥 4 + 3𝑥 2 − 2 = 0. Setter vi 𝑢 = 𝑥 2 , gir dette en andregradsligning
+     2𝑢 2 + 3𝑢 − 2 = 0, med løsninger 𝑢 = − 34 ± 54 , altså 𝑢 = −2 eller 𝑢 = 12 .
+     Siden 𝑢 = 𝑥 2 må 𝑢 > 0, så bare 𝑢 = 12 er relevant. Den gir de to løsningene
+      𝑥 = ±√1/2. I alt tre løsninger. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+                                           0,08   1
+(11) Oppgave 1 2014/2015.                  0,64 = 8 ≠ 0,8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+
+(11) Oppgave 3 2014/2015.                  Johanne har 18/15 ⋅ 40 = 48 blå blyanter. . . . . . . . . . . D
+      Abelkonkurransen                                                                                  Løsninger – algebra
+      Runde 1 2005–2024                                                                                        Side 9 av 85
+
+
+(12) Oppgave 5 2014/2015.    Kari må ikke bruke mer enn 1/8 time på de ti kilo-
+      metrene. Hun brukte 1/10 time på de første ni kilometrene, så på den siste
+      kilometeren kan hun ikke bruke mer enn 1/8 − 1/10 = 1/40 time, som svarer
+      til en gjennomsnittsfart på 40 km/h. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(12) Oppgave 8 2014/2015.        Hvis en ny gutt starter vil det være 14 gutter og 7 jenter,
+      så i utgangspunktet er det 13 gutter og 7 jenter i klassen. Produktet av de to
+      antallene er 91. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(12) Oppgave 13 2014/2015.              𝑎𝑏 = 2 gir 𝑎−3𝑏 = (𝑎𝑏 )−3 = 2−3 = 18 , så 3𝑎𝑏 + 8𝑎−3𝑏 =
+      6 + 1 = 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(12) Oppgave 16 2014/2015. Om de to sidelengdene er 𝑎 og 𝑏, er 𝑎 + 𝑏 = 4 og
+     𝑎3 + 𝑏 3 = 25. Identiteten 𝑎3 + 𝑏 3 = (𝑎 + 𝑏)(𝑎2 − 𝑎𝑏 + 𝑏 2 ) gir 𝑎2 − 𝑎𝑏 + 𝑏 2 = 25
+                                                                                        4.
+                     2           2           2
+     Samtidig er 𝑎 + 2𝑎𝑏 + 𝑏 = (𝑎 + 𝑏) = 16, og en kombinasjon av disse to
+     gir 3(𝑎2 + 𝑏 2 ) = 2 ⋅ 25                                                  2
+                             4 + 16. Summen av de to overflatene er da 6(𝑎 + 𝑏 ) =
+                                                                                      2
+      25 + 32 = 57. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(12) Oppgave 1 2015/2016.  Summen av de tre oppgitte beløpene er 250 kr. I den
+      summen er alles penger regnet med to ganger, så summen må deles med 2. B
+
+(13) Oppgave 5 2015/2016. Identiteten 𝑎 2 − 𝑏 2 = (𝑎 − 𝑏)(𝑎 + 𝑏) gir 20164 − 20154 =
+     (20162 −20152 )(20162 +20152 ) = (2016−2015)(2016+2015)(20162 +20152 ) =
+     4031(20162 + 20152 ). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(13) Oppgave 9 2015/2016.       Skriv 𝑎 og 𝑏 for Annes og Berits nåværende alder. Det
+      er 𝑎 − 𝑏 år siden Anne var 𝑏 år. Den gangen var Berit 𝑏 − (𝑎 − 𝑏) = 2𝑏 − 𝑎 år.
+      Altså er 𝑎 = 3(2𝑏 − 𝑎), det vil si 4𝑎 = 6𝑏, som vi forkorter til 2𝑎 = 3𝑏. Vi har
+      også fått oppgitt at 𝑎 + 𝑏 = 60, så 3𝑎 + 3𝑏 = 180. Det vil si 3𝑎 + 2𝑎 = 180, så
+      𝑎 = 180/5 = 36. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(13) Oppgave 13 2015/2016.                   Først er 𝐴 = (2015 − 1)(2015 + 1) = 20152 − 12 < 𝐸.
+      Så er 𝐸 = (2000 + 15)2 = 20002 + 152 + 2 ⋅ 2000 ⋅ 15 > 𝐶.
+                                                                2                       2                          2
+      Videre er 𝐷 = ((45 − 3,5)(45 + 3,5)) = (452 − ( 72 ) ) = (2025 − 49         2
+                                                                        4 ) < 2015 =
+      𝐸.
+      Til slutt er 𝐵 = 1970 ⋅ 2060 + 2060 = (2015 − 45)(2015 + 45) + 2060 = (2015)2 −
+      452 + 2060 = (20152 ) + 35 > 𝐸. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B
+     Abelkonkurransen                                                                                 Løsninger – algebra
+     Runde 1 2005–2024                                                                                      Side 10 av 85
+
+
+(13) Oppgave 20 2015/2016.                  For hvert positivt heltall 𝑘 er
+                                               1       1       1   1
+                                                2
+                                                  <         =     − .
+                                              𝑘     𝑘(𝑘 − 1) 𝑘 − 1 𝑘
+     Summert fra 𝑘 = 2016 til 𝑘 = 4030 gir dette
+                                               1   1    1    1
+                                                 <   −    =     ,
+                                               𝑥 2015 4030 4030
+     så 𝑥 > 4030. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(13) Oppgave 1 2016/2017.    For fire av tallene vil noen få desimaler avgjøre rekke-
+     følgen: 𝐴 = 0,1314…, 𝐵 = 0,15 (oppgitt), 𝐷 = 0,1333…, og 𝐸 = 0,125. 𝐸 er den
+                                                            6
+     minste av disse. I tillegg er 𝐸 < 𝐶, fordi 𝐸 2 = ( 12 ) = 64
+                                                                1 og 𝐶 2 = 1 . . . . . . . . E
+                                                                           50
+
+
+(13) Oppgave 10 2016/2017. Legg først merke til at 11 ⋅ 13 < 122 . Det gir 𝐷 2 =
+     1 (11 + 13 + 2 11 ⋅ 13) < 1 (24 + 2 ⋅ 12) = 12 = 𝐵 2 . Videre er 𝐶 2 = 49 > 48 =
+     4             √           4                                             4    4
+     12 = 𝐵 , og 𝐴2 = 𝜋 2 < 3,22 = 10,24 < 11 gir 𝐴 < 11 < 𝐷. Samlet til nå
+             2
+                                                          √
+     har vi 𝐴 < 𝐷 < 𝐵 < 𝐶. Den som kjenner ulikheten mellom aritmetisk og
+     harmonisk middel, vet at 𝐸 < 𝐷. Det kan en også se slik, etter å sette brøkene
+     i 1/𝐸 på fellesnevner:
+                                   2
+      𝐷 (√11 + √13)   11 + 2√11 ⋅ 13 + 13 1    24     1  24
+        =           =                    = +         > +       = 1.
+      𝐸   4√11 ⋅ 13        4√11 ⋅ 13      2 4√11 ⋅ 13 2 4 ⋅ 12
+     Altså må 𝐷 stå i midten. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(14) Oppgave 13 2016/2017. 𝑛 er 16 pluss en sum av fem tall som alle er mindre
+     enn 16 . Derfor er 𝑛 < 6 ⋅ 16 = 1, så 𝑛2 < 𝑛 < 1/𝑛 < 1/𝑛2 . . . . . . . . . . . . . . . . . . . B
+
+(14) Oppgave 15 2016/2017.            Om det ukjente uttrykket kalles 𝑥, må 𝑥 = √6 + 𝑥.
+     Kvadrér ligningen og flytt over 𝑥: 𝑥(𝑥 − 1) = 6. Denne ligningen har løs-
+     ninger 𝑥 = 3 og 𝑥 = −2. Den negative løsningen må forkastes fordi 𝑥 er en
+     kvadratrot. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(14) Oppgave 16 2016/2017.    Produktet 𝑃 har 4032 faktorer, symmetrisk plassert
+     om 0 (for hver faktor 𝑎 er også −𝑎 en faktor). Det er 2016 negative faktorer, så
+     produktet er positivt. Dermed blir 𝑃 = 𝑄 2 , der 𝑄 = 𝑥(𝑥 −1) ⋯ (𝑥 −2015). Så er
+     22016 𝑄 = 4031⋅4029⋅4027 ⋯ 3⋅1. Multipliser med 4030⋅4028 ⋯ 2 = 22015 ⋅2015!,
+     med resultat 22016 ⋅ 22015 ⋅ 2015! ⋅ 𝑄 = 4031!, så 𝑄 = 4031!/(24031 ⋅ 2015!). . . E
+    Abelkonkurransen                                                                          Løsninger – algebra
+    Runde 1 2005–2024                                                                               Side 11 av 85
+
+
+                        Ved ankomsten i Trondheim er klokken i San Fransis-
+(14) Oppgave 2 2017/2018.
+    co 2 om morgenen. Magnus reiste derfra 21 timer tidligere, som var 5 om
+    morgenen dagen før. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(14) Oppgave 5 2017/2018. Summen av de fem likningene er 2(𝑎+𝑏+𝑐 +𝑑 +𝑒) = 20,
+    som gir 𝑎 + 𝑏 + 𝑐 + 𝑑 + 𝑒 = 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+(15) Oppgave 6 2017/2018.  Om vi øker hvert av tallene 𝑎, 𝑏, 𝑐, 𝑑, 𝑒 med 1, vil alle
+    ligningene fortsatt holde, men summen øker med 5. . . . . . . . . . . . . . . . . . . . . E
+
+                            For hvert heltall 𝑛 > 1 er √     𝑛 𝑛 > 𝑛 1 = 1. Derfor er
+(15) Oppgave 11 2017/2018.                                               √
+                                                                         3           6           6
+    1 det minste av tallene, så det ser vi bort fra. Vi finner √           3 = √       9 > √       6 og
+    3     6    6          4      3
+    √3 = √9 > √8 = √2 = √4, så √3 er størst. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+
+(15) Oppgave 13 2017/2018.    En slik følge er gitt ved et utvalg på ti tall av de tolv
+    tallene 1, 2, …, 12, og antall slike utvalg er (12
+                                                    10) = 12 ⋅ 11/2! = 66. . . . . . . . . . C
+
+(15) Oppgave 15 2017/2018.   For enkelhets skyld kan vi bruke én runde på banen
+    som lengdeenhet, og den tiden Mona bruker på denne runden som tidsenhet.
+    Da endres avstanden mellom Mona og fluen med fart 4 når fluen flyr i motsatt
+    retning, og 2 når den flyr i samme retning som Mona løper. I det første tilfellet
+    bruker den dermed tiden 1/4 fra den forlater Mona til den treffer henne igjen,
+    og i det andre tilfellet bruker den tiden 1/2. Tilsammen bruker den da tid
+    3/4 før den treffer Mona to ganger. Den tiende gangen har den brukt tid
+    5 ⋅ 3/4 = 15/4, og det er også det antall runder Mona har løpt. . . . . . . . . . . . E
+
+(15) Oppgave 17 2017/2018.  Dersom ett av tallene på tavlen er 𝑎 = 10𝑚 + 𝑘 med
+    0 ≤ 𝑘 ≤ 9, så blir det neste tallet 𝑏 = 𝑚 + 10. Dersom 𝑚 > 40, det vil si
+    𝑎 ≥ 410, blir 8𝑏 = 8𝑚 + 80 < 10𝑚 ≤ 𝑎. Det følger at hvis de første 670 tallene
+    i rekken er ≥ 410, så er det 671. tallet mindre enn 22017/8670 = 22017−3⋅670 =
+    27 = 128 < 410. Etter et tall < 410 kommer et tall < 51, og deretter et tall
+    < 16, og etter det kommer tallet 11 (for det er klart at alle tallene på tavlen
+    er større enn 10).
+    Eksakt regning viser at tallrekken inneholder 608 tall større enn 11. Den ender slik:
+    15048789, 1504888, 150498, 15059, 1515, 161, 26, 12, 11, 11, 11, …. . . . . . . . . . . . . . . C
+
+(16) Oppgave 4 2018/2019.             2 + √2 = √2(√2 + 1) = √2(1 + √2). . . . . . . . . . . . . . . . C
+
+(16) Oppgave 5 2018/2019. Den gitte ligningen kan skrives 2𝑥−4 (25 + 1 − 23 ) = 52 ,
+     det vil si 2𝑥−4 ⋅ 25 = 25. Løsningen krever 2𝑥−4 = 1, altså 𝑥 = 4. . . . . . . . . . . E
+      Abelkonkurransen                                                                                  Løsninger – algebra
+      Runde 1 2005–2024                                                                                       Side 12 av 85
+
+
+(16) Oppgave 10 2018/2019.  Du legger 2𝑛−1 flere erter i glass nummer 𝑛 enn i glass
+      nummer 𝑛−1. Det betyr at glass nummer 𝑛 skal ha 1+2+22 +⋯+2𝑛−1 = 2𝑛 −1
+      erter (sum av geometrisk rekke). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(16) Oppgave 16 2018/2019.              Fordi 𝑥 2 + 1/𝑥 2 = (𝑥 + 1/𝑥)2 − 2, er 𝑥 2 + 1/𝑥 2 et
+      heltall dersom 𝑥 + 1/𝑥 er heltall. Så vi trenger bare sjekke 𝑥 + 1/𝑥. Ligningen
+      𝑥+1/𝑥 = 𝑛 er ekvivalent med 𝑥 2 −𝑛𝑥+1 = 0, med løsning 𝑥 = 𝑛/2±√𝑛2 /4 − 1.
+      For 𝑛 = 2 finnes én løsning, mens for 𝑛 > 2 er det to løsninger, med produkt
+      lik 1. Skriv 𝑥+ for den største løsningen. Fordi 𝑥+ + 1/𝑥+ = 𝑛 og 1/𝑥+ < 1, er
+      𝑛 − 1 < 𝑥+ < 𝑛, så 𝑥+ < 5 når 𝑛 ≤ 5, og 𝑥+ > 5 når 𝑛 ≥ 6. Det finnes altså
+      to løsninger for hver av 𝑛 = 3, 4 og 5 i tillegg til den ene for 𝑛 = 2, i alt 7
+      løsninger. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(16) Oppgave 19 2018/2019.             Grafen til 𝑓 er en linje gjennom (0, 𝑏) og (𝑑, 0), mens
+      grafen til 𝑔 er en linje gjennom (0, 𝑑) og (𝑏, 0). Om du speiler de to førs-
+      te punktene gjennom linjen 𝑦 = 𝑥, får du de to andre punktene (i motsatt
+      rekkefølge). Dermed er de to linjene også speilbilder av hverandre gjennom
+      linjen 𝑥 = 𝑦. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(17) Oppgave 4 2019/2020.   Nils gjør unna den første halvdelen på en time, og den
+      andre halvdelen på en halvtime. Til sammen har han da brukt en og en halv
+      time på turen, med gjennomsnittshastighet 90 km/ 32 h = 60 km/h. . . . . . . . A
+
+(17) Oppgave 9 2019/2020.   Tallene 𝑎, 𝑎𝑏 og √𝑎/√𝑎 + 𝑏 er alle mindre enn 1, men
+      på den andre siden så er 2𝑎/(𝑎 + 𝑏) > 1, så det tallet er størst. . . . . . . . . . . . . C
+
+(17) Oppgave 13 2019/2020.
+
+                1         1       1         1     1   𝑎+𝑏+𝑐+𝑑 +𝑒 5⋅2
+                     +        +       +         +   =           =    = 10.
+              𝑎𝑏𝑐𝑑 𝑏𝑐𝑑𝑒         𝑐𝑑𝑒𝑎 𝑑𝑒𝑎𝑏 𝑒𝑎𝑏𝑐
+              ⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟          𝑎𝑏𝑐𝑑𝑒    1
+                            ⋯=8
+      Dermed er 1/𝑒𝑎𝑏𝑐 = 2, altså 𝑒𝑎𝑏𝑐 = 1/2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(17) Oppgave 16 2019/2020. Om vi multipliserer de to ligningene med hverandre,
+     får vi (𝑥 2 + 2𝑦 2 )2 − 4𝑥 2 𝑦 2 = 26 ⋅ 106. Når vi forenkler dette, står vi tilbake
+     med 𝑥 4 + 4𝑦 4 = 26 ⋅ 106 = 2756. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C
+    Abelkonkurransen                                                                                       Løsninger – algebra
+    Runde 1 2005–2024                                                                                            Side 13 av 85
+
+
+(17) Oppgave 18 2019/2020.   Den oppgitte formelen 𝑓 (2) = 2 gir 2𝑎 + 𝑏 = −2.
+    Påstand A blir ekvivalent med 2 > 𝑎+𝑏+1, som ikke følger fra forutsetningen,
+    fordi 𝑎 + 𝑏 kan ha hvilken som helst verdi. Påstand E er 𝑎 + 𝑏 + 1 > 0, som
+    heller ikke følger, av samme grunn. Påstand B kan skrives 2𝑎 + 2𝑏 + 2 = 2 + 𝑏,
+    ekvivalent 2𝑎 + 𝑏 = 0, som strider mot forutsetningen. Påstand C sier 𝑏 = 0,
+                                                                                    2
+    som heller ikke følger. Det gjenstår å sjekke påstand D. Fordi 𝑓 (𝑥) = (𝑥 + 2𝑎 ) +
+                2
+    𝑏 − ( 2𝑎 ) , gjelder at 𝑓 (𝑥1 ) = 𝑓 (𝑥2 ) hvis og bare hvis 𝑥1 = 𝑥2 eller 𝑥1 + 𝑥2 = −𝑎
+    (parabelen er symmetrisk om den vertikale linjen gjennom bunnpunktet, dvs
+    𝑥 = −𝑎/2). Så påstand D sier at 𝑓 (1) = 1 eller 𝑓 (1) + 1 = −𝑎. Den første av
+    disse gir 𝑎 + 𝑏 = 0, som ikke følger. Den andre gir 𝑎 + 𝑏 + 2 = −𝑎, det vil si
+    2𝑎 + 𝑏 = −2, som var utgangspunktet. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+                                             7   1                                          1
+(18) Oppgave 1 2020/2021.                   14 = 2 , og alle de andre tallene er større enn 2 . . . . . D
+
+
+(18) Oppgave 2 2020/2021.                  √2𝑥 = 2𝑥/2 , og 𝑥 = 2100 gir 𝑥/2 = 299 . . . . . . . . . . . . . . C
+
+(18) Oppgave 3 2020/2021.                 Summen av de tre oppgitte prisene blir prisen for to
+    epler, to bananer og to appelsiner. Så én av hver frukt koster (11+13+12)/2 =
+    18. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(18) Oppgave 4 2020/2021. 30 % av suvenirene er fra Argentina, og 18 % er fra
+    Chile. Det er tilsammen 48 %. Resten må være fra Bahamas. Det blir 52 %. D
+
+(18) Oppgave 15 2020/2021. Uttrykkene A, B og C forenkles alle til D, mens E =
+     10 + 11
+           2 √2 (etter at teller og nevner multipliseres med 2 − √2). . . . . . . . . . . . E
+
+
+(18) Oppgave 7 2021/2022. Først er 𝐵 > √16 = 𝐷 > 𝐸. Videre er 𝐵6 = 173 < 183 =
+     8 ⋅ 93 < 94 = 𝐶 6 , så 𝐶 > 𝐵. Til sist er 𝐴3 = 80 < 81 = 𝐶 3 , så 𝐶 > 𝐴. . . . . . . . C
+     Abelkonkurransen                                                                      Løsninger – algebra
+     Runde 1 2005–2024                                                                           Side 14 av 85
+
+
+(19) Oppgave 9 2021/2022.             Vi regner ut nevneren i de forskjellige brøkene neden-
+     fra:
+                                     1     1   1 1 1 2
+                                       + 1    = + 3 = + = 1,
+                                     3 2 +1 3 2 3 3
+                                              1 1 5
+                                               + = ,
+                                              4 1 4
+                                           1 1 1 4
+                                             + = + = 1,
+                                           5 54 5 5
+                                              1 1 7
+                                               + = ,
+                                              6 1 6
+     og så videre. Her er det et mønster: Nevneren på formen 1𝑛 + ⋯1 får verdien
+     1 når 𝑛 er et oddetall, men verdien 𝑛+1     𝑛 når 𝑛 er et partall. Siden 2020 er et
+                                2021
+     partall, ender vi opp med 2020 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+(19) Oppgave 10 2021/2022. Alle unntatt D kan være feil. Moteksempler: A 𝑥 =
+     0,05 og 𝑦 = 0,1; B 𝑥 = 1 og 𝑦 = 2; C 𝑥 = −2 og 𝑦 = −1, og E 𝑥 = −1
+     og 𝑦 = 1. Men D holder alltid, fordi 𝑦 3 − 𝑥 3 = (𝑦 − 𝑥)(𝑦 2 + 𝑥𝑦 + 𝑥 2 ) og
+     𝑦 2 + 𝑥𝑦 + 𝑥 2 > |𝑦|2 − 2|𝑥| ⋅ |𝑦| + |𝑥|2 = (|𝑦| − |𝑥|)2 ≥ 0. . . . . . . . . . . . . . . . . . . . D
+
+(19) Oppgave 11 2021/2022.     Når 𝑛 ≠ 0, vil ikke ℓ𝑛 og ℓ−𝑛 skjære hverandre, siden
+     ligningene for de to linjene blir
+                                            𝑥
+                                   𝑛4 𝑦 + 2      ± 𝑛 = 0,
+                                         𝑛 +1
+     så de blir parallelle, og har ingen felles punkter. Linjen ℓ0 har ligning 𝑥 = 0,
+     og den skjærer ℓ𝑛 i punktet (0, 𝑦) der 𝑦 = −1/𝑛3 . . . . . . . . . . . . . . . . . . . . . . . . . B
+
+(19) Oppgave 17 2021/2022. Fordi (𝑥 + 𝑦 + 𝑧)2 = 𝑥 2 + 𝑦 2 + 𝑧 2 + 2(𝑥𝑦 + 𝑦𝑧 + 𝑥𝑧),
+     er 42 = 𝑥 2 + 𝑦 2 + 𝑧 2 + 2 ⋅ (−9), altså 𝑥 2 + 𝑦 2 + 𝑧 2 = 34. Videre er
+                             𝑥(𝑥𝑦 + 𝑦𝑧 + 𝑥𝑧) = 𝑥𝑦𝑧 + 𝑥 2 (𝑥 + 𝑦 + 𝑧) − 𝑥 3
+                             𝑦(𝑥𝑦 + 𝑦𝑧 + 𝑥𝑧) = 𝑥𝑦𝑧 + 𝑦 2 (𝑥 + 𝑦 + 𝑧) − 𝑦 3
+                             𝑧(𝑥𝑦 + 𝑦𝑧 + 𝑥𝑧) = 𝑥𝑦𝑧 + 𝑧 2 (𝑥 + 𝑦 + 𝑧) − 𝑧 3 ,
+     og summen av de tre ligningene gir
+     (𝑥 + 𝑦 + 𝑧)(𝑥𝑦 + 𝑦𝑧 + 𝑥𝑧) = 3𝑥𝑦𝑧 + (𝑥 2 + 𝑦 2 + 𝑧 2 )(𝑥 + 𝑦 + 𝑧) − (𝑥 3 + 𝑦 3 + 𝑧 3 ),
+     altså −36 = −36 + 34 ⋅ 4 − (𝑥 3 + 𝑦 3 + 𝑧 3 ), med andre ord 𝑥 3 + 𝑦 3 + 𝑧 3 = 136.
+     Til sist får vi da
+                               𝑥 2 + 𝑦 2 + 𝑧2       34    1
+                                                =      =    .
+                               𝑥 3 + 𝑦 3 + 𝑧 3 136 4
+     Abelkonkurransen                                                                        Løsninger – algebra
+     Runde 1 2005–2024                                                                             Side 15 av 85
+
+
+     Alternativ løsning: I dette tilfellet gjør de oppgitte tallene at vi kan komme
+     litt raskere frem. Ligningen vi utledet ovenfor, kan skrives
+
+              𝑥 3 + 𝑦 3 + 𝑧 3 = 3𝑥𝑦𝑧 + (𝑥 + 𝑦 + 𝑧)(𝑥 2 + 𝑦 2 + 𝑧 2 − 𝑥𝑦 − 𝑦𝑧 − 𝑥𝑧).
+
+     Setter vi inn de oppgitte tallene, får vi
+
+                 𝑥 3 + 𝑦 3 + 𝑧 3 = −36 + 4(𝑥 2 + 𝑦 2 + 𝑧 2 + 9) = 4(𝑥 2 + 𝑦 2 + 𝑧 2 ),
+
+     og svaret på oppgaven gir seg selv. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+
+                                       𝑎√𝑎𝑏 4   𝑎𝑏 2 √𝑎   𝑏
+(20) Oppgave 2 2022/2023.                     =         =   = √𝑏 . . . . . . . . . . . . . . . . . . . . . . C
+                                       (√𝑎𝑏)3 𝑎𝑏√𝑎𝑏 √𝑏
+
+(20) Oppgave 3 2022/2023. Siden 43 = 64 og 53 = 125, er 4 < √  3
+                                                                 100 < 5. Videre er
+           3    3  729
+        1     9
+     (4 2 ) = 23 = 8 < 100, så korrekt avrundet svar er 5. . . . . . . . . . . . . . . . . . . . C
+
+(20) Oppgave 6 2022/2023. Ligningene har løsning for 𝑎 = 0 (𝑥 = ±1, 𝑦 = −𝑥),
+     𝑎 = 1 (𝑥 = 12 ± 12 √3, 𝑦 = 1 − 𝑥 = 12 ∓ 12 √3) og 𝑎 = −1 (𝑥 = − 12 ± 12 √3,
+     𝑦 = −1 − 𝑥 = − 12 ∓ 12 √3). Det finnes ingen løsninger for |𝑎| ≥ 2, for da følger
+     av 𝑥 + 𝑦 = 𝑎 at |𝑥| > 1 eller |𝑦| > 1, eller muligens |𝑥| = |𝑦| = 1, og ingen av
+     disse er forenlig med 𝑥 2 + 𝑦 2 = 1. Det er i alt tre muligheter for 𝑎.
+     Man kan se dette enkelt geometrisk, siden den første ligningen beskriver en
+     sirkel med sentrum i origo og radius 1, mens den andre ligningen beskriver
+     en rett linje med avstand 12 √2 𝑎 fra origo.
+     Enda en løsningsmetode er å sette inn 𝑦 = 𝑥 − 𝑎 fra den andre ligningen
+     i den første og rydde litt, med resultat 2𝑥 2 − 2𝑎𝑥 + 𝑎2 − 1 = 0. Det er en
+     annengradsligning med diskriminant 8−4𝑎2 (etter forenkling), som har reelle
+     løsninger kun for |𝑎| ≤ √2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+
+                                     1                       1
+(20) Oppgave 8 2022/2023.              Fordi
+                                          = √3 + √2 og            = 2 + √3 (mul-
+                                  √3 − √2                2 − √3
+     tipliser hver ligning med nevneren på venstre side), blir det gitte uttrykket
+     lik
+               √6 (√3 + √2) − √3 (2 + √3) 3√2 + 2√3 − (2√3 + 3)
+                                          =                         = 3.
+                          √2 − 1                   √2 − 1
+       ....................................................................B
+
+(20) Oppgave 9 2022/2023. Vi har 3𝑎−1 = 3𝑎 /3 = 2 og 22𝑏−1 = 4𝑏 /2 = 3, så
+     3(𝑎−1)(2𝑏−1) = 22𝑏−1 = 3, og dermed (𝑎 − 1)(2𝑏 − 1) = 1. . . . . . . . . . . . . . . . . . A
+    Abelkonkurransen                                                                           Løsninger – algebra
+    Runde 1 2005–2024                                                                                Side 16 av 85
+
+
+(20) Oppgave 2 2023/2024.   Forutsetningene i oppgaven endres ikke dersom vi byt-
+    ter om 𝑥 og 𝑦, så hverken A eller C kan være rett. Det kan heller ikke B, for
+    da måtte 2𝑥 2 = 5 og 𝑥 2 = 1. Valget står nå mellom de to siste alternativene.
+    Setter vi inn 𝑦 = 1/𝑥 i 𝑥 2 + 𝑦 2 = 5 og rydder litt, får vi 𝑥 4 − 5𝑥 2 + 1 = 0.
+    Det gir 𝑥 2 = 12 (5 ± √21), som gir mulige positive løsninger for 𝑥 2 og dermed
+    for 𝑥. (Hvis 𝑥 2 = 12 (5 + √21), blir 𝑦 2 = 12 (5 − √21), og omvendt.) En mer
+    geometrisk løsning benytter at punktet (𝑥, 𝑦) skal ligge i et skjæringspunkt
+    mellom sirkelen 𝑥 2 + 𝑦 2 = 1 og hyperbelen 𝑥𝑦 = 1. . . . . . . . . . . . . . . . . . . . . . D
+
+(21) Oppgave 13 2023/2024.              Vi kvadrerer det gitte uttrykket og får
+
+
+       𝜋 + √𝜋 2 − 𝜋 𝜋 − √𝜋 2 − 𝜋      𝜋 + √𝜋 2 − 𝜋 𝜋 − √𝜋 2 − 𝜋
+                   +             +2               ⋅
+            2            2          √      2            2
+                                                                       = 𝜋 + √𝜋 2 − (𝜋 2 − 𝜋) = 𝜋 + √𝜋.
+
+      .................................................................... E
+
+(21) Oppgave 15 2023/2024. Det letteste først: D > E, for eksempel fordi (√
+                                                                          3
+                                                                            2)12 =
+     24 = 16 mens (√ 4
+                       2)12 = 23 = 8 < 16. For å sammenligne uttrykkene A–D
+     regner vi ut de inverse slik: For A bruker vi (𝑥 − 𝑦)(𝑥 + 𝑦) = 𝑥 2 − 𝑦 2 med
+    𝑥 = √4 og 𝑦 = √3, og får 1/A = √4 + √3, mens samme metode med 𝑥 = √3 og
+    𝑦 = √2 gir 1/B = √3+ √2 < 1/A. For C bruker vi (𝑥 −𝑦)(𝑥 2 +𝑥𝑦 +𝑦 2 ) = 𝑥 3 −𝑦 3
+    med 𝑥 = √ 3
+                3 og 𝑦 = √3
+                            2, så 1/C = 32/3 + 31/3 ⋅ 21/3 + 22/3 . Tilsvarende er
+    1/D = 22/3 + 21/3 + 1 < 1/C, så D > C. Det gjenstår å sammenligne B og D.
+    Men fordi 22/3 > 21/2 = √2 og 21/3 + 1 > 2 > √3, er 1/D > 1/B, så B > D. B
+
+(21) Oppgave 16 2023/2024.   Det gitte uttrykket kan skrives som et produkt av 2024
+    faktorer, der hver er en brøk (𝑛! + (𝑛 + 1)!)/𝑛! med 𝑛 = 0, 1, …, 2023. Men
+    (𝑛 + 1)! = 𝑛!(𝑛 + 1), så brøken forenkles til 𝑛 + 2. Vi står altså igjen med
+    2 ⋅ 3 ⋅ ⋯ ⋅ 2025 = 2025!. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D
+    Abelkonkurransen                                                                   Løsninger – algebra
+    Runde 1 2005–2024                                                                        Side 17 av 85
+
+
+(21) Oppgave 17 2023/2024. Vi setter 𝑎𝑛 = 𝑏𝑛 − 74 (fordi 𝑎𝑛 = 𝑎𝑛−1 presis når 𝑎𝑛−1 =
+     − 74 ). Det gir 𝑏𝑛 − 74 = 5(𝑏𝑛−1 − 74 ) + 7, som forenkles til 𝑏𝑛 = 5𝑏𝑛−1 . Dermed er
+     𝑏2023 = 52022 𝑏1 = 52022 ⋅ 99                      7
+                                  4 og 𝑎2023 = 𝑏2023 − 4 = 5
+                                                             2022 ⋅ 99 − 7 = 1 (52022 ⋅99−7).
+                                                                     4 4     4
+     Setter vi inn 99 = 100 − 1 = 52 ⋅ 4 − 1, får vi 𝑎2023 = 52024 − 14 (52022 + 7). Når
+    vi skal finne de siste 𝑘 sifrene av et produkt, er det nok å regne med de siste
+    𝑘 sifrene av hver faktor. Så vi kan finne de siste fire sifrene av potenser av 5:
+    De blir 5, 25, 125, 625, 3125, 5625, 8125, 0625, og dermed gjentas de siste fire
+    i følgen i det uendelige. Det vil si at de siste fire sifrene av 54𝑖 er 0625 for alle
+    positive heltall 𝑘. Spesielt gjelder det 52024 , mens de siste fire sifrene i 52022
+    blir 5625. Så 52022 + 7 ender på 5632, og de siste to sifrene i 14 (52022 + 7) blir
+    08 (fordi 5632/4 = 1408). Så 52024 − 14 (52022 + 7) ender på 25 − 8 = 17, og det
+    nest siste sifret er altså 1.
+    Alternativ løsning for de som kjenner til moduloregning: Først regner vi mo-
+    dulo 5, og ser at 𝑎𝑛 ≡ 2 (mod 5) for 𝑛 ≥ 2. Det gir 𝑎𝑛 = 5𝑥𝑛 + 2 for heltall 𝑛,
+    slik at 5𝑥𝑛 + 2 = 5(5𝑥𝑛−1 + 2) + 7 for 𝑛 > 2, altså 𝑥𝑛 = 5𝑥𝑛−1 + 3, og dermed
+    𝑎𝑛 = 5(5𝑥𝑛−1 + 3) + 2, som gir 𝑎𝑛 ≡ 17 (mod 25).
+    Deretter regner vi modulo 4, og finner 𝑎𝑛 ≡ 𝑎𝑛−1 −1 (mod 4). Dermed 𝑎2023 ≡
+    𝑎1 − 2022 ≡ 3 − 2 = 1 (mod 4). Siden 𝑎2023 ≡ 17 (mod 25), og 25 og 4 er
+    innbyrdes primiske, og 25 ⋅ 4 = 100, må 𝑎2023 ≡ 17 (mod 100). (Dette følger
+    av det kinesiske restleddteoremet.) Det vil si at 𝑎2023 ender på 17 når vi skriver
+    det i titallsystemet.
+    Alternativ løsning: Vi trenger bare holde styr på de to siste sifrene i 𝑎𝑛 . For
+    𝑛 = 1, 2, …finner vi at disse er 23, 22, 17, 92, 64, 17, …, og de siste fire her vil
+    så gjentas i det uendelige. Det betyr at de to siste sifrene i 𝑎4𝑘+3 er 17 for alle
+    positive heltall 𝑘. Med 𝑘 = 505 får vi så at 𝑎2023 ender på 17. . . . . . . . . . . . . . A
+
+(21) Oppgave 1 2024/2025.        ( 12 + 13 )/ 16 = 3+2
+                                                    6 ⋅ 6 = 5. . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+
+(21) Oppgave 4 2024/2025.        √216 = 28 = 256, fordi (28 )2 = 28⋅2 = 216 . . . . . . . . . . . E
+
+(22) Oppgave 5 2024/2025. La oss kvadrere noen av tallene: 𝐴2 = 18 , 𝐶 2 = 101,
+
+     𝐷 2 = 16
+            1 , 𝐸 2 = 1 . Av disse har 𝐴2 den minste nevneren, så den er størst.
+                      9
+    Videre er 𝐵 = 0,33 < 𝐸 = 0,3333… < 𝐴, så 𝐴 er størst av alle. . . . . . . . . . . . . A
+
+(22) Oppgave 13 2024/2025.  Det følger av antagelsene at 𝑎 + 𝑐 = 𝑏 + 𝑑 = 1, så
+    produktet det spørres etter er bare (𝑎 + 𝑏)(𝑏 + 𝑐)(𝑐 + 𝑑). Men vi har også
+    𝑎𝑐 = 𝑏𝑑 = 0, så (𝑎 + 𝑏)(𝑏 + 𝑐)(𝑐 + 𝑑) = (𝑎𝑑 + 𝑏𝑐)(𝑏 + 𝑐) = 𝑏 2 𝑐 + 𝑏𝑐 2 = 2𝑏𝑐,
+    ettersom også 𝑏 2 = 𝑏 og 𝑐 2 = 𝑐. Om vi velger 𝑎 = 𝑑 = 0 og 𝑏 = 𝑐 = 1, ser vi at
+    ingen av alternativene A, B, C eller D holder. . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+    Abelkonkurransen                                                                                        Løsninger – algebra
+    Runde 1 2005–2024                                                                                             Side 18 av 85
+
+
+(22) Oppgave 17 2024/2025. Ingen av de fire første alternativene er alltid rett. Her
+     er moteksempler: A: 𝑥 = 𝑦 = 12 ville gitt 0 + 0 = 1. B: Det blir likhet dersom
+     𝑥 og 𝑦 begge er heltall. C: 𝑥 = 12 og 𝑦 = 2 ville gitt 0 ⋅ 2 = 1. D: 𝑥 = 𝑦 = − 32
+    ville gitt (−2) ⋅ (−2) ≤ 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(22) Oppgave 18 2024/2025.   Skriv opp summen slik, og legg merke til at 𝑛’te rad
+    kan skrives 𝑛 ⋅ (0 + 1 + 2 + ⋯ + 9):
+
+                1⋅0+1⋅1+1⋅2+1⋅3+1⋅4+1⋅5+1⋅6+1⋅7+1⋅8+1⋅9
+              +2⋅0+2⋅1+2⋅2+2⋅3+2⋅4+2⋅5+2⋅6+2⋅7+2⋅8+2⋅9
+              +3⋅0+3⋅1+3⋅2+3⋅3+3⋅4+3⋅5+3⋅6+3⋅7+3⋅8+3⋅9
+              +⋯
+              +9⋅0+9⋅1+9⋅2+9⋅3+9⋅4+9⋅5+9⋅6+9⋅7+9⋅8+9⋅9
+              = (1 + 2 + ⋯ + 9) ⋅ (0 + 1 + 2 + ⋯ + 9) = 45 ⋅ 45 = 2025.
+
+      ....................................................................B
+
+(22) Oppgave 1 2025/2026.  La oss si at Marie er 𝑎 år gammel nå. Da er 𝑎 + 1 =
+    2(𝑎 − 3), med løsning 𝑎 = 7. Om 14 år er hun 3𝑎 = 21 år gammel. . . . . . . . . D
+
+(22) Oppgave 4 2025/2026.  Hvis vi ganger den første ligningen med 21                                       2 og den
+    andre med 3, får vi 105𝑎 + 63𝑏 = −42 og 63𝑏 + 27𝑐 = 15. Trekk så den første
+    av disse fra den andre. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . E
+
+(23) Oppgave 7 2025/2026. Opplysningene gir at 𝑟 + 3 = 𝑞, 𝑞 + 𝑟 = 5, 5 + 𝑞 = 𝑝.
+    De to første ligningene gir (𝑟 + 3) + 𝑟 = 5, så 𝑟 = 1. Da er 𝑞 = 𝑟 + 3 = 4,
+    𝑝 = 5 + 𝑞 = 9, og endelig 𝑝 + 𝑞 + 𝑟 = 9 + 4 + 1 = 14. . . . . . . . . . . . . . . . . . . . . D
+
+(23) Oppgave 9 2025/2026.                   Vi har 𝑎𝑛+1 = 𝑛 + 1 − 𝑎𝑛 = 𝑛 + 1 − (𝑛 − 𝑎𝑛−1 ) = 𝑎𝑛−1 + 1,
+    slik at 𝑎𝑛+2𝑘 = 𝑎𝑛 + 𝑘 for alle naturlige tall 𝑘. Det gir 𝑎2025 = 𝑎1 + 1012 = 1013.
+    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .D
+
+(23) Oppgave 13 2025/2026. På én time rekker Nils å male ett gjerde, og Henrik
+    rekker å male 4/5 gjerde, så de maler tilsammen 9/5 gjerde. Dermed bruker
+    de 5/9 timer (33 minutter og 20 sekunder) på å male ett gjerde. . . . . . . . . . . B
+    I praksis er det nok umulig å skille mellom alternativene B og C. Men matematikken
+    tar ikke alltid hensyn til slike innvendinger.
+    Abelkonkurransen                                                                               Løsninger – algebra
+    Runde 1 2005–2024                                                                                    Side 19 av 85
+
+
+(23) Oppgave 20 2025/2026.   Vi har 320 +49 +610 = 320 +2⋅310 ⋅29 +218 = (310 +29 )2 .
+    Men da må 𝑝 = 𝑞 = 3 + 29 være et primtall. For å regne ut siste siffer i 𝑝,
+                            10
+    trenger vi bare regne ut siste siffer i 310 og 29 . Siden 34 = 81, er siste siffer
+    i 38 = 812 lik 1, og siste siffer i 310 er lik (siste siffer i) 32 = 9. Mange vet at
+    29 = 512. Dermed er siste siffer i 𝑝 lik 1 (fordi 9 + 2 = 11). Så siste siffer i
+    𝑝 + 𝑞 = 2𝑝 er 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A
+

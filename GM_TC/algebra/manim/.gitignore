@@ -1,0 +1,3 @@
+# manims mellemfiler (renderes igen med python3 render.py)
+build/
+__pycache__/
